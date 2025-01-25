@@ -1,0 +1,37 @@
+
+import json
+from pathlib import Path
+
+# Convierte la ruta en un objeto Path
+ruta = Path("/home/ubuntu/internet_archive")
+
+# Conteo para el numero de libros
+count = 0
+
+# Itera la ruta con los archivos dentro
+for carpeta in ruta.iterdir():
+    
+    if carpeta.is_dir():
+        
+        # obtiene el archvio json y txt
+        for archivos in carpeta.iterdir():
+            
+            if archivos.suffix == ".json":
+                contenidoJson  = archivos.read_text()
+                
+                # Json ahora como un diccionario (objeto Python)
+                objPy = json.loads(contenidoJson)
+                # Direccion aboluta del libro que se esta manejando
+                print(archivos)
+                # Titulo del archivo
+                print(f"Titulo: {objPy["title"]}")
+            
+            if archivos.suffix == ".txt":
+                # Contenido del libro en string
+                contenidoTxt = archivos.read_text()
+                
+    count += 1
+    
+    # Es para que solo muestre 10 libros
+    if (count == 10):
+        break
