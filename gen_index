@@ -1,0 +1,83 @@
+import logging
+import json
+import struct
+from pathlib import Path
+from gen_dic import indices  # Importar diccionario
+
+# Convierte la ruta en un objeto Path
+ruta = Path("/home/ubuntu/python_code/pruebas/")
+
+with open("Titulos", "rb") as f:
+
+    # Itera la ruta con los archivos dentro
+    for carpeta in ruta.iterdir():
+    
+        if carpeta.is_dir():
+        
+            for archivos in carpeta.iterdir():
+            
+                if archivos.suffix == ".json":
+                    contenidoJson  = archivos.read_text()
+                
+                    objPy = json.loads(contenidoJson)
+            
+                if archivos.suffix == ".txt":
+                    contenidoTxt = archivos.read_text()
+        
+            # Estructura SET donde se guardaran las palabras para no realizar procesos extras con las palabras que se repiten
+            palabrasLib = set()
+            # Variable donde se ira creando cada palabra
+            palabra = ""
+            # Variable para guardar el titulo
+            titulo = objPy["title"]
+
+        
+            for letra in contenidoTxt:
+            
+                # Reviso que sea una palabra por que contiene caracteres del alfabeto ingles
+                if letra >= "a" and letra <= "z" or letra >= "A" and letra <= "Z":
+                    palabra += letra
+                # Cuando lo que haya no sea una letra significa que la palabra habra acabado (Se agreggo la condicion de palabra != "" para asegurar que exista una palabra al ser agregado)
+                elif palabra != "":
+                    palabrasLib.add(palabra)
+                    palabra = ""
+        
+            for palabra in palabrasLib:
+                # Solo se aceptan palabras mayores a 3 letras
+                if len(palabra) > 3:
+                    ruta = Path(f"/home/ubuntu/python_code/preProsCarp/{palabra.lower()}")
+                    # Crea el archivo con el nombre de la palabra si no existe
+                    ruta.touch(exist_ok=True)
+                    # Abre el archivo en binario
+                    with open(f"/home/ubuntu/python_code/preProsCarp/{palabra.lower()}", "wb") as i:
+
+                        pos = indices[titulo]
+                        i.write(struct.pack("I", pos)) # Escribir la posicion en el index
+
+                        # Este break es para que se ejecute solo 1 vez, si quieres que lo haga con todas las plabras del libro quita el break
+                        break
+        
+            print(palabrasLib)
+        
+        # IGNORA CODIGO DE PRUEBA 
+        
+    #     tituloLib = objPy["title"]
+    #     letraLib = tituloLib[0].lower()
+    #     letraCarpeta = Path(f"/home/ubuntu/python_code/prePosCarp/{letraLib}")
+    #     tituloArchi = Path(f"/home/ubuntu/python_code/prePosCarp/Titulos")
+        
+    #     # Crea la carpeta si no existe
+    #     letraCarpeta.mkdir(exist_ok=True)
+        
+    #     # Crea el archivo titulo.txt sino existe
+    #     tituloArchi.touch(exist_ok=True)
+        
+    #     # Abre el archivo donde se guardan los indices
+    #     with open(tituloArchi, "a") as idxLib:
+    #         posicion = idxLib.tell() # Posicion de donde empezara a escribir
+    #         idxLib.write(tituloLib + "\n")
+    #         print(posicion)
+    
+    # Este break es para que se ejecute solo de 1 libro, si quieres que lo haga con todos los libros quita el break
+            break
+        
