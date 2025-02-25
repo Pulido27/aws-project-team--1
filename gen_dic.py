@@ -13,4 +13,3 @@ with open("Titulos","rb") as archivo:
         indices[data[0]] = pos
         pos = archivo.tell()
         char = archivo.read(1)
-print(indices)

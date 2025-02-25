@@ -1,23 +1,11 @@
-# Pruebas de funcio
+import machine
+import time
+led = machine.Pin(2, machine.Pin.OUT)
+boton = machine.Pin(15, machine.Pin.IN, machine.Pin.PULL_UP)
 
-a = "a"
-z = "z"
-A = "A"
-Z = "Z"
-
-prueba = "A"
-
-# if prueba >= a and prueba <= z or prueba >= A and prueba <= Z:
-#     # print("Si funciona")
-# else:
-#     # print("No funciona")
-    
-palabras = ["Hola","Adios"]
-palabra = "buenas"
-
-print(f"Ahora palabra es: {palabra}")
-
-for palabra in palabras:
-    print(palabra)
-    
-print(f"Ahora palabra es: {palabra}")
+while True:
+    if boton.value() == 0:
+        led.value(1)
+    else:
+        led.value(0)
+time.sleep(0.1)

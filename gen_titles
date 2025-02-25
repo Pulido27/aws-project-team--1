@@ -22,10 +22,13 @@ with open("Titulos","w",encoding="utf-8") as archivo:
                 #Se extrae el titulo
                 titulo = metadata_json["title"]
                 #Se extrae el autor
-                if isinstance(metadata_json["creator"], str):
-                    autor = [metadata_json["creator"]]
-                else :
-                    autor = metadata_json["creator"]
+                if("creator" in metadata_json):
+                    if isinstance(metadata_json["creator"], str):
+                        autor = [metadata_json["creator"]]
+                    else :
+                        autor = metadata_json["creator"]
+                else:
+                    autor = ["NULL"]
                 #Se escribe el titulo en el txt y salta la linea
                 archivo.write(titulo + "_" + "_".join(autor) + "\n")
 
