@@ -1,0 +1,58 @@
+{
+  "title": "American samplers",
+  "creator": [
+    "Bolton, Ethel Stanwood, 1873-1954",
+    "National Society of the Colonial Dames of America. Massachusetts",
+    "Coe, Eva Johnston"
+  ],
+  "subject": "Samplers",
+  "publisher": "[Boston] The Massachusetts society of the colonial dames of America",
+  "date": "1921",
+  "language": "eng",
+  "possible-copyright-status": "NOT_IN_COPYRIGHT",
+  "sponsor": "Wellesley College Library",
+  "contributor": "Wellesley College Library",
+  "scanningcenter": "boston",
+  "mediatype": "texts",
+  "call_number": "b15421922",
+  "repub_state": "4",
+  "updatedate": "2008-03-27 19:21:22",
+  "updater": "tim-thompson",
+  "identifier": "americansamplers00bolt",
+  "uploader": "timthompson@archive.org",
+  "addeddate": "2008-03-27 19:21:24",
+  "publicdate": "2008-03-27 19:21:31",
+  "imagecount": "726",
+  "ppi": "400",
+  "camera": "Canon 5D",
+  "operator": "scanner-Josh-coronis@archive.org",
+  "scanner": "scribe1.boston.archive.org",
+  "scandate": "20080331164825",
+  "foldoutcount": "1",
+  "identifier-access": "http://www.archive.org/details/americansamplers00bolt",
+  "identifier-ark": "ark:/13960/t8gf0v45c",
+  "curation": "[curator]melissa@archive.org[/curator][date]20080404053422[/date][state]approved[/state]",
+  "sponsordate": "20080531",
+  "filesxml": [
+    "Mon Aug 17 21:27:59 UTC 2009",
+    "Wed Dec 23 4:03:48 UTC 2020"
+  ],
+  "collection": [
+    "Wellesley_College_Library",
+    "blc",
+    "americana"
+  ],
+  "backup_location": "ia903601_28",
+  "external-identifier": "urn:oclc:record:1039528938",
+  "ocr_module_version": "0.0.13",
+  "ocr_converted": "abbyy-to-hocr 1.1.7",
+  "lccn": "21018488",
+  "description": [
+    "2 p. l., iii-viii p., 1 l., 416 p. 25 cm",
+    "Title vignette",
+    "Prefatory note signed: Margaret Woodbridge Cushing, for the committee"
+  ],
+  "associated-names": "Coe, Eva Johnston; National Society of the Colonial Dames of America. Massachusetts",
+  "page_number_confidence": "52",
+  "page_number_module_version": "1.0.5"
+}

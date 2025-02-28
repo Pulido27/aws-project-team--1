@@ -1,0 +1,67 @@
+{
+  "language": "eng",
+  "scanningcenter": "boston",
+  "sponsor": "Boston Library Consortium Member Libraries",
+  "contributor": "Wellesley College Library",
+  "date": "1857",
+  "title": "America and Europe",
+  "creator": "De Gurowski, Adam G., Count, 1805-1866",
+  "isbn": [
+    "083696912X",
+    "9780836969122"
+  ],
+  "collection": [
+    "Wellesley_College_Library",
+    "blc",
+    "americana"
+  ],
+  "shiptracking": "ST000501",
+  "publisher": "New York, D. Appleton",
+  "description": [
+    "Elbert collection",
+    "Adger collection no. 8"
+  ],
+  "mediatype": "texts",
+  "repub_state": "4",
+  "page-progression": "lr",
+  "publicdate": "2013-11-06 18:20:42",
+  "updatedate": "2013-11-06 19:21:00",
+  "updater": "associate-nicholas-delancey@archive.org",
+  "identifier": "americaeurope00degu_0",
+  "uploader": "associate-nicholas-delancey@archive.org",
+  "addeddate": "2013-11-06 19:21:03.273206",
+  "scanner": "scribe11.boston.archive.org",
+  "notes": "No copyright page found.",
+  "repub_seconds": "1723",
+  "ppi": "500",
+  "camera": "Canon EOS 5D Mark II",
+  "operator": "associate-dennis-brodeur@archive.org",
+  "scandate": "20131115153426",
+  "republisher": "associate-lauren-dunn@archive.org",
+  "imagecount": "446",
+  "foldoutcount": "0",
+  "identifier-access": "http://archive.org/details/americaeurope00degu_0",
+  "identifier-ark": "ark:/13960/t08w5qz5s",
+  "bookplateleaf": "0006",
+  "scanfee": "100",
+  "sponsordate": "20131130",
+  "city": "New York",
+  "oclc-id": [
+    "1227498",
+    "363603"
+  ],
+  "lccn": [
+    "06034310",
+    "72006042"
+  ],
+  "backup_location": "ia905709_16",
+  "openlibrary_edition": "OL8206172M",
+  "openlibrary_work": "OL8608898W",
+  "external-identifier": "urn:oclc:record:1155960623",
+  "republisher_operator": "associate-christopher-hall@archive.org;associate-lauren-dunn@archive.org",
+  "republisher_date": "20131115211006",
+  "ocr_module_version": "0.0.21",
+  "ocr_converted": "abbyy-to-hocr 1.1.37",
+  "page_number_confidence": "98",
+  "page_number_module_version": "1.0.3"
+}

@@ -1,0 +1,68 @@
+{
+  "identifier": "ageoffableorbeau00bulf",
+  "title": "The age of fable; or, Beauties of mythology",
+  "creator": [
+    "Bulfinch, Thomas, 1796-1867",
+    "Scott, J. Loughran (John Loughran), 1846-1919"
+  ],
+  "mediatype": "texts",
+  "date": "1898",
+  "year": "1898",
+  "subject": "Mythology, Classical",
+  "publicdate": "2008-01-10 15:23:25",
+  "addeddate": "2008-01-10 15:21:12",
+  "uploader": "alisonw@archive.org",
+  "updater": [
+    "alison-wood",
+    "tim-thompson",
+    "alison-wood",
+    "andrew-laskey",
+    "andrew-laskey"
+  ],
+  "updatedate": [
+    "2008-01-10 15:21:10",
+    "2008-04-11 13:44:36",
+    "2008-04-16 19:13:38",
+    "2008-04-18 12:49:09",
+    "2008-04-24 16:00:08"
+  ],
+  "contributor": "Wellesley College Library",
+  "publisher": "Philadelphia, D. McKay",
+  "language": "eng",
+  "possible-copyright-status": "NOT_IN_COPYRIGHT",
+  "sponsor": "Wellesley College Library",
+  "scanningcenter": "boston",
+  "call_number": "B13560669",
+  "repub_state": "4",
+  "imagecount": "576",
+  "ppi": "500",
+  "camera": "Canon 5D",
+  "operator": "scanner-morgaen-munoz@archive.org",
+  "scanner": "scribe6.boston.archive.org",
+  "scandate": "20080425030239",
+  "identifier-access": "http://www.archive.org/details/ageoffableorbeau00bulf",
+  "identifier-ark": "ark:/13960/t9183839g",
+  "curation": "[curator]julie@archive.org[/curator][date]20080604231820[/date][state]approved[/state]",
+  "foldoutcount": "1",
+  "sponsordate": "20080531",
+  "filesxml": [
+    "Mon Aug 17 21:21:54 UTC 2009",
+    "Wed Dec 23 2:46:32 UTC 2020"
+  ],
+  "collection": [
+    "Wellesley_College_Library",
+    "blc",
+    "americana"
+  ],
+  "backup_location": "ia903601_18",
+  "openlibrary_edition": "OL23269911M",
+  "openlibrary_work": "OL77559W",
+  "external-identifier": "urn:oclc:record:1038777738",
+  "ocr_module_version": "0.0.13",
+  "ocr_converted": "abbyy-to-hocr 1.1.7",
+  "page_number_confidence": "91",
+  "lccn": "04010420 //r842",
+  "description": "xxiii, 501 p. 22 cm",
+  "associated-names": "Scott, J. Loughran (John Loughran), 1846-1919",
+  "page_number_module_version": "1.0.5"
+}

@@ -1,0 +1,71 @@
+{
+  "language": "eng",
+  "scanningcenter": "boston",
+  "sponsor": "Boston Library Consortium Member Libraries",
+  "contributor": "Wellesley College Library",
+  "date": "1909",
+  "subject": [
+    "Murdock, Harold, 1862-1934",
+    "Great Fire, Boston, Mass., 1872"
+  ],
+  "title": "1872 : letters written by a gentleman in Boston to his friend in Paris, describing the Great Fire",
+  "creator": [
+    "Murdock, Harold, 1862-1934",
+    "Rogers, Bruce, 1870-1957"
+  ],
+  "lccn": "09023233",
+  "collection": [
+    "Wellesley_College_Library",
+    "blc",
+    "americana"
+  ],
+  "shiptracking": "ST000224",
+  "publisher": "Boston : Houghton Mifflin Co.",
+  "description": [
+    "Author identified in publisher's circular (3, [1] p.) laid in",
+    "Designed by Bruce Rogers",
+    "Illustrative matter includes reproductions of woodcuts from the period of the fire",
+    "\"Bibliographical note\": p. 139-140",
+    "\"Five hundred and forty-five copies printed at the Riverside Press.\"--T.p. verso",
+    "Warde, F. Bruce Rogers",
+    "Wellesley's copy is number 476 of 545 copies"
+  ],
+  "call_number": "Rogers",
+  "mediatype": "texts",
+  "repub_state": "4",
+  "page-progression": "lr",
+  "publicdate": "2013-09-05 18:33:51",
+  "updatedate": "2013-09-05 19:41:35",
+  "updater": "associate-nicholas-delancey@archive.org",
+  "identifier": "1872letterswritt00murd_0",
+  "uploader": "associate-nicholas-delancey@archive.org",
+  "addeddate": "2013-09-05 19:41:39",
+  "scanner": "scribe6.boston.archive.org",
+  "repub_seconds": "295",
+  "ppi": "400",
+  "camera": "Canon EOS 5D Mark II",
+  "operator": "associate-lauren-dunn@archive.org",
+  "scandate": "20130910135912",
+  "republisher": "associate-christopher-hall@archive.org",
+  "imagecount": "212",
+  "foldoutcount": "0",
+  "identifier-access": "http://archive.org/details/1872letterswritt00murd_0",
+  "identifier-ark": "ark:/13960/t6vx27g2d",
+  "bookplateleaf": "0003",
+  "scanfee": "100",
+  "sponsordate": "20130930",
+  "backup_location": "ia905706_14",
+  "external-identifier": "urn:oclc:record:963738156",
+  "oclc-id": [
+    "8031551",
+    "317724872"
+  ],
+  "references": "Warde, F. Bruce Rogers, 97",
+  "associated-names": "Rogers, Bruce, 1870-1957",
+  "republisher_operator": "associate-christopher-hall@archive.org",
+  "republisher_date": "20130910162050",
+  "ocr_module_version": "0.0.21",
+  "ocr_converted": "abbyy-to-hocr 1.1.37",
+  "page_number_confidence": "0",
+  "page_number_module_version": "1.0.3"
+}

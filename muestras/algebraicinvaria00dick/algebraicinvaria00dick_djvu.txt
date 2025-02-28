@@ -1,0 +1,5765 @@
+I   pp pi. 
+
+
+GlU^l^ 
+
+
+MATHEMATICAL    MONOGRAPHS 
+
+EDITED    BY 
+
+MANSFIELD    MERRIMAN    and    ROBERT   S.    WOODWARD 
+
+
+No.  14 
+
+ALGEBRAIC 
+INVARIANTS 
+
+
+BY 
+
+LEONARD    EUGENE    DICKSON 
+
+Professor  of  Mathematics  in  the  University  of  Chicago 
+
+
+FIRST    EDITION 
+
+FIRST     THOUSAND 
+
+
+NEW  YORK 
+
+JOHN   WILEY  &  SONS,  Inc. 
+
+London:   CHAPMAN  &   HALL,  Limited 
+
+1914 
+
+
+Copyright,   1914, 
+
+
+LEONARD    EUGENE  DICKSON 
+
+
+V\^xw 
+
+
+THE    SCIENTIFIC    PRESS 
+
+ROBERT    DRIMMOND    AND    COMPANY 
+BROOKLYN,    N.    V. 
+
+
+EDITORS'  PREFACE. 
+
+
+The  volume  called  Higher  Mathematics,  the  third  edition 
+of  which  was  published  in  1900,  contained  eleven  chapters  by 
+eleven  authors,  each  chapter  being  independent  of  the  others, 
+but  all  supposing  the  reader  to  have  at  least  a  mathematical 
+training  equivalent  to  that  given  in  classical  and  engineering 
+colleges.  The  publication  of  that  volume  was  discontinued  in 
+1906,  and  the  chapters  have  since  been  issued  in  separate 
+Monographs,  they  being  generally  enlarged  by  additional 
+articles  or  appendices  which  either  amplify  the  former  pres- 
+entation or  record  recent  advances.  This  plan  of  publication 
+was  arranged  in  order  to  meet  the  demand  of  teachers  and 
+the  convenience  of  classes,  and  it  was  also  thought  that  it 
+would  prove  advantageous  to  readers  in  special  lines  of  mathe- 
+matical literature. 
+
+It  is  the  intention  of  the  publishers  and  editors  to  add  other 
+monographs  to  the  series  from  time  to  time,  if  the  demand 
+seems  to  warrant  it.  Among  the  topics  which  are  under  con- 
+sideration are  those  of  elliptic  functions,  the  theory  of  quantics, 
+the  group  theory,  the  calculus  of  variations,  and  non-Euclidean 
+geometry;  possibly  also  monographs  on  branches  of  astronomy, 
+mechanics,  and  mathematical  physics  may  be  included.  It  is 
+the  hope  of  the  editors  that  this  Series  of  Monographs  may 
+tend  to  promote  mathematical  study  and  research  over  a  wider 
+field  than  that  which  the  former  volume  has  occupied. 
+
+
+PREFACE 
+
+
+This  introduction  to  the  classical  theory  of  invariants  of 
+algebraic  forms  is  divided  into  three  parts  of  approximately 
+equal  length. 
+
+Part  I  treats  of  linear  transformations  both  from  the  stand- 
+point of  a  change  of  the  two  points  of  reference  or  the  triangle 
+of  reference  used  in  the  definition  of  the  homogeneous  coor- 
+dinates of  points  in  a  line  or  plane,  and  also  from  the  stand- 
+point of  projective  geometry.  Examples  are  given  of  invariants 
+of  forms  /  of  low  degrees  in  two  or  three  variables,  and  the 
+vanishing  of  an  invariant  of  /  is  shown  to  give  a  geometrical 
+property  of  the  locus /  =  0,  which,  on  the  one  hand,  is  inde- 
+pendent of  the  points  of  reference  or  triangle  of  reference, 
+and,  on  the  other  hand,  is  unchanged  by  projection.  Certain 
+covariants  such  as  Jacobians  and  Hessians  are  discussed  and 
+their  algebraic  and  geometrical  interpretations  given;  in 
+particular,  the  use  of  the  Hessian  in  the  solution  of  a  cubic 
+equation  and  in  the  discussion  of  the  points  of  inflexion  of 
+a  plane  cubic  curve.  In  brief,  beginning  with  ample  illustra- 
+tions from  plane  analytics,  the  reader  is  led  by  easy  stages 
+to  the  standpoint  of  hnear  transformations,  their  invariants 
+and  interpretations,  employed  in  analytic  projective  geometry 
+and  modern  algebra. 
+
+Part  II  treats  of  the  algebraic  properties  of  invariants 
+and  covariants,  chiefly  of  binary  forms:  homogeneity,  weight, 
+annihilators,  seminvariant  leaders  of  covariants,  law  of  reciproc- 
+ity, fundamental  systems,  properties  as  functions  of  the  roots, 
+and  production  by  means  of  differential  operators.  Any 
+quartic  equation  is  solved  by  reducing  it  to  a  canonical  form 
+by  means  of  the  Hessian  (§33).  Irrational  invariants  are 
+illustrated  by  a  carefully  selected  set  of  exercises  (§  35). 
+
+V 
+
+
+vi  PREFACE 
+
+Part  III  gives  an  introduction  to  the  symbolic  notation 
+of  Aronhold  and  Clebsch.  The  notation  is  first  explained  at 
+length  for  a  simple  case;  Hkewise  the  fundamental  theorem 
+on  the  types  of  symbolic  factors  of  a  term  of  a  covariant  of 
+binary  forms  is  first  proved  for  a  simple  example  by  the  method 
+later  used  for  the  general  theorem.  In  \dew  of  these  and 
+similar  attentions  to  the  needs  of  those  making  their  first 
+acquaintance  with  the  symboHc  notation,  the  difiiculties  usually 
+encountered  will,  it  is  beHeved,  be  largely  avoided.  This 
+notation  must  be  mastered  by  those  who  would  go  deeply 
+into  the  theory  of  invariants  and  its  apphcations. 
+
+Hubert's  theorem  on  the  expression  of  the  forms  of  a  set 
+linearly  in  terms  of  a  finite  number  of  forms  of  the  set  is  proved 
+and  appHed  to  estabHsh  the  finiteness  of  a  fundamental  set 
+of  covariants  of  a  system  of  binary  forms.  The  theory  of 
+transvectants  is  developed  as  far  as  needed  in  the  discussion 
+of  apolarity  of  binary  forms  and  its  appHcation  to  rational 
+curves  (§§  53-57),  and  in  the  determination  by  induction  of 
+a  fundamental  system  of  covariants  of  a  binary  form  without 
+the  aid  of  the  more  technical  supplementary  concepts  employed 
+by  Gordan.  Finally,  there  is  a  discussion  of  the  t}'pes  of  s>Tn- 
+boHc  factors  in  any  term  of  a  concomitant  of  a  system  of 
+forms  in  three  or  four  variables,  with  remarks  on  line  and  plane 
+coordinates. 
+
+For  further  developments  reference  is  made  at  appropriate 
+places  to  the  texts  in  EngUsh  by  Salmon,  EUiott,  and  Grace 
+and  Young,  as  well  as  to  Gordan's  Invariantentheorie.  The 
+standard  work  on  the  geometrical  side  of  invariants  is  Clebsch- 
+Lindemann,  Vorlesungen  iiber  Geometrie.  Reference  may  be 
+made  to  books  by  W.  F.  Meyer,  Apolaritdt  iind  Rationale  Curve, 
+Bericht  iiber  den  gegenwarligen  Stand  der  Invariantentheorie,  and 
+FormentJieorie.  Concerning  invariant-factors,  elementary  divi- 
+sors, and  pairs  of  quadratic  or  bilinear  forms,  not  treated  here, 
+see  Muth,  Elementartheiler ,  Bromwich,  Quadratic  Forms  and 
+their  Classification  by  Means  of  Invariant  Factors,  and  Bocher's 
+Introduction  to  Higher  Algebra.  Lack  of  space  prevents  also 
+the  discussion  of  the  invariants  and  covariants  arising  in  the 
+
+
+PREFACE  vii 
+
+theory  of  numbers;  but  an  elementary  exposition  is  available 
+in  the  author's  recent  book,  On  Invaria?its  and  the  Theory  of 
+Numbers,  pubKshed,  together  with  Osgood's  lectures  on  func- 
+tions of  several  complex  variables,  by  the  American  Mathematical 
+Society,  as  The  Madison  Colloquium. 
+
+In  addition  to  numerous  illustrativ^e  examples,  there  are  four- 
+teen sets  of  exercises  which  were  carefully  selected  on  the  basis 
+of  experience  with  classes  in  this  subject. 
+
+The  author  is  indebted  to  Professor  H.  S.  White  for  suggest- 
+ing certain  additions  to  the  initial  list  of  topics  and  for  reading 
+the  proofs  of  Part  I. 
+Chicago,  May,  1914. 
+
+
+TABLE   OF   CONTENTS 
+
+
+PART  I 
+
+Illustrations,  Geometrical  Interpretations  and  Applications 
+OF  Invariants  and  Covariants 
+
+PAGE 
+
+§  1.  Illustrations  from  Plane  Analytics 1 
+
+§  2.  Projective  Transformations 4 
+
+§  3.  Homogeneous  Coordinates  of  a  Point  in  a  Line 8 
+
+§  4.  Examples  of  Invariants 9 
+
+§  5.  Examples  of  Covariants 11 
+
+§  6.  Forms  and  Their  Classification 14 
+
+§  7.  Definition  of  Invariants  and  Covariants 14 
+
+Exercises 15 
+
+§  8.  Invariants  of  Covariants 16 
+
+§  9.  Canonical  Form  of  a  Binary  Cubic:  Solution  of  Cubic  Equations 17 
+
+§  10.  Covariants  of  Covariants 18 
+
+§  11.  Intermediate  Invariants  and  Covariants 19 
+
+Exercises 20 
+
+§  12.  Homogeneous  Coordinates  of  Points  in  a  Plane 20 
+
+§  13.  Properties  of  the  Hessian 23 
+
+§  14.  Inflexion  Points  and  Invariants  of  a  Cubic  Curve 26 
+
+Exercises 28 
+
+PART  II 
+
+Theory  of  Invariants  in  Non-symbolic  Notation 
+
+§,15.  Homogeneity  of  Invariants 30 
+
+§  16.  Weight  of  an  Invariant  of  a  Binary  Form 31 
+
+§  17.  Weight  of  an  Invariant  of  any  System  of  Forms 32 
+
+Exercises 33 
+
+§  18.  Products  of  Linear  Transformations 33 
+
+§  19.  Generators  of  all  Binary  Linear  Transformations 34 
+
+§  20.  Annihilator  of  an  Invariant  of  a  Binary  Form 34 
+
+Example  and  Exercises ; 36 
+
+§  21.  Homogeneity  of  Covariants 37 
+
+§  22.  Weight  of  a  Covariant  of  a  Binary  Form 38 
+
+§  23.  Annihilators  of  Covariants 39 
+
+Exercises 40 
+
+
+X  TABLE  OF  CONTENTS 
+
+PAGE 
+
+§  24.  Alternants 41 
+
+§  25.  Seminvariants  as  Leaders  of  Binary  Covariants 42 
+
+§  26.  Number  of  Linearly  Independent  Seminvariants 43 
+
+§  27.  Hermite's  Law  of  Reciprocity 45 
+
+Exercises 46 
+
+§§  28-3L  Fundamental  System  of  Covariants 47 
+
+§§  32,  33.  Canonical  Form  of  Binary  Quartic;  Solution  of  Quartic  Equations. .  50 
+
+§  34.  Seminvariants  in  Terms  of  the  Roots 53 
+
+§  35.  Invariants  in  Terms  of  the  Roots 54 
+
+Exercises 55 
+
+§  36.  Covariants  in  Terms  of  the  Roots 56 
+
+Exercises 58 
+
+§  37.  Covariant  with  a  Given  Leader 58 
+
+§  38.  Differential  Operators  Producing  Covariants 5!) 
+
+Exercises 61 
+
+PART  III 
+
+Symbolic  Notation 
+
+§§  39-41.  The  Notation  and  its  Immediate  Consequences 63 
+
+Exercises 65,  66 
+
+§§  42-45.  Covariants  as  Functions  of  Two  Symbolic  Types 67 
+
+§  46.  Problem  of  Finiteness  of  Covariants 70 
+
+§  47.  Reduction  to  Problem  on  Invariants 71 
+
+§  48.  Hubert's  Theorem  on  a  Set  of  Forms 72 
+
+§§  49,  50.  Finiteness  of  a  Fundamental  System  ot  Invariants 73 
+
+§  51 .  Finiteness  of  Syzygies 76 
+
+§  52.  Transvectants 77 
+
+§§  53,  54.  Binary  Forms  Apolar  to  Given  Forms 78 
+
+§§  55,  56.   Rational  Plane  Cubic  Curves 81 
+
+§  57.  Rational  Space  Quartic  Curves 83 
+
+§§  58,  59.  Fundamental  System  of  Covariants  of  Linear  Forms;  of  a  Quadratic 
+
+Form ;  Exercises 84 
+
+§  60.  Theorems  on  Transvectants;  Convolution 85 
+
+§  61.  Irreducible  Covariants  Found  by  Induction 87 
+
+§  62.  Fundamental  System  for  a  Binary  Cubic 89 
+
+§  63.  Results  and  References  on  Higher  Binary  Forms 91 
+
+§  64.  Hermite's  Law  of  Reciprocity  Symbolically 91 
+
+§  65.  Ternary  Form  in  Symbolic  Notation 92 
+
+Exercises ^^ 
+
+§§  66,  67.  Concomitants  of  Ternary  Forms 93 
+
+§  68.  Quaternary  Forms 97 
+
+Index 9^ 
+
+
+ALGEBRAIC  INVARIANTS 
+
+
+PART  I 
+
+
+ILLUSTRATIONS,    GEOMETRICAL   INTERPRETATIONS    AND 
+APPLICATIONS    OF    INVARIANTS    AND    COVARIANTS. 
+
+1.  Illustrations  from  Plane  Analytics.  If  x  and  y  are  the 
+coordinates  of  a  point  in  a  plane  referred  to  rectangular  axes, 
+while  x'  and  y'  are  the  coordinates  of  the  same  point  referred 
+to  axes  obtained  by  rotating  the  former  axes  counter-clock- 
+wise through  an  angle  6,  then 
+
+T:  x  =  x' cos  d  —  y' sin  6,     ;y  =  a;' sin  ^+7' cos  ^. 
+
+Substituting  these  values  into  the  linear  function 
+
+l  =  ax-\-by-\-c, 
+
+we  get  a'x' +b'y'  -\-c,  where 
+
+a'  =a  cos  d-\-h  sin  6,     h'  =  —a  sin  d+h  cos  6. 
+It  follows  that 
+
+Accordingly,  a?-\-lr  is  called  an  invariant  of  I  under  every 
+transformation  of  the  type  T. 
+
+Similarly,  under  the  transformation  T  let 
+
+L  =  Ax^By+C  =  A'x'-^B'y'-\-C, 
+so  that 
+
+^'  =  ^  cos  ^+5  sin  ^,     B'  = -Asm  B+B  cos  6. 
+
+
+ALGEBRAIC   INVARIANTS 
+
+
+By  the  multiplication  *  of  determinants,  we  get 
+
+
+a' 
+
+h' 
+
+a     h 
+
+A' 
+
+B' 
+
+A     B 
+
+a' 
+
+-h' 
+
+a  —b 
+
+B' 
+
+A' 
+
+B    A 
+
+cos  d  —sin6 
+sin  d     cos  d 
+
+
+aB-bA, 
+
+
+=  aA-\-bB. 
+
+
+cos  6      sm  6 
+-sin  d      cos  6 
+
+The  expressions  at  the  right  are  therefore  invariants  of  the 
+pair  of  linear  functions  I  and  L  under  every  transformation 
+of  type  T.  The  straight  lines  represented  by  1  =  0  and  Z,  =  0 
+are  parallel  if  and  only  if  aB  —  bA=0;  they  are  perpendicular 
+if  and  only  if  aA-\-bB  =  0.  Moreover,  the  quotient  of  aB  —  bA 
+by  aA-\-bB  is  an  invariant  having  an  interpretation;  it  is  the 
+tangent  of  one  of  the  angles  between  the  two  Hues. 
+
+As  in  the  first  example,  A^+B'^is  an  invariant  of  L.  Between 
+our  four  invariants  of  the  pair  /and  L  the  following  identity 
+
+holds: 
+
+{aA+bBy--{-{aB-bA)^  =  (a^+b'~)(A^+B^-). 
+
+The  equation  of  any  conic  is  of  the  form  5  =  0,  where 
+
+S  =  ax^-i-2bxy-\-cy^-\-2kx-\-  2ly + m . 
+
+Under  the  transformation  T,  S  becomes  a  function  of  x'  and 
+y\  in  which  the  part  of  the  second  degree 
+
+F  =  a'x'^+2b'x'y'+c'y'^ 
+
+is  derived  solely  from  the  part  of  S  of  the  second  degree: 
+
+/ = ax~  +  2bxy+cy". 
+
+The  coefficient  a'  of  x'-  is  evidently  obtained  by  replacing 
+X  by  cos  d  and  y  by  sin  6  in  /,  while  c'  is  obtained  by  replacing 
+X  by  —  sin  6  and  y.  by  cos  d  in  /.     It  follows  at  once  that 
+
+a'-\-c'  =  a-{-c. 
+
+Using  also  the  value  of  b',  we  can  show  that 
+
+a'c'-b'^  =  ac-b^, 
+
+*  We  shall  always  employ  the  rule  which  holds  also  for  the  multiplication 
+of  matrices:  the  element  in  the  rth  row  and  sth  column  of  the  product  is  found 
+by  multiplying  the  elements  of  the  )-th  row  of  the  first  determinant  by  the  cor- 
+responding elements  of  the  5th  column  of  the  second  determinant,  and  adding  the 
+products. 
+
+
+§1]  ILLUSTRATIONS   FROM  ANALYTICS  3 
+
+but  a  more  general  fact  will  be  obtained  in  §  4  without  tedious 
+multiplications.  Thus  a+c  and  d^ac  —  h-  are  invariants  of 
+/j  and  also  of  S,  under  every  transformation  of  type  T.  When 
+5  =  0  represents  a  real  conic,  not  a  pair  of  straight  hues,  the 
+conic  is  an  ellipse  ii  d>0,  an  hyperbola  if  (/<0,  and  a  parabola 
+if  (^  =  0.  When  homogeneous  coordinates  are  used,  the  classi- 
+fications of  conies  is  wholly  different  (§  13). 
+
+If  X  and  y  are  the  coordinates  of  a  point  referred  to  rectan- 
+gular axes  and  if  x'  and  ;-'  are  the  coordinates  of  the  same 
+point  referred  to  new  axes  through  the  new  origin  (r,  s)  and 
+parallel  to  the  former  axes,  respectivel}',  then 
+t:  x  =  x'-\rr,     y=y'-\-s. 
+
+All  of  our  former  expressions  which  were  invariant  under 
+the  transformations  T  are  also  invariant  under  the  new  trans- 
+formations t,  since  each  letter  a,  b,  .  .  .  involved  is  invariant 
+under  t.  But  not  all  of  our  expressions  are  invariant  under 
+a  larger  set  of  transformations  to  be  defined  later. 
+
+We  shall  now  give  an  entirely  different  interpretation  to 
+the  transformations  T  and  /.  Instead  of  considering  {x,  y) 
+and  {x\  y')  to  be  the  same  point  referred  to  different  pairs 
+of  coordinate  axes,  we  now  regard  them  as  different  points 
+referred  to  the  same  axes.  In  the  case  of  /,  this  is  accomplished 
+by  translating  the  new  axes,  and  each  point  referred  to  them, 
+in  the  direction  from  (r,  s)  to  (0,  0)  until  those  axes  coincide 
+with  the  initial  axes.  Thus  any  point  {x,  y)  is  translated  to 
+a  new  point  {x' ,  y'),  where 
+
+x'=x—r,    y'=y—s, 
+both  points  being  now  referred  to  the  same  axes.     Thus  each 
+point  is  translated  through  a  distance  Vr^-\-s^  and  in  a  direction 
+parallel  to  the  directed  hne  from  (0,  0)  to  {—r,  —s). 
+
+In  the  case  of  T,  we  rotate  the  new  axes  about  the  origin 
+clockwise  through  angle  6  so  that  they  now  coincide  with 
+the  initial  axes.  Then  any  point  (x,  y)  is  moved  to  a  new  point 
+{x' ,  y')  by  a  clockwise  rotation  about  the  origin  through  angle 
+d.     By  solving  the  equations  of  T,  we  get 
+
+x  —X  cos  d-\-y  sin  d,     y'  =  —x  sin  0-f-y  cos  B. 
+
+
+4  ALGEBRAIC   INVARIANTS 
+
+These  rigid  motions  (translations,  rotations,  and  combinations 
+of  them)  preserve  angles  and  distances.  But  the  transformation 
+x'  =  2x^  y'  =  2y  is  a  stretching  in  all  directions  from  the  origin 
+in  the  ratio  2:1;  while  x' =  2x,  y'  =  y  is  a  stretching  perpen- 
+dicular to  the  ;y-axis  in  each  direction  in  the  ratio  2:1. 
+
+From  the  multiplicity  of  possible  types  of  transformations, 
+we  shall  select  as  the  basis  of  our  theory  of  invariants  the  very 
+restricted  set  of  transformations  which  have  an  interpretation 
+in  projective  geometry  and  which  suffice  for  the  ordinary  needs 
+of  algebra. 
+
+2.  Projective  Transformations.  All  of  the  points  on  a 
+straight  line  are  said  to  form  a  range  of  points.     Project  the 
+
+
+Fig.  1. 
+
+points  A,  B,  C,  .  .  .  oi  a.  range  from  a  point  V,  not  on  their 
+line,  by  means  of  a  pencil  of  straight  lines.  This  pencil  is 
+cut  by  a  new  transversal  in  a  range  ^i,  Bi,  Ci,  .  .  . ,  said  to  be 
+perspective  with  the  range  A,  B,  C,  .  .  .  .  Project  the  points 
+Ai,  Bi,  Ci,  .  .  .  from  a  new  vertex  v  by  a  new  pencil  and  cut  it 
+by  a  new  transversal.  The  resulting  range  of  points  A',  B' 
+C,  .  .  .  is  said  to  be  projective  with  the  range  A,  B,  C,  .  .  . 
+Likewise,  the  range  obtained  by  any  number  o.'  projections 
+and   sections  is  called  projective  with  the  given   range,   and 
+
+
+§2]  PROJECTIVE  TRANSFORMATIONS  5 
+
+the  one-to-one  correspondence  thus  estabhshed  between  cor- 
+responding points  of  the  two  ranges  is  called  a  projec- 
+tivity. 
+
+To  obtain  an  analytic  property  of  a  projectivity,  we  apply 
+the  sine  proportion  to  two  triangles  in  Fig.  1  and  get 
+
+4C^sinj4FC     ^C ^ sin  ^FC 
+AV'dnACV    BV~smACV' 
+
+From  these  and  the  formulas  with  D  in  place  of  C,  we  get 
+
+AC^AV  sin  A VC     AD^AT  sin  A VD 
+BC     BV' sin  BVC    BD     BV' sin  BVD' 
+
+Hence,  by  division 
+
+AC  .  AD  _  sin  A  VC  .  sin  A  VD 
+BC  '  BD  "sin  BVC  '  sin  BVD' 
+
+The  left  member  is  denoted  by  (A  BCD)  and  is  called  the 
+cross-ratio  of  the  four  points  taken  in  this  order.  Since  the 
+right  member  depends  only  on  the  angles  at  V,  it  follows  that 
+
+{ABCD)  =  {AiBiCiDi), 
+
+if  .4i,  .  .  .  ,  Di  are  the  intersections  of  the  four  rays  by  a 
+second  transversal.  Hence  if  two  ranges  are  projective,  the 
+cross-ratio  of  any  four  points  of  one  range  equals  the  cross- 
+ratio  of  the  corresponding  points  of  the  other  range. 
+
+Let  each  point  of  the  line  AB  he  determined  by  its  dis- 
+tance and  direction  from  a  fixed  initial  point  of  the  line;  let 
+a  be  the  resulting  coordinate  of  A,  and  b,  c,  x  those  of  B, 
+C,  D,  respectively.  Similarly,  let  A',  B',  C,  D'  have  the 
+coordinates  a' ,  h' ,  c' ,  x' ,  referred  to  a  fixed  initial  point  on 
+their  line.     Then 
+
+
+(^5CZ))=— 4-^  =  V47-V-w  =  (^'^'C'£>')• 
+c— 0     x  —  b     c  —b      X  —b 
+
+
+Hence 
+
+
+x'  —  b'  _yX  —  b      r,_c  —  a 
+
+—,  —  K  ,        k—  r 
+
+
+X —a       x—a 
+
+
+c-b  '  c'-b' 
+
+
+6 
+
+
+ALGEBRAIC  INVARIANTS 
+
+
+SO  that  yfe  is  a  finite  constant  ?^0,  if  C  is  distinct  from  A  and 
+B,  and  hence  C  distinct  from  A'  and  B'.  Solving  for  x',  we 
+obtain  a  relation 
+
+
+L: 
+
+x' 
+
+_«a;+/3          ^_ 
+
+a     /3 
+7     5 
+
+5^0. 
+
+7:r+5' 
+
+In  fact, 
+
+ci  =  b  - 
+
+-ka\ 
+
+^  =  ka'h-ah', 
+
+7  =  1- 
+
+-^, 
+
+8  =  bk-a 
+
+If  we  multiply  the  elements  of  the  first  column  of  A  by  5  and 
+add  the  oroducts  to  the  elements  of  the  second  column,  we 
+get 
+
+
+A  = 
+
+
+b'-ka'     b'{b-a) 
+1—k  b—a 
+
+
+=  {b-a) 
+
+
+-ka'     b' 
+-k        1 
+
+
+=  k{b-a){b'-a')9^Q, 
+
+
+if  B  and  A  are  distinct,  so  that  B'  and  A'  are  distinct. 
+
+Hence  a  projectivity  between  two  ranges  defines  a  linear 
+fractional  transformation  L  between  the  coordinate  x  of  a 
+general  point  of  one  range  and  the  coordinate  x'  of  the  corre- 
+sponding point  of  the  other  range.  The  transformation  is 
+uniquely  determined  by  the  coordinates  of  three  distinct  points 
+of  one  range  and  those  of  the  corresponding  points  of  the  other 
+range.  If  the  ranges  are  on  the  same  line  and  if  A'  =  A, 
+B'=^B,  C'^C,  then  ^  =  1,  a  =  8,  I3  =  y  =  0,  and  x'  =  x.  Thus 
+(ABCD)  =  {ABCD')  implies  D'  =  D. 
+
+Conversely,  if  L  is  any  given  linear  fractional  transfor- 
+mation (of  determinant  5^  0)  and  if  each  value  of  x  is  inter- 
+preted as  the  coordinate  of  a  point  on  any  given  straight  line 
+I  and  the  value  of  x'  determined  by  L  as  the  coordinate  of  a 
+corresponding  point  on  any  second  given  straight  line  /',  the 
+correspondence  between  the  resulting  two  ranges  is  a  pro- 
+jectivity.    This  is  proved  as  follows : 
+
+Let  A,  B,  C,  D  he  the  four'  points  of  I  whose  respective 
+coordinates  are  four  distinct  values  Xi,  X2,  X3,  X4:  of  x  such 
+that  'YXi-\-89^0.     The  corresponding  values  Xi,  X2,  xz,  x^    of 
+
+
+§2] 
+
+
+PROJECTIVE  TRANSFORMATIONS 
+
+
+jc'    determine  four  distinct  points  A',  B\  C',  D'  of  /'.     For, 
+if  zV./, 
+
+,_     ,^aXx  +  ^     aXj  +  0  _         A{Xi  —  Xj) 
+
+yXi-\-8     yXj-{-8     {yXi+8){yXj+8) 
+
+(A'B'C'D')  =''\~^\^''\~'^\=r'^^^^^^^^^^  =  (ABCD) 
+
+Xs   —X2        X4:   —X2  X3  —  X2       X4:  —  X2 
+
+since,  if  U  denotes  7:^1  +  5, 
+
+^  ^  Wi/hkl  ^  vwt/ w  ^  ^' 
+
+If  A' 9^ A,  project  the  points  A',  B' ,  C,  D'  from  any  con- 
+venient vertex  V'  on  to  any  line  ABi  through  A  and  distinct 
+
+
+Fig.  2. 
+
+from  I,  obtaining  the  points  Ai=A,  B\,  Ci,  D\  of  Fig.  2.  Let 
+V  be  the  intersection  of  BBi  with  CC\  and  let  VD\  meet  /  at 
+P.     Then 
+
+{ABCP)  =  (AiBiCiDi)  =  {A'B'CD')  =  (ABCD). 
+
+From  the  first  and  last  we  have  P  =  D,  as  proved  above. 
+Holding  xi,  X2,  xz  fixed,  but  allowing  Xi  to  vary,  we  obtain 
+two  projective  ranges  on  /  and  /'.  If  ^'  =  yl,  we  use  T  itself 
+as  yl^i  and  see  that  the  ranges  are  perspective. 
+
+
+8  ALGEBRAIC  INVARIANTS 
+
+If  /  and  /'  are  identical,  we  first  project  the  range  on  /' 
+on  to  a  new  line  {A'B'  in  Fig.  2)  and  proceed  as  before. 
+
+Any  linear  fractional  transformation  L  is  therefore  a  pro- 
+jective transformation  of  the  points  of  a  line  or  of  the  points 
+of  one  line  into  those  of  another  line.  The  cross-ratio  of  any 
+four  points  is  invariant. 
+
+3.  Homogeneous  Coordinates  of  a  Point  in  a  Line.  They 
+are  introduced  partly  for  the  sake  of  avoiding  infinite  coor- 
+dinates. In  fact,  if  7  5^0,  the  value  -8/y  of  x  makes  x' 
+infinite.  We  set  a;  =  a;i/a;2,  thereby  defining  only  the  ratio  of 
+the  homogeneous  coordinates  xi,  X2  of  a  point.  Leta[;'=:j;iVa[;2'. 
+Then,  if  p  is  a  factor  of  proportionaHty,  L  may  be  given  the 
+homogeneous  form 
+
+pxi  =aXi-\-^X2,         px2=yxi  +  8x2,        a8- ^y^O. 
+
+The  nature  of  homogeneous  coordinates  of  points  in  a 
+line  is  brought  out  more  clearly  by  a  more  general  definition. 
+We  employ  two  fixed  points  A  and  B  of  the  line  as  points  of 
+reference.  We  define  the  homogeneous  coordinates  of  a  point 
+P  of  the  line  to  be  any  two  numbers  x,  y  such  that 
+
+x_  AP 
+y'^'pB' 
+
+where  c  is  a  constant  9^0,  the  same  for  all  points  P,  while 
+AP  is  a  directed  segment,  so  that  AP=—PA.  We  agree 
+to  take  y  =  0  if  P^B.  Given  P,  we  have  the  ratio  of  x  to  y. 
+Conversely,  given  the  latter  ratio,  we  have  the  ratio  of  ^P 
+to  PB,  as  well  as  their  sum  AP+PB  =  AB,  and  hence  can 
+find  AP  and  therefore  locate  the  point  P. 
+
+Just  as  we  obtained  in  plane  analytics  {cf.  §  l)  the  relations 
+between  the  coordinates  of  the  same  point  referred  to  two 
+pairs  of  axes,  so  here  we  desire  the  values  of  x  and  y  expressed 
+in  terms  of  the  coordinates  ^  and  rj  of  the  same  point  P  referred 
+to  new  fixed  points  of  reference  A',  B' .  By  definition,  there 
+is  a  certain  new  constant  ^5^0  such  that 
+
+,    "pB'- 
+
+
+§3]  HOMOGENEOUS  COORDINATES  9 
+
+Since  A'P-\-PB' =A'B\  we  may  replace  A'P  by  A'B'-PB' 
+and  get 
+
+p^,_knA'B' 
+
+Let  A  have  the  coordinates  ^' ,  t]  ,  referred  to  A\  B' .     Then 
+PA=PB'-AB'  =  PB'-^^Jj'^-^:''}^-'^'^' 
+
+Sirtiilarly,  if  B  has  the  coordinates  ^i,  rji,  referred  to  A' ,  B\ 
+p^_(v^i-^vi)k-A'B' 
+
+Hence,  by  division, 
+
+Since  we  are  concerned  only  with  the  ratio  of  x  to  y,  we  may 
+set 
+
+Since  the  location  of  A  and  B  with  reference  to  A'  and  B^ 
+is  at  our  choice,  as  also  the  constant  c  (and  hence  r  and  s), 
+the  values  of  rr]'  and  —r^'  are  at  our  choice,  likewise  srjx  and 
+—s^\.  There  is, however,  the  restriction  A  9^B,  whence  ij'^i  j^  r)\  ^' 
+Thus  a  change  of  reference  points  and  constant  multiplier  c 
+gives  rise  to  a  linear  transformation 
+
+
+X=a^-\-^T1,  y^-Y^+brj, 
+
+
+^0, 
+
+
+of  coordinates,  and  conversely  every  such  transformation  can 
+be  interpreted  as  the  formulas  for  a  change  of  reference  points 
+and  constant  multiplier. 
+
+4.  Examples  of  Invariants.     The  Unear  functions 
+l^ax-\-by,         L=Ax-\-By 
+become,  under  the  preceding  linear  transformation  T, 
+
+where 
+
+a'  =  aa-\-hy,         b'  =  al3-\-b5,         A'  =  Aa-\-By,         B'  =  A^+BS. 
+
+
+10  ALGEBRAIC  INVARIANTS 
+
+Hence  the  resultant  of  the  new  linear  functions  is 
+
+
+a' 
+
+h' 
+
+a 
+
+b 
+
+a   iS 
+
+=  A 
+
+a 
+
+b 
+
+A' 
+
+B' 
+
+A 
+
+B 
+
+7    5 
+
+A 
+
+B 
+
+and  equals  the  product  of  the  resultant  r  —  aB  —  bA  of  the 
+given  functions  by  A.  Since  this  is  true  for  every  linear 
+homogeneous  transformation  of  determinant  A,  we  call  r  an 
+invariant  of  /  and  L  of  index  unity,  the  factor  which  multiplies 
+r  being  here  the  first  power  of  A. 
+
+Employing  homogeneous  coordinates  for  points  on  a  line, 
+we  see  that  /  vanishes  at  the  single  point  {b,—a)  and  that 
+L  =  0  only  at  {B,—A).  These  two  points  are  identical  if 
+and  only  if  b  :  a=B  :  A,  i.e.,  if  r  =  0.  The  vanishing  of  the 
+invariant  r  thus  indicates  a  geometrical  property  which  is 
+independent  of  the  choice  of  the  points  of  reference  used  in 
+defining  coordinates  on  the  line;  moreover,  the  property  is 
+not  changed  by  a  projection  of  this  line  from  an  outside  point 
+and  a  section  by  a  new  line.  Thus  r  =  0  gives  a  projective 
+property. 
+
+Among  the  present  transformations  T  are  the  very  special 
+transformations  given  at  the  beginning  of  §  1.  Of  the  four 
+functions  there  called  invariants  of  /  and  L  under  those  special 
+transformations,  r  alone  is  invariant  under  all  of  the  present 
+transformations.  Henceforth  the  term  invariant  will  be  used 
+only  when  the  property  of  invariance  holds  for  all  linear  homo- 
+geneous transformations  of  the  variables  considered. 
+
+Our  next  example  deals  with  the  function 
+
+/  =  ax^ + 2bxy + cy^ . 
+
+The  transformation  T  (end  of  §  3)  replaces  /  by 
+
+F=Ae+2B^v+Cv^ 
+in  which 
+
+A  =aa^-\-2bay-\-cy^, 
+
+B  =  aa(3-\-b{a5-\-^j)-\-cy8, 
+
+If  the  discriminant  d  =  ac  —  b^oifis  zero,  /  is  the  square 
+of  a  linear  function  of  x  and  v,  so  that  the  transformed  function 
+
+
+§4] 
+
+
+EXAMPLES  OF  INVARIANTS 
+
+
+11 
+
+
+F  is  the  square  of  a  linear  function  of  ^  and  77,  whence  the 
+discriminant  D  =  AC  —  B^  of  F  is  zero.  In  other  words,  d  =  0 
+impHes  D  =  0.  By  inspection,  the  coefficient  of  —b-,  the  highest 
+power  of  &,  in  the  expansion  of  D  is 
+
+Thus  D  —  A^d  is  a  hnear  function  bq+r  of  b,  where  q  and  r  are 
+functions  of  a,  c,  a,  /3,  7,  6.  Let  a  sind_c  remain  arbitrary,  but 
+give  to  b  the  values  Vac  and  —Vac  in  turn.  Since  d  =  0 
+and  D  =  0,  we  have 
+
+0=Vac^+r,         0=— Vac^+r, 
+
+whence  f  =  9  =  0,  D  =  A^d.  Thus  c/  is  an  invariant  of  /  of 
+index  2.     Another  proof  is  as  follows: 
+
+
+A^d  = 
+
+
+a     7 
+
+a     b 
+
+a     /3 
+
+^     5 
+
+b     c 
+
+7     5 
+
+a     7 
+
+aa-\-by 
+
+0/3+65 
+
+^ 
+
+B 
+
+^      5 
+
+ba-{-c 
+
+7 
+
+^'/J+c 
+
+5 
+
+B 
+
+C 
+
+=  D. 
+
+
+We  just  noted  that  d  =  0  expresses  an  algebraic  property  of 
+/,  that  of  being  a  perfect  square.  To  give  the  related  geo- 
+metrical property,  employ  homogeneous  coordinates  for  the 
+points  in  a  hne.  Then  /=0  represents  two  points  which  coin- 
+cide if  and  only  if  d  =  0.  Thus  the  vanishing  of  the  invariant 
+d  oi  f  expresses  a  projective  property  of  the  points  represented 
+by/=0. 
+
+
+5.  Examples    of    Covariants.      The 
+
+Hessian 
+
+(named    after 
+
+Otto  Hesse)  of  a  function  /(x,  y)  of  two  variables  is  defined 
+
+to  be 
+
+dj         d'f 
+
+h  = 
+
+dx'^        dxdy 
+
+dydx      dy^ 
+
+Let /become  F{^,  77)  under  the  transformation 
+
+T:           x=a^-}-^v,        y 
+
+=  7^-f677,          I 
+
+\  = 
+
+a     0 
+7      b 
+
+5^0. 
+
+12 
+
+
+ALGEBRAIC  INVARIANTS 
+
+
+Multiplying  determinants  according  to  the  rule  in  §  1,  we  have 
+
+
+hA  = 
+
+
+M 
+
+
+dxdy 
+
+
++  5- 
+
+
+dxdy      a/' 
+
+
+3^93' 
+
+
+dxdy     9/ 
+
+
+dx     dx 
+
+dy    dy 
+
+where,  by  T, 
+
+(1)      ,=a^^,^=^^  +  ^^^  =  ^, 
+
+dx      dy    9a;  9^    9y  9^     9^ 
+
+
+w- 
+
+
+dx      dy     dv 
+
+
+By  the  same  rule  of  multiplication  of  determinants, 
+
+/    9    ,      9\9^      /    d    ,      d\dF 
+
+\  dx     dy/d^     \  dx     dy/dv 
+
+
+hA  = 
+
+
+dx      dy)  d^     \  dx      dyj  dv 
+
+
+Applying  (l)  with/  replaced  by  dF/d^  for  the  first  column 
+and  by  dF/dn  for  the  second  column,  we  get 
+
+9^      _9^ 
+
+de 
+
+d~F 
+
+
+A^h  = 
+
+
+drid^ 
+
+
+9^9r? 
+
+9^ 
+
+9r?2 
+
+
+Hence  the  Hessian  of  the  transformed  function  F  equals  the 
+product  of  the  Hessian  h  of  the  given  function  /  by  the  square 
+of  the  determinant  of  the  linear  transformation.  Conse- 
+quently, h  is  called  a  covariant  of  index  2  of  /. 
+
+For  an  interpretation  of  /z  =  0,  see  Exs.  4,  5,  §  7.  In  case 
+/  is  the  quadratic  function  /  of  §  4,  /f  reduces  to  'id,  where  d 
+is  the  invariant  ac  —  62. 
+
+The  Junctional  determinant  or  Jacohian  (named  after  C. 
+G.  J.  Jacobi)  of  two  functions  J{x,  y)  and  g{x,  y)  is  defined 
+to  be 
+
+
+M 
+
+df 
+
+d{f,g)_ 
+
+dx 
+
+dy 
+
+dix,  y) 
+
+dg 
+
+dg 
+
+dx 
+
+dy 
+
+EXAMPLES   OF  COVARIANTS 
+
+
+13 
+
+
+Let   the   above   transformation    T  replace  /  by  F{^,  rj),   and 
+g  by  G(^,  7/).     By  means  of  (l),  we  get 
+
+
+djF,  G) 
+d{^,  v) 
+
+
+9/ ,   a/ 
+dx      dy 
+
+
+dx     dy 
+
+
+M  +  6^ 
+
+dx      dy 
+
+
+dx      dy 
+
+
+dx 
+
+dg 
+
+dx 
+
+
+dy 
+
+dg 
+
+dy 
+
+
+I3\_^d(f,g) 
+
+5  I       d{x,yy 
+
+
+Hence  the  Jacobian  of  /  and  g  is  a  covariant  of  index  unity  of 
+/  and  g.  For  example,  the  Jacobian  of  the  linear  functions 
+/  and  Z,  in  §  4  is  their  resultant  r;  they  are  proportional  if 
+and  only  if  the  invariant  r  is  zero.  The  last  fact  is  an  illus- 
+tration of  the 
+
+Theorem.     Two  functions  f  and  g  of  x  and  y  are  dependent 
+if  and  only  if  their  Jacobian  is  identically  zero. 
+First,  U  g  =  4){f),  the  Jacobian  of/  and  g  is 
+
+
+9/ 
+
+dx 
+
+4>'{f) 
+
+
+dx 
+
+
+df_ 
+dy 
+
+
+=  0. 
+
+
+Next,  to  prove  the  second  or  converse  part  of  the  theorem, 
+let  the  Jacobian  of  /  and  g  be  identically  zero.  If  g  is  a 
+constant,  it  is  a  (constant)  function  of  /.  In  the  contrary 
+case,  the  partial  derivatives  of  g  are  not  both  identically  zero. 
+Let,  for  example,  dg/dx  be  not  zero  identically.  Consider  g 
+and  y  as  new  variables  in  place  of  x  and  >'.  ThMs  f=F{g,y) 
+and  the  Jacobian  is 
+
+
+dFdg 
+
+dFdg 
+
+dg  dx 
+
+dg  dy 
+
+dg 
+
+dg 
+
+dx 
+
+3y 
+
+dy 
+
+
+0  ^ 
+
+
+dF 
+
+dy 
+
+
+dx 
+
+
+dy 
+
+
+14  ALGEBRAIC  INVARIANTS 
+
+Hence  dF/dy  is  identically  zero,  so  that  F  does  not  involve 
+y  explicitly  and  is  a  function  of  g  only. 
+
+6.  Forms  and  their  Classification.  A  function  like  ax^-\-bx^y, 
+every  term  of  which  is  of  the  same  total  degree  in  x  and  y, 
+is  called  homogeneous  in  x  and  y. 
+
+A  homogeneous  rational  integral  function  oi  x,  y,  .  .  .  is 
+called  a  form  (or  quantic)  m  x,  y,  .  .  .  .  According  as  the 
+number  of  variables  is  1,  2,  3,  .  .  .  ,  or  ^,  the  form  is  called 
+unary,  binary,  ternary,  .  .  .  ,  or  q-ary,  respectively.  Accord- 
+,  ing  as  the  form  is  of  the  first,  second,  third,  fourth,  .  .  .  ,  or 
+p\h.  order  in  the  variables,  it  is  called  linear,  quadratic,  cubic, 
+quartic,  .  .  .  ,  or  p-ic,  respectively. 
+
+For  the  present  we  shall  deal  with  binary  forms.  It  is 
+found  to  be  advantageous  to  prefix  binomial  coefficients  to  the 
+Hteral  coefficients  of  the  form,  as  in  the  binary  quadratic  and 
+quartic  forms 
+
+ax^-{-2bxy-{-cy^,        aox^-\-4:aix^y-^Qa2X^y^-}-4:a3xy^-\-a4y^. 
+
+7.  Definition  of  Invariants  and  Covariants  of  Binary  Forms. 
+
+Let  the  general  binary  form  /  of  order  p, 
+
+aox^+paix^-'y+^^^(^a2X^-y-^.  .  .-\-a,y^, 
+be  replaced  by 
+
+Ao^^+pAie-'v-\-^^~Y^A2e-'v'-\-- .  .+^.^^ 
+
+by  the  transformation  T  (§5)  of  determinant  A?^0.  If,  for 
+every  such  transformation,  a  polynomial  I{ao,  .  .  .  ,  ap)  has 
+the  property  that 
+
+7(^0,  .  .  .  ,  ^p)=AV(ao,  .  .  .  ,  ap), 
+
+identically  in  ao,  •  •  •  ,  «p,  after  the  ^'s  have  been  replaced 
+by  their  values  in  terms  of  the  a's,  then  I{ao,  .  .  .  ,  ap)  is 
+called  an  invariant  of  index  X  of  the  form/. 
+
+
+§7]  DEFINITION  OF  INVARIANTS  15 
+
+If,  for  every  linear  transformation  T  of  determinant  A?^0, 
+a  polynomial  K  in  the  coefficients  and  variables  in  /  is  such 
+that  * 
+
+K{Aq,  .  .  .  ,Ay\  ^,  r])^A^K(ao,  .  .  .  ,ap;  X,  y), 
+
+identically  in  ao,  .  .  .  ,  ap,  ^,  -q,  after  the  ^'s  have  been  replaced 
+by  their  values  in  terms  of  the  a's,  and  after  x  and  y  have 
+been  replaced  by  their  values  in  terms  of  ^  and  rj  from  T,  then 
+K  is  called  a  covariant  of  index  X  of/. 
+
+The  definitions  of  invariants  and  covariants  of  several 
+binary  forms  are  similar. 
+
+These  definitions  are  illustrated  by  the  examples  in  §§4,  5. 
+Note  that  /  itself  is  a  covariant  of  index  zero  of  /;  also  that 
+invariants  are  covariants  of  order  zero. 
+
+EXERCISES 
+
+1.  The  Jacobian  oi  J=ax--\-2bxy+cy'^  and  L  =  rx-\-sy  is 
+
+J  =  2{as-br)x-\-2{bs-cr)y. 
+
+If  J  is  identically  zero,  f=tL'^,  where  t  is  a  constant.  How  does  this 
+illustrate  the  last  result  in  §  5?  Next,  let  /  be  not  identically  zero.  Let 
+k  and  /  be  the  values  of  x/y  for  which /=0;  m  that  for  which  L  =  0  and  n 
+that  for  which  7  =  0.  Prove  that  the  cross-ratio  (k,  tn,  I,  n)=  —1.  Thus 
+the  points  represented  by/=0  are  separated  harmonically  by  those  repre- 
+sented by  Z,=0, /=0. 
+
+2.  If  /  is  the  Jacobian  of  two  binary  quadratic  forms /and  g,  the  points 
+represented  by  7  =  0  separate  harmonically  those  represented  by  /=0 
+and  also  those  represented  by  g  =  0.  Thus  7  =  0  represents  the  pair  of 
+double  points  of  the  involution  defined  by  the  pairs  of  points  represented 
+by/=Oandg  =  0. 
+
+3.  If /(x,  y)  is  a  binary  form  of  order  n,  then  (Euler) 
+
+X — +y —  =  nf. 
+
+dx    ^dy      ^ 
+
+Hint :     Prove  this  for  /=  ax^y"  ~  ^  and  for  /=  fi  +f2. 
+
+4.  The  Hessian  of  (ax+by)"'  is  identically  zero. 
+Hint :     It  is  sufficient  to  prove  this  for  x^.     Why? 
+
+*  The  factor  can  be  shown  to  be  a  power  of  A  if  it  is  merely  assumed  to  be 
+a  function  only  of  the  coefficients  of  the  transformation. 
+
+
+16  ALGEBRAIC  INVARIANTS 
+
+5.  Conversely,  if  the  Hessian  of  a  binary  form/(x,  y)  of  order  n  is  iden- 
+tically zero,  /  is  the  nXh.  power  of  a  linear  function. 
+
+Hints:  The  Hessian  of  /  is  the  Jacobian  of  dj/ dx,  dj/ dy-  By  the 
+last  result  in  §  5,  these  derivatives  are  dependent: 
+
+cx    ,  dy 
+
+where  a  and  b  are  constants.     Solving  this  with  Euler's  relation  in  Ex.  3, 
+we  get 
+
+{ax-^hy)  -^  =  naf,  {ax+by)  —  =  nbf, 
+
+dx  dy 
+
+9  log/_     na       aJog/_     nb 
+dx        ax+by       dy        ax+by' 
+Integrating, 
+
+log;-;?  log  iax+by)  =  <i>iy)^^p{x). 
+
+Hence  (^  =  1//  =  constant,  say  log  c.     Thus  f=c(ax  +  by)^. 
+
+8.  Invariants  of  Covariants.     The  binary  cubic  form 
+
+( 1 )  jXx  ,y)=  ax^ + Zhx-y + 'icxy^ + dy^ 
+has  as  a  covariant  of  index  2  its  Hessian  36  h: 
+
+(2)  h  =  rx^  +  2sxy  +  ty'^,  r  =  ac-b~,  2s  =  ad-bc,  t  =  bd-c^. 
+Under  any  linear  transformation  of  determinant  A,  let /become 
+
+(3)  F  =  A^^+-Wey}+^Cir^^+Dr^^. 
+
+Let  H  denote  the  Hessian  of  F.     Then  the  covariance  of  h  gives 
+
+(4)  H  =  Re+'^S^r,-\-Tri^~=A^h,  R  =  AC-B\    .  .  . 
+
+Hence  A^r,  2A~s,  A-t  are  the  coefficients  of  a  binary  quadratic 
+form  which  our  transformation  replaces  by  one  with  the  coeffi- 
+cients R,  25,  T.  Since  the  discriminant  of  a  binary  quad- 
+ratic form  is  an  invariant  of  index  2, 
+
+RT-S^  =  AHA^r-AH-{A^sf\=A^{rt-s^). 
+
+Hence  rt  —  s^  is  an  invariant  of  index  6  of/. 
+
+A  Kke  method  of  proof  shows  that  any  invariant  of  a  covariant 
+of  a  system  of  forms  is  an  invariant  of  the  forms. 
+
+
+§9]  CANONICAL  FORM  OF  CUBIC  17 
+
+As  an  example  in  the  use  of  the  concepts  invariants  and 
+covariants  in  demonstrations,  we  shall  prove  that  the  invariant  * 
+
+(5)  -  4(r/  -  s^)  =  {ad  -  hcf  -  4(ac  -  h^)  {hd  -  c^) 
+
+is  zero  if  and  only  \i  J{x/y,  l)=0  has  a  multiple  root,  i.e.,  if 
+J{x,  y)  is  divisible  by  the  square  of  a  linear  function  of  x  and 
+y.  If  the  latter  be  the  case,  we  can  transform  /  into  a  form 
+(3)  with  the  factor  ^^]  then  C  =  D  =  0  and  the  function  (5) 
+written,  in  capitals  is  zero,  so  that  the  invariant  (5)  itself  is 
+zero.  Conversely,  if  (5)  is  zero,  /=0  has  a  multiple  root. 
+For,  the  Hessian  (2)  is  then  a  perfect  square  and  hence  can 
+be  transformed  into  ^^,  which,  by  the  covariance  of  h,  differs 
+only  by  a  constant  factor  from  the  Hessian  R^-  of  the  trans- 
+formed cubic  (3) .  Thus6'  =  r  =  0.  IfZ)  =  0,  thenC  =  0(byr  =  0) 
+and  (3)  has  the  factor  ^^,  as  affirmed.     If  D^O, 
+
+9.  Canonical  Form  of  a  Binary  Cubic;  Solution  of  Cubic 
+Equations.  We  shall  prove  that  every  binary  cubic  form  whose 
+discriminant  is  not  zero  f  can  be  transformed  into  X'^-\-Y^. 
+
+For,  if  the  discriminant  (5)  of  the  binary  cubic  (1)  is  not 
+2ero,  the  Hessian  (2)  is  the  product  of  two  linear  functions  which 
+are  linearly  independent.  Hence  the  cubic  form  /  can  be 
+transformed  into  a  form  F  whose  Hessian  (4)  reduces  to  2S^r], 
+and  hence  has  i?  =  0,  T  =  Q,  5?^0.  If  C  =  0,  then  5  =  0  (by 
+i?  =  0)  and/^  =  .4^3^Z)r7^^Z)?^0  {hy  S^Q).     Taking 
+
+^  =  ^-^Y,         r]=D-'Y, 
+
+we  get  F  =  X^-\-Y^,  as  desired.  The  remaining  case  Cj^O 
+is  readily  excluded;  for,  then  Bp^O  (by  r  =  0)  and 
+
+A=~,        D  =  ^,        AD  =  BC,        5  =  0. 
+C  B 
+
+*  It  is  often  called  the  discriminant  of/.  It  equals  — a*P/27,  where  P  is  the 
+product  of  the  squares  of  the  differences  of  the  roots  oif{x/y,\)  =0.  Other  writers 
+call  a^P  the  discriminant  of/. 
+
+t  If  zero,  /  has  a  square  factor  and  hence  can  be  transformed  into  XW  or  X^. 
+
+
+18  ALGEBRAIC  INVARIANTS 
+
+To  solve  a  cubic  equation  without  a  multiple  root,  we 
+have  merely  to  introduce  as  new  variables  the  factors  ^  and 
+7?  of  the  Hessian.     For,  then,  the  new  cubic  is  A  |'^+Z)j?^  =  0. 
+
+To  treat  an  example,  consider  f=x^  +  6x-y  +  12xy-+dy^  —  0.  The  Hes- 
+sian is  (d—8)  {xy+2y^).  Hence  we  take  ^  =  ^+23;  and  r]  =  y  as  new 
+variables.  We  get  /=  ^'  +  (^—8)77^  If  d  =  9,  we  have  ^^  +  ri^  =  0,  whence 
+^/n=  —1,  —  w  or  —co^,  where  w  is  an  imaginary  cube  root  of  unity.  But 
+x/y+2=^/r).     Hence  :K;/y=— 3,  —  w— 2,  —  co2-2. 
+
+10.  Covariants  of  Covariants.  Any  covariant  of  a  system 
+of  covariants  of  a  system  of  forms  is  a  covariant  of  the  forms. 
+
+The  proof  of  this  theorem  is  similar  to  that  used  in  the 
+following  illustrations.  We  first  show  that  the  Jacobian  of 
+a  binary  cubic  form  /  and  its  Hessian  A  is  a  covariant  of  index 
+3  of/.    We  have 
+
+d(F,H)^^d(f,AVi)_^,d(f,h) 
+a(^,  v)         d{x,  y)  d{x,  y)' 
+
+As  the  second  illustration  we  consider  the  forms  /,  L  in 
+Ex.  1,  §  7.  Their  Jacobian  is  the  double  of  the  covariant 
+K  =  vx-\-wy  of  index  unity,  where 
+
+v  =  as  —  br,        w  =  hs  —  cr. 
+
+Thus  K  and  L  are  covariants  of  the  system  of  forms/,  L.     These 
+two   linear   covariants   have   as   an   invariant   their   resultant 
+
+
+1  = 
+
+
+V     w 
+r     s 
+
+
+=  as^  —  2brs-\-cr^. 
+
+
+Under  a  linear  transformation  of  determinant  A,  let  /  become 
+A^^+.  .  .  ,  and  L  become  R^+Sr].     By  the  covariance  of  K, 
+
+V^-{-Wv=A(.vx+wy),     V=AS-BR,     W  =  BS-CR. 
+
+Thus  our  transformation  replaces  the  hnear  form  having  the 
+coefficients  A^;  and  Aw  by  one  having  the  coefficients  V  and 
+W.    Th.  resultant 
+
+Av     Aw 
+r       s 
+
+
+§11]  INTERMEDIATE  INVARIANTS  19 
+
+of  this  linear  form  and  L  is  an  invariant  of  index  unity.     Hence 
+
+
+V    W 
+R      S 
+
+
+AE, 
+
+
+V    W 
+R      S 
+
+
+:A2 
+
+
+V     w 
+r      s 
+
+
+so  that  I  =  vs  —  wr  is  an  invariant  of  index  2  of/  and  L. 
+
+From  the  earlier  expression  for  /,  we  see  that  it  is  the 
+resultant  of  /  and  L.  We  have  therefore  illustrated  also  the 
+theorem  that  the  resultant  of  any  two  binary  forms  is  an 
+invariant  of  those  forms. 
+
+11.  Intermediate  Invariants  and  Covariants.  From  the 
+invariant  ac  —  b^  of  the  binary  quadratic  form 
+
+f=ax^-\-  2hxy + cy~ 
+
+we  may  derive  an  invariant  of  the  system  of  forms  /  and  /' 
+where 
+
+f  =  a'x^  +  2b'xy+c'y'^. 
+
+Let  any  linear  transformation  replace  /  and  /  by 
+
+If  /  is  any  constant,  the  form/+//  is  transformed  into  F+tF'. 
+By  the  invariance  of  the  discriminant  of /+//', 
+
+{A-VtA'){C+tC')-{B+tB'Y^6?\{a+ta'){cMc')-{b+tby\, 
+
+identically  in  /.  The  equahty  of  the  terms  free  of  /  states 
+only  the  known  fact  that  ac  —  b^  is  an  invariant  of/.  Similarly 
+the  equality  of  the  terms  involving  t^  states  merely  that 
+a'c'  —  b"^  is  an  invariant  of/'.  But  from  the  terms  multiplied 
+by  i,  we  see  that 
+(1)  ac'^a'c-2bb' 
+
+is  an  invariant  of  index  2  of  the  system  of  forms  /,  i' .  It 
+is  said  to  be  the  invariant  intermediate  between  their  dis- 
+criminants.     It  was  discovered  by  Boole  in  1841. 
+
+The  method  is  a  general  one.  Let  K  be  any  covariant  of 
+a  form  jix.y,  .  .  .).  Let  a,  6,  ...  be  the  coefhcients  of  /. 
+Let  fix,  y,  .  .  .)  be  a  form  of  the  same  order  with  the  coeffi- 
+cients a' ,  b\  .  .  .  .  If  in  iT  we  replace  a  by  a-\-ta',  b  by 
+b+tb',  .  .  .  ,  and  expand  in  powers  of  /,  we  obtain  as  the 
+
+
+20  ALGEBRAIC  INVARIANTS 
+
+coefficient  of  any  power  r  of  /  a  covariant  of  the  system  /,  /'. 
+By  Taylor's  theorem,  this  covariant  is 
+
+in  which  the  symbolic  rth  power  of  9/ 9a  is  to  be  replaced 
+by  d'/da',  etc. 
+
+EXERCISES 
+
+1.  For  r=l,  K^ac  —  b\  (2)  becomes  (1). 
+
+2.  Taking  as  K  the  Hessian  (2)  of  cubic  (1)  in  §  8,  obtain  the  covariant 
+
+{ac'+a'c-2bb')x''  +  {ad'+a'd-bc'-b'c)xy  +  {bd'  +  b'd-2cc')y^ 
+
+of  index  2  of  a  pair  of  binary  cubic  forms. 
+
+3.  If  (1)  is  zero,  the  pair  of  points  given  by /=0  is  harmonic  with  the 
+pair  given  by/'  =  0. 
+
+12.  Homogeneous  Coordinates  of  Points  in  a  Plane.     Let 
+Li-.  aiX+bty-hct  =  0  (f  =  l,  2,  3) 
+
+be  any  three  linear  equations  in  x,  y,  such  that 
+
+ai        h\        ci  I 
+
+A=    a2  1)2  C2     5^0. 
+
+^3  &3  C2,  I 
+
+Interpret  x  and  y  as  the  Cartesian  coordinates  of  a  point 
+referred  to  rectangular  axes.  Then  the  equations  represent 
+three  straight  lines  Lt  forming  a  triangle.  Choose  the  sign 
+before  the  radical  in 
+
+_aiPC-\-hiy_^tCi 
+
+so  that  pi  is  positive  for  a  point  (x,  y)  inside  the  triangle  and 
+hence  is  the  length  of  the  perpendicular  from  that  point  to 
+Li.  The  homogeneous  (or  trilinear)  coordinates  of  a  point 
+{x,  y)  are  three  numbers  Xi,  X2,  xs  such  that 
+
+pXi=kipi,  pX2=k2p2,  pX3=k3p3, 
+
+where  ki,  k2,  ks  are  constants,  the  same  for  all  points.  In 
+view  of  the  undetermined  common  factor  p,  only  the  ratios 
+of  xi,  X2,  X3  are  defined. 
+
+
+§12] 
+
+
+HOMOGENEOUS  COORDINATES 
+
+
+21 
+
+
+For  example,  let  the  triangle  be  an  equilateral  one  with  sides  of  length 
+2,  base  on  the  .r-axis  and  vertex  on  the  y-axis.  The  equations  of  the 
+sides  Li,  Li,  Lz  are,  respectively, 
+
+
+Vz+'=''  vr'='-  "''■ 
+
+
+Take  each  ^<=1.    Then 
+
+
+y  +  V3(x-l)             y-Vz{x  +  \) 
+pxi= ;; ,  pXi= ,    pX3=y. 
+
+
+-2 
+
+
+_2 
+
+
+The  curve  XiX^^Xi"^  is  evidently  tangent  to  Z,i(i.e.,  Xi  =  0)  at  Q=(010), 
+and  tangent  to  Li  at  P=(100).  Substituting  for  the  x<  their  values,  we 
+see  that  the  Cartesian  equation  of  the  curve  is 
+
+
+ix-o 
+
+
+Fig.  3. 
+
+
+i{(>'-V3)^-3x=}=y2orx2+(^y+^y-|. 
+
+Hence  it  is  a  circle  with  radius  CP  and  center  at  the  intersection  C  of  the 
+normal  to  L^  at  P  with  the  normal  to  Zi  at  Q. 
+
+
+Changing   the    notation    for    the   coeflScients  of  kipi,   call 
+them  a  J,  hi,  d.     Then  we  have 
+
+
+m 
+
+
+pXi  =  aiX-{-biy-\-Ci,         A?^0 
+
+
+(^•  =  1,2,3). 
+
+
+22  ALGEBRAIC   INVARIANTS 
+
+Multiply  the  ith  equation  by  the  cof actor  Ai  of  at  in  the 
+determinant  A  and  sum  for  i  =  l,  2,  3.  Next  use  as  multiplier 
+the  cofactor  Bt  of  bi]  finally,  the  cofactor  d  of  d.     We  get 
+
+Ax  =  p'EAiXi,  Ay  =  pi:BiXi,  A  =  p^CtXi. 
+
+Hence  x  and  y  are  rational  functions  of  x\,  X2,  xs: 
+
+,  „.  _  AiXi-{-A2X2-{-A3X3  ^  BiXi-\-B2X2-i-B3X3 
+
+CiXi-\-C2X2  +  CsX3'  CiXi-\-C2X2-hC3Xs' 
+
+Any  equation  f{x,  y)=0  in  Cartesian  coordinates  becomes, 
+by  use  of  (C),  a  homogeneous  equation  (j)(xi,  X2,  X3)=0  in 
+homogeneous  coordinates.  The  reverse  process  is  effected  by 
+use  of  (H).  In  particular,  since  any  straight  line  is  represented 
+by  an  equation  of  the  first  degree  in  x  and  y,  it  is  also  rep- 
+resented by  a  homogeneous  equation  of  the  first  degree  in 
+Xi,  X2,  X3.  For  example,  the  sides  of  the  triangle  of  reference 
+are  xi  =  0,  X2  =  0,  X3  =  0.  Conversely,  any  homogeneous  equation 
+of  the  first  degree  in  xi,  X2,  X3  represents  a  straight  line. 
+The  degree  of  ^  is  always  that  of  /. 
+
+Take  the  y-axis  as  Li,  the  x-axis  as  L2,  and  let  L3  recede  to  infinity  by 
+making  C3  and  63  approach  zero.     Then  (//)  and  (C)  become 
+
+Xi  Xi 
+
+pXi  =  x,     pxi.—y,    pxz=\;    x=-,    y=~. 
+
+X3  X3 
+
+We  are  thus  led  to  a  very  special,  but  much  used,  method  of  passing  from 
+homogeneous  to  Cartesian  coordinates  and  conversely. 
+
+For  a  new  triangle  of  reference,  let  the  homogeneous  coor- 
+dinates of  (jc,  y)  be  yi,  y2,  ys-     Then,  as  in  (5'), 
+
+pyi  =  a'iX^rh'iy^rc'i  (i  =  l,2,  3). 
+
+Inserting  the  values  of  x  and  y  from  (C),  we  get  relations  like 
+
+i'.  ryi  =  eax  -\-f1X2  +g<X3  (^  =  1 ,  2,  3) . 
+
+Hence  a  change  of  triangle  of  reference  and  constants  ki, 
+k2,  ks  gives  rise  to  a  linear  homogeneous  transformation  /  of 
+coordinates.     The  determinant  of  the  coefficients  in  /  is  not 
+
+
+§13]  PROPERTIES  OF  THE  HESSIAN  23 
+
+zero,  since  yi=0,  >'2  =  0,  y3  =  0  represent  the  sides  of  the 
+new  triangle.  Conversely,  any  such  transformation  t  may  be 
+interpreted  as  a  change  of  triangle  of  reference  and  con- 
+stants ki. 
+
+Instead  of  regarding  t  as  a  set  of  relations  between  the 
+coordinates  of  the  same  point  referred  to  two  triangles  of 
+reference,  we  may  regard  it  as  defining  a  correspondence  between 
+the  points  {xi,  X2,  X3)  and  (yi,  y2,  ys)  of  two  different  planes, 
+each  referred  to  any  chosen  triangle  of  reference  in  its  plane. 
+This  correspondence  is  projective;  for,  it  can  be  effected  by 
+a  series  of  projections  and  sections,  each  projection  being 
+that  of  the  points  of  a  plane  from  a  point  outside  of  the  plane 
+and  each  section  being  the  cutting  of  such  a  bundle  of  pro- 
+jecting lines  by  a  new  plane.  Proof  will  not  be  given  here, 
+nor  is  the  theorem  assumed  in  what  follows.  It  is  stated 
+here  to  show  that  if  /  is  any  invariant  of  a  ternary  form  / 
+under  all  linear  transformations  /,  then  7  =  0  gives  a  projective 
+property  of  the  curve  /=C.  It  is  true  conversely  that  any 
+projective  transformation  between  two  planes  can  be  effected 
+by  a  linear  homogeneous  transformation  on  the  homogeneous 
+coordinates.  '  Thus  for  three  variables,  just  as  for  two  (§§  2,  3), 
+the  investigation  of  the  invariants  of  a  form  under  all  linear 
+homogeneous  transformations  is  of  e^i^ecial  imoortance. 
+
+13.  Properties  of  the  Hessian.  Let  f{xi,  .  .  . ,  Xn)  be  a 
+form  in  the  independent  variables  xi,  .  .  . ,  Xn-  The  Hessian 
+/j  of  /  is  a  determinant  of  order  w  in  which  the  elements  of 
+the  ith.  row  are 
+
+a-/  dj  ay 
+
+
+dXidxi  dXtdX2  dxtdXn 
+
+Let /become  <i){yi,  .  .  .  ,  jn)  under  the  transformation 
+
+T:  Xi  =  Ciiyi+Ci2y2-\-.  .  .+Ci„y„         (/  =  !,.  .  .  ,  w), 
+
+of  determinant  A  =  |q|.  The  product  hA  is  a  determinant 
+of  order  n  in  which  the  element  in  the  ith  row  and  jth  column 
+is  the  sum  of  the  products  of  the  above  elements  of  the  ^'th 
+
+
+24  ALGEBRAIC  INVARIANTS 
+
+row  of  h  by  the  corresponding  elements  of  the  ^th  column 
+of  A,  and  hence  is 
+
+-C\}-\-- — r C2j-\-.    .    .+— — Cn) 
+
+
+^  a  /  9/  dxi      df  dX2  .  ■    df  dxn\  ^   d 
+
+dxXdxidyj      dX2dyj      '  '  '     dxndyjj      dx 
+
+
+d± 
+dXidyj' 
+
+
+=  Hessian  of  0. 
+=  1 n 
+
+
+Let  a'  be  the  determinant  obtained  from  A  by  interchanging 
+its  rows  and  columns.  In  the  product  A'-M,  the  element 
+in  the  rth  row  and  jih  column  is  therefore 
+
+dxi  dyj  dXn  dyj     dyr  dyj 
+
+since  dr  is  the  partial  derivative  of  Xt  with  respect  to  yr.     Hence 
+
+dyrdyj 
+
+Thus  h  is  Si  covariant  of  index  2  of/. 
+
+To  make  an  application  to  conies,  let  /  be  a  ternary  quad- 
+ratic form.  Then  h  is  an  invariant  called  the  discriminant 
+of/.  Let  (ai,  02,  as)  be  a  point  on  /=0  (for  example,  one 
+with  0:3  =  0).  For  Ca=ai  and  Ct2,  Cjs  chosen  so  that  A?^0, 
+transformation  T  makes  (x)  =  (a)  correspond  to  (3;)  =  (100). 
+Hence  we  may  assume  that  (100)  is  a  point  on/=0,  so  that 
+the  term  in  xi^  is  lacking.  Consider  the  terms  xj  with  the 
+factor  xi.  If  /^O,  /  involves  only  X2  and  xs  and  hence  is  a 
+product  of  two  linear  functions,  while  h  =  0.  In  the  contrary 
+case,  we  may  introduce  /  as  a  new  variable  in  place  of  0:2.  This 
+amounts  to  setting  l  =  X2, 
+
+f  =  XiX2-\-aX2^-\-bX2X3-\-CX3^. 
+
+Replacing  xi  by  Xi  —  ax2  —  bx3,  we  get  :j;ia;2  — ^^3^,  whose  Hessian 
+is  2k.  Hence  /=0  represents  two  (distinct  or  coincident) 
+straight  lines  if  and  only  if  the  Hessian  (discriminant)  of  / 
+is  zero. 
+
+Moreover,  if  the  discriminant  is  not  zero,  then  k^^O  and  we 
+may  replace  Vkxs  by  X3  and  get  0:1^:2— ^3^-  Hence  all  conies, 
+which  do  not  degenerate  into  straight  lines,   are  equivalent 
+
+
+§  13]  PROPERTIES   OF  THE  HESSIAN  25 
+
+under  projective  transformation.  If  the  triangle  of  reference 
+is  equilateral  and  the  coordinates  are  proportional  to  the  per- 
+pendiculars upon  its  sides,  :riX2— X3^  =  0  is  a  circle  (§  12). 
+
+On  the  contrary,  if  we  employ  only  translations  and  rota- 
+tions, as  in  plane  analytics,  there  are  infinitely  many  non- 
+equivalent  conies  ;  we  saw  in  §  1  that  there  are  then  two 
+invariants  besides  the  discriminant. 
+
+Next,  to  make  an  application  to  plane  cubic  curves,  let 
+f{xx,  X2,  xz)  be  a  ternary  cubic  form.  A  triangle  of  reference 
+can  be  chosen  so  that  P=(001)  is  a  point  of  the  curve /=0. 
+Then  the  term  in  x^^  is  lacking,  so  that 
+
+/  =  ^3-/l+A-3/2+/3, 
+
+where  /«  is  a  homogeneous  function  of  .ri  and  X2  of  degree  /. 
+We  assume  that  P  is  not  a  singular  point,  so  that  the  partial 
+derivatives  of  /  with  respect  to  Xi,  X2,  and  xa  are  not  all  zero 
+at  P.  Hence  /i  is  not  identically  zero  and  can  be  introduced 
+as  a  new  variable  in  place  of  xi.  Thus,  after  a  preliminary 
+linear  transformation,  we  have 
+
+xz^xi+xz{axi~  -[-hxiX2+cx2^)  +fi. 
+
+Replace  xs  by  xs  —  ^ (axi  -\-bX'2) ■     We  get 
+
+F  =  xs^xi  -\-ex3X2-+C, 
+
+where  C  is  a  cubic  function  of  Xi,  X2,  whose  second  partial 
+derivative  with  respect  to  Xt  and  Xj  will  be  denoted  by  Cy. 
+The  Hessian  of  F  is 
+
+
+H  = 
+
+
+If  the  transformation  which  replaced  /  by  F  is  of  deter- 
+minant A,  it  replaces  the  Hessian  k  of  /  by  H  =  A~h.  Thus 
+H  =  0  represents  the  same  curve  as  h  =  0,  but  referred  to  the 
+same  new  triangle  of  reference  as  F  =  0.  We  may  therefore 
+speak  of  a  definite  Hessian  curve  of  the  given  curve  f=0. 
+In  investigating  the  properties  of  these  curves  we  may  therefore 
+
+
+Cn 
+
+Ci2 
+
+2X3 
+
+Cv2 
+
+C22-\-2ex3 
+
+2eX2 
+
+2X3 
+
+2ex2 
+
+2xi 
+
+26  ALGEBRAIC  INVARIANTS 
+
+refer  them  to  the  triangle  of  reference  for  which  their  equations 
+aren  =  0,F  =  0. 
+
+The  coefficient  of  xs^  in  H  is  evidently  —  8^.  Thus  P  is  on 
+the  Hessian  curve  if  and  only  ii  e  =  0.  li  d  is  the  coefficient  of  X2^ 
+in  C,xi=0  meets  7^  =  0 at  the  points  for  which X2"{ex3-\-dx2)  =0 
+and  these  points  coincide  (at  F)  if  and  only  if  e  =  0.  In 
+that  case,  P  is  called  a  point  of  inflexion  oi  F  =  0  and  a-i=0 
+the  inflexion  tangent  at  P.  For  a  cubic  curve  /=0  witJwut  a 
+singular  point,  every  point  of  inflexion  is  a  point  of  intersection 
+of  the  curve  with  its  Hessian  curve  and  conversely. 
+
+14.  Inflexion  Points  and  Invariants  of  a  Cubic  Curve.  EHm- 
+inating  x^  between /  =  0,  A  =  0,  we  obtain  a  homogeneous  relation 
+in  Xi,  X2,  which  has  therefore  at  least  one  set  of  solutions  .t'i,  X2- 
+For  the  latter  values  of  Xi  and  X2,  /=0  and  h  =  0  are  cubic 
+equations  in  xs  with  at  least  one  common  root,  x's.  Hence 
+/=0  has  at  least  one  inflexion  point  {x'l,  x'2,  x'3).  After  a 
+suitable  linear  transformation,  this  point  becomes  (001).  As 
+in  §  13,  we  can  transform  /  into  F,  in  which  e  is  now  zero.  If 
+d  =  0,  then  F  =  xiQ,  and  the  derivatives 
+
+=(J-rXi , Xi ,         — — —^i~ 
+
+dxi  9x1  9X2         9x2  9x3         9x3 
+
+all  vanish  at  an  intersection  of  xi=0,Q  =  0.  But  we  assume 
+that  there  is  no  singular  point  on/=0  and  thus  none  on  F=0. 
+Hence  J  5^0.  Replacing  X2  by  J~*X2,  we  have  an  F  with 
+d  =  l.     Adding  a  multiple  of  Xi  to  X2,  we  get 
+
+F=X32xi+C,  C=X2=^+3iX2Xi2+aXi3, 
+
+di     Ci 
+
+
+C12     C2 
+
+
+^=-4X32C22  +  2Xi</.,  <, 
+
+so  that  0  is  the  Hessian  of  C.     By  §  8, 
+
+(f,  =  3Q{  —  b-xr-{-axiX2+bx2^). 
+Eliminating  xs^  between  F  =  0,  ^^  =  0,  we  get 
+
+Xi20  +  2C22C=  12(x2*  +  6^)X22xi2+4ax2Xi3-362xi4)  =0. 
+If  xi  =  0,   then  X2  =  0  and  we  obtain  the  known  intersection 
+
+
+§  14]  INFLEXION  POINTS   OF  CUBIC  27 
+
+(001).  For  the  remaining  intersections,  we  may  set  Xi  =  l 
+and  obtain  from  eacii  root  r  of 
+
+(1)  r4+6&/^+4ar- 3^2  =  0 
+
+two  intersections  (1,  r,  ix's).  For,  if  x'z  =  ^,  then  C  =  0,  so 
+that  (1)  would  have  a  multiple  root,  whence  d?'-\-W'  =  ^.  But 
+the  three  partial  derivatives  of  F  would  then  all  vanish  at 
+{2b, ~a,  0)  or  (1,0,0),  according  as  ftj^O  or  b  =  0.  Hence  there 
+are  exactly  nine  distinct  points  of  inflexion. 
+
+For  each  of  the  four  roots  of  (1),  the  three  points  of  inflexion 
+P  and  (1,  r,  ztx's)  are  collinear,  being  on  X2=rxi.  Since  we 
+may  proceed  with  any  point  of  inflexion  as  we  did  with  P, 
+we  see  that  there  are  9-4/3  or  12  lines  each  joining  three  points 
+of  inflexion  and  such  that  four  of  the  lines  pass  through  any 
+one  of  the  nine  points.  The  six  points  of  inflexion  not  on  a 
+fixed  one  of  these  lines  therefore  lie  by  threes  on  two  new 
+lines;  three  such  lines  form  an  inflexion  triangle.  Thus  there 
+are  ^12  =  4  inflexion  triangles. 
+
+The  fact  that  there  are    four    inflexion    triangles,    one    for 
+each  root  r  of  (1),  can  also  be  seen  as  follows: 
+
+iTH+rF  =  {rxi-X2)\x3~-rx2^-{r^-\-3b)xiX2-{r^-{-Qbr-\-3a)xi^\. 
+The  last  factor  equals 
+
+X3'--\rx2+hir^-\-3b)xir-, 
+r 
+
+and  hence  is  the  product  of  two  hnear  functions. 
+
+Corresponding  results  hold  for  any  cubic  curve /=0  without 
+singular  points.  We  have  shown  that  /  can  be  reduced  to 
+the  special  form  7^  by  a  linear  transformation  of  a  certain 
+determinant  A.  Follow  this  by  the  transformation  which 
+multiplies  xs  by  A  and  Xi  by  A"^^  and  hence  has  the  determin- 
+ant A~^  Thus  there  is  a  transformation  of  determinant 
+unity  which  replaces  /  by  a  form  of  type  F,  and  hence  replaces 
+the  Hessian  h  oi  f  by  the  Hessian  H  of  F.  Hence  there  are 
+exactly  four  values  of  r  for  which  i}/  =  h-\-2Arf  has  a  linear  factor 
+and  therefore  three  linear  factors.  These  r's  are  the  roots 
+of  a  quartic  (l)  in  which  a  and  b  are  functions  of  the  coefi&cients 
+
+
+28  ALGEBRAIC  INVARIANTS 
+
+of/.  To  see  the  nature  of  these  functions,  let  Xi—\X2—nX3 
+be  a  factor  of  \p.  After  replacing  xi  by  'Kx2+fJiX3  in  \l/,  we 
+obtain  a  cubic  function  of  X2  and  X3  whose  four  coefficients 
+must  be  zero.  Eliminating  X  and  ai,  we  obtain  two  conditions 
+involving  r  and  the  coefficients  of  /  rationally  and  integrally. 
+The  greatest  common  divisor  of  their  left  members  is  the 
+required  quartic  function  of  r.  Unless  the  coefficient  of  r^  is 
+constant,  a  root  would  be  infinite  for  certain  /'s.  The  inflexion 
+triangles  of  a  general  cubic  curve  /=0  are  given  by  h-{-2^rf=0, 
+where  h  is  the  Hessian  of  f  and  r  is  a  root  of  the  quartic  (1)  in 
+which  a  and  b  are  rational  integral  invariants  of  f. 
+
+The  explicit  expressions  for  these  invariants  are  very  long; 
+they  are  given  in  Salmon's  Higher  Plane  Curves,  §§  221-2, 
+and  were  first  computed  by  Aronhold.  For  their  short  sym- 
+bolic expressions,  see  §  65,  Ex.  4. 
+
+EXERCISES 
+
+1.  Using  the  above  inflexion  triangle  yiy-iys  —  O,  where 
+
+rxi  —  X2  =  yY,  ^rXi±:{rx-i-\-kxx)  =  2yi,  2yi, 
+k={r^+2.b)/2,   r^+k  =  l{r'-  +  h)9^Q, 
+
+as  shown  by  use  of  (1),  we  have  the  transformation 
+
+^rXi  =  yn-\-yi,  {r--\-k)xi  =  ryi+D,  {r'^+Ji)x2= —kyi-\-rD, 
+where  D  =  y2—y:u     Using  (1)  to  eliminate  a,  show  that 
+
+^  {r".j^b)F  =  -{y-^-y,')  +Zyxyty,--(r^+U)yiK 
+8  r  8 
+
+Adding  the  product  of  the  latter  by  54  to  its  Hessian,  we  get  the  product 
+of  yiyiyz  by  Z\r'^ +h) / r'^ .  Hence  the  nine  points  of  inflexion  are  found  by 
+setting  yi,  y^,  yz  equal  to  zero  in  turn. 
+
+2.  By  multiplying  the  y's  in  Ex.  1  by  constants,  derive 
+
+/=  a(3,3  +s,3  +233)  +6|3ZiZ2Z3, 
+
+called  the  canonical  form.     Its  Hessian  is  ^%,  where 
+
+// =  -aiS^Si' +S..' +23=')  +  (a3 +2/33)ZiZ223. 
+
+Thus  find  the  nine  inflexion  points  and  show  that  the  four  inflexion  triangles 
+are 
+
+ZiZ2Z3  =  0,  2Zi'— 3/2iZiZ3  =  0     (/=!,  w,  w^), 
+
+
+14] 
+
+
+INFLEXION   POINTS  OF  CUBIC 
+
+
+29 
+
+
+where  w  is  an  imaginary  cube  root  of  unity.  Their  left  members  are 
+constant  multiples  of  3h+rf,  where  r  =  3/32,  — (/«— ^)2  are  the  four  roots 
+of  (1),  with 
+
+3.  The  Jacobian  of /i(a;i, .  .  . ,  Xn), .  .  .  ,  fnixi,  .  .  ,  Xn)  is 
+
+
+dfndfn 
+
+
+Show  that  it  is  a  covariant  of  index  unity  of /i,  .  .  .  ,  fn- 
+
+4.  Hence  the  resultant  of  three  ternary  linear  forms  is  an  invariant  of 
+index  unity. 
+
+5.  If /i, .  .  .  ,fn  are  dependent  functions,  the  Jacobian  is  zero. 
+
+
+PART   II 
+
+
+THEORY  OF  INVARIANTS  IN  NON-SYMBOLIC 
+NOTATION 
+
+15.  Homogeneity  of  Invariants.  We  saw  in  §  11  that  two 
+binary  quadratic  forms  /  and  /'  have  the  invariants 
+
+d  =  ac-b'^,        s  =  ac'+a'c-2bh' 
+
+of  index  2.  Note  that  s  is  of  the  first  degree  in  the  coefficients 
+a,  b,  c  oi  f  and  also  of  the  first  degree  in  the  coefficients  of  /', 
+and  hence  is  homogeneous  in  the  coefficients  of  each  form 
+separately.  The  latter  is  also  true  of  d,  but  not  of  the  invariant 
+s-\-2d. 
+
+When  an  invariant  of  two  or  more  forms  is  not  homogeneous 
+in  the  coefficients  of  each  form  separately,  it  is  a  sum  of  invariants 
+each  homogeneous  in  the  coefficients  of  each  form  separately. 
+
+A  proof  may  be  made  similar  to  that  used  in  the  following 
+case.  Grant  merely  that  s-\-2d  is  an  invariant  of  index  2  of 
+the  binary  quadratic  forms/  and/'.  In  the  transformed  forms 
+(§  11),  the  coefficients  A,  B,  C  oi  F  are  linear  in  a,  b,  c;  the 
+coefficients  A',  B' ,  C  of  F'  are  Hnear  in  a',  b',  c' .     By  hypothesis 
+
+AC  ^A'C-2BB'  ^2{AC-B'^)=^\s^2d). 
+
+The  terms  2d!^  of  degree  2  in  a,  b,  c  on  the  right  arise  only 
+from  the  part  2(AC-B^)  on  the  left.  Hence  d  is  itself  an 
+invariant  of  index  2;  likewise  s  itself  is  an  invariant. 
+
+However,  an  invariant  of  a  single  form  is  always  homo- 
+geneous. For  example,  this  is  the  case  with  the  above  dis- 
+criminant d  of  /.     We  shall  deduce  this  theorem  from  a  more 
+
+general  one. 
+
+30 
+
+
+§15]  HOMOGENEITY  OF  INVARIANTS  31 
+
+Let  /  be  an  invariant  of  r  forms  /i,  .  .  .  ,/r  of  orders  p\y 
+.  .  .,  pT  in  the  same  q  variables  Xi,  .  .  .  ,  Xq.  Let  a  particular 
+term  ^  of  /  be  of  degree  di  in  the  coefficients  of  /i,  of  degree 
+d2  in  the  coefficients  of /2,  etc.     Apply  the  special  transformation 
+
+Xi=a^i,  X2=(x^2,  •    •    .,  XQ=a^g, 
+
+of  determinant  A  =a'^.  Then/t  is  transformed  into  a  form  whose 
+coefficients  are  the  products  of  those  of  ft  by  a^K  Hence  in 
+the  function  /  of  the  transformed  coefficients,  the  term  cor- 
+responding to  /  equals  the  product  of  t  by 
+
+This  factor  therefore  equals  A^,  if  X  is  the  index  of  the  invariant. 
+Thus 
+
+r 
+
+S  dipi  =  \q. 
+
+Hence  I,dipi  is  constant  for  all  the  terms  of  the  invariant. 
+
+For  the  above  two  quadratic  forms,  r  =  pi  —  pi  =  2.  For  invariant  d, 
+we  have  di  =  2,  di  =  0,  '^dipi  =  4:  =  2\.  For  s,  we  have  di  =  d.,=  l,  Zdtpi  =  4:. 
+Again,  the  discriminant  (§8)  of  the  binary  cubic  form  is  of  constant  degree 
+4  and  index  X  =  6;  we  have  7:dipi  =  i-3  =  2\. 
+
+If,  as  in  the  last  example,  we  take  r  =  l,  we  see  that  an 
+invariant  of  index  X  of  a  single  ^-ary  form  of  order  p  is  of 
+constant  degree  d,  where  dp  =  X^,  and  hence  is  homogeneous. 
+
+16.  Weight  of  an  Invariant  /  of  a  Binary  Form  f.     Give  to 
+
+I  and/  the  notations  in  §  7.     Let 
+
+be  any  term  of  /,  and  call 
+
+^  =  ^1+2^2+3^3  +  .   .  .+pep 
+
+the  weight  of  /.  Thus  w  is  the  sum  of  the  subscripts  of  the 
+factors  Oi  each  repeated  as  often  as  its  exponent  indicates. 
+We  shall  prove  that  the  various  terms  of  an  invariant  of  a  binary 
+form  are  of  constant  weight,  and  hence  call  the  invariant  isoharic. 
+For  example,  aQX^-\-2a\xy-\-a2y^  has  the  invariant  00^2— fli^, 
+each  of  whose  terms  is  of  weight  2. 
+
+
+32  ALGEBRAIC  INVARIANTS 
+
+To  prove  the  theorem,  apply  to/  the  transformation 
+
+X=^,  y=ari. 
+
+We  obtain  a  form  with  the  Uteral  coefficients 
+
+Ao  =  ao,        Ai=aia,        A2  =  a2a^,  .  .  .  ,  Ap  =  apa^. 
+
+Hence  if  I  is  of  index  X, 
+
+/(go,  aia,  .  .  .  ,  apaP)=a^I{ao,  ai,  .  .  .  ,  Up), 
+
+identically  in  a  and  the  a's.  The  term  of  the  left  member 
+which  corresponds  to  the  above  term  /  of  /  is  evidently 
+
+CoQo^o   .    .    .   Qp^'va^. 
+
+Hence  w  =  X.  The  weight  of  an  invariant  of  degree  d  oi  2. 
+binary  p-\z  is  thus  its  index  and  hence  (§  15)  equals  \dp. 
+
+17.  Weight  of  an  Invariant  of  any  System  of  Forms.    Let 
+
+/i,  .  .  .  , /„  be  forms  in  the  same  variables  X\^  .  .  .  ,  Xg.  We 
+define  the  weight  of  the  coefficient  of  any  term  of  ft  to  be 
+the  exponent  of  Xa  in  that  term,  and  the  weight  of  a  product 
+of  coefficients  to  be  the  sum  of  the  weights  of  the  factors. 
+For  q  =  2,  this  definition  is  in  accord  with  that  in  §  16,  where 
+the  coefficient  at  of  a:iP~%2^'  was  taken  to  be  of  weight  k. 
+Again,  in  a  ternary  quadratic  form,  the  coefficients  of  xi^, 
+a;iit;2  and  X2^  are  of  weight  zero,  those  of  X1X3  and  ::C2^3  of  weight 
+unity,  and  that  of  xs^  of  weight  2. 
+
+Under  the  transformation  of  determinant  a, 
+
+Xl  =  §1,  .     .     .   ,  Xq  —I  =^  ^q—l,  Xg  =Q;^j, 
+
+fi  becomes  a  form  in  which  the  coefficient  c'  corresponding 
+to  a  coefficient  c  of  weight  k  in  ft  is  ca/^.  If  /  is  an  invariant, 
+7(c')^q:V(c),  identically  in  a.  Hence  every  term  of  I  is  of 
+weight  X. 
+
+Thus  any  invariant  of  a  single  form  is  isoharic;  any  invariant 
+of  a  system  of  two  or  more  forms  is  isoharic  on  the  whole,  hut 
+not  necessarily  isoharic  in  the  coefficients  of  each  form  separately. 
+
+The  index  equals  the  weight  and  is  therefore  an  integer  ^  0. 
+
+
+§18]  PRODUCTS  OF  LINEAR  TRANSFORMATIONS  33 
+
+EXERCISES 
+
+1.  The  invariant  a^a' 2+a2a' Q—2aia' i  of 
+
+Gox"^  -\-2aixy+a2y~,       a' ox"^ -\-2a\xy  -\-a'2y'^ 
+
+is  of  total  weight  2,  but  is  not  of  constant  weight  in  ao,  Ci,  a2  alone. 
+
+2.  Verify  the  theorem  for  the  Jacobian  of  two  binary  h'near  forms. 
+
+3.  Verify  the  theorem  for  the  Hessian  of  a  ternary  quadratic  form. 
+
+4.  No  binary  form  of  odd  order  p  has  an  invariant  of  odd  degree  d. 
+
+
+^0, 
+
+
+18.  Products  of  Linear  Transformations.     The  product  TT'  of 
+
+a  13 
+7   5 
+'  a' 
+
+a   p 
+7    0 
+
+is  defined  to  be  the  transformation  whose  equations  are  obtained 
+by  eliminating  ^  and  r?  between  the  equations  of  the  given 
+transformations.    Hence 
+
+la"=aa'+/37',i8"=a/3'+/35',7"  =  7a'  +  57',5"  =  7/3'  +  55'. 
+
+Its  determinant  is  seen  to  equal  AA'  and  hence  is  not  zero. 
+By  solving  the  equations  which  define  T,  we  get 
+
+,.5       /3  —7       a 
+
+A       A-^  A  A-^ 
+
+These  equations  define  the  transformation  T~^  inverse  to  T\ 
+each  of  the  products  TJ"^  and  T~'^T  is  the  identity  trans- 
+formation a;  =  X,  y=Y . 
+
+The  product  of  transformation  Tq,  defined  in  §  1,  by  T^'  is  seen  to  equal 
+Tgj^Q',  in  accord  with  the  interpretation  given  there.  The  inverse  of 
+Tb  is 
+
+T -e:     ^  =  X  cos  e -\-y  ?,\n  e ,     77=  — x  sin  e+y  cos  0. 
+
+Consider  also  any  third  linear  transformation 
+
+Ti:  X=axU+&iV,         Y  =  yiU+biV. 
+
+To  prove  that  the  associative  law 
+
+{Tr)Ti  =  T{T'Ti) 
+
+
+34  ALGEBRAIC  INVARIANTS 
+
+holds,  note  that  the  first  product  is  found  by  eliminating  first 
+^,  rj  and  then  X,  Y  between  the  equations  for  T,  T,  Ti,  while 
+the  second  product  is  obtained  by  eliminating  first  A"^,  Y  and 
+then  ^,  7]  between  the  same  equations.  Thus  the  final  eliminants 
+must  be  the  same  in  the  two  cases. 
+
+Hence  we  may  write  TT'Ti  for  either  product. 
+
+19.  Generators  of  All  Binary  Linear  Transformations.  Every 
+binary  linear  homogeneous  transformation  is  a  product  of  the 
+transformations 
+
+Tn:  x=^+nri,        y  =  v; 
+
+S,:  x=^,  y  =  kr)  (k^O); 
+
+V:  x=-v,  y=^- 
+
+From  these  we  obtain  * 
+
+]/'-i  =  F^:  x  =  v,  y=  —  ^', 
+
+V-^T-nV=^T'n:  x  =  x',  y  =  y-\-nx'; 
+
+V-'StV     =S\:  x  =  kx',        y-^y'  (k^O). 
+
+For  55^0,  the  transformation  T  in  §  18  equals  the  product 
+
+For  5  =  0,  SO  that  iSy^^O,  T  equals 
+
+SyS'  -pi    -a/pV ' 
+
+20.  Annihilator   of   an   Invariant   of  a  Binary  Form.     The 
+
+binary  form  in  §  7  may  be  written  as  either  of  the  sums 
+
+/=S  y.\  aiX^-^y  =  ^  y.\  ap-iX'yP-K 
+
+Transformation  V,  of  determinant  unity,  replaces  the  second 
+sum  by 
+
+ii^^a,-t{-ly^r>-^r,i, 
+
+Comparing  this  with  the  first  sum  we  see  that  an  invariant 
+
+of /must  be  unaltered  when 
+
+(1)  di  is  replaced  by  {  —  lYap-i      (i  =  0,  1,  .  .  .  ,p), 
+
+*  The  T's  are  of  the  nature  of  translations,  and  the  5's  stretchings. 
+
+
+§  20]  ANNIHILATOR  OF  INVARIANTS  35 
+
+By  §  16,  a  function  I{ao,  ...,  Gp)  is  invariant  with  respect 
+to  every  transformation  St  if  and  only  if  it  is  isobaric. 
+
+Finally,  the  function  must  be  invariant  with  respect  to 
+every  r»;  under  this  transformation  let 
+
+Differentiating  partially  with  respect  to  n,  we  get 
+
+since  T7  =  y  is  free  of  n,  while  ^  =  x  —  nri.  The  total  coeflScient 
+of  ^p-V  is 
+
+the  second  term  being  absent  if  7=0.     But 
+
+Hence] 
+
+dn  dAi  dAo  QA3  ^         QAp 
+
+Now  I(ao,  .  .  .  ,  dp)  is  invariant  with  respect  to  every 
+transformation  T„,  of  determinant  unity,  if  and  only  if 
+
+I{Ao,  .  .  .  ,  Ap)=I{aQ,  .  .  .  ,  dp), 
+
+identically  in  n  and  the  a's.     This  relation  evidently  implies 
+
+dljAo,  •  •  •  ,  ^p)  ^Q 
+
+Conversely,  the  latter  implies  that  /(^o,  .  •  . ,  Ap)  has  the 
+same  value  for  all  values  of  n  and  hence  its  value  is  that  given 
+by  n  =  0,  viz.,  I(ao,  .  .  .  ,  Gp).  Hence  /  has  the  desired  property 
+if  and  only  if  the  right  member  of  (2)  is  zero  identically  in 
+n  and  the  a's.     But  this  is  the  case  if  and  only  if 
+
+f2/(ao,  .  .  .  ,  ap)=0, 
+
+
+36  ALGEBRAIC  INVARIANTS 
+
+identically  in  the  a's,  where  2  is  the  differential  operator 
+
+dai  3^2  das  9«p 
+
+In  other  words,  I  must  satisfy  the  partial  differential 
+equation  12/ =  0.  In  Sylvester's  phraseology,  /  must  be  anni- 
+hilated by  the  operator  Q. 
+
+From  this  section  and  the  preceding  we  have  the  important 
+
+Theorem.    A  rational  integral  function  I  of  the  coefficients 
+
+of  the  binary  form  f  is  an  invariant  of  f  if  and  only  if  I  is  iso- 
+
+baric,  is  unaltered   by  the  replacement  (1),  and  is  annihilated 
+
+by  n. 
+
+EXAMPLE 
+
+An  invariant  of  degree  d  of  the  binary  quartic  (§6)  is  of  weight  2d 
+(end  of  §  16).  For  J=l,  the  only  possible  term  is  kai]  since  0=U{ka2) 
+=  2kai,  we  have  ^=0,     For  J =2,  we  have 
+
+/  =  raodi  +saia3  +ta2'^, 
+
+i2/=  (5+4r)aoa3  +  (4/+35)aia2  =  0, 
+
+5=— 4r,  i  =  3r,  /  =  r(aoa«-4aia3+3cj*). 
+
+EXERCISES 
+
+1.  Every  invariant  of  degree  3  of  the  binary  quartic  is  the  product  of  a 
+constant  by 
+
+J  =  ao(i2ai-\-2aia2a3  —  Goaz'^ — Oi^ai— a2^. 
+
+2.  The  invariant  of  lowest  degree  of  the  binary  cubic 
+
+aoX^+3aiX^y+3a2xy'^+a3y^ 
+is  its  discriminant  (aoOs— oiOa)^— 4(ao02— ai^)(aia3— 02^). 
+
+3.  An  invariant  of  two  or  more  binary  forms 
+
+C0XP1+.  .  .,    boxP^+.  .  .,    CoxP^+.  .  . 
+is  annihilated  by  the  operator 
+
+sn^oo— +2a,— +.  .  .+bo~-+2bi~+.  .  .+Co— +.  .  .  . 
+dai  da2  dbi  dbz  dCi 
+
+4.  Every  invariant  of 
+
+aox^+2aixy+a2y^,     boX^+2bixy+b2y^ 
+
+
+§21]  HOMOGENEITY  OF  COVARIANTS  37 
+
+of  the  first  degree  in  the  a's  and  first  degree  in  the  6's  is  a  multiple  of 
+a<,bi+a2bo—'2aibi. 
+
+5.  A  binary  quadratic  and  quartic  have  no  such  lineo-hnear  invariant. 
+
+6.  Find  the  invariant  of  partial  degrees  2,  1  of  a  binary  linear  and 
+a  quadratic  form. 
+
+7.  Find  the  invariant  of  partial  degrees  1,  2  of  a  binary  quadratic  and  a 
+cubic  form. 
+
+8.  The  first  two  properties  in  the  theorem  of  §  20  imply  that  /  is  homo- 
+geneous. For,  under  replacement  (1),  any  term  cao% .  .  .  Up^P  of  /,  of 
+weight  w  =  ei+2e2+  .  .  .  +pep,  implies  a  term  zLcao^^ai^P-i .  .  .  ap% 
+of  weight  w~ep-i+2ep-2+  .  .  .  +  ip  —  l)ei+  peo.  Adding  the  two 
+expressions  for  w,  show  that  the  degree  d  =  ea+ei+  .  .  .  -{-Cp  is  the  constant 
+2w/p. 
+
+21.  Homogeneity  of  Covariants.  A  covariant  which  is  not 
+ho}}ws;cncous  in  the  variables  is  a  sum  of  covariants  each  homo- 
+geneous in  the  variables. 
+
+For,  il  a,  b,  .  .  .  are  the  coefficients  of  the  forms,  and  K 
+is  a  covariant, 
+
+K(A,  B,.  .  .;   ^,v,  ■  •  .)=A^K(a,  b,  .  .  .;  x,  y,  .  .  .). 
+
+When  X,  y,  .  .  .  are  replaced  by  their  linear  expressions  in 
+I,  77,  ...  ,  the  terms  of  order  co  in  x,  y,  .  .  .  on  the  right  (and 
+only  such  terms)  give  rise  to  terms  of  order  co  in  ^,  7?,  .  .  .  on 
+the  left.  Hence,  if  A'l  is  the  sum  of  all  of  the  terms  of  order 
+0)  of  K, 
+
+Ki(A,  B,...;^,v,..  .)=A^Ki(a,  b,  .  .  .  ;  x,  y,  .  .  .), 
+
+and  A'l  is  a  covariant.     In  this  way,  K  =  Ki-\-K2  +  .  .  .  . 
+
+Henceforth,  we  shall  restrict  attention  to  covariants  which 
+are  homogeneous  in  the  variables,  and  hence  of  constant  order. 
+
+A  covariant  K  of  constant  order  oi  of  a  single  form  f  is  homo- 
+geneous in  the  coefficients,  and  hence  of  constant  degree  d. 
+
+For,  let  /  have  the  coefficients  a,  b,  .  .  .  and  order  p,  and 
+apply  the  transformation  x  =  a^,  y=aT],  ....  The  coefficients 
+of  the  resulting  form  are  A  =aPa,  B=a^b Thus 
+
+K(a^a,a^'b,.  .  .  ;  a-^x,a-^y,.  .  .)^(aiyK(a,b,  .  .  .  ;x,y,  .  .  .)^ 
+
+identically  in  a,  a,  b,  .  .  .  ,  x,  y,  .  .  .  ,  since  the  left  member 
+
+
+38  ALGEBRAIC  INVARIANTS 
+
+equals  K(A,  B,  .  .  .  ;  ^,   v,  -  -  ■)-     Now  K  is  homogeneous 
+in  X,  y,  .  .  .  ,  of  order  w;  thus 
+
+a-"K(aPa,  aPb,  .  .  .;  X,  y,  .  .  .)=a^^K{a,  b,  .  .  .  ;  x,  y,  .  .  .). 
+
+Thus  if  A'  has  a  term  of  degree  d  in  a,  b,  .  .  .  ,  then 
+
+
+a-"-aP'^=a«\ 
+
+
+pd  —  (x}  =  q\, 
+
+
+so  that  d  is  the  same  for  all  terms  of  A'. 
+
+//  /  is  a  form  of  order  p  in  q  variables  and  if  K  is  a  covariant 
+of  degree  d,  order  co  and  index  X,  then  pd  —  w  =  q\. 
+
+22.  Weight  of  a  Covariant  of  a  Binary  Form.     In 
+
+f  =  aQxTP-\-paixP-^y-\-.   .   .-\-i.\aiX^-'y^+.  .  .+apyP 
+
+the  weight  of  at  is  k.  We  now  attribute  the  weight  1  to  :«; 
+and  the  weight  0  to  y,  so  that  every  term  of  /  is  of  total 
+weight  p. 
+
+Apply  to/  the  transformation  x=^,  y=ar].  The  hteral 
+coefficients  of  the  resulting  form  are 
+
+^0  =  ^0,        Ai=aai,  .  .  .,  Ap=aPap. 
+If  A  is  a  covariant  of  degree  d,  order  co,  and  index  X,  then 
+
+K(Ao,  .  .  .  ,  Ap]  ^,  7])  =a^K{ao,  .  .  .  ,  ap-,  x,  y). 
+
+Any  term  on  the  left  is  of  the  form 
+
+cAo'oAi'i  .  .  .  Ap'p^^yf  {eo-\-ei+  .  .  .   +ep=d). 
+
+This  equals 
+
+coQ^mi^  .  .  .  ap'vx'y'^-'a^-''       {W  =  r-\-ei+2e2+  .  .  .  +pep). 
+
+This  must  equal  a  term  of  the  right  member,  so  that 
+W—<ji  =  \.  But  W  is  the  total  weight  of  that  term.  Hence 
+every  term  of  A  is  of  the  same  total  weight.  A  covariant 
+of  index  X  and  order  oj  of  a  binary  form  is  isobaric  and  its  weight 
+is  co+X. 
+
+For  a  form /of  order  p'm  q  variables,  we  attribute  the  weight  1  to  Xi,  Xi, 
+.  .  .  ,  ajj.i  and  the  weight  0  to  Xq\  then  (§  17)  every  term  of/  is  of  total 
+weight  p.  By  a  proof  similar  to  the  above,  a  covariant  of  index  X  and  order 
+to  of  /  is  isobaric  and  its  weight  is  w+X. 
+
+
+§23]  ANNIHILATORS  OF  CO  VARIANTS  39 
+
+Consider  a  covariant  K  homogeneous  and  of  total  order  w  in  the  variables 
+Xi,  .  .  .  ,  Xq  of  two  or  more  forms  /j.  As  in  §  15,  K  need  not  be  homo- 
+geneous in  the  coefificients  of  each  form  separately,  but  is  a  sum  of  co variants 
+homogeneous  in  the  coefificients  of  each.  Let  such  a.  K  he  oi  degree  dt  in 
+the  coefificients  of /(,  of  order />j.  As  in  ^21,  ^pidt—u  —  qX.  The  total 
+weight  oi  K  is  o}  +  \. 
+
+For  example,  ii  pi  =  po  =  q  =  2, 
+
+/i  =  aoX^+2aixy  +a2y-,    fi  =  boX^+2bixy+biy'^. 
+
+The  Jacobian  of  /i  and  fi  is  4^",  where 
+
+K  =  {aohi  —  aibo)x^  +  (aob2— a2bo}xy  +  (aib2  —  a2bi)y''. 
+Here 
+
+di  =  d2=l,  w  =  2,  X  =  1 ,  and  K  is  of  weight  3. 
+
+23.  Annihilators  of  Covariants  K  of  a  Binary  Form.  Pro- 
+ceeding as  in  §  20,  we  have  instead  of  (2) 
+
+9  AY /I  A  ■  t     \      V    ^KdAj     dK  d^.dKdv 
+
+— K{Ao,  .   .   .  ,  Ap-y    ^,  v)  =  2    — 
+
+dn  j=odAj  dn      d^  dn     dv  dn 
+
+and  obtain  the  follov^^ing  result:  K  is  covariant  with  respect 
+to  every  transformation  x=^  +  «?7,  >'  =  ??,  if  and  only  if  it  is 
+annihilated  by  * 
+
+(1)  fi-3'l-  ffi  =  ao-^+.  .  .^pa^-x^ 
+
+9^  \  9a  1  9«p 
+
+The  binary  form  is  unaltered  if  we  interchange  x  and  y, 
+Gi  and  Qp-i  ior  i  =  0,  1,  .  .  .  ,  p.  Hence  A'  is  covariant  with 
+respect  to  every  transformation  x=^,  y  =  r}-\-fi^,  if  and  only 
+if  it  is  annihilated  by 
+
+(2)  0-x^         (o^pa,^~Hp-l)a2^-+.  •  •+«.^). 
+
+dy         \  dao  dai  dcip-\/ 
+
+Denote  a  covariant  of  order  co  of  the  binary  p-'ic  by 
+
+K  =  Sx"+Six''-'^y-\-.  .  .+5.y'*'. 
+*  For  another  derivation,  see  the  corollary  in  §  47. 
+
+
+40  ALGEBRAIC   INVARIANTS 
+
+By  operating  on  K  by  (2),  we  must  have 
+{OS-Si)x''+{OSi-2S'2)x^-'y^.  .  .  +  (06',_] -co^Jx^-^ 
+
+•1.1,-  XT  r-u  +bS^r^O, 
+
+identically  in  x,  y.     Hence  A  becomes 
+
+(3)  K  =  Sx"-hOSx'^-'y-\-hO^Sx''-Y  +  -  •  •+^0"^/', 
+whik.by  O6'.  =  0, 
+
+(4)  O"+'6'  =  0. 
+
+Hence   a   covariant   is   uniquely  determined   by  its  leader  S. 
+(Cf.  §25). 
+
+Similarly,  K  is  annihilated  by  (l)  if  and  only  if 
+
+(5)  125  =  0,     nSi  =  uS,     1252=(a;-l)5i,     ...,     QS^  =  S^-i. 
+
+The  function  5  of  ao,  •  •  •  ,  dp  must  be  homogeneous  and 
+isobaric  (§§21,  22).  If  such  a  function  6*  is  annihilated  by 
+Q,  it  is  called  a  seminvariant.  If  we  have  S^,  we  may  find 
+6*0,-1  by  (5),  then  8^-2,  •  •  •  ,  and  finally  Si.  But  if  K  is 
+a  covariant,  we  can  derive  S^  from  S.  For,  by  §  20,  the 
+transformation  x=—-q,  y=i  replaces  /  by  a  form  in  which 
+Ai  =  {  —  '[yap-u  by  the  covariance  of  A', 
+
+6'U)r  +  -  •  .=6U)r  +  .  .  .^S{a)x'^-\-.  .  .+6'.(a)r, 
+
+so   that  Soi{a)  =S{A).     Hence  S^  is  derived   from  5  by   the 
+replacement  (1)  in  §  20. 
+
+When  the  seminvariant  leader  S  is  given,  and  hence  also  co 
+(see  Ex.  1),  the  function  (3)  is  actually  a  covariant  of/;  likewise 
+the  function  whose  coefficients  are  given  by  (5).  Proof  will  be 
+made  in  §  25.  In  the  following  exercises,  indirect  verification 
+of  the  covariance  is  indicated. 
+
+EXERCISES 
+
+1.  The  weight  of  the  leader  5  of  a  covariant  of  order  w  of  a  binary  form 
+/  is  W ~u  =  X  and  hence  (§  21)  is  ^(pd—w).     Thus  S  and  /  determine  u. 
+
+2.  The  binary  cubic  has  the  seminvariant  S  =  aoa2  —  ai''.  A  covariant 
+with  5  as  leader  of  is  order  to  =  2  and  is 
+
+(aoflo— Ci^)^^  +  (aofls  —  aia2)xy  +  (aiOs  —  a2-)y''. 
+
+Since  this  is  the  Hessian  of  the  cubic,  it  is  a  covariant. 
+
+
+§  24]  ALTERNANTS  41 
+
+3.  Find  the  covariant  of  the  binary  cubic  /  whose  leader  is 
+Co^fls— 3aoaitX2+2ai^  the  only  seminvariant  of  weight  3  and  degree  3.  It 
+is  the  Jacobian  of  /  and  its  Hessian. 
+
+4.  A  covariant  of  two  or  more  binary  forms  is  annihilated  by 
+
+2fi-?/— ,         ZO-x—. 
+
+dx  dy 
+
+5.  Find  a  seminvariant  of  weight  2  and  partial  degrees  1,  1  of  a  binary 
+quadratic  and  cubic.      Show  that  it  is  the  leader  of  the  covariant 
+
+{aob2~2aibi  +a-,bo)x  +  (aobi  —  2ai&2  +a2bi)y. 
+
+24.  Alternants.     Consider  the  annihilators 
+
+p  p.    p-i  p) 
+
+fi  =  2  7(7^-1— =2  {k  +  l)at: 
+
+
+3=1  d(Jj   k=o  dOk  +  i 
+
+0  =  2  {p-j-^i)aj-^^z'  {p-k)a,+^:^ 
+of  invariants  of  a  binary  form.     We  have 
+
+P  f  p,  p-l  ?^2        1 
+
+nO  =  ^  jaj-A(p-j  +  l)-^—^^  (p-k)a,  +  r-^\., 
+
+P-I  f  p.  P  o2 
+
+00  =  2  (p-k)at  +  i\(k-\-\)^ — 1-2  jaj-i-^ — 
+A.-=o  [  9at+i   y=i  9d't9(/> 
+
+The  terms  involving  second  derivatives  are  identical.     Hence 
+
+fiO-OS2  =  2  (i-\-l)(p-i)ai—-Zi{p-i-hl)ai^ 
+i=o  9^1  »=i  9^ 
+
+=  2  (p-2i)ai--, 
+t=o  9«t 
+
+since  the  first  sum  is  the  first  sum  in  fiO  with  j  replaced  by 
+i-\-l,  and  the  second  is  the  first  sum  in  00  with  k  replaced 
+by  i—1. 
+
+If  6*  is  a  homogeneous  function  of  ao,  .  .  .  ,  Op  of  total  degree 
+d  and  hence  a  sum  of  terms 
+
+cao'oai^i  .  .  .  Qp'v         {eo-\-ei-\-.  .  .+ep  =  d), 
+
+we  readily  verify  Euler's  theorem: 
+
+«=o    ddi 
+
+
+42  ALGEBRAIC  INVARIANTS 
+
+If  5  is  isobaric,  It  is  a  sum  of  terms 
+
+t  =  cao<^oai^i  .  .  .  dp^p       (^1+2^2+.  .  .+pep=w) 
+where  w  is  constant;  then 
+
+P         ■Ql        P  P         g^ 
+
+S  idi  —  =2  iett  =  wt,         S  ?a, —  =  wS. 
+%  =0     9^1  %  =0  »■  =0     9a< 
+
+Hence  if  S  is  both  homogeneous  (of  degree  d)  and  isobaric 
+{of  weight  w)  in  ao,  .  .  .  ,  dp,  then 
+
+(1)  {W-0^)S  =  oiS,        o}  =  pd-2w. 
+
+A  covariant  with  the  leader  S  has  the  order  w.     (Ex.  1,  §  23.) 
+Since  OS  is  of  degree  d  and  weight  w-\-l,  we  have 
+
+(1202  -  0212)5  =  (120  -  012)05 +0(120  -  012)5 
+=  (co  -  2)05 +aj05  =  2(co- 1)05. 
+Hence  for  r  =  1  and  r  =  2,  we  have 
+
+(2)  (l20'--0^12)5  =  r(co-r  +  l)0'-i5. 
+To  proceed  by  induction,  note  that  (2)  implies 
+
+(120^+1 -0'-+il2)5=  (120'--0'-12)05+0^(12C>-Ol2)5 
+
+=  r(co-2-r+l)0'-5+coO'-5  =  (r  +  l)(co-r)0''5, 
+
+so  that  (2)  holds  also  when  r  is  replaced  by  r  +  1. 
+
+25.  Seminvariants  as  Leaders  of  Binary  Covariants. 
+
+Lemma.  //  5  is  a  seminvariant,  not  identically  zero,  of  degree 
+d  and  weight  w,  of  a  binary  p-ic,  then  dp  —  2wl0. 
+
+Suppose  on  the  contrary  that  5  is  a  seminvariant  for  which 
+w<0,  where  u  =  dp  —  2w.  By  the  definition  of  a  seminvariant, 
+125  =  0.     Hence,  by  (2),  §  24, 
+
+(1)  UO'S  =  r{o:-r  +  l)0'-''S  (r  =  l,  2,  3,  .  .  .) 
+
+and  no  one  of  the  coefficients  on  the  right  is  zero.     But 
+
+being  of  degree  d  and  weight  dp  +  l;  in  fact,  the  largest  weight 
+of  a  function  of  ao,  .  .  •  ,  dp  oi  degree  d  is  dp,  the  weight  of 
+a/.     Then  (1)  for  r  =  dp-wi-l  gives  O'*^-"'5  =  0.      Then  (1) 
+
+
+§25]  SEMIN VARIANT  LEADERS  OF  COVARIANTS  43 
+
+for  r  =  dp-w  gives  O''^""'-' 5  =  0,  etc.  Finally,  we  get  5  =  0, 
+contrary  to  hypothesis. 
+
+Theorem.     There  exists   a   covariant  K  of  a   binary  p-ic 
+whose  leader  is  any  given  seminvariant  S  of  the  p-ic. 
+
+The  covariant  K  is  in  fact  given  by  (3),   §  23.     By  (1), 
+for  r  =  co4-l, 
+
+fiO"+i5  =  0. 
+
+Hence  0""'"^5'  is  a  seminvariant  of  degree  d  and  weight 
+
+w' =w-\-ii}-\-\  =pd—w-{-l. 
+
+Then  dp-2w'  =  -{pd-2w)-2  is  negative.  Hence  (4),  §23, 
+follows  from  the  Lemma.  Thus  K  is  annihilated  by  the 
+operator  (2),  §  23.     Next,  in 
+
+
+^-y^]K, 
+
+
+the  coefficient  of  x"   y  is 
+
+
+r 
+
+
+\w'S—-^U-r+\)0^-'S^-.W^S-r{u^-r+\)0:-'S\, 
+
+
+which  is  zero  by  (1).  Hence  K  is  covariant  with  respect  to  all 
+of  the  transformations  Tn  and  T'n  of  §  19.     Now 
+
+r_irir_i  =  F:      x=-y,      y=x, 
+
+as  shown  by  eliminating  ^,  t],  ^\,  r]i  between 
+
+y=     V,      1  j/  =  »?i  +  ^i,      1  vi=      y. 
+
+Since  K  is  of  constant  weight,  it  is  covariant  with  respect  to 
+every  St  (§  16).  Hence,  by  §  19,  K  is  covariant  with  respect 
+to  all  binary  linear  transformations. 
+
+26.  Number  of  Linearly  Independent  Seminvariants. 
+
+Lemma.  Given  any  homogeneous  isobaric  function  S  of 
+ao,  .  .  .  ,  Gp  of  degree  d  and  weight  w,  where  co  =  dp  —  2w>0, 
+we  can  find  a  homogeneous  isobaric  function  Si  of  degree  d  and 
+weight  w-\-l  such  that  fi5i  =5. 
+
+
+44  ALGEBRAIC   INVARIANTS 
+
+In  (2),  §  24,  replace  5  by  W'^S,  whose  degree  is  d  and 
+weight  is  w  —  r -}-l,  so  that  its  co  is  a)+2/'  — 2.     We  get 
+
+W^n'-'^S-0'-n'S^r{o:-\-r-l)0'-^2'-^S. 
+Multiply  this  by 
+
+(-1)'""^ ^ . 
+
+^        ^       r!co(a;  +  l)    .    .    .    {co-\-r-l) 
+
+The  new  right  member  cancels  the  second  term  of  the  new 
+left  member  after  r  is  replaced  by  r  —  l  in  the  latter.  Hence 
+if  we  sum  from  r  =  l  to  r  =  w-\-l,  the  terms  not  cancelling  are 
+those  from  the  first  terms  of  the  left  members,  that  from  the 
+right  member  for  r  =  l,  and  that  from  the  second  term  on 
+the  left  for  r=w-]-l.  But  the  last  is  zero,  since  O'^+^6'^0, 
+ff''S  being  of  weight  zero  and  hence  a  power  of  ao.  Hence 
+we  get  Q,Si=S,  where 
+
+r=irlco{cjo-\-l)  .  .  .  (co+r-l) 
+
+Theorem.*  The  number  of  linearly  independent  seminvariants 
+of  degree  dand  weight  w  of  the  binary  p-ic  is  zero  if  pd  —  2w<0, 
+
+but  is 
+
+{w;  d,  p)-(w-l;  d,  p), 
+
+if  pd  —  2w't_0,  where  (w;  d,  p)  denotes  the  number  of  partitions 
+of  w  into  d  integers  chosen  from  0,  1,  .  .  .  ,  p,  with  repetitions 
+allowed. 
+
+If  p^4,  (4;  2,  p)  =  S,  since  4+0,  3  +  1,  2+2  are  the  partitions  of  4  into 
+2  integers.  Also,  (3;  2,  p)  =  2,  corresponding  to  3+0,  2  +  1.  Hence  the 
+theorem  states  that  every  seminvariant  of  degree  2  and  weight  4  of  the 
+binary  p-ic,  p^i,  is  a  numerical  multiple  of  one  such  (see  the  Example 
+in  §  20). 
+
+The  literal  part  of  any  term  of  a  seminvariant  6*  specified 
+in  the  theorem  is  a  product  of  d  factors  chosen  from  ao,  oi, 
+.  .  .  ,  Op,  with  repetitions  allowed,  such  that  the  sum  of  the 
+subscripts  of  the  d  factors  is  w.  Hence  there  are  {w;  d,  p) 
+possible  terms.  Giving  them  arbitrary  coefficients  and  oper- 
+ating on  the  sum  of  the  resulting  terms  with  fi,  we  obtain 
+a  linear  combination  S'  of  the  (w  — 1;  d,  p)  possible  products 
+
+*  Stated  by  Cayley;  proved  much  later  by  Sylvester. 
+
+
+§27]  LAW  OF  RECIPROCITY  45 
+
+of  degree  d  and  weight  w-\.  By  the  Lemma  there  exists* 
+an  6"  for  which  9.S  is  any  assigned  S' .  Thus  the  coefficients 
+of  our  S'^9,S  are  arbitrary  and  hence  are  hnearly  independent 
+functions  of  the  {w;  d,  p)  coefficients  of  S.  Hence  the  con- 
+dition S25  =  0  imposes  (w-1;  d,  p)  Hnearly  independent  linear 
+relations  between  the  coefficients  of  5  and  hence  determines 
+(w— 1;  d,  p)  of  the  coefficients  of  S  in  terms  of  the  remaining 
+coefficients.  Thus  the  difference  gives  the  number  of  arbitrary 
+constants  in  the  general  seminvariant  S,  and  hence  the  number 
+of  linearly  independent  seminvariants  S. 
+
+27.  Hermite's  Law  of  Reciprocity.     Consider  any  partition 
+
+W  =  «l  +  «2  +  .     .     .+«5 
+
+of  IV  into  b^d  positive  integers  such  that  p'^ni^n2  ...  ^  Wj. 
+Write  «i  dots  in  a  row;  then  in  a  second  row  write  m  dots 
+under  the  first  no  dots  of  the  first  row;  then  in  a  third  row 
+write  «3  dots  under  the  first  ns  dots  of  the  second  row,  etc., 
+until  w  dots  have  been  written  in  8  rows. 
+
+Now  count  the  dots  by  columns  instead  of  by  rows.  The 
+number  nn  of  dots  in  the  first  (left-hand)  column  is  8;  the 
+number  m2  in  the  second  column  isj;«i;  etc.  The  number 
+of  columns  is  wi  ^  p.     Hence  we  have  a  partition 
+
+w  =  mi-\-m2-\-.  .  .-\-m^ 
+of  IV  into  TT  ^  p  positive  integers  not  exceeding  d. 
+
+Hence  to  every  one  of  the  {w;  d,  p)  partitions  of  the  first 
+kind  corresponds  a  unique  one  of  the  {w;  p,  d)  partitions  of 
+the  second  kind.  The  converse  is  true,  since  we  may  begin 
+with  an  arrangement  in  columns  and  read  off  an  arrangement 
+by  rows.  The  correspondence  is  thus  one-to-one.  Hence 
+(w;  d,  p)  =  {w;  p,  d). 
+
+By  two  apphcations  of  this  result,  we  get 
+
+(w;  d,  p)-{w-l;  d,  p)  =  (w;  p,d)-iw-l;  p,d). 
+Hence,  by  the  theorem  of  §  26,  the  number  of  linearly  independent 
+
+♦Provided  />(/-2(!ci-l)>0,  which  holds  if /'(i-2i<:'^0.  But  if  pd-2w<0, 
+our  theorem  is  true  by  the  Lemma  in  §  25. 
+
+
+46  ALGEBRAIC  INVARIANTS 
+
+seminvariants  of  weight  w  and  degree  d  of  the  binary  p-ic  equals 
+the  number  of  weight  w  and  degree  p  of  the  binary  d-ic. 
+
+Let  dp  —  2w  =  o}^0.  Then,  by  the  theorem  of  §25,  each 
+seminvariant  in  question  uniquely  determines  a  covariant  of 
+order  w. 
+
+The  number  of  linearly  independent  covariants  of  degree 
+d  and  order  w  of  the  binary  p-ic  equals  the  number  of  linearly 
+independent  covariants  of  degree  p  and  order  w  of  the  binary  d-ic. 
+
+The  covariants  are  of  course  invariants  if  and  only  if  0  =  0. 
+
+EXERCISES 
+
+1.  Show  by  means  of  (1),  §  24,  that  w—hpd  for  an  invariant. 
+
+2.  Show  that  (6;  6,  3)  =  7,  (5;  6,  3)  =  5.  Find  the  two  linearly  inde- 
+pendent seminvariants  of  weight  6  and  degree  6  of  the  binary  cubic. 
+
+3.  There  are  only  two  linearly  independent  seminvariants  of  degree 
+4  and  weight  4  of  a  binary  quartic.     Find  them. 
+
+4.  There  is  a  single  invariant  or  no  invariant  of  degree  3  of  the  binary 
+P-ic  according  as  p  is  or  is  not  a  multiple  of  4.     (Cayley.) 
+
+Hint:  Every  invariant  of  the  binary  cubic  is  a  product  of  a  constant 
+by  a  power  of  its  discriminant,  of  order  4  (§  30). 
+
+5.  The  binary  p-ic  has  a  single  covariant  or  no  covariant  of  order  p 
+and  degree  2  according  as  p  is  or  is  not  a  multiple  of  4.     (Cayley.) 
+
+Hint:  Every  covariant  of  the  binary  quadratic /is  of  the  type  c  D^f*, 
+where  c  is  a  constant  and  D  the  discriminant  of  /  (§  29.)  The  degree  2«+w» 
+of  the  product  equals  its  order  2m  if  m  =  2n.  Thus  /  has  a  covariant  of 
+order  and  degree  p  if  and  only  if  ^  =  4«,  viz.,  c  Z)"/"". 
+
+6.  No  covariant  of  degree  2  has  a  leader  of  odd  weight. 
+
+7.  If  5  is  of  degree  di  in  the  coefficients  of  a  binary  pi-ic,  of  degree 
+d2  in  the  coefficients  of  a  p2-ic,  .  .  .  ,  and  of  total  weight  w,  (2),  §24, 
+holds  with  fi  and  0  replaced  by  212  and  20,  and  co  replaced  by  I,pidi—2w. 
+For  any  such  S,  there  exists  an  ^i  of  partial  degrees  di  and  total  weight 
+w  +  1  for  which  {ZQ)Si  =  S.  If  5  is  a  seminvariant,  co^O.  Generalize 
+§§  26,  27,  using  (w;  du  pr,  di,  pu  .  .  )  to  denote  the  number  of  ways  in 
+which  w  can  be  expressed  as  a  sum  of  di  or  fewer  positive  integers  ^/>i, 
+of  di  or  fewer  positive  integers^/»2,  etc. 
+
+
+§28]  FUNDAMENTAL  SYSTEM  OF  COVARIANTS  47 
+
+Fundamental  System  of  Covariants  of  a  Binary  Form, 
+
+§§  28-31 
+28.  Certain  Seminvariants.     For  ao9^0,  we  may  set 
+f  =  aoX^-]-paixP~'^y-{-.  .   .+apyP  =  ao(x-aiy)   .  .  .  (x-apy). 
+Apply  to  /  the  transformation 
+r„:  x=^-\-nr],         y  =  -q. 
+
+Then  each  root  aj  of /  =  0  is  diminished  by  w,  since 
+
+X  —  aiy=  ^—(ai  —  n)r]. 
+Hence  the  difference  of  any  two  roots  is  unaltered. 
+
+In    particular,    if   n=—ai/ao,  f  is    transformed    into    the 
+
+
+reduced  form 
+
+/  .  \ 
+
+/-ao^"  +  ( 
+
+w 
+
+'2e-~n 
+
+^  +  1 
+
+IP] 
+
+k'sf'-'TH 
+
+where 
+
+\     / 
+
+\        f 
+
+a' 2  = 
+
+a'3- 
+
+03- 
+
+-3""'^+2''C 
+
+and  the  roots  of/'  =  0  are  ai+oi/ao  (^'  =  1,  •  •  -  ^  P)      Since 
+
+fli               'Za\      (ai— ai)  +  .    .    .  +  («!— ofp) 
+aiH =  a< —  = — — —  , 
+
+ao  p  p 
+
+each  root  of  /'  =  0  is  a  linear  function  of  the  differences  of  the 
+roots  of /=0  and  hence  is  unaltered  by  every  transformation 
+r„.  The  same  is  true  of  a'-i/aa,  a'^/ao,  .  .  .  ,  which  equal 
+numerical  multiples  of  the  elementary  symmetric  functions 
+of  the  roots  of/'  =  0.     Hence  the  polynomials 
+
+Ao^  ao'j'-z  =  aoao  —  ar, 
+
+A.i^ao^a'3=ao^a3  —  Saoaia2-{-2ai^, 
+
+yl4  =  ao'^<i'4  =  flo'^«4  — 4ao^<iia3 +600^1^02  — 3a  i^* 
+
+are  homogeneous  and  isobaric,*  and  are  invariants  of  /  with 
+respect  to  all  transformations  r„.  By  definition  they  are, 
+therefore,  seminvariants  of  /  provided  the  subscript  of  each  A 
+in  question  does  not  exceed  p. 
+
+*  This  is  evident  for  A2,  A3,  At.    Further  A's  will  not  be  employed  here.    A 
+general  proof  follows  from  §  34. 
+
+
+48  .  ALGEBRAIC   INVARIANTS 
+
+Since  /'  was  derived  from  /  by  a  linear  transformation  of 
+determinant  unity,  any  semin variant  S  oif  has  the  property 
+
+
+S{ao, 
+
+
+Hence  any  rational  integral  seminvariant  is  the  quotient 
+of  a  polynomial  in  ao,  A2,  .  ■  .  ,  ^j;  by  a  power  of  gq.  For 
+/>  ^  4,  we  shall  find  which  of  these  quotients  equal  rational 
+integral  functions  of  ao,  .  .  . ,  Op  and  hence  give  rational  integral 
+seminvariants.     The  method  is  dua  to  Cayley. 
+
+For  p  =  l,  S  is  evidently  a  numerical  multiple  of  a  power 
+of  ao.  Since  co  is  the  leader  of  the  covariant /=aox+aiy  of 
+/,  we  conclude  that  every  covariant  of  a  binary  linear  form  / 
+is  a  product  of  a  power  of  /  by  a  constant;  in  particular,  there 
+is  no  invariant. 
+
+29.  Binary  Quadratic  Form.  Since  A2  does  not  have  the 
+factor  ao,  we  conclude  that  every  rational  integral  seminvariant 
+is  a  polynomial  in  ao  and  A2.  Now  A 2  is  an  invariant  of  / 
+(§4),  and  ao  is  the  leader  of  the  covariant/  of/.  Hence  a 
+fundamental  system  of  rational  integral  covariants  of  the  binary 
+quadratic  form  f  is  given  hy  f  and  its  discriminant  A2.  We  express 
+in  these  words  our  result  that  any  such  covariant  is  a  rational 
+integral  function  of/  and  A2. 
+
+30.  Binary  Cubic  Form.  We  seek  a  polynomial  P(ao,  ^2,^3) 
+with  the  implicit,  but  not  expHcit,  factor  ao.  Write  A'l  for 
+the  terms  of  Ai  free  of  ao: 
+
+(1)  A'2  =  -ai\        A'^  =  2a,K 
+
+We  desire  that  P(0,  A' 2,  ^'3)  =0,  identically  in  ai.     Now 
+
+4^V+^V^0, 
+
+(2)  4.A2^+Az^^ao''D, 
+
+where  D  is  the  discriminant  of  the  cubic  form, 
+
+D  =  a^rr.:r  —  Gaoaia2a3  +4aoa2^ +4ai^a3  —  3ai^a2^. 
+
+
+§31j  FUNDAMENTAL  SYSTEM  OF  COVAKIANTS  49 
+
+By  means  of  (2)  we  eliminate  As~  and  higher  powers  of 
+A3  from  P(ao,  A2,  A 3)  and  conclude  that  any  semin variant 
+is  of  the  form  w/ao'^,  where  tt  is  a  polynomial  in  ao,  A2,  A3,  D, 
+of  degree  1  or  0  in  yl 3.  li  k>0,  we  may  assume  that  not  every 
+term  of  x  has  the  explicit  factor  ao-  In  the  latter  case,  t  does 
+not  have  the  implicit  factor  ao-     For,  if  it  did, 
+
+x'  =  7r(0,  A'o,  A's,  D')=0,         D'  =  4:ai^a3-Sai^a2^. 
+
+Since  as  occurs  in  D',  but  not  in  A' 2  or  ^'3,  tt'  is  free  of  D'. 
+By  (1),  the  first  power  of  A' 3  is  not  cancelled  by  a  power  of 
+A' 2.     Hence  tt'  is  free  of  A' 3  and  hence  of  A'2- 
+
+A  fundamental  system  of  rational  integral  seminvariants  of 
+the  binary  cubic  is  given  by  ao,  A2,  A3,  D.  They  are  connected 
+by  the  syzygy  (2). 
+
+A  fundamental  system  of  rational  integral  covariants  of  the 
+binary  cubic  f  is  given  by  f,  its  discriminant  D,  its  Hessian  H, 
+and  the  Jacobian  J  of  f  and  H.     They  are  connected  by  the  syzygy 
+
+(3)  4H^+J-^fW. 
+
+The  last  theorem  follows  from  the  first  one  and  (2),  since 
+ao,  A2,  A3  are  the  leaders  of  the  covariants/,  //,  /. 
+
+31.  Binary    Quartic    Form.      We    first    seek    polynomials 
+
+P(ao,  A2,  A3,  Ai)  with  the  impHcit,  but  not  explicit,  factor 
+oq.     Thus 
+
+r  =  P{0,A'2,A'3,AU)^0,  A'2=-ai\  A'3  =  1ax\  A\= -Za^K 
+
+The  simplest  P'  is  evidently  3^1 '2" +.4 '4.     We  get 
+
+/44+3/l22  =  ao-/,        /  =  aoa4-4aia3+3a22. 
+
+We  drop  Ai,  and  consider  polynomials  7r(ao,  Ao,  A3,  I)  with 
+the  imphcit,  but  not  exphcit,  factor,  ao.  Such  a  polynomial 
+is  given  by  (2) ,  §  30.     For  ao  =  0,  D= -ai^I  =  A '2I.     We  have 
+
+A2l-D  =  aQj, 
+
+J  =  aoa2a4  —  aoCa^  +  2aia2a3  —  ai-a4  —  ao^. 
+Eliminating  D  between  this  relation  and  (2),  §  30,  we  get 
+(1)  ao-V-ao2^2/  +  4^2^+^32  =  0. 
+
+
+50  ALGEBRAIC  INVARIANTS 
+
+In  view  of  their  origin,  /  and  /  are  semin variants  of  the 
+quartic  /.  Since  they  are  unaltered  by  the  replacement  (1), 
+§20,  they  are  invariants  of/  {cf.  §20,  Example  and  Ex.  1). 
+In  view  of  (I),  tt  equals  a  polynomial  ^  in  ao,  A2,  A^,  I,  /, 
+of  degree  0  or  1  in  ^3.  Suppose  that  (/>  does  not  have  the 
+explicit  factor  oq.  Then  the  equal  function  of  ao,  .  .  .  ,  a^  is 
+not  divisible  by  Qq.     For,  if  it  were, 
+
+(/)(0,  — fli^,  2ai3,  302^  — 4aia3,  —ai^a^-]-.  .  .)— 0- 
+
+In  view  of  the  term  a^,  <i>  cannot  involve  /,  and  hence  not  /. 
+Nor  can  </>  be  linear  in  ^3  in  view  of  the  odd  power  a\^.  Hence  0 
+is  free  of  ^3  and  hence  of  ^2. 
+
+A  fundamental  system  of  rational  integral  seminvariants  of 
+the  binary  quartic  is  given  by  ao,  A2,  A3,  I,  J.  They  arc  con- 
+nected by  the  syzygy  (1). 
+
+A  fundamental  system  of  rational  integral  covariants  of  the 
+binary  quartic  f  is  given  by  f,  its  invariants  I  and  J,  its  Hessian 
+H  and  the  Jacobian  G  of  f  and  H.      They  are  connected  by  the 
+syzygy 
+(2)  f^J-fmi-\-im-\-G^^O. 
+
+The  second  theorem  follows  from  the  first  one,  since  ao, 
+A2,  A3  are  the  leaders  of  the  covariants/,  H,  G. 
+
+It  would  be  excessively  laborious,  if  not  futile,  to  apply 
+the  same  method  to  the  binary  quintic,  whose  fundamental 
+system  is  composed  of  23  covariants,*  most  of  which  are 
+very  complex.  The  symbolic  method  is  here  superior  both 
+as  to  theory  and  as  to  compact  notation  (see  Part  III.). 
+
+Canonical  Form  of  Binary  Quartic.     Solution  of  Quartic 
+
+Equations 
+
+32.  Theorem.  A  binary  quartic  form  f,  whose  discrim- 
+inant is  not  zero,  can  be  transformed  linearly  into  the  canonical 
+form 
+
+(1)  X^  +  Y^+QmX^YK 
+
+*  Faa  di  Bruno,  Thcorie  der  Bindren  Formen,  German  tr.  by  Walter,  1881, 
+pp.  199,  316-355.  Salmon,  Modern  Higher  Algebra,  Fourth  Edition,  1885,  p. 
+227,  p.  347. 
+
+
+§32]  CANONICAL  FORM  OF  QUARTIC  51 
+
+The  reason  there  is  here  a  parameter  m  lies  in  the  existence 
+of  two  invariants  /  and  /  of  weights  (and  hence  indices)  4 
+and  6,  and  hence  a  rational  absolute  invariant  P/J-,  i.e.,  one 
+of  index  zero,  and  consequently  having  the  same  value  for/ 
+and  any  form  derived  from  /  by  linear  transformation. 
+
+Since  /  vanishes  for  four  values  of  x/y  and  hence  is  the 
+product  of  four  linear  functions,  it  can  be  expressed  (in  three 
+ways)  as  a  product  of  two  quadratic  forms,  say  those  in  the 
+right  members  of  the  next  equations.  To  prove  our  theorem 
+it  suffices  to  show  that  there  exist  constant  p,  q,  r,  s  (each  5^0) 
+and  a,  /3  {a  9^0)  such  that 
+
+p(x  -]-ay)~-\-q(x-\-l3y)^  ^  ax^-\-2bxy-\-cy^, 
+r(x  +ay)-  +5(x +/3y)-  =  gx^  +  2hxy  +  ky^. 
+For,  the  product/  of  these  becomes  (1)  by  the  transformation 
+
+A'  =  '^pr  {x+ay) ,         Y  =  ^qs  {x + ^y) , 
+of  determinant  5^0.     The  conditions  for  the  two  identities  are 
+p-\-q  =  a,         pa-\-qfi  =  b,         pa'^-\-q0^  =  c, 
+r-\-s  =  g,         ra-\-s0  =  k,         ra^-{-s^^  =  k. 
+The  first  three  equations  are  consistent  if 
+
+1      1      a 
+
+a      ^      b    ^{^-a)=C-b(a+l3)-\-aa^  =  0. 
+
+If  p  =  0,  or  if  q  =  0,  the  same  equations  give  b'~  =  ac,  so  that  the 
+first  quadratic  factor  of  /  and  hence  /  would  have  a  dcuble 
+root.     Similarly,  the  last  three  equations  have  solutions  r^^O, 
+
+^-//(a+/3)+ga/3  =  0. 
+
+If  the  determinant  ah  —  bg  is  not  zero,  the  last  two  relations 
+determine  a 4-/3  and  a^,  and  hence  give  a  and  /3  as  the  roots  of  * 
+
+{ah  —  bg)z-  —  (ak  —  cg)z-\-bk  —  ch  =  0. 
+
+*  Its  left  member  is  obtained  by  setting  x/y=  —  s  in  the  Jacobian  of  the  two 
+quadratic  factors  of  /. 
+
+
+52  ALGEBRAIC  INVARIANTS 
+
+If  its  roots  were  equal,  the  two  relations  would  give 
+
+C-2ba-\-aa^  =  0,  k-2ha-\-ga^  =  0, 
+
+and  the  two  quadratic  factors  of/  would  vanish  for  x/y=  -a. 
+
+If  ah-bg  =  0,  but  ch  —  bk^^O,  we  interchange  x  with  y 
+and  proceed  as  before.  If  both  determinants  vanish,  either 
+b9^0  and  the  second  quadratic  factor  is  the  product  of  the 
+first  by  h/b,  or  else  b  =  0  and  hence  h  =  0  and  no  transfor- 
+mation of/  is  needed. 
+
+33.  Actual    Determination    of   the    Canonical   Quartic.    Let 
+
+A  denote  the  determinant  of  the  coefficients  of  x,  y  in  A',  Y. 
+Then  /,  its  invariants  /  and  /  and  Hessian  H  are  related  to 
+the  canonical  form,  its  invariants  and  Hessian,  as  follows: 
+
+/  =  A4(l+3m2),         J^A^(m-m^), 
+Zr  =  A2iw(X4+F^)  +  (l-3w2)X2  72|_ 
+
+Thus  A^m  may  be  found  from  the  resolvent  cubic  equation 
+
+4(A2w>^-/(A2w)+/  =  o. 
+
+Then  A*  may  be  found  from  /.  We  may  select  either  square 
+root  as  A2  and  hence  fmd  m.  In  fact,  by  replacing  .Y  by 
+XV  —  1  in  /,  the  signs  of  A2  and  m  are  changed.  By  elim- 
+inating X^+F^,  we  get 
+
+If  9^2=1,  /  is  the  square  of  X'^dzY'^  and  the  discriminant  of 
+/  would  vanish.  Hence  we  obtain  XY  by  a  root  extraction. 
+Thus  X  and  F  are  determined  up  to  constant  factors  /  and 
+t'^.  We  may  find  /  by  comparing  the  coefficients  of  .t^  and 
+x^y  in  /  and  the  expansion  of  its  canonical  form,  or  by  use 
+of  the  Jacobian  G  oi  f  and  H: 
+
+G  =  ^K\-9m^~)XY{X^-Y^), 
+
+and  combining  the  resulting  X*— F^  with  the  earlier  A^^-f-F'*. 
+Or  from/  and  XY  we  can  find  A'2  +  F2  and  then  X±F. 
+To  solve /  =  0,  we  have  only  to  find  the  canonical  form 
+
+
+§34]         SEMINVARIANTS   IN  TERMS  OF  THE   ROOTS  53 
+
+Seminvariants,  Invariants,  and  Covariants  of  a  Binary 
+Form/  as  Functions  of  the  Roots  of/=0,  §§  34-37. 
+
+34.  Seminvariants  in  Terms  of  the  Roots.  Give  /  the  nota- 
+tion used  in  §  28,  so  that  ai,  .  .  .  ,  ap  are  the  roots  of  /=0. 
+After  removing  possible  factors  ^o  from  a  given  seminvariant 
+of  /,  we  obtain  a  seminvariant  5  not  divisible  by  qq.  Let 
+5  be  the  degree  of  the  homogeneous  function  S  of  the  a's. 
+Thus  S  is  the  product  of  a^  by  a  polynomial  in  ai/ciQ,  .  .  .  ,  dp/ao 
+of  degree  8.  The  latter  equal  numerical  multiples  of  the  ele- 
+mentary S}'mmetric  functions  of  ai,  .  .  .  ,  ap,  each  of  which 
+is  linear  in  every  root.  Hence  our  polynomial  equals  a  sym- 
+metric polynomial  a  in  ai,  .  .  .  ,  ap  of  degree  5  in  every 
+root. 
+
+Since  S  is  of  constant  weight  w  and  since  at/ao  equals  a 
+function  of  total  degree  i  in  the  roots,  a  is  homogeneous  in 
+the  roots  and  of  total  degree  w  in  them. 
+
+Besides  being  homogeneous  and  isobaric  in  the  a's,  a  sem- 
+invariant must  be  unaltered  by  every  transformation  Tn  of 
+§  28.  Under  that  transformation,  each  root  is  diminished, 
+by  w  (§28).     Since 
+
+ai  =  ai-{-{ai  —  ai)  (^  =  2,.    .   .  ,  p) 
+
+we  can  express  o-  as  a  polynomial  P(ai)  whose  coefficients 
+are  rational  integral  functions  of  the  differences  of  the  roots. 
+If  P{ai)  is  of  degree  ^1  in  ai,  we  have  P(ai)=P{ai  —  tt),  for 
+all  values  of  ?i.  But  an  equation  in  n  cannot  have  an  infinitude 
+of  roots.  Hence  P(ai)  does  not  involve  ai,  so  that  a  equals 
+a  polynomial  in  the  differences  of  the  roots. 
+
+Multiplying  by  the  factors  ao  removed,  we  obtain  the 
+theorem : 
+
+Any  seminvariant  of  degree  d  and  weight  w  of  the  binary 
+form  aQX^-\-.  .  .  equals  the  product  of  a(f  by  a  rational  integral 
+symmetric  function  a  of  the  roots,  homogeneous  {of  total  degree 
+w)  in  tJie  roots,  of  degree  ^  d  in  any  one  root,  and  expressible 
+as  a  polynomial  in  the  differences  of  the  roots. 
+
+Conversely,  any  such  product  can  be  expressed  as  a  poly- 
+nomial in  the  a's  and  this  polynomial  is  a  seminvariant. 
+
+
+54  ALGEBRAIC  INVARIANTS 
+
+Since  the  factor  o-  is  symmetric  in  the  roots,  and  is  of  degree 
+^d  in  any  one  root,  its  product  by  ao'^  equals  a  homogeneous 
+polynomial  in  the  a's  whose  degree  is  d.  This  polynomial  is 
+isobaric  since  a  is  homogeneous,  and  is  unaltered  by  every 
+transformation  T„,  since  o-  is  expressible  as  a  function  of  the 
+differences  of  the  roots. 
+
+The  importance  of  these  theorems  is  due  mainly  to  the 
+fact  that  they  enable  us  to  tell  by  inspection  (without  com- 
+putation by  annihilators)  whether  or  not  a  given  function  of 
+the  roots  and  ao  is  a  seminvariant.  A  like  remark  applies  to 
+the  theorem  in  §  35  on  invariants  and  that  in  §  36  on  covariants. 
+
+EXAMPLE 
+The  binary  cubic  has  the  seminvariant 
+
+ao*2(ai— a2)(ai  — a3)=aoK^«i"~2:aia2) 
+3 
+
+=  CoM(2ai)='-3Saia2}=ao-|  ( — -j  -sl  —  )  i  = -9{aoa2-ai^). 
+
+35.  Invariants  in  Terms  of  the  Roots.  A  seminvariant  of 
+/  is  an  invariant  of  /  if  and  only  if  it  is  unaltered  by  the  trans- 
+formation X  =  -  77,  >»  =  H§  20) .     For  the  latter, 
+
+X  —  ay=  —al  ^H — r?j, 
+
+so  that  ar  is  replaced  by  —  I  far,  and  hence  ar-as  by 
+
+ar  —  as 
+
+(XrOCs 
+
+The  coefficient  of  ^^  in  the  transformed  binary  form  is 
+
+Ao  =  (  —  iyaia2  .   .   .  ocpao. 
+By  §  34,  any  seminvariant  of  /  is  of  the  type 
+
+ao'^2ci(product  of  w  factors  like  ar  —  as). 
+Hence  this  is  an  invariant  if  and  only  if  it  equals 
+
+(^-iyd(^ai  .  .  .  a:p)'^ao'^Sct(  product  of  the  w  corresponding-^^ 
+
+
+§35]  INVARIANTS   IN  TERMS   OF  THE  ROOTS  55 
+
+and  hence  if  ±0:1''  .  .  .  ap'^  equals  the  product  of  the  factors 
+arOis  in  the  denominators.  This  is  the  case  if  and  only  if  each 
+root  occurs  exactly  d  times  in  every  term  of  the  sum  and  if 
+pd  is  even.     By  the  total  number  of  a's,  pd  =  2w. 
+
+Any  invariant  of  degree  d  and  weight  w  of  the  binary  form 
+aoX^-\-  .  .  .  equals  the  product  of  ai,^  by  a  sum  of  products  of 
+constants  and  certain  dij'erences  of  the  roots,  such  that  each  root 
+occurs  exactly  d  times  in  every  product;  moreover,  tJie  sum  equals 
+a  homogeneous  symmetric  function  of  the  roots  of  total  degree  w. 
+Conversely,  the  product  of  any  such  sum  by  ao'^  equals  a  rational 
+integral  invariant. 
+
+EXERCISES 
+
+1.  a(,^{ai—a2)-  is  an  invariant  of  the  binary  quadratic  form.  Any 
+invariant  is  a  numerical  multiple  of  a  power  of  this  one. 
+
+2.  ai,-2(ai— a2)'(«3— 04)'  is  an  invariant  of  the  binary  quartic. 
+
+3.  00^2(01— a2)(ai— a:))  is  not  an  invariant  of  the  binary  cubic. 
+
+3 
+
+4.  If  we  multiplyrtn^'''"^'  by  the  product  of  the  squares  of  the  differences 
+of  the  roots  of  the  binary  p-ic  f,  we  obtain  an  invariant  (discriminant  of 
+/) .     Also  verify  that  pd  =  2w. 
+
+5.  The  sum  of  the  coefficients  of  any  seminvariant  is  zero. 
+Hint:     Use/=  (x  +  y)^,  whose  roots  are  all  equal. 
+
+6.  Every  invariant  of  the  binary  cubic  is  a  power  of  its  discriminant. 
+
+7.  A  function  which  satisfies  the  conditions  in  the  theorem  of  §  35 
+except  that  of  symmetry  in  the  roots  is  called  an  irrational  invariant.  If 
+aj,  .  .  .  ,  a4  arc  the  roots  of  a  binary  quartic/,  and 
+
+U=(ai—ai)(a-i—a3),  V=  {a>  —  ai)(a:i—ai) ,  W=  {ai—a2)(a3—a4) , 
+
+why  are  aou,  a„v,  aoW  irrational  invariants  of  /?  They  are  the  roots  of 
+z'  — 12/2—  5  =  0,  where  5-  is  the  product  of  ao"  by  the  product  of  the  squares 
+of  the  differences  of  the  roots  and  hence  is  the  discriminant  of/.  Hints: 
+tt+Z)+w  =  0,  and  s  =  nv-\-iiw-\-mv  is  a  symmetric  function  of  ai,  .  .  . ,  at 
+in  which  each  aj  occurs  twice  in  every  product  of  differences,  so  that  ao'^s 
+is  an  invariant  of  degree  2.  By  the  Example  in  §20,  ao^s  =  cI,  where  c 
+is  a  constant.  To  determine  c,  take  ai  =  l,a2=  —  1,  03  =  2,  «<=  —  2,  so  that 
+/=(x2-y2)(;t2-4y2),  7  =  73/12,  u=-Q,  v=l,  w  =  8,  5= -73.  Hence 
+c=  — 12.  As  here,  so  always  an  irrational  algebraic  invariant  is  a  root  of  an 
+equation  whose  coefficients  are  rational  invariants. 
+
+
+56  ALGEBRAIC   INVARIANTS 
+
+8.  If  ai,  oil  are  the  roots  of  the  binary  quadratic  form/,  and  as,  a^  the 
+roots  of /'  in  §  11,  the  simultaneous  invariant 
+
+ac'  +a'c  —  2hh'  =  aa'lasat  +aia2  —  K«i  +"2)  (as  -\-o!i)  \  =  \ao{u  —  v) , 
+
+if  the  product  jf  is  identified  with  the  quartic  in  Ex.  7.  Hence  a  simul- 
+taneous invariant  of  the  quadratic  factors  of  a  quartic  is  an  irrational  invar- 
+iant of  the  quartic.    Why  a  priori  is  the  invariant  three-valued? 
+
+9.  The  cross-ratios  of  the  four  roots  of  the  quartic  are  —v/ii,  etc.  These 
+six  are  equal  in  sets  of  three  if  7  =  0.     For,  if  5  =  0, 
+
+,              ,                            .               ,                —V      —u      —w 
+vw  —  u\—v—w)  =  u^,     uw  =  v{-'u—w)  =  v^,     —  =  — — . 
+
+U  W  V 
+
+The  remaining  three  are  the  reciprocals  of  these  and  are  equal. 
+
+10.  By  Ex.  3,  §  11,  one  of  the  cross-ratios  is  —1  if  ac'-f-  .  ,  .  =0.  Why 
+does  this  agree  with  Ex.  8? 
+
+11.  The  product  of  the  squares  of  the  differences  of  the  roots  of  the 
+cubic  equation  in  Ex.  7  is  known  *  to  be 
+
+—  4.(-12l)^-278'-  =  aoKti-v)-{n-w)-(v-wy. 
+
+Also,*  52  =  256(7' -27/2).      Hence  the  left  member  becomes  3^-4^/2.    Thus 
+
+33. 42/=  zizaQ^{u—v)(u—w){v—w). 
+
+Using  J  from  §  31,  and  the  special  values  in  Ex.  7,  show  that  the  sign  is 
+plus.     Verify  that  the  cross-ratios  equal  —1,  —1,  2,  2,  5,  5,  if  7  =  0. 
+
+36.  Covariants  in  Terms  of  the  Roots.  Let  K  (ao,  ■  . .  ,ap\x,  y) 
+be  a  covariant  of  constant  degree  d  (in  the  coefficients)  and 
+constant  order  co  (in  the  variables)  of  the  binary  form/  =  aoa;^  +  . . . 
+Then 
+
+K  =  Qo'^fK, 
+
+where  k  is  a  polynomial  in  x/y  and  the  roots  a\,  .  .  .  ,  ap  oi 
+/=0.  Under  the  transformation  Tn  in  §28,  let  /  become 
+^0^^+  .  .  .  ,  with  the  roots  a'l,  .  .  .  ,  a'p.     Then 
+
+X                ?         /  II 
+a%  = cc  J,          aT  —  (Xs=OLT  —  OLs. 
+
+y         V 
+Making  use  of  the  identities 
+
+
+y    \y 
+
+Cf.  Dickson,  Elementary  Theory  of  Equations,  p.  33,  p.  42,  Ex.  7. 
+
+
+§36]  COVARIANTS  IN  TERMS  OF  THE  ROOTS  57 
+
+we  see  that  k  equals  a  polynomial  P(ai)  whose  coefficients  are 
+rational  integral  functions  of  the  differences  of  x/y,  ai,  .  .  .  ,  ap 
+in  pairs.     Since 
+
+K{Ao,  .  .  .  ,  Ap]  ^,  ri)=K{ao,  .  .  .  ,ap;  X,  y),       Ao  =  ao,     r]  =  y, 
+we  have        ^1  a'l,  .   .   .  ,  a'p,  -j  =«(  ai,  .   .   .  ,  ap,  -j. 
+The  left  member  equals  -P(a'i)  since 
+
+a'i  =  {ai  —  ai)-i-a'i,  -=( ai)-\-ai. 
+
+V    \y       / 
+Hence 
+
+P(ai-n)-P(ai)=0 
+
+for  every  n.  Hence  ai  does  not  occur  in  P(ai),  and  k  is  a 
+polynomial  in  the  differences  of  x/y,  ai,  .  .  .  ,  ap. 
+
+Let  W  be  the  weight  of  K  and  hence  of  the  coefficient  of 
+y.  Then  k  is  of  total  degree  W  in  the  a's  and  of  degree  co 
+in  x/y.    Thus 
+
+K  =  2C(|  product  of  w  differences  hke  — aA 
+
+[  y      J 
+
+•{product  of  W  —  o)  differences  like  ar—as]. 
+Hence 
+
+K  =  ao'^ZCi\'prod\iQt  of  w  differences  like  x—ary] 
+
+•  {product  of  W—oi  differences  like  ar—as\. 
+
+Next,  for  x=—t],  y=^,  f  becomes  F  =  Ao^^+  .  .  .  with 
+a  root  —  X/ut  corresponding  to  each  root  ar  of  /.  The  function 
+K  for  F  is 
+
+product  of  CO  differences  like  ^-\ — ri  =  - !^[ 
+
+ar  —ar     \ 
+
+•  ]  product  of  W  —  o)  differences  like  — ^  [ . 
+
+\  aras   J 
+
+Using  the  value  of  Aq  in  §  35,  we  see  that  the  factor 
+
+\-\yW  .  .  .  ap'^ 
+
+must  be  cancelled  by  the  —ar  and  the  aras  in  the  denominators. 
+
+
+5S  ALGEBEAIC   INVARIANTS 
+
+Thus  each  term  of  the  sum  involves  every  root  exactly  d  times. 
+The  signs  agree  since 
+
+as  follows  by  counting  the  total  number  of  as. 
+
+Any  covariant  of  degree  d,  order  co  and  weight  W  of 
+
+ao{x—aiy)  .  .  .  (x—apy) 
+
+equals  the  product  of  ao^  by  a  sum  of  products  of  constants  and 
+w  differences  like  x—ary  and  W  —  oj  differences  like  ar—as,  such 
+that  every  root  occurs  in  exactly  d  factors  of  each  product;  more- 
+over, the  sum  equals  a  symmetric  function  of  the  roots.  Conversely, 
+the  product  of  ao^  by  any  such  sum  equals  a  rational  integral 
+covariant. 
+
+EXERCISES 
+
+1.  j=aoX^-\-ZaiX'^y-\-Za2xy-+a3y^  has  the  covariant 
+
+K  =  ao'^'L{x-aiyy{oL'z-azy-. 
+
+3 
+
+Show  that  the  coefficient  of  x"^  in  K  equals  —  18(aoa2— Oi^).  Why  may  we 
+conclude  that  K=  —  18H,  where  H  is  the  Hessian  of/? 
+
+2.  The  same  binary  cubic  has  the  covariant  ^ 
+
+ao^Z(x—aiy){x—a2y){a2  —  a3)ia3—ai)  =  9H. 
+3 
+
+3.  Every  rational  integral  covariant  of  the  binary  quadratic  /  is  a  prod- 
+uct of  powers  of  /  and  its  discriminant  by  a  constant. 
+
+37.  Covariant  with  a  Given  Leader  S.  If  the  seminvariant 
+S  has  the  factor  ao,  and  S  =  aoQ,  and  if  Q  is  the  leader  of  a 
+covariant  K  of  /,  then,  since  ao  is  the  leader  of  /,  S  is  the  leader 
+of  the  covariant  fK.  Hence  it  remains  to  consider  only  a 
+seminvariant  6*  not  divisible  by  oq.  li  S  is  of  degree  d  and 
+weight  w, 
+
+S  =  ao'^XCiiproduct  of  w  factors  like  ar—as), 
+
+where  each  product  is  of  degree  at  most  d  in  each  root,  and 
+of  degree  exactly  d  in  at  least  one  root  (§  34).  If  each  product 
+is  of  degree  d  in  every  root,  S  is  an  invariant  (§  35)  and  hence 
+is  the  required  covariant.  In  the  contrary  case,  let  a2,  for 
+example,  enter  to  a  degree  less  than  d;  we  supply  enough 
+factors  x—a2y  to  bring  the  degree  in  a2  up  to  d.     Then  ao'^ 
+
+
+§38]  DIFFERENTIAL  OPERATORS  59 
+
+multiplied  by  the  sum  of  the  total  products  is  a  covariant 
+with  the  leader  S.     For  example, 
+
+ao^2(a2— 03)^,  00^2(0:2  — 0:3)  («3—ai) 
+
+3  3 
+
+are  the  leaders  of  the  covariants  in  Exs.  1,  2,  §  36,  of  the  binary 
+cubic.  The  present  result  should  be  compared  with  the 
+theorem  in  §  25. 
+
+We  may  now  give  a  new  proof  of  the  lemma  in  §  25  that 
+dp  —  2w^0  for  any  semin variant  5  of  degree  d  and  weight 
+■w  of  the  binary  p-ic.  Whether  5  has  the  factor  ao  or  not, 
+the  first  term  of  the  resulting  covariant  K  is  Sx",  where 
+oo  =  dp  —  2w.  For,  in  each  product  in  the  above  S,  the  roots 
+ai,  .  .  .  ,  ap  occur  2w  times  in  all.  In  K  each  root  occurs  d 
+times.  Hence  we  inserted  dp  —  2w  factors  x—ay  in  deriving  K 
+from  S. 
+
+38.  Differential    Operators   Producing   Covariants.    Let  the 
+
+transformation 
+
+T:  x  =  a^-\-^v,         y  =  y^-\-8v,         A=a8-^y^0 
+
+replace /(x,  )')  by  (/)(^  r?).     Then 
+
+d±^^dx     dldy^^df^    df 
+d^     dx  d^     dy  d^       dx       dy 
+
+d±^^dx_^^dy^^d[_^^^ 
+
+di     dx  dv     dy  dv       dx       dy 
+Solving,  we  get 
+
+dy       dv       d^  dx        dv       d^ 
+
+or  df=D<p,  dif  =  D]_(p,  if  we  introduce  the  differential  operators 
+
+dy  dx  dv      9?  a^      a^ 
+
+As  usual,  write  d'-dif  for  d\d{dif)].  Since  the  result  of 
+operating  with  d  on  df  is  the  same  as  operating  with  D  on 
+the  equal  function  D^  of  ^  and  r],  we  have  d-f=D"4>.     Similarly, 
+
+
+60 
+
+
+ALGEBRAIC  INVARIANTS 
+
+
+(r+5  =  a)), 
+
+
+The  right  member  is  the  result  of  operating  on  0  with  the 
+operator  obtained  by  substituting  D  for  d/dn  and  Di  for  —  d/dk 
+in 
+
+whose  terms  are  partial  derivatives  of  order  w.  Hence,  if 
+the  form 
+
+becomes  X(^,  r?)  under  the  transformation  T,  our  right  mem- 
+ber is  the  result  of  operating  on  ^  with  \{d/drj,  —  d/9^).  The 
+left  member  is  the  result  of  operating  on  /  with 
+
+
+\  dy        dx)       •  \dy      dxj 
+
+
+Hence  if  T  replaces  the  forms  J {x,  y),  l{x,  y)  by  0(^,  rf),  X(^,  rj), 
+then 
+
+
+L  VaV     9^/ 
+
+
+0(?,  ^)=A'' 
+
+
+f{x,  y) 
+
+
+\-\dy      dxj  \ 
+is  a  consequence  of  the  equations  for  T,  if  oj  is  the  order  of  l{x,  y). 
+
+Let  /  and  /  be  covariants  of  indices  m  and  n  of  one  or  more 
+binary  forms  ft  with  the  coefficients  ci,  C2,  .  .  .  .  Under  T 
+let  the  transformed  forms  have  the  coefficients  Ci,  C2,  .... 
+Then 
+
+/(C;  ^,  v)  =  A-/(c;  x,  y),        1{C;  ^,  v)  =  A«/(c;  x,  y). 
+
+But  0(^,  ri)  =f{c\  X,  y),  by  the  earlier  notation.     Hence 
+
+^{^,  r})=A-^f{C;    ^,  v),  X(^,  7;)=A-"/(C;    ^,  r?). 
+
+Inserting  these  into   the  formula  of   the   theorem,   and  mul- 
+tiplying by  A"'+'',  we  get 
+
+
+['{''■•  i'-i-^\'''-'''^^^''^^'ii'-4y'-l^) 
+
+
+f{c;x,y). 
+
+
+The  function  in  the  right  member  is  therefore  a  covariant  of 
+index  w+w+w  of  the  ft.  We  therefore  have  the  theorem 
+of  Boole,  one  of  the  first  known  general  theorems  on  covariants: 
+
+
+§38]  DIFFERENTIAL  OPERATORS  61 
+
+Theorem.  If  I  and  J  are  any  covariants  of  a  system  of 
+binary  forms,  we  obtain  a  covariant  {or  invariant)  of  the  system 
+of  forms  by  operating  on  f  with  the  operator  obtained  from  I  by 
+replacing  x  by  d/dy  and  yby—  d/dx,  i.e.,  x'"/  byf  —  iyd'"^^/dy''dx\ 
+
+EXERCISES 
+
+1.  Taking  l=f=ax-+2bxy+cy-,  obtain  the  invariant  4{ac—b-)  of  /. 
+
+2.  If  /=/  is  the  binary  quartic,  the  invariant  is  2  -4!  /  of  §  31. 
+
+3.  Using  the  binary  quartic  and  its  Hessian,  obtain  the  invariant  /. 
+
+4.  Taking  l  =  aoX^+.  .  .  ,  f=boX^+.  .  .,  obtain  their  simultaneous 
+invariant 
+
+
+If  also  /=/,  we  have  an  invariant  of/,  which  vanishes  if  p  is  odd.     For 
+/>  =  2  and  ^  =  4,  deduce  the  results  in  Exs.  1 ,  2. 
+
+5.  A  fundamental  system  of  covariants  of  a  quadratic  and  cubic 
+
+Q  =  Ax^  +2Bxy+Cy,      f=  ax'  +3bx-'y  +3cxy^-  +dy^ 
+
+is  composed  of  15  forms.  We  may  take  Q  and  its  discriminant  AC—B''; 
+f,  its  discriminant  and  Hessian  h,  given  by  (5)  and  (2)  of  §  8,  the  Jacobian 
+/of/and£?: 
+
+J=(d''d-3abc+2b')x^+3(abd+b'-c-2ac^)x'-y 
+
++3(2b''d-acd-bc")xy''  +  {3bcd-ad'-2c')y»; 
+
+the  Jacobian  of /and  Q: 
+
+{Ab-Ba)x'  +  i2Ac-Bb-Ca)x^y  +  (Ad+Bc-2Cb)xy^  +  (Bd-Cc)y^; 
+
+the  Jacobian  of  Q  and  //: 
+
+{As-Br)x^  +  {At-Cr)xy  +  (Bt-Cs)y'-; 
+
+the  result  of  operating  on  /  with  the  operator  obtained  as  in  the  theorem 
+from  l=Q: 
+
+Li  =  (aC+cA-2bB)x  +  (bC+dA-2cB)y; 
+the  result  of  operating  on  Q  with  the  operator  obtained  from  Lr. 
+
+L2=  {aBC-b{2B^+AC)  +3cAB-dA']x 
++  \aO-3bBC+c(AC+2B^~)-dAB\y; 
+
+
+62  ALGEBRAIC  INVARIANTS 
+
+the  result  Lz,  of  operating  on  /  with  Q  and  the  result  Li  of  operating  on  Q 
+with  Li  (so  that  Li  and  Li  may  be  derived  from  Ly  and  L2  by  replacing 
+a,  .  .  .  ,  d  by  the  corresponding  coefficients  of  J) ;  the  intermediate 
+invariant  At+Cr—2Bs  of  Q  and  h  (§  11);  the  resultant  of  Q  and/: 
+
+c2C3-6a65C2+6acC(252-.4C)+a(f(6.45C-853) +96^.4  C2 
+-18bcABC+6bdA(2B^-AC)+9cW-C-()cdBA^+d\L^; 
+
+the  resultant  of  Zi  and  Z4  (  =  resultant  of  Z,2  and  L3),  obtained  at  once  as  a 
+determinant  of  order  2.  Salmon,  Modern  Higher  Algebra,  §  198,  gives  geo- 
+metrical interpretations.  Hammond,  Arner.  Jour.  Math.,  vol.  8,  obtains  the 
+syzygies  between  the  15  covariants. 
+
+
+PART    III 
+
+SYMBOLIC   NOTATION 
+The  Notation  and  its  Immediate  Consequences,  §§  39-41 
+
+39.  Introduction.     The  conditions  that  the  binary  cubic 
+
+(1)  f^aoXi^-\-3aiXi"X2-{-3a2XiX2^-\-(i3X2^ 
+shall  be  a  perfect  cube 
+
+(2)  (aiXi  -\-a2X2y 
+
+are  found  by  eliminating  ai  and  a2  between 
+
+(3)  ai'^  —  Qo,  ai-a2  =  ai,  axa2~  —  CL2,  a<^=az, 
+and  hence  the  conditions  are 
+
+(4)  aoa2  =  ai~,         aia3=a2^. 
+
+Thus  only  a  very  special  form  (1)  is  a  perfect  cube. 
+
+However,  in  a  symbolic  sense  *  any  form  (1)  can  be  rep- 
+resented as  a  cube  (2),  in  which  ai  and  0:2  are  now  mere  symbols 
+such  that 
+(3')  ai'^,  ci^a.2,  aiQ:2~,  0^2 
+
+are  given  the  interpretations  (3),  while  any  linear  combination 
+of  these  products,  as  2ai^  —  la2^,  is  interpreted  to  be  the  cor- 
+responding combination  of  the  a's,  as  2aQ  —  la2,.  But  no  inter- 
+pretation is  given  to  a  polynomial  in  ai,  012,  any  one  of  whose 
+terms  is  a  product  of  more  than  three  factors  a,  or  fewer  than 
+three  factors  a.  Thus  the  first  relation  (4)  does  not  now  follow 
+from  (3),  since  the  expression  0:1^0:2"  (formerly  equal  to  both 
+
+*  Due  to  Aronhold  and   Clebsch,   but   equivalent   to   the  more  complicated 
+hyperdeterminants  of  Cajdey. 
+
+63 
+
+
+64  ALGEBRAIC   INVARIANTS 
+
+Gofl2  and  Gi^)  is  now  excluded  from  consideration;  likewise 
+for  ai^ao^  and  the  second  relation  (4). 
+
+In  brief,  the  general  binary  cubic  (1)  may  be  represented 
+in  the  symbolic  form  (2)  since  the  products  (3')  of  the  symbols 
+ai,  02  are  in  effect  independent  quantities,  in  so  far  as  we 
+permit  the  use  only  of  linear  combinations  of  these  products. 
+
+But  we  shall  of  course  have  need  of  other  than  linear 
+functions  of  oo,  •  .  .,03-  To  be  able  to  express  them  sym- 
+bolically, we  represent  /  not  merely  by  (2),  but  also  in  the 
+symbolic  forms 
+
+(5)  (/3iXi+/32^2)^,         (71^1+72:^2)^,  .  .  ., 
+so  that 
+
+(6)  /3i3  =  ao,    |8i2/32  =  ai,    Pip2^  =  a2,    /32^  =  a3;     71^  =  ^0,  .... 
+
+Thus  aoCf2  is  represented  by  either  ai^/3i/32-  or  jSi^q;iq:2^,  while 
+neither  of  them  is  identical  with  the  representation  ara2^i^^2 
+of  ai^.     Hence 
+
+aoa2-ai2  =  i(ai3^i/322+|3i3aia22-2ai2a2/3i2^2) 
+=  iai/3i(ai^2-a2/3i)2. 
+
+We  shall  verify  that  this  expression  is  a  seminvariant  of 
+/.     If 
+
+Xi^Xi-{-tX2.  .r2=A^2, 
+
+then /becomes  F  =  AoXi^-{-.  .  .  ,  where 
+
+Ao  =  ao,     Ai=ai-\-tao,     A2  =  a2-\-2tai-\-fiao, 
+
+^3  =  a3+3/a2+3/2ai+/3ao. 
+Hence,  by  (3), 
+
+F  =  {aiXi-{-a  2X2)^,  a  2=oc2-\-tai. 
+
+Similarly,  the  transform  of  (5i)  is 
+
+(iSiXi +^'2X2)3,         |8'2  =  i82+^i8i. 
+
+Hence  we  obtain  the  desired  result 
+
+^0^2-^i2  =  |ai/3i(ai^'2-«'2/3i)2 
+
+
+§40]  SYMBOLIC  NOTATION  65 
+
+40.  General  Notations.     The  binary  n-ic 
+
+is  represented  symbolically  as  a^"  =  /3x"  = .  .  .  ,  where 
+ax  =  aiXi-\-a2X2,         /3j;  =  /3i.ri +182X2,  .   •   •  , 
+
+a2"  =  a„;  /3i"  =  ao,  .... 
+A  product  involving  fewer  than  n  or  more  than  n  factors  ai, 
+0:2  is  not  employed  except,  of  course,  as  a  component  of  a 
+product  of  n  such  factors. 
+
+The  general  binary  linear  transformation  is  denoted  by 
+
+T:  xi  =  ^iXi  +  -niX2,        X2  =  aA^i  + 7,2X2,         {kri)9^0 
+
+1 
+where  {^n)  =  hm—  hvi-  It  is  an  important  principle  of  com- 
+putation, verified  for  a  special  case  at  the  end  of  §  39,  that 
+T  transforms  ax"  into  the  »th  power  of  the  linear  function 
+
+(ai  ^1  -\-0c2  h)X\  +  (ai  7/1  +a:2r?2)-X'2  =a^Xi  +a,X2, 
+
+which  is  the  transform  of  a^  by  T.     Further, 
+
+/j\  «£    oir,   ^  ai     a2         h     V\ 
+
+/?€    ^n         iSi     182     *     ^2     7/2 
+where  (ajS)  =ai/32  —  q:2/3i  =  —  (/3a).     Thus 
+
+(a^^,-a,^J)"  =  (^7,)"(a|8)^ 
+
+so  that  (ai3)"  is  an  invariant  of  ai"=fij^  of  index  «.  Since 
+{^aY  represents  the  same  invariant,  the  invariant  is  identically 
+zero  if  n  is  odd. 
+
+
+=  M)(l^), 
+
+
+EXERCISES 
+
+1.  {a^y  is  the  invariant  2(aoa2  — ar)  of  ccx-  =  0x'^- 
+
+2.  (a/3)^  is  the  invariant  2/  of  ax'  =  /Ji*  (§  31). 
+
+3.  (ai3)2  ((37)2  (Ya)2  is  the  invariant  6/  of  ax*  =  /3i<=7i^  (§  31). 
+
+4.  The  Jacobian  of  ax"*  and  /3x"  is 
+
+
+7"  —  ! 
+
+";3x""Vi 
+
+
+7W  —  1 
+«|3x"  ~^/32 
+
+
+:m«(«/3)ax'"-Vx'^-^ 
+
+
+66 
+
+
+ALGEBRAIC   INVARIANTS 
+
+
+-5.  The  quotient  of  the  Hessian  of  ax"  =  0x"  by  «'(«  — 1)^  equals 
+
+
+n  —2     9 
+ax         Oil 
+
+|3/ "-/i,/32 
+
+
+a  102 
+
+
+&x 
+
+
+n-2 
+
+
+010: 
+
+
+one-half  of  the  sum  of  which  equals  §  a^"    ^/3j;"    '^{a0)'^. 
+6. 
+
+
+ai  Pi  7i 
+
+"2    ft    72 
+
+az  ft  yx 
+
+
+=  M  7:t  +  (^7)«:r  +  (7«)ft  =  0. 
+
+
+41.  Evident  Covariants.     We  obtain  a  covariant  iiC  of 
+
+/  =  «/^  =  /3/  =  .   .  . 
+
+by  taking  a  product  of  w  factors  of  type  ax  and  X  factors  of 
+type  (a(S),  such  that  a  occurs  in  exactly  n  factors,  jS  in  exactly 
+n  factors,  etc.  On  the  one  hand,  the  product  can  be  inter- 
+preted as  a  polynomial  in  ao,  •  •  •  ,  a»,  ^i,  ^2-  On  the  other 
+hand,  the  product  is  a  covariant  of  index  X  of  /,  since,  by 
+(1),  §40, 
+
+{ABy{Acy{Bcy  . . .  a^b'^c^  . . . 
+
+=  i^rjy{a^y{ayy{0yy  .   .   .  ax«i8.^7/  •   •   •  , 
+
+if  \  =  r-\-s-\-t-\-.  .  .  and 
+
+Ax  =  AiXi-{-A2X2,    Ai=a^,    ^2=«„     {AB)=AiB2-A2Bi, 
+
+etc.  The  total  degree  of  the  right  member  in  the  as,  /3's,  .  .  . 
+is  2\-\-o:  =  nd,  if  d  is  the  number  of  distinct  pairs  of  symbols 
+Oil,  a2;  /3i,  /32;  .  •  .in  the  product.  Evidently  d  is  the  degree 
+of  A'  in  ao,  ai,  •  •  •  ,  and  co  is  its  order  in  xi,  X2. 
+
+Any  linear  combination  of  such  products  with  the  same 
+CO  and  X,  and  hence  same  d,  is  a  covariant  of  order  co,  index 
+X  and  degree  d  of  /. 
+
+EXERCISES 
+
+1.  {a0){ay)ax^l3x'yx*and  {ai3y{ay)ax'tix'y'x  are  CO  variants  ofax^=ft^= 7x^ 
+
+2.  {al5)W  "'■  fix""  "'■  is  a  covariant  of  ax'\  ft^. 
+
+3.  Iim  =  n,  ft"=aa;"^  and  ris  odd,  the  last  covariant  is  identically  zero, 
+
+4.  aoXi^+2aiXiX-+aoXo^  and   boXi^+2biXiX2+b2X2^    have    the    invariant 
+
+
+§42]  SYMBOLIC  NOTATION  67 
+
+COVARIANTS  AS  FUNCTIONS  OF  TwO  SYMBOLIC  TypES,    §§  42-45 
+
+42.  Any  Co  variant  is  a  Polynomial  in  the  ax,  (a^).  This 
+fundamental  theorem,  due  to  Clebsch,  justifies  the  symbolic 
+notation.  It  shows  that  any  covariant  can  be  expressed  in 
+a  simple  notation  which  reveals  at  sight  the  covariant  property. 
+
+While  a  similar  result  was  accomplished  by  expressing 
+covariants  in  terms  of  the  roots  (§36),  manipulations  with 
+symmetric  functions  of  the  roots  are  usually  far  more  complex 
+than  those  with  our  symbolic  expressions. 
+
+The  nature  of  the  proof  will  be  clearer  if  first  made  for 
+a  special  case.     The  binary  quadratic  ax^  has  the  invariant 
+
+K  =  aoa2—ai~ 
+of  index  2.     Under  transformation  T  of  §  40,  ai^  becomes 
+
+(a{Xi+a,A'2)^=/loA'r  +  .   .   .  ,     Ao=a(^,     Ai=a^a^,     A2=a^^. 
+Hence  AoAo—Ar  equals 
+
+We  operate  on  each  member  twice  with 
+
+(1)  v  =  -^- ^ 
+
+9^i9'72     9^29771' 
+
+and  prove  that  we  get  Q{a0)^  =  l2K,  so  that  K  is  expressed 
+in  the  desired  symbolic  form.     We  have 
+
+
+(^^)  =  ^l'72-^2 
+
+
+VI, 
+
+
+:^(^r?)2  =  2(^77)a,        -r^(^vy  =  2i^v)+2n^^, 
+
+dV2  0K10V2 
+
+OVl  dK20r]l 
+
+V{^vy  =  Q{^v),  F2(|r,)2  =  12, 
+
+since  F(^r?)  =2,  by  inspection.     Next 
+(2)  Va^^r,  =  V{ai  ^1  +a2  ^2)  (Pi  Vi  +132^72)  =«il82  -a2^i  =  (oc0). 
+
+
+68  ALGEBRAIC   INVARIANTS 
+
+Hence 
+
+=  /3ea,(a^)+aj^,(i3«), 
+
+The  difference  of  the  expressions  involving  V^  is  6(q:/3)2.     Hence 
+if  (1)  operates  twice  on  the  equation  preceding  it,  the  result  is 
+
+43.  Lemma.     F'^(^t7)"  =  (w  +  1)(w!)2. 
+
+We  have  proved  this  for  w  =  1  and  n  =  2.     li  n'L2, 
+
+9?i9'72 
+Similarly,  or  by  interchanging  subscripts  1  and  2,  we  get 
+
+
+Subtracting,  we  get 
+
+F(^T?)"  =  !2w+w(w-l)}(^r7)"-i=w(;^  +  l)(^r7)"-i. 
+It  follows  by  induction  that,  if  r  is  a  positive  integer, 
+
+F'-(^7?)"=(w  +  l)lw(fi-l)  .  .  .  (w-r+2)|2(w-r+l)(^7J)"-^ 
+The  case  r  =  n  yields  the  Lemma. 
+
+44.  Lemma.  //  the  operator  V  is  applied  r  times  to  a  product 
+of  k  factors  of  the  type  aj  and  I  factors  of  the  type  /3„  there  results 
+a  sum  of  terms  each  containing  k—r  factors  a^,  l—r  factors  )3„ 
+and  r  factors  {a0) . 
+
+The  Lemma  is  a  generalization  of  (2),  §  42.  To  prove 
+it,  set 
+
+
+§44]  SYMBOLIC  NOTATION  69 
+
+Then 
+
+
+(s)  a  (<)' 
+
+
+a?29^i     .  =  1^  =  1  aj(^^/3,^'^' 
+
+Subtracting,  we  get 
+
+Hence  the  lemma  is  true  when  r  =  l.     It  now  follows  at  once 
+by  induction  that 
+
+(1)         VAB 
+
+A  B 
+
+
+=  S2(a(si)|3('i))    .   .   .   {a(sr)^{tr)). 
+
+
+«l 
+
+
+(si)    .    .    .  ajCsO  |3,('i)    .    .    .  |S,('0' 
+
+
+where  the  first  summation  extends  over  all  of  the 
+hik  —  l)  .  .  .  (^'  —  r  +  1)  permutations  ^i,  .  .  .  ,  ^r  of  1,  .  .  .  ,  ^ 
+taken  r  at  a  time,  and  the  second  summation  extends  over 
+all  of  the  /(/  —  I)  .  .  .  (/  — r  +  1)  permutations  /i,  .  .  .  ,  Ir  of 
+1,  .  .  .  ,  /  taken  ;'  at  a  time. 
+
+Corollary.     The  terms  of  (1)  coincide  in  sets  of  rl  and 
+the  number  of  formally  distinct  terms  is 
+
+II        1      /k\/l\     , 
+rl. 
+
+
+{k-r)\  {l-r)\  rl     \r/\r 
+
+For,  we  obtain  the  same  product  of  determinantal  factors 
+if  we  rearrange  si,  .  .  .  ,  Sr  and  make  the  same  rearrangement 
+of  /i,  .   .   .  ,  tr. 
+
+45.  Proof  of  the  Fundamental  Theorem  in  §  42.     Let  K  be 
+
+a  homogeneous  covariant  of  order  cu  and  index  X  of  the  binary 
+form  /  in  §  40.  By  §  40,  the  general  linear  transformation 
+replaces /=a:x"  by 
+
+
+(1)  ^t  =  ai"-V  (^  =  0,1,.  .  .,n). 
+
+
+k=o\k 
+Hence 
+
+
+70  ALGEBRAIC  INVARIANTS 
+
+By  the  covariance  of  K, 
+(2)     K{Aq,  .  .  .  ,An\  Xi,  X2)  =  {h)^K{aQ,  .  .  .  ,  a„;  :ki,:^2). 
+By  (1)  the  left  member  equals 
+
+»'=0 
+
+in  which  the  inner  summation  extends  over  various  products 
+AB,  where  ^  is  a  product  of  a  constant  and  factors  of  type 
+a|,  and  5  is  a  product  of  a  constant  and  factors  of  type  a,. 
+Let  Xi=y2,  and  X2^—yi.  Then,  by  solving  the  equations 
+of  T,  §  40, 
+
+Xi=yJ{^v),        X2=-yi/{^ri). 
+
+Hence  the  equation  (2)  becomes 
+
+i    2{-iyABy„'^-'yii={^vy+''K. 
+
+t=0 
+
+Since  the  right  member  is  of  degree  X  +  co  in  ^i,  ^2,  and  of 
+degree  \-\-co  in  771,  772,  we  infer  that  each  term  of  the  left  mem- 
+ber involves  exactly  X  +  co  factors  with  subscript  ^  and  X+w 
+factors  with  subscript  rj. 
+
+Operate  with  F^"*""  on  each  member.  By  §  43,  the  right 
+member  becomes  cK,  where  c  is  a  numerical  constant  5^0. 
+By  §  44,  the  left  member  becomes  a  sum  of  products  each  of 
+X+co  determinantal  factors  of  which  co  are  of  t^'pe  {ay)  =  ax, 
+and  hence  X  of  type  {a0).  The  last  is  true  also  by  the  definiton 
+of  the  index  X  of  K.  Hence  K  equals  a  polynomial  in  the 
+symbols  of  the  types  ax,  (a0). 
+
+To  extend  the  proof  to  covariants  of  several  binary  forms 
+a/,  yx^,  .  .  .  ,  we  employ,  in  addition  to  (l),Ct  =  7j*"~*7,*,  •  •  • 
+and  read  a^,  y^,  .  .  .  for  a^  in  the  above  proof. 
+
+FiNITENESS  OF  A  FUNDAMENTAL  SYSTEM  OF  COVARIANTS, 
+
+§§  46-51 
+
+46.  Remarks  on  the  Problem.  It  was  shown  in  §§28-31 
+that  a  binary  form  /  of  order  <5  has  a  finite  fundamental 
+system  of  rational  integral  covariants  A'l,  .  .  .  ,  Ks,  such 
+therefore  that  any  rational  integral  covariant  of  /  is  a  poly- 
+
+
+§  47]  FINITENESS  OF  COVARIANTS  ;  71 
+
+nomial  in  Ki,  .  .  .  ,  Kg  with  numerical  coefl&cients.  We  shall 
+now  prove  a  like  theorem  for  the  covariants  of  any  system 
+of  binary  forms  of  any  orders.  The  first  proof  was  that  by 
+Gordan;  it  was  based  upon  the  symbolic  notation  and  gave 
+the  means  of  actually  constructing  a  fundamental  system. 
+Cayley  had  earlier  come  to  the  conclusion  that  the  fundamental 
+system  for  a  binary  quintic  is  infinite,  after  making  a  false 
+assumption  on  the  independence  of  the  syzygies  between  the 
+covariants.  The  proof  reproduced  here  is  one  of  those  by 
+Hilbert;  it  is  merely  an  existence  proof,  giving  no  clue  as  to 
+the  actual  covariants  in  a  fundamental  system. 
+
+47.  Reduction  of  the  Problem  on  Covariants  to  one  on  In- 
+variants. We  shall  prove  that  the  set  of  all  covariants  of  the 
+binary  forms  /i,  ...,/*  is  identical  with  the  set  of  forms 
+derived  from  the  invariants  7  of /i,  .  .  .  ,  ft  and  l^xy'  —  x'y 
+by  replacing  .r'  by  x  and  y'  by  y  in  each  /.  It  is  here  assumed 
+(§  15)  that  7  is  homogeneous  in  the  coefficients  of  /  and  that 
+the  covariants  are  homogeneous  in  the  variables. 
+
+Let  the  coefiicients  of  the  /'s  he  a,  b,  ...  ,  arranged  in 
+any  sequence.  Let  A,  B,  .  .  .be  the  corresponding  coefficients 
+of  the  forms  obtained  by  applying  the  transformation  in  §  5. 
+The  latter  replaces  /  by  W-^'t],  where 
+
+r,'=ay'-yx',         ^'  =  bx'-^y'. 
+
+Solving  these,  we  get 
+
+Ax'=a^'+^r?',  ^y'  =  yt'J^bn'. 
+
+Let  I{a,  b,  .  .  .  ;  x',  y')  be  an  invariant  of  /  and  the  /'s. 
+Then 
+
+I(A,B,.  .  .;  ^\r,')=AH(a,b,.  .  .;  x',y'). 
+
+Since  7  is  homogeneous,  of  order  w,  in  x',  y',  the  right  member 
+equals 
+
+A^-"7((Z,  b,  .  .  .  ;  Ax',  Ay')- 
+
+Hence  we  have  the  identity  in  ^',  rj' : 
+
+liA,  B,.  .  .;  ^',  r?0^A^-<::7(a,  b,  .  .  .  ■  a^'+/3r?',     y^'+W). 
+
+
+72  ALGEBRAIC  INVARIANTS 
+
+Thus  we  may  remove  the  accents  on  ^',  t] .  Then,  by  our 
+transformation, 
+
+I{A,B,.  .  .  ;  ^,v)=A^-"I{a,b,.  .  .;  x,y). 
+
+Hence  I  {a,  b,  .  .  .  ;  x,  y)  is  a.  covariant  of /i,  .  .  .  ,  ft  oi  order 
+o)  and  index  X  —  co.  * 
+
+The  argument  can  be  reversed.  Note  that  the  sum  of  the 
+order  and  the  index  of  a  covariant  is  its  weight  (§  22)  and  hence 
+is  not  negative. 
+
+Corollary.  A  covariant  of  the  binary  form  /  has  the 
+annhilators  in  §  23. 
+
+For,  an  invariant  of  /  and  xy'  —  x'y  has  the  annihilators 
+
+fi-y--,    o-x'^, 
+
+ax"  ay' 
+
+48.  Hilbert's  Theorem.  Any  set  S  of  forms  in  xi,  .  .  .  ,  Xa 
+contains  a  finite  number  of  forms  Fi,  .  .  .  ,  F^  such  that  any  form 
+F  of  the  set  can  be  expressed  as  F=fiFi-\-.  .  .4-/t^t,  where 
+fx,  .  .  . ,  fk  drc  forms  in  xi,  .  .  .  ,  Xn,  but  not  necessarily  in 
+the  set  S. 
+
+For  w  =  l,  5  is  composed  of  certain  forms  Cix^\  C2X^\  .... 
+Let  Cs  be  the  least  of  the  e's,  and  set  Fi=CsX^K  Then  each 
+form  in  5  is  the  product  of  Fi  by  a  factor  of  the  form  cx«,  e  ^  0. 
+Thus  the  theorem  holds  when  n  =  l. 
+
+To  proceed  by  induction,  let  the  theorem  hold  for  every 
+set  of  forms  in  n  —  \  variables.  To  prove  it  for  the  system 
+S,  we  may  assume,  without  real  loss  of  generality,*  that  S 
+contains  a  form  Fq  of  total  order  r  in  which  the  coefficient 
+of  xj  is  not  zero.  Let  F  be  any  form  of  the  set  5.  By  division 
+we  have  F  =  FqP-\-R,  where  i?  is  a  form  whose  order  in  Xn 
+
+*  Let  F  be  a  form  in  5  not  identically  zero  and  let  the  linear  transformation 
+
+Xi  =  Cii3'i+Cj2>'2+.   .  .+Cinyn  (/=L.   .   .  ,  «) 
+
+replace  F(:x:i,  .  .  .  ,Xn)  by  K{yi,  .  .  .  ,  jn)-  In  the  latter  the  coefficient  of  the  term 
+involving  only  >'«  is  obtained  from  F  by  setting  Xi  =  cin  and  hence  is  F{cin.,  con,  ■  ■  •  , 
+Cnn),  which  is  not  zero  for  suitably  chosen  c's  (Weber's  Algebra,  vol.  T,  p.  457; 
+second  edition,  p.  147).  But  our  theorem  will  be  true  for  5  if  proved  true  for 
+the  set  of  forms  K. 
+
+
+§48]  FINITENESS  OF  COVARIANTS  73 
+
+is  <r.  In  i?  we  segregate  the  terms  whose  order  in  x»  is  exactly 
+r  — 1,  and  have 
+
+where  M  is  a  form  in  xi,  .  .  .  ,  a-„_i,  while  iV  is  a  form  in 
+iCi,  .  .  .  ,  Xn  whose  order  in  Xn  is  :^  /-  —  2.  Each  F  uniquely  deter- 
+mines an  M. 
+
+For  the  defmite  set  of  forms  M  in  w  — 1  variables  the  theorem 
+is  true  by  hypothesis.  Hence  there  exists  a  fmite  number 
+of  the  M's,  say  M\,  .  .  .  ,  Mi  (derived  from  Fi,  .  .  .  ,  F^, 
+such  that  any  M  can  be  expressed  as 
+
+where  the/'s  are  forms  in  xi,  .  .  .  ,  x„_i.     Then 
+
+t  =  1 
+
+F  =  FoP'-{-  ^fiF^+R',     P'^P-Zf^P^,     R'^N-Xf,Ni. 
+
+1=1 
+
+Each  exponent  of  Xn  in  R'  is  ^r  — 2.  We  segregate  its  terms 
+in  which  this  exponent  is  exactly  r  —  2  and  have 
+
+F  =  FoP'-i-  i  JiF.-hM'xZ-'^+N', 
+«=i 
+
+where  M'  is  a  form  in  xi,  .  .  .  ,  Xn-i,  and  N'  a  form  in 
+Xi,  .  .  .  ,  x„  whose  order  in  x„  is  ^  r— 3. 
+
+The  theorem  is  apphcable  to  the  set  of  forms  M\  so  that 
+each  is  a  linear  combination  of  M\,  .  .  .  ,  M'm,  corresponding 
+to  i^'^+i,  .  .  .  ,  Fi+jn,  say.  As  before,  F  differs  from  a  linear 
+combination  of  Fq,  .  .  .  ,  Fi+mhy 
+
+M"x/-^-\-N", 
+
+where  M"  is  a  form  in  xi,  .  .  .  ,  Xn-i  and  TV"  is  a  form  whose 
+order  in  Xn  is  ^  r  — 4.  Proceeding  in  this  manner,  we  see  that 
+F  differs  from  a  linear  combination  of  Fq,  .  .  .  ,  Ft  by  a  form 
+R  in  xi,  .  .  .  ,  x„^i.     One  more  step  leads  to  the  theorem. 
+
+49.  Finiteness  of  a  Fundamental  System  of  Invariants.  Con- 
+sider the  set  of  all  invariants  of  the  binary  forms /i,  .  .  .  ,  fa, 
+
+
+74  ALGEBRAIC   INVARIANTS 
+
+homogeneous  in  the  coefi&cients  of  each  form  separately.  By 
+the  preceding  theorem,  there  is  a  finite  number  of  these  invariants 
+/i,  .  .  .  ,  Im  in  terms  of  which  any  one  of  the  invariants  /  is 
+expressible  linearly: 
+
+(1)  /  =  £i/i  +  .  .  .-\-EmIn., 
+
+where  Ej  is  not  necessarily  an  invariant,  but  is  a  polynomial 
+homogeneous  in  the  coefficients  of  each  fi  separately. 
+
+Let  ai,  a2,  ...  be  the  coefficients  in  any  order  of/i,  .  .  .  ,/d. 
+Let  A  I,  A2,  .  .  .  be  the  coefficients  in  the  same  order  of  the 
+forms  obtained  from  them  by  applying  a  linear  transformation 
+of  determinant  (l??).     We  may  write 
+
+I{A)  =  {^r,)^I{a),        Ij{A)  =  avrjTj{a),  EAA)=Gj, 
+
+where  Gj  is  a  function  of  the  a's,  |'s,  77's.  From  the  identity 
+(1)  in  the  a's,  we  obtain  an  identity  by  replacing  the  a's  by  the 
+A's.    Hence 
+
+m 
+
+ihYl^  ^Gji^vYJlj, 
+
+in  which  the  arguments  of  the  /'s  are  a's.  Thus  Gj  is  of  order 
+X  — X;  in  ^1,  I2  and  of  order  X  — X^  in  rji,  772.  Operate  on  each 
+member  by  V^.     By  §  43,  the  left  member  becomes 
+
+(X  +  1)(X!)2/. 
+
+By  the  formula  to  be  proved  in  §  50,  the  right  member 
+becomes 
+
+:^IACo(^r,)'^-^Gj-^C,{h)^^-^+'VGj-h.  .  .+a{^vY^V'Gj\, 
+
+i  =  i 
+
+where  the  C's  are  numerical  constants.  Since  Gj  is  of  order 
+v  =  X  — X^  ^  0  in  ^1,  ^2  and  of  order  p  in  771,  772, 
+
+V+'Gj^O,         V^+-Gj  =  0,        ...,         V^Gj  =  0. 
+
+Also  Co,  Ci,  .  .  .  ,  Cy-i  are  zero  since  they  multiply  powers 
+of  (^rj)  whose  exponents  —v,  —v-\-l,  .  .  .,  X^  — X+j^— 1=  —  1 
+are  negative.     Hence 
+
+m 
+
+(X+l)(X!)2/=  ZljC^VGj. 
+
+
+§50]  FINITENESS  OF  COVARIANTS  75 
+
+The  torm  obtained  from/t  =  Q;2"  by  our  linear  transformation 
+has  the  coefficients  (1),  §  45.  The  polynomial  G]  in  these 
+coefficients  is  therefore  a  sum  of  terms  each  a  product  of  a 
+constant  by  v  factors  of  type  a^  and  v  factors  of  type  or,. 
+Hence,  by  §  44,  VCj  is  a  polynomial  in  the  determinantal 
+factors  (a/S)  and  is  consequently  an  invariant  of  the  forms 
+fi.    Thus 
+
+m 
+
+1=  S//0, 
+where  I'j  is  an  invariant.     Then,  by  (l), 
+
+TO  m 
+
+k=\  i,k=\ 
+
+By  repeating  the  former  process  on  this  /,  we  get 
+
+m 
+j,k=\ 
+
+where  the  /"  are  invariants  of  the  forms  ft.  Since  there  is 
+a  reduction  of  degree  at  each  step,  we  ultimately  obtain  an 
+expression  for  /  as  a  polynomial  m  Ii,  .  .  .  ,  In  with  numerical 
+coefficients. 
+
+50.  Lemma.  If  D=  ^ir]2—  ^2Vi,  cind  P  is  homogeneous  {of 
+order  X)  in  |i,  ^2,  and  homogeneous  {of  order  n)  in  t/i,  772,  then 
+
+m 
+
+(1)  F"»Z)"P=  2  GD" -'"+'■  FP, 
+
+r=0 
+
+where  Co,  .  .  .  ,  Cm  are  constants. 
+First,  we  have 
+
+FZ)P  =  P  +  r/2— +^1— +/>-  ^^^ 
+
+
+'dri2        dh        dhdm 
+
+-{-P-h^-ml-+D:^)=-2+X+^)P+DVP, 
+
+\  dh        9171        9^29771/ 
+
+by  Euler's  theorem  for  homogeneous  functions  (§24).  If  P 
+is  replaced  by  D"-^P,  so  that  X  and  m  are  increased  by  n  —  1,  we 
+get 
+
+VD"P  =  {\-\-fx-\-2n)D''-^P-\-DVD''-'^P. 
+
+
+76  ALGEBRAIC   INVARIANTS 
+
+Using  this  as  a  recursion  formula,  we  get 
+
+which  reduces  to  the  result  in  §43  if  P  =  l,  whence  X  =  /i  =  0. 
+Hence  (1)  holds  when  m  =  l.  To  proceed  by  induction  from 
+m  to  w  +  1,  apply  V  to  (1).     Thus 
+
+m 
+r=0 
+
+In  the  result  for  VD"'P,  replace  n  by  n—m-\-r  and  P  by 
+V^P,  and  therefore  diminish  X  and  m  by  r.     We  get 
+
+Yf£)n-m+rYrp\  _^  £)n -m+r -lyrp   \£)n—m+rYr  +  lp 
+
+where 
+
+tr={n—m-\-r){\-\-ij.  —  r-{-n—m-\-l). 
+
+Hence,  changing  r+l  to  r  in  the  second  summand,  we  get 
+
+m+l 
+ym+lj)np^    V    (Crtr  +  Cr-l)D''-'^+'-^V'P, 
+r=0 
+
+with  C„,+i  =  0,  C_i  =  0.     Thus  (1)  is  true  for  every  m. 
+
+51.  Finiteness  of  Syzygies.  Let  /i,  .  .  .  ,  7^  be  a  funda- 
+mental system  of  invariants  of  the  binary  forms  /i,  .  .  .  ,  fa- 
+Let  S{zi,  .  .  .  ,  Zm)  he  a.  polynomial  with  numerical  coefficients 
+such  that  S(Ii,  .  .  .  ,  /w),Vhen  expressed  as  a  function  of  the 
+coeflficients  c  of  the  /'s,  is  identically  zero  in  the  c's.  Then 
+5(7)  =  0  is  a  syzygy  between  the  invariants. 
+
+By  means  of  a  new  variable  z^+i,  construct  the  homogeneous 
+form  5'(zi,  .  .  .,  z^+i)  corresponding  to  S.  By  §48,  the 
+forms  S'  are  expressible  linearly  in  terms  of  a  finite  number 
+S\,  .  .  .  ,  yt  of  them.     Take  2^+1  =  L      Thus 
+
+(1)  5  =  Ci5i  +  .  .  .+CA 
+
+where  Ci,  .  .  .  ,  Ct  are  polynomials  in  zi,  .  .  .  ,  z„,.  Take 
+zi  =Ii,  .  .  .  ,  Zm  =  Im-  Hence  there  is  a  finite  number  of  syzygies 
+Si=0,  .  .  .,  St  =  0,  such  that  any  syzygy  5  =  0  implies  a 
+relation  (l)  in  which  Ci,  .  .  .  ,  C*  are  invariants.  In  particular, 
+every  syzygy  is  a  consequence  of  5i  =  0,  .  .  .  ,  5t  =  0. 
+
+
+§  52]  TRANSVECTANTS  77 
+
+52.  Trans vectants.      Any  two  binary  forms 
+
+have  the  covariant 
+
+(1)  (/,  0)'-  =  (a^)'-«/-'-/3i-'-, 
+
+called  the  rth.  transvectant  (Ueberschiebung)  of  /  and  <^,  and 
+due  to  Caj'ley.  It  is  their  product  if  r  =  0,  their  Jacobian 
+if  r  =  l,  and  their  Hessian  \i  J=<t>  and  r  =  2,  provided  numerical 
+factors  are  ignored  (Exs.  4,  5,  §  40). 
+
+It  may  be  obtained  by  differentiation  and  without  the  use 
+of  the  symbolic  notation.     In  fact,  a  special  case  of  (l),  §  44,  is 
+
+so  that  if/  is  of  order  k  and  4>  of  order  /, 
+
+(2)  im,  0(^))^  =  fc^'  ^^[F'-/(^)c/>fr,)l,  =  ,. 
+
+
+x\ftcr/(ti,  ^2)-4>(m,  m)  is  operated  on  by  V,  we  set  771  =  ^1, 
+For  example,  let /(^)=a^a^,  </.($)  =  7^\  P^a^S^y  '.     Then 
+
+
+d^idvi  ^  *  9^29771  *  * 
+
+The  difference  is  VP.     Taking  r]i=  ^i,  772=  I2,  we  get 
+
+The  numerical  factor  in  (2)  is  here  I/6.     Hence 
+
+(3)  ^<^j  y,')'  =  h{0yh^yf+K'xy)0^y^'. 
+
+In  general,  consider  the  two  forms 
+Then  by  (l),  §  44,  and  the  Corollary,  and  by  (2), 
+
+where  the  summation  extends  over  all  the  combinations  of  the 
+
+
+78  ALGEBRAIC   INVARIANTS 
+
+as  r  at  a  time,  and  over  all  the  permutations  of  the  /S's  r  at 
+a  time.  Thus  the  number  of  terms  in  the  sum  is  the  reciprocal 
+of  the  factor  preceding  S. 
+
+If  the  a's  are  identified  and  also  the  /3's,  (4)  becomes  (1).  li  k  =  2, 
+l=S,  r=l,  we  have  one-sixth  of  a  sum  of  six  terms;  then  if  the  /3's  are 
+identified  we  have  two  sets  of  three  equal  terms  and  obtain  (3). 
+
+Since  F  is  a  differential  operator,  (2)  gives 
+(5)  (2c/,,  i:kj<f>jy  =  ^^cMft,  4>,)r. 
+
+Apolarity;  Rational  Curves,  §§  53-57 
+
+53.  Binary  Forms  Apolar  to  a  Given  Form.  Two  binary 
+quadratic  forms  are  called  apolar  if  their  lineo-linear  invariant 
+is  zero;  then  they  are  harmonic  (Ex.  3,  §  11).  In  general, 
+the  binary  forms 
+
+i=Q\l/  i=o\t/ 
+
+of  the  same  order,  are  called  apolar  if 
+
+(1)  {a^y'^=lji-i)'(jyA.-i=o. 
+
+In  particular,  /  is  apolar  to  itself  if  n  is  odd  (Ex.  4,  §  38). 
+
+Let  the  actual  linear  factors  of  <^  be  /3x^^\  •  •  •  ,  /3j'^"^  By 
+(1),  (4),  §  52, 
+
+(a^)"  =  (a/,     /3,(i>   .   .   .  /3,("))"  =  (a|3(i))   .   .   .   (a/3("^). 
+But  ^x^"^  vanishes  if  xi  and  X2  equal  respectively 
+
+Thus 
+
+Hence  if  0  vanishes  for  xi=yi''''\  X2=y2^''^  (r  =  l,  .  .  .  ,  n), 
+it  is  apolar  to  f  if  and  only  if 
+
+Thus  /  is  apolar  to  an  actual  wth  power  (y2A;i— ^1^2)"  if 
+and  only  if  q:j,'*  =  0,  i.e.,  if  yi,  y2  is  a  pair  of  values  for  which 
+/=0. 
+
+
+§  53]  APOLARITY  79 
+
+If  no  two  of  the  actual  linear  factors  /<  of  /  are  propor- 
+tional, /  is  apolar  to  n  actual  «th  powers  //'  and  these  are  readily 
+seen  to  be  linearly  independent.  Then  their  linear  combinations 
+give  all  the  forms  apolar  to/.  For,  if/ is  apolar  to  <^i,  .  .  .  ,  0n, 
+it  is  apolar  to  /^i<^i  +  .  .  •-\-kn4>n^  where  ^i,  ,  .  .  ,  ^a  are  con- 
+stants, since,  by  (5),  §  52, 
+
+(/,  y^i0i+.  .  .+K^nY  =  k,{J,<j>iY+.  .  .-\-knU,4>nY  =  o. 
+
+Moreover,/  is  not  apolar  to  n-\-\  linearly  independent  forms 
+
+01,    02,    •     •     .     ,    0n+l- 
+
+For,  if  so,  we  have  n-\-l  equations  like  (1),  in  which  the  deter- 
+minant of  the  coefficients  of  ao,  •  •  •  ,  an  is  therefore  zero. 
+But  this  implies  a  linear  relation  between  the  0's.  ///  is  the 
+product  of  n  distinct  linear  factors  U,  a  form  0  can  be  repre- 
+sented as  a  linear  combination  of  /i",  .  .  .  ,  In^  if  afid  only  if 
+0  is  apolar  to  f.  In  particular,  if  r  and  5  are  the  distinct  roots 
+of  f^ax'-\-2bx-\-c  =  0,  the  only  quadratics  harmonic  to  /  are 
+g{x-rY+}i{x-sY. 
+
+In  case  h,  .  .  .  ,  Ir  are  identical,  while  li^lt{i>r),  we  may 
+replace  /i",  .  .  .  ,  /r"  in  the  above  discussion  by  /i",  /i"~^X,  .  .  .  , 
+l^n-r+iy-i^  whcrc  X  is  any  linear  function  of  Xi  and  x-y  which 
+is  hnearly  independent  of  h.  In  fact,  after  a  linear  trans- 
+formation of  variables,  we  may  set  li=X2,  \  =  Xi.  Then  the 
+above  r  forms  have  the  factor  0:2""''"^^  and  hence  are  of  type 
+0  with  bi  =  0{i  ^  n—r).  Also,  /  now  has  the  factor  x-z^,  so 
+that  ai  =  0{i<r).     Hence  every  term  of  (l)  is  zero. 
+
+For  example,  /=.Vi-.r-..(.Vi  — .Vi)-  is  apolar  to 
+
+Xi^,  Xi^Vi]     .r2»;      (xi  —  x-2)\  (.fi  — .^2)^^:1, 
+which  give  five  linearly  independent  quintics. 
+
+In  general,  when  there  are  multiple  factors  of  /,  the  n 
+forms  apolar  to  /  obtained  above  can  be  proved  to  be  linearly 
+independent.     This  fact  is  not  presupposed  in  what  follows. 
+
+54.  Binary  Forms  Apolar  to  Several  Given  Forms.  From 
+the   list  of  the  given  forms  we  may  drop  any  one  linearly  de- 
+
+
+80  ALGEBRAIC  INVARIANTS 
+
+pendent  on  the  others,  since  a  form  apolar  to  several  forms  is 
+apolar  to  any  Hnear  combination  of  them.  In  the  resulting 
+linearly  independent  forms 
+
+the  g-rowed  determinants  in  the  rectangular  array  of  the 
+coefficients  are  not  all  zero.  For,  if  so,  there  are  solutions 
+^1,  .  .  .  T  kg,  not  all  zero,  of 
+
+kiaii-\-k2aio-\- .  .  .-\-kgaig  =  0     {i  =  0,l,.  .  .  ,n), 
+
+which  would  give,  contrary  to  hypothesis,  the  identity 
+
+If  io^i"  +  .  .  .  is  apolar  to  each/r,  then 
+
+
+2(-l)Y".)aJ;„_,-  =  0  (r  =  l,.  .  .  ,  g). 
+
+
+These  determine  g  of  the  b's  as  linear  functions  of  the  remaining 
+5's,  which  are  arbitrary.  Hence  there  are  exactly  n-\-l—g 
+linearly  independent  forms  apolar  to  each  of  the  g  given 
+linearly  independent  forms. 
+
+In  particular,  apart  from  a  constant  factor,  there  is  a 
+single  form  apolar  to  each  of  n  given  linearly  independent 
+forms  of  order  n. 
+
+Consider  three  binary  cubic  forms 
+
+/i  =aJ^=aoXi^+3aixrx2-}-^a2XiX2^-\-a3X2^, 
+
+J2  =  /Sx^  =  h(iXi^  -\-2,hxXi^X2-\-^h2XiX2'^  +h2,X2^ , 
+Jz=-'yx^^CQXi^-\-ZCiXi~X2+2>C2XiX2^-{-C2X2^. 
+
+Each  is  apolar  to  the  cubic  form 
+
+0  =  (a/3)(a7)(i37)«:ri3^Tx. 
+For,  by  (4),  §  52,  and  the  removal  of  a  constant  factor  by  (5), 
+
+(<^,  5.-^)3  =  («i3)(a7)(/3T)(«5)(/35)(75), 
+which  is  changed  in  sign  if  6  is  interchanged  with  a,  /3,  or  7, 
+
+
+§54] 
+
+
+APOLARITY 
+
+
+81 
+
+
+and  hence  is  zero  if  bj^  is  one  of  the  fi.  Hence  each  /<  is  apolar 
+to  4).     Now 
+
+ai"      a\a.2     of^ 
+
+71^     7172     72" 
+
+In  fact,  the  determinant  vanishes  if  (ajS)  =  0  as  may  be  seen 
+by  setting  ^i=cai,  ^2=ca2.  Moreover,  the  two  members  are 
+of  total  degree  six  and  the  diagonal  term  of  the  determinant 
+equals  the  product  of  the  first  terms  0:1182,  etc.,  on  the  left. 
+
+Since  ai^ax=ai^xi-i-ai^a2X2=aoXi-{-aiX2,   etc.,   we  find,   by 
+multiplying  the  members  of  the  last  equation  by  ax/3x7z, 
+
+aoXi-j-aiX2     ai:ri+a2^2     02^1+03X2 
+
+boXi-\-biX2       biXi-{-b2X2       b2Xi-\-b3X2 
+CoXi-\-CiX2        ^1:^1+^2^:2        C2X1+C3X2 
+
+
+where 
+
+
+=  [012]xl3  +  [013]A-l%2  +  [023]xlX22  +  [123]:^;2^ 
+
+
+at    Qj    at 
+[ijk]  =  1  bi     bj     bt 
+
+Ci       Cj       Ct 
+
+If  (p  is  identically  zero,  the  four  three-rowed  determinants 
+in  the  rectangular  array  of  the  coefficients  of  /i,  /2,  /a  are  all 
+zero,  and  the/'s  are  linearly  dependent. 
+
+Apart  from  a  constant  factor,  0  is  the  unique  form  apolcr 
+to  three  linearly  independent  cubic  forms  fi,  f 2,  fz- 
+
+The  extension  to  n  binary  w-ics  is  readily  made. 
+
+55.  Rational  Plane  Cubic  Curves.  The  homogeneous  coor- 
+dinates ^,  rj,  f  of  a  point  on  such  a  curve  are  cubic  functions 
+of  a  parameter  /.     We  may  take  /  =  a:i/.T2  and  write 
+
+Ps=/l,  PV^f2,  P^^fd, 
+
+where  p  is  a  factor  of  proportionality  and  the  /'s  are  the  cubic 
+forms  in  §  54. 
+
+We  may  assume  that  the/'s  are  linearly  independent,  since 
+otherwise  all  of  the  points  (^,  tj,  f)  would  He  on  a  straight 
+line. 
+
+
+82  ALGEBRAIC  INVARIANTS 
+
+There  is  a  unique  cubic  form  ^  apolar  to  /i,  /2,  /a  (§  54). 
+This  cubic  form,  denoted  by  (p  =  (p/,  is  fundamental  in  the 
+theory  of  the  cubic  curve. 
+
+Three  points  determined  by  the  pairs  of  parameters  xi,  X2; 
+yi,  y2',  and  z\,  so,  are  collinear  if  and  only  if 
+
+(1)  4>x4>Az  =  ^- 
+
+For,  if  the  three  points  he  on  the  straight  Hne 
+
+(2)  /t  +  ;«r7  +  «r  =  0, 
+
+the  three  pairs  of  parameters  are  pairs  of  values  for  which 
+
+(3)  C{xi,  x-f)  ^lfi-^mf2-{-nf3  =  0. 
+
+Since  C  is  apolar  to  (p,  (1)  follows  from  the  first  italicized  theorem 
+in  §  53.  Conversely,  (1)  implies  that  the  cubic  C  which  van- 
+ishes for  the  three  pairs  of  parameters  is  apolar  to  ^  and  hence 
+(§  53)  is  a  linear  combination  of /i,  /2,  /s,  say  (3);  the  corre- 
+sponding three  points  lie  on  the  straight  line  (2). 
+
+Since  (2)  meets  the  curve  in  three  points  the  ratios  xi/x-z 
+of  whose  parameters  are  the  roots  of  (3),  the  curve  is  of  the 
+third  order. 
+
+We  restrict  attention  to  the  case  in  which  the  actual  linear 
+factors  ax,  ^x,  ix  of  4>  are  distinct.  Since  any  cubic  apolar 
+to  </>  is  a  linear  combination  of  their  cubes  (§  53), 
+
+/i  =  rna.3+Ct2/3/+c,37/  (^  =  1,  2,  3). 
+
+Since  the  determinant  \  dj  \  is  not  zero,  suitable  linear  com- 
+binations of  the/'s  give  a/,  /3x^,  jx^.  Hence  by  a  linear  trans- 
+formation on  ^,  7],  f  (i.  e.,  by  choice  of  a  new  triangle  of  ref- 
+erence), we  may  take  * 
+
+The  line  ^  =  0  is  an  inflexion  tangent,  likewise  7j  =  0  and 
+f  =  0.  In  addition  to  the  resulting  three  inflexion  points, 
+there  are  no  others.  For,  at  an  inflexion  point  three  consecutive 
+points  are  collinear,  so  that  (l)  gives  (^  =  <^/  =  0.    In  the  present 
+
+*  We  now  have  the  formulas  in  the  second  part  of  §  54,  where  now  ax^  is  the 
+actual,  not  a  symbolic,  expression  of /i,  etc. 
+
+
+§56]  RATIONAL  PLANE   CUBIC  CURVE  83 
+
+case  there  are  therefore  exactly  three  inflexion  points  and  they 
+are  coHinear. 
+
+56.  Any  Rational  Plane  Cubic  Curve  has  a  Double  Point. 
+
+Let  Px  denote  the  point  (^,  r/,  i")  determined  by  the  pair  of 
+parameters  xi,  xo.  If  the  ratios  x\/x2  and  yi/y2  are  distinct 
+and  yet  Pi  coincides  with  Py,  then  Px  is  a  double  point.  For, 
+any  straight  line  (2),  §  55,  through  Px  meets  the  curve  in 
+only  the  three  points  whose  pairs  of  parameters  satisfy  the 
+cubic  equation  (3),  and  since  two  of  these  pairs  give  the  same 
+point  Px.  the  line  meets  the  curve  in  a  single  further  point. 
+Hence  there  is  a  double  point  Px  =  Py  if  and  only  if  there  are 
+two  distinct  ratios  xi/xo  and  yi/>'2  such  that  (l)  holds  identically 
+in  Si,  22- 
+
+Let  Q  be  the  quadratic  form  which  vanishes  for  the  pairs 
+of  parameters  xi,  X2  and  yi,  yo  giving  a  double  point.  By  (1), 
+and  the  first  theorem  in  §  53,  Q  is  apolar  to  <f)x~(f>z  for  Si,  Z2 
+arbitrary.  Write  (f)'i^  as  a  symbolic  notation  for  <f>,  alter- 
+native to  ^/.  Applying  the  argument  made  in  §  54  for  three 
+cubics  to  two  quadratics,  we  see  that  the  unique  quadratic 
+(apart  from  a  constant  factor)  which  is  apolar  to  both  <^^-0, 
+and  (t>'x'^4>'u>  is  their  Jacobian 
+
+/=  (<^0   )<t>x4>  X*  020   W 
+
+Since  0  and  0'  are  equivalent  symbols,  their  interchange  must 
+leave  /  unaltered.     Hence 
+
+-^  =  2(00  )0x0  x{(t>z4>'w  —  4>'z4>tc\. 
+
+The  quantity  in  brackets  equals  {<i><i>'){zw)  by  (l),  §  40.  Dis- 
+carding the  constant  factor  \{zw),  we  may  take 
+
+as  the  desired  quadratic  form.  This  is  the  Hessian  of  0. 
+Conversely,  the  pairs  of  values  for  which  Q  vanishes  are  the 
+pairs  of  parameters  of  the  unique  double  point  of  the  curve. 
+
+57.  Rational  Space  Quartic  Curve.  Such  a  curve  is  given 
+by 
+
+
+84  ALGEBRAIC  INVARIANTS 
+
+where  the  four  binary  quartics  are  linearly  independent.  By 
+§  54,  there  is  a  unique  quartic  0  apolar  to  each  of  the  four. 
+As  in  §  55,  four  points  Px,  Py,  Pz,  Pw  on  the  curve  are  coplanar 
+if  and  only  if 
+
+Thus  0  =  0  gives  the  four  points  at  which  the  osculating  plane 
+meets  the  curve  in  four  consecutive  points.  It  may  be  shown 
+that  the  values  i"/*\  X2^'^^  for  which  the  Hessian  of  </>  vanishes 
+give  the  four  points  i'j:^')  on  the  curve  the  tangents  at  which 
+meet  the  curve  again. 
+
+Fundamental   Systems   of    Covariants    of   Binary   Forms 
+
+§§  58-63 
+
+58.  Linear  Forms.  A  linear  form  otx  is  its  own  symbolic 
+representation.  If  ax  =  0x,  then  (q:/3)=0.  Hence  the  only 
+covariants  of  ax  are  products  of  its  powers  by  constants.  A 
+fundamental  system  of  covariants  of  n  linear  forms  is  evidently 
+given  by  the  forms  and  the  ln(n  —  l)  invariants  of  type  (a/3), 
+where  ax  and  0x  are  two  of  the  forms. 
+
+59.  Quadratic  Form.     A  covariant  K  of  a  single  quadratic 
+may  have  no  factor  of  type  (a/S)  and  then  it  is 
+
+ax  Px  Ifx     •    .    •     J    , 
+
+or  may  have  the  factor  (a/S)  and  hence  the  further  factor  {a0), 
+{ay){p8),  {ay)^x,  or  axl3x,  including  the  possibility  5  =  7.  In 
+the  first  case,  K^{a^)^Ki,  where  A'l  is  a  covariant  to  which 
+the  same  argument  may  be  applied.  Now  {a'y)^ay  if  ^1=72, 
+y2=—yx.  Hence  in  the  last  three  cases,  K  has  a  factor  of 
+the  type 
+
+e  =  {a^)ay^^, 
+
+where  ay  is  either  ax  or  a  new  mode  of  writing  (0:7),  and  similarly 
+jSj  is  either  ^x  or  a  new  mode  of  writing  (/35). 
+
+Interchanging  the  equivalent  symbols  a  and  8,  we  get 
+
+d  -  i^a)^,a,  =  K«/3)  (a,/3,  -  /3,«.)  =  § (a^)2(y3), 
+
+
+§eO]  FUNDAMENTAL  SYSTEM  OF  COVARIANTS  85 
+
+by  (1),  §  40.  We  are  thus  led  to  the  first  case.  Hence  the 
+fundamental  system  of  covariants  of  /  is  composed  of  /  and 
+its  discriminant. 
+
+EXERCISES 
+
+1.  The  fundamental  system  for  f=ax^  =  bx-  and  l=ax  =  0x  is  /,  /,  {ab)*, 
+{aocy,  {aa)ax. 
+
+2.  The  fundamental  system  for  f=ax^  =  bx-  and  <t>  =  ax^  =  Px^  is/,  <t>, 
+{aby,  (a^)^,  (oa)-,  {aa)axax.     Hint: 
+
+{act)  {a0)aaliy  =  {aa)  '-fiy^z-\{a0)  ^GyOz, 
+
+as  proved  by  multiplying  together  the  identities  (Ex.  6,  §  40) 
+
+{a^)ay  =  {ap)ay-{aa)0^,  (a/3)(Zz=(d/3)as-(aa)/5,, 
+
+and  noting  that  a  and  /3  are  equivalent  symbols. 
+
+60.  Theorems  on  Trans vectants.  In  the  expression  (4), 
+§  52,  for  a  transvectant,  each  summand  taken  without  the 
+prefixed  numerical  factor  is  called  a  term  of  the  transvectant. 
+In  the  first  transvectant  (3),  §  52,  the  difference  of  the  two 
+terms  is 
+
+by  Ex.  6,  §  40,  and  is  the  negative  of  the  0th  transvectant 
+(viz.,  product)  of  (a/3)  and  y^^.  The  act  of  remo\dng  a  factor 
+a^  and  a  factor  jS^  from  a  product  and  multiplying  by  the 
+factor  (q:/3)  is  called  a  convolution  (Faltung).  We  have  therefore 
+an  illustration  of  the  following 
+
+Lemma.  The  difference  between  any  two  terms  of  a  trans- 
+vectant equals  a  sum  of  terms  each  a  term  of  a  lower  transvectant 
+of  forms  obtained  by  convolution*  from  the  two  given  forms. 
+
+Consider  the  rth  transvectant  of 
+
+where  P  and  Q  are  products  of  determinantal  factors.  Then 
+PQ  is  a  factor  of  each  term  of  the  transvectant.  Any  two 
+terms  T  and  T  differ  only  as  to  the  arrangements  of  the  as 
+and  the  /3's.      Hence  T'  can  be  derived  from  7  by  a  permuta- 
+
+*  Including  the  case  of  no  convolution,  as  7^'  from  itself,  in  the  above  example. 
+
+
+86  ALGEBRAIC  INVARIANTS 
+
+tion  on  the  as  and  one  on  the  /S's,  and  hence  by  successive 
+interchanges  of  two  a's  and  successive  interchanges  of  two 
+jS's.  Any  such  interchange  is  said  to  replace  a  term  by  an 
+adjacent  term.  For  example,  the  two  terms  of  (3),  §  52, 
+are  adjacent,  each  being  derived  from  the  other  by  the  inter- 
+change of  a  with  /3.  Between  T  and  T'  we  may  therefore 
+insert  terms  Ti,  .  .  .  ,  Tn  such  that  any  term  of  the  series 
+T,  Ti,  T2,  ■  ■  '  ,  Tn,  T'  is  adjacent  to  the  one  on  either  side 
+of  it.     Since 
+
+r-r=(r-ri)+(ri-r2)+.  .  .+(r„_i-r„)+rr„-r), 
+
+it  suffices  to  prove  the  lemma  for  adjacent  terms. 
+
+The  interchange  of  two  a's  or  two  /3's  affects  just  two  factors 
+of  a  term  of  (4),  §  52.     The  types  of  adjacent  terms  are  * 
+
+where  /3'  and  /3"  were  interchanged.  The  difference  of  the 
+last  two  terms  is  seen  to  equal  C(jS"^')a\  by  the  usual  identity. 
+The  latter  is  evidently  a  term  of  the  (r  — l)th  transvectant 
+of  /  and  {l3"^')4>/{^'\^\],  which  is  obtained  from  <f)  by  one 
+convolution. 
+
+The    difference    of    the    first    two    adjacent    terms    equals 
+C(aW')(fi'^"),  since 
+
+a  la    I p  i  p    1 
+
+
+{a'a")(p'n  -  ia'^'){a"n  +  icc'fi"){a"^')  ^\ 
+
+
+I  n       n>       o" 
+
+a  2OL    2P2P    2 
+
+'        //     Qt     o" 
+a  \a    i  p  1 p    1 
+
+a  20i   2  P  2  p   2 
+
+
+=  0, 
+
+
+as  shown  by  Laplace's  development.  The  same  relation 
+follows  also  from  the  identity  just  used  by  taking  |i  =  — a"2, 
+^2=  a" I.  The  resulting  difference  is  a  term  of  the  (r-2)th 
+transvectant  of 
+
+a  ^a   ^  p  iP   ^ 
+
+which  are  derived  from  /  and  0  by  a  convolution. 
+
+*A  pair    C(a'0')a"^,  C(a"li')a'^,  obtained    by    interchanging   a     and   a",  is 
+essentially  of  the  second  type. 
+
+
+§G0]  FUNDAMENTAL  SYSTEM  OF  COVARIANTS  87 
+
+The  LcMnma  leads  to  a  more  important  result.  By  tlie 
+proof  leading  to  (4),  §  52.  the  coefficient  of  each  term  of  a 
+transvectant  is  1/N,  if  .Y  is  the  number  of  terms.  Just  as 
+S  =  hiTi-\-T-2)  implies  S-Ti=h(T2-Ti),  so 
+
+
+impUes 
+
+
+S  =  ^{Ti  +  .  .  .  +  r.v) 
+
+
+Hence  ilic  clijjcrciicc  bclwccii  a  traiisvccia>i!  a)iJ  any  one  of  its 
+terms  equal  a  sum  of  lernis  eaeJi  a  term  of  a  lower  iransveeiant 
+of  forms  obtained  by  eonvolntion  from  the  two  givefi  forms. 
+
+Each  term  of  a  lower  transvectant  may  be  expressed,  by 
+the  same  theorem,  as  the  sum  of  that  transvectant  and  terms 
+of  still  lower  transvectants,  etc.  Finally,  when  we  reach  a 
+0th  transvectant,  i.e.,  the  product  of  the  two  forms,  the  only 
+term  is  that  product.     Hence  we  have  the  fundamental 
+
+Theorem.  The  differ enee  between  any  transveetant  and 
+any  one  of  its  terms  is  a  linear  function  of  lower  Iransvcclanls 
+of  forms  obtained  by  convolution  from  the  two  given  forms. 
+
+For  example,  from  (3),  §52,  and  the  result  preceding  the 
+Lemma,  we  have 
+
+and  {ajS)  is  dcri\oil  from  (Vcp\  by  one  convolution. 
+
+61.  Irreducible  Covariants  of  Degree  m  Found  by  Induction. 
+Let 
+
+/  =  a/  =  /3V'  =  .   .   .=X/ 
+
+be  the  binary  ;;-ic  whose  fundamental  s}'stem  of  covariants 
+is  desired.  Since  a  term  with  the  factor  (a/3)  is  of  degree  at 
+least  two  in  the  coefficients  of  /,  the  only  covariants  of  degree 
+unity  are  kf,  where  k  is  a  numerical  constant.  We  shall  say 
+that  /  is  the  only  irreducible  covariant  of  degree  unity,  and 
+that/,  A'l,  ....  /v,  form  a  complete  set  of  irreducible  covariants 
+of  degrees    <m  if  every  covariant  of  degree    <;;/  is  a  poly- 
+
+
+88  ALGEBRAIC   INVARIANTS 
+
+nomial  in  f,  ...,  Ks  with  numerical  coefficients.  Given  the 
+latter,  we  seek  the  irreducible  co variants  of  degree  m. 
+
+A  covariant  of  degree  m  is  a  polynomial  in  the  (a/S)  and 
+the  ax  such  that  each  term  contains  m  letters  a,  ^,  y,  .  .  .  . 
+Let  Tm  be  one  of  the  terms  with  its  numerical  factor  suppressed. 
+Let  a,  /3,  .  .  .  ,  K,  X  be  the  m  letters  occurring  in  Tm,  so  that 
+
+r„  =  P(aX)«(/3X)^  .  .  .  {kXYxJ         {a-\-b  +  .  .  .+k-^l  =  n), 
+where  P  involves  only  a,  /3,  .  .  .  ,  k.     Then 
+
+r^_i=Pa.«/3/  .  .  .  K,fc 
+is  a  covariant  of  degree  m—l.     Evidently  Tm  is  a  term  of 
+
+{Tm-i,     X/)^  {r  =  n-l), 
+
+since  it  is  obtained  by  r  =  a-\-b^.  .  .-{-k  convolutions  from 
+Tm-i^x"^-     By  the  final  theorem  in  §  60, 
+
+Tm={Tm-ljy+^^'cj{frn-ufy, 
+j=0 
+
+where  the  Cj  are  numerical  constants,  and  each  Tj^-i  is  derived 
+from  r„i_i  by  convolutions  and  hence  is  a  covariant  of  degree 
+m—l.  But  the  covariant  of  degree  m  was  a  linear  function 
+of  the  various  Tm-  Hence  every  covariant  of  degree  m  oj  f  is 
+a  linear  function  of  transvectants  {Cm-ufY  of  covariants  C^-i 
+of  order  m—l  with  f.  Such  a  transvectant  is  zero  if  k>n, 
+in  view  of  the  order  of/.  Moreover,  it  suffices  by  (5),  §52, 
+to  employ  the  C^-i  which  are  products  of  powers  oif,Ki,.  .  .  , 
+Kg.  Hence  the  covariants  of  degree  m  are  linear  functions  of 
+a  finite  number  of  transvectants. 
+
+In  the  examination  of  these  transvectants  {Cm-i,  fY,  we 
+first  consider  those  with  k  =  \,  then  those  with  k  =  2,  etc.  We 
+may  discard  any  {Cm-i,fY  for  which  Cm-i  has  a  factor  <t>,  of 
+order  '^k,  which  is  a  product  of  powers  of  f,  Ki,  .  .  .  ,  Ks,  and 
+of  degree  <m-l.  For,  if  T  is  a  term  of  (c^,/)^,  and  if  C^_i=^0, 
+then  T  is  obtained  by  k  convolutions  of  0/,  and  qT  by  the  same 
+k  convolutions  of  g<^/,  not  affecting  q.  Hence  qT  is  a  term  of 
+{q(t>,  fY'     Hence 
+
+(Cm-i,  fY-qT+~^'  Cj(Cm-i,fy. 
+
+3=0 
+
+
+§  G2]  FUNDAMENTAL  SYSTEM  OF  CO  VARIANTS  80 
+
+But  the  terms  of  the  last  sum  have  by  hypothesis  been  con- 
+sidered previously,  while  the  co variants  ^  and  T  are  of  degree  * 
+<m  and  hence  are  expressible  in  terms  of/,  Ki,  .  .  .  ,  Ks. 
+
+62.  Binary  Cubic  Foim.  The  only  irreducible  co  variant  of 
+degree  one  of 
+
+was  shown  to  be  /.     The  only  covariants  of  degree  two  are 
+
+(a^)'-a/-%-'^-'-  (r  =  0,  1,  2,3). 
+
+This  vanishes  identically  if  r  is  odd.  If  r  =  0,  we  have  /-, 
+which  is  reducible.  Hence  the  only  irreducible  covariant  of 
+degree  two  is 
+
+ia0)-a,l3,  =  (/,  f)~  =  Hessian  H  of  /. 
+
+To  find  the  irreducible  covariants  of  degree  m=S,  we 
+have  Cjn-i  =  Ii  or/-.  In  the  second  case,  C^-i  has  the  factor 
+f  of  degree  <m  —  l  and  order  3^^'  (since  we  cannot  remove 
+by  convolution  more  than  three  factors  from  the  second  function 
+f  in  the  transvectant).  Hence  we  may  discard  Cm-i=f~-  It 
+remains  to  consider  (H,  f)^\  k^l,  2.     Now 
+
+(H,  /)  =  (a/3)2(a7)/3^7/  =  Jacobian  /  of  //  and  / 
+
+is  irreducible,  being  of  order  and  degree  three  and  hence  not 
+a  polynomial  in  /  and  H.     Next, 
+
+{H,  jy  -  (a/3)2(a7)  (^7)7x  =  P{a^h.,  P  =  {cc0)  {ay) (fiy) . 
+
+Interchanging  a  with  7,  we  get  P{^y)ai.  Interchanging  jS 
+with  7,  we  get  P(y(x)0j.     Hence 
+
+(F,/P  =  |F|M)7.  +  (^7K  +  (7«)/3x|=0. 
+
+The  irreducible  covariants  of  degree  three  or  less  are  therefore 
+/,  H,  J. 
+
+To  find  those  of  degree  7;z=4,  we  have  Cm-i=P,  fB,  J, 
+
+*  This  is  evident  for  the  factory  of  Cm-i-  Since  <f)  is  of  degree  <w— 1,  the 
+term  T  of  (<^,  /)^'  involves  fewer  than  m  — 1  +  1  symbols  a,  ^,  .  .  .  ,  and  hence  is 
+of  degree  <  m. 
+
+
+90  ALGEBRAIC  INVARIANTS 
+
+of  which  the  first  two  may  be  discarded  as  before.     It  remains 
+to  consider  (/,/)*,  for  ^  =  1,  2,  3.     By  §  52, 
+
+=  (a/3)2(a7)  lKi35)7x-5.2  +  |(y5)i3.7x5/|. 
+
+Replacing  {P8)yz  by  iy8)^s  +  il3y)8„  and  noting  that 
+
+{amay){^yH5.'  =  {H,f)--f=0, 
+we  get 
+
+(/,/)  =  (a/3)2(a7)(75)/^.7x5/. 
+
+Interchange  y  and  5,     Hence 
+
+U,/)=K«/3)'(75))3.7x5xK«7)5x  +  (5a)7x}. 
+The  quantity  in  brackets  equals  —{yd)ax.     Hence 
+
+Denoting  H  by  Jh^  =  h"^i,  we  have 
+
+
+/  =  (//,2^^^3)  =  (/,^)/,^^^2^  /  =  ^: 
+
+
+X    7 
+
+
+by  the  theorem  in  §  60.     Here  J  =  {haYax  =  {H,  f)^  =  0.     Since 
+the  first  term  is  changed  in  sign  when  a  and  /3  are  interchanged, 
+we  have  {J,fy  =  0. 
+For  the  third  case, 
+
+(/,  /)3  =  (M)2(a7)^x7x2,  5.3)3  =  {amay)(^8){y8y  =  D, 
+
+an  invariant,  evidently  equal  to  {H,  H)^,  the  discriminant 
+of  H.  Thus  D  is  the  discriminant  of  /  (§§8,  30)  and  is  not 
+identically  zero.  Hence  D  is  the  only  irreducible  covariant 
+of  degree  four. 
+
+We  can  now  prove  by  induction  that  /,  H,  J  and  D  form 
+a  complete  set  of  irreducible  covariants  of  degree  ^  ;w  ^  5.  Let 
+this  be  true  for  covariants  Cm-\  of  degree  ^w  —  1.  We  may 
+discard  (C^-i,  fy  if  Cm-i  has  the  factor/  or  /,  each  of  which 
+is  of  order  3  ^  ^  and  of  degree  (1  or  3)  less  than  m  —  1;  and 
+evidently  also  if  it  has  the  factor  D.  Hence  Cm-\=n%  e  ^  2. 
+If  ^  J  2,  it  has  the  factor  E  of  order  2^k  and  degree  2<m  —  l. 
+It  remains  to  consider  {E%  f)^.     If  e>2,  H^  has  the  factor 
+
+
+§  61]  LAW  OF  RECIPROCITY  91 
+
+H'  of  order  4^3  and  degree  -Kw— 1,  since  H'^  is  of  degree 
+^  6.     Finally, 
+
+{H\  /  )3  =  {hVl\,  a/)3  =  {ha)Hh'a)h\  =  {h\  (JlaY-a;)  =  0. 
+
+Hence  /,  H,  J,  D  form  a  fundamental  system  of  covariants 
+{cf.  §30). 
+
+63.  Higher  Binary  Forms.  The  concepts  introduced  by 
+Gordan  in  his  proof  of  the  liniteness  of  the  fundamental  system 
+of  covariants  of  the  binary  p-ic  enabled  him  to  find  *  the 
+system  of  23  forms  for  the  quintic,  the  system  of  2G  forms  for 
+the  sextic,  as  well  as  to  obtain  in  a  few  lines  the  system  for 
+the  cubic  (§  62)  and  the  quartic  (§  31).  Fundamental  sys- 
+tems for  the  binary  forms  of  orders  7  and  8  have  been  deter- 
+mined by  von  Gall.f 
+
+Gordan's  method  yields  a  set  of  covariants  in  terms  of 
+which  all  of  the  covariants  are  expressible  rationally  and 
+integrally,  but  does  not  show  that  a  smaller  set  would  not 
+serve  similarly.  The  method  is  supplemented  by  Cayley's 
+theory  |  of  generating  functions,  which  gives  a  lower  limit 
+to  the  number  of  covariants  in  a  fundamental  system. 
+
+64.  Hermite's  Law  of  Reciprocity.  This  law  (§  27)  can  be 
+made  self-evident  by  use  of  the  symbolic  notation.  Let  the 
+form 
+
+<t)=ax^  =  ^x^  =  -  .  .=ao{xi  —  piX2){xi—  P2X2)  .  .  .   {xi  —  ppX2) 
+
+have  a  covariant  of  degree  d, 
+
+K  =  ao'^^ipi-p-2)Kpi-p-syip2-P3)^  . . .  (xi-pi-rs)'' . . .  (xi-ppa:.)^ 
+
+so  that  each  of  the  roots  pi,     .  .  .  ,  pp  occurs  exactly  d  times 
+in  each  product.     Consider  the  binary  ^-ic 
+
+J  =  ai'^  =  b/  =  .  .  .  =  CoCti— riXo)   .  .  .  {xi  —  raXo). 
+
+*  Gordan,  Inmriantentheorie,  vol.  2  (1887),  p.  236,  p.  275.  Cf.  Grace  and 
+Young,  Algebra  of  Invariants,  1903,  p.  122,  p.  128,  p.  150. 
+
+t  M alhematische  Annaleii,  vol.  17  (1880),  vol.  31  (18S8). 
+
+X  For  an  introduction  to  it,  see  Elliott,  Algebra  of  Quantics,  1895,  p.  165,  p. 
+247. 
+
+
+92  ALGEBRAIC  INVARIANTS 
+
+To  the  various  powers,  whose  product  is  any  one  term  of  K, 
+
+{pi-p'zY,  {pi-p-j.y,  {p2-p-iY,  . . ., 
+
+(X1-P1X2)'',       {xi-p2X2)^,    .    .    ., 
+
+we  make  correspond  the  symboUc  factors 
+
+{ahy,     {acy,     (be)'',     .  .  .,     aj\     h\     .  .  . 
+
+of  the  corresponding  covariant  of/: 
+
+C={ahy{acy{bcY  .  .  .  aj'hjx'j'  .  .  ., 
+
+of  degree  p  (since  there  are  p  symbols  a,  b,  c,  .  .  .  ,  cor- 
+responding to  pi,  .  .  .  ,  Pj,)  and  having  the  same  order 
+/i+^2+/3  +  .  .  .  as  A'.     Conversely,  C  determines  A. 
+
+EXAMPLES 
+
+Let  p  =  2.  To  K  =  au^^(pi  — Pi)^''  corresponds  the  invariant  C=  (ai)^^ 
+of  degree  2  of  f=(ix'^  =  hx'^^.  Again,  to  the  covariant  K4>^  of  (/>  corresponds 
+the  covariant  (ab)'^^  OxVV  of  the  form  ax'^'^'^^  =  bx^^'^K 
+
+Concomitants  of  Ternary  Forms  in  Symbolic  Notation, 
+
+§§  65-67 
+
+65.  Ternary  Form  in  Symbolic  Notation.  The  general 
+ternary  form  is 
+
+''        r\s\l\ 
+
+where  the  summation  extends  over  all  sets  of  integers  r,  5,  /, 
+each  =  0,  for  which  r-\-s-\-l  =  n. 
+We  represent/  symbohcally  by 
+
+/  =  a_,"  =  |3/   .    .    .  ,  ax  =  a\X\-^a2X2-\-OL2,Xz,  .... 
+
+Only  polynomials  in  ai,  02,  "a  of  total  degree  n  have  an  inter- 
+pretation and 
+
+Just  as  a\^2—(X2^\  was  denoted  by  (a/S)  in  §39,  we  now 
+write 
+
+(a/37) 
+
+
+a\ 
+
+0:2 
+
+OL-i 
+
+^1 
+
+/32 
+
+/33 
+
+71 
+
+72 
+
+73 
+
+§66]  CONCOMITANTS  OF  TERNARY   FORMS  93 
+
+Under  any  ternary  linear  transformation 
+T:  ^i=^tXi  +  7jtX2  +  f«X3  (j  =  l,2,  3) 
+
+ax  becomes  Q:{Xi+a,X2+«5-A'3,  and/  becomes 
+
+fi ! 
+Z   ,    '.ATstX^\X''2X^-s  =  (aiXi-\-a^X2-\-oiiX:i)  . 
+risltl 
+
+Thus  ax  behaves  Uke  a  covariant  of  index  zero  of  /.     Also 
+
+«{     a,     «{• 
+
+^j      /3,      ^f     =M7J(^r7f), 
+7£      7.,      7r 
+
+so  that  (aj37)  behaves  like  an  invariant  of  index  unity  of/. 
+
+EXERCISES 
+
+1.  The  discriminant  of  a  ternary  quadratic  form  ax^  is  ^  {aftyY. 
+
+2.  The  Jacobian  of  a^',  Px"^,  tz"  is  /ww  (a/3TJa:c^~Vi'"~V/~^ 
+
+3.  The  Hessian  of  a^"  is  the  product  of  (a/37)2a/~^/3z"~^7i"~^  by  a 
+constant. 
+
+4.  A  ternary  cubic  form  ai'  =  /3i'  =  .  .  .  has  the  invariants 
+
+{a0y){a0b){ayb){fiyb),      (a0y)(a0o)(aye)(0y<}>)(oe<t>y. 
+
+66.  Concomitants    of    Ternary    Forms.     If   ui,    ii2,   uz   are 
+constants, 
+
+Uz  =  UiXi-\-U2X2+U:iX3  =  0 
+
+represents  a  straight  line  in  the  point-coordinates  xi,  xo,  X3. 
+Since  ui,  U2,  M3  determine  this  line,  they  are  called  its  line- 
+coordinates.  If  we  give  fixed  values  to  xi,  X2,  X3  and  let  the 
+line-coordinates  ui,  U2,  ws  take  all  sets  of  values  for  which 
+Ux  =  0,  we  obtain  an  infinite  set  of  straight  lines  through  the 
+point  (xi,  X2,  X3).  Thus,  for  fixed  x's,  Ux  =  0  is  the  equation 
+of  the  point  (xi,  X2,  x^)  in  line-coordinates. 
+
+Under  the  linear  transformation  T,  of  §  Go,  whose  deter- 
+minant {^vO  is  not  zero,  the  line  Ux  =  0  is  replaced  by 
+
+Ux=UiXi-{-U2X2  +  U3X3=0, 
+
+in  which  333 
+
+f/i  =    S   ^iUi,  1/2=    ^  ViUi,  t/3  =    -  fi«<- 
+
+t=l  i=l  1=1 
+
+
+94  ALGEBRAIC  INVARIANTS 
+
+The  equations  obtained  by  solving  these  define  a  linear  trans- 
+formation Ti  which  expresses  wi,  U2,  us  as  linear  functions 
+of  Ui,  U2,  Us  and  which  is  uniquely  determined  *  by  the 
+transformation  T.  Two  sets  of  variables  Xi,  X2,  X3  and  wi,  ti2,  U3, 
+transformed  in  this  manner,  are  called  contragredient. 
+
+A  polynomial  P{c,  x,  u)  in  the  two  sets  of  contragredient 
+variables  and  the  coefficients  c  of  certain  forms  Ji{x\,  X2,  xz) 
+is  called  a  mixed  concomitant  of  index  \  of  the  /'s  if,  for  every 
+linear  transformation  T  of  determinant  A?^0  on  xi,  X2,  X3  and 
+the  above  defined  transformation  Ti  on  ui,  U2,  uz,  the  product 
+of  P{c,  X,  u)  by  a''  equals  the  same  polynomial  P(C,  A',  U) 
+in  the  new  variables  and  coefficients  C  of  the  forms  derived 
+from  the  /'s  by  the  first  transformation.  For  example,  Ux  is 
+a  concomitant  of  index  zero  of  any  set  of  forms. 
+
+In  particular,  if  P  does  not  involve  the  w's,  it  is  a  covariant 
+(or  invariant)  of  the  /'s.  If  it  involves  the  u's,  but  not  the 
+re's,  it  is  called  a  contravariant  of  the  /'s. 
+
+Since  U\=u^,  U2  =  u^,  1/3=11^,  we  see  by  the  last  formula 
+in  §  65,  with  7  replaced  by  u,  that  (a^u)  behaves  like  a  contra- 
+variant  of  index  unity  of  ax^,  and  also  like  one  of  ax",  ^x^. 
+
+For  the  linear  forms  ax  and  fix,  («/3«)  has  an  actual  interpretation. 
+For /=«!=  = /So:-,  where 
+
+/=  a2ooXr  +ao2oX2^ +0002X3^  +2auoXiX2  +20101X1X3 +2aonX2X3, 
+it  may  be  shown  that 
+
+
+O200  duo  ClOl  111 
+
+Olio  flo20  floil  Ui 
+
+Gioi  flon  aoo2  ^h 
+
+III  Ui  Hi  0 
+
+
+{afiuY 
+
+
+By  equating  to  zero  this  determinant  (the  bordered  discriminant  of 
+/),  we  obtain  the  line  equation  of  the  conic  /=  0. 
+
+67.  Theorem.  Every  concomitant  oj  a  system  of  ternary  forms 
+is  a  polynomial  in  Ux  and  expressions  of  the  types  ax,{a^y),  {a^u). 
+
+*  We  have  only  to  interchange  the  rows  and  columns  in  the  matrix  of  T  and 
+then  take  the  inverse  of  the  new  matrix  to  obtain  the  matrix  of  the  transforma- 
+tion Ti.     Similarly,  Xu  x-i  are  contragredient  with  Ui,  Ui,  if  we  have  T,  §  40,  and 
+
+«i  =  (^72  Ui  -  &  Ui)  /  (It?)  ,  Ui  =  ( -  ,,1  t/i+  ti  Ui)  I  ( i-n) . 
+
+
+167] 
+
+
+CONCOMITANTS  OF  TERNARY   FORMS 
+
+
+95 
+
+
+a 
+
+a 
+a  ^2 
+
+a 
+a  ^3 
+
+a 
+
+_a_ 
+
+dm 
+
+_a_ 
+
+a^ 
+
+9171 
+
+a^ia'72ar3 
+
+a 
+afi 
+
+a 
+af2 
+
+a 
+ars 
+
+A  concomitant  of  the  forms  /<(xi,  X2,  X3)  is  evidently  a 
+covariant  of  the  enlarged  system  of  forms /i  and  Ux.  We  may 
+therefore  restrict  attention  to  covariants.  In  the  proof  of  the 
+corresponding  theorem  for  binary  forms,  we  used  the  operator 
+(1),  §  42.  Here  we  employ  an  operator  V  composed  of  six  terms 
+each  a  partial  differentiation  of  the  third  order: 
+
+
+V 
+
+
+the    determinant   being   s>Tnbolic.     It   may   be    shown    as   in 
+§  43  that 
+
+F(^77f)"  =  «(»  +  l)(w  +  2)(|r?f)"-l. 
+
+As  in  §  44,  the  result  of  applying  F'"  to  a  product  of  k  factors 
+of  the  type  «{,  /  factors  of  the  type  /3„  and  m  factors  of  the 
+type  7J-,  is  a  sum  of  terms  each  containing  k—r  factors  a^, 
+l—r  factors  /3„  m—r  factors  75-,  and  r  factors  of  the  type  (a/37). 
+For  the  case  of  an  invariant  /,  the  theorem  can  be  proved 
+without  a  device.     In  the  notations  of  §  65,  we  have 
+
+/U)  =  (^,f)V(a). 
+
+Each  yl  is  a  product  of  factors  aj,  a,,  a^.  Hence  I  {A)  equals 
+a  sum  of  terms  each  with  X  factors  of  the  type  a^,  X  of  t}'pe 
+a„  and  X  of  type  a^.  Operate  on  each  member  of  the  equation 
+with  F^.  The  left  member  becomes  a  sum  of  terms  each  a 
+product  of  a  constant  and  factors  of  t}^e  (ajSy).  The  right 
+member  becomes  the  product  of  7(a)  by  a  number  not  zero. 
+Hence  I  equals  a  polynomial  in  the  (a^y). 
+For  a  covariant  K,  we  have,  by  definition, " 
+
+K(A,X)=(^rji)^K{a,x). 
+
+Solving    the   equations   of   our    transformation    T   in    §  65, 
+we  get 
+
+(|77i')A'i  =a;i(7?2S''3  —  ^3^2)  +^"2(773^1  —  •71^3)  -}-X3{r]i^2  —  772ri), 
+
+
+96  ALGEBRAIC  INVARIANTS 
+
+etc.  Replacing  xi  by  y2Z3-ys^2,  X2  by  yaZi-yiSs,  and  xs  by 
+yiZ2—y2Zi,  we  get 
+
+{^vOXi^yr,z^-y^Zr„ 
+
+{h^)X2  =  ycZ^-yiZ^, 
+
+(^v^)X3=yiZ,-y„Zi. 
+
+Our  relation  for  a  covariant  K  of  order  co  now  becomes 
+
+S(product  of  factors  a^,  y^,  z^,  a,,,  .  .  .  ,  z^)  =  {^r]^Y'^''K{a,  x) . 
+
+each  term  on  the  left  having  \+co  factors  with  the  subscript  ^, 
+etc.  Apply  the  operator  V  to  the  left  member.  We  obtain 
+a  sum  of  terms  with  one  determinantal  factor  (a/37),  ("i3y)  or 
+{ayz)=ax,  and  with  X+co  — 1  factors  with  the  subscript  |,  etc. 
+The  result  may  be  modified  so  that  the  undesired  factor  (a^y) 
+shall  not  occur.  For,  it  must  have  arisen  by  applying  V  to 
+a  term  with  a  factor  Hke  a^^^y^  and  hence  (by  the  formulas 
+for  the  Xi)  with  a  further  factor  s,  or  z^.  Consider  therefore 
+the  term  Ca^jS^y^z,  in  the  initial  result.  Then  the  term 
+—  Caj|8,>\Sf  must  occur.  By  operating  on  these  with  F, 
+we  get  C{a^y)Zr„  —  C(a/3s)y„  respectively,  whose  sum  equals 
+
+CI  (/3y2K -  (ays)^,N  C(/3.a, -ax/3,) , 
+
+as  shown  by  expanding,  according  to  the  elements  of  the  last 
+row. 
+
+Oil     /3i     yi     zi 
+
+a2       /32       )'2       Z2 
+«3       /33       ys       Z3 
+
+Oir,         ^„        ytl        Zr, 
+
+
+:0. 
+
+
+The  modified  result  is  therefore  a  sum  of  terms  each  with 
+one  factor  of  type  (ai37)  or  ax  and  with  X+oj  — 1  factors  with 
+subscript  ^,  etc. 
+
+Applying  V  in  succession  X  +  co  times  and  modifying  the 
+result  at  each  step  as  before,  we  obtain  as  a  new  left  member 
+a  sum  of  terms  each  with  \-\-w  factors  of  the  types  {al3y)  and 
+ax  only.  From  the  right  member  we  obtain  nK,  where  n  is 
+a  number  ?^0.     Hence  the  theorem  is  proved. 
+
+
+§68]  QUATERNARY  FORMS  97 
+
+68.  Quaternary  Forms.     For  ax=Q;i:ri+.  .  .-{-a^Xi, 
+
+{ „    n an »,  n tn 
+
+J  —OLx    =  Pi    —  7x    —  Ox 
+
+has  the  determinant  {a^yb)  of  order  4  as  a  symbolic  invariant 
+of  index  unity.  Any  invariant  of  /  can  be  expressed  as  a 
+polynomial  in  such  determinantal  factors;  any  co variant  as 
+a  polynomial  in  them  and  factors  of  type  ax.  In  the  equation 
+«x  =  0  of  a  plane,  n\,  .  .  .,  W4  are  called  plane-coordinates. 
+The  mLxed  concomitants  defined  as  in  §  66  are  expressible 
+in  terms  of  Ux  and  factors  hke  ax,  (a^y  d) ,  ia^yu) .  For  geometrical 
+reasons,  we  extend  that  definition  of  mked  concomitants  to 
+polynomials  P{c,  x,  u,  v),  where  Vi,  .  .  . ,  1)4  as  well  as  wi, .  .  . ,  W4 
+are  contragredient  to  xi,  .  •  . ,  X4.'  There  may  now  occur 
+the  additional  type  of  factor 
+
+{a^Uv)  =  {ai^2  -Ot2^l) (usVi-UiV^)  +.    .    . -f- (0:3/34  -0:4183) {uiV2  -U2V1). 
+
+These  six  combinations  of  the  w's  and  v's  are  called  the  line- 
+coordinates  of  the  intersection  of  the  planes  Wx  =  0,  Vx  =  0.  For 
+instance,  {a^uv)~  =  0  is  the  condition  that  this  line  of  inter- 
+section shall  touch  the  quadric  surface  ax^  =  0. 
+
+We  have  not  considered  concomitants  involving  also  a 
+third  set  of  variables  wi,  .  .  • ,  w^,  contragredient  with  the  x's. 
+For,  in 
+
+Mi:»:i-|-.  .  .-\-u^Xi  =  0,         z'lXi-f-.  .  .-\-V4X4,  =  0, 
+
+WiXi-}-.    .    .+^4^4  =  0, 
+
+xi,  .  .  . ,  Xi  are  proportional  to  the  three-rowed  determinants 
+of  the  matrix  of  coefficients,  so  that  (auvw)  is  essentially  a*. 
+
+
+INDEX 
+
+
+(The  numbers  refer  to  pages) 
+
+
+Absolute  invariant,  51 
+Alternants,  41 
+Annihilators,  34,  39,  72 
+Apolarity,  78-84 
+
+Binary  form,  14,  91 
+
+Canonical  form  of  cubic,  17 
+
+quartic,  50 
+
+ternary  cubic,  28 
+
+Concomitants,  93,  97 
+Conic,  2,  21,  24,  94 
+Contragredient,  94 
+Contravariant,  94 
+Convolution,  85 
+Covariant,  12,  15,  66 
+
+—  in  terms  of  roots,  56 
+symbolic  factors,  67,  95 
+
+—  as  invariant,  71 
+Cross-ratio,  5,  15,  56 
+Cubic  curves,  25-29,  81 
+
+—  form,  14,  16,  48,  80,  89,  93 
+
+Degree,  30 
+
+Differential  operators,  36,  59,  95 
+
+Discriminant  of  binary  cubic,  17,  36 
+
+quadratic,  10 
+
+p-\c,  55 
+
+ternary  quadratic,  24 
+
+Double  point,  83 
+
+Euler's  theorem,  15,  41 
+
+Finiteness  of  covariants,  70-76 
+
+syzygies,  76 
+
+Forms,  14 
+
+Functional  determinant,  12 
+
+Fundamental  system,  48,  61,  84-91 
+
+
+Harmonic,  15,  20,  78 
+
+Hermite's  law  of  reciprocity,  45,  91 
+
+Hessian,  11,  15-18, 23-28,  58,  66,  84,  93 
+
+—  curve,  25 
+Hubert's  theorem,  72 
+Homogeneity,  14,  30,  37 
+Homogeneous  coordinates,  8,  20 
+
+Identity  transformation,  33 
+Index,  10,  14,  15,  31,  32 
+Inflexion  point,  26-28,  82 
+
+—  tangent,  26,  82 
+
+—  triangle,  27 
+Intermediate  invariant,  19 
+Interpretation  of  invariants,  2,  10,  23 
+Invariant.  1,  10,  14,  28 
+
+—  in  terms  of  roots,  54 
+Inverse  transformation,  33 
+Irrational  invariant,  55 
+Irreducible  covariant.  87 
+Isobaric,  31,  32,  38,  42 
+
+Jacobian,  12,  15,  18.  29,  65,  83.  93 
+
+Leader  of  covariant.  40.  43,  58 
+Line  coordinates.  93,  97 
+
+—  equation  of  conic.  94 
+Linear  form,  9,  14,  33.  84 
+
+—  fractional  transformation,  6,  22 
+
+—  transformation,  3,  9,  22.  33.  34, 
+
+Mixed  concomitant,  94,  97 
+
+Order,  14 
+
+Partitions.  44,  45 
+Perspective,  4 
+
+99 
+
+
+100 
+
+
+INDEX 
+
+
+Plane  coordinates,  97 
+Product  of  transformations,  33 
+Projective,  4,  23 
+—  property,  10,  11,23 
+Projectivity,  5,  6 
+
+Quadratic  form,  10,  14,  48,  84 
+Quartic,  14,  36,  49,  83 
+Quaternary  form,  97 
+
+Range  of  points,  4 
+Rational  curves,  81 
+Reciprocity.    See  Hermite. 
+Resultant,  10,  18,  19 
+
+
+Seminvariant,  40,  42-50,  64 
+—  in  terms  of  roots,  53 
+Singular  point,  25 
+Solution  of  cubic,  17 
+
+quartic,  52 
+
+Symbolic  notation,  63 
+Syzygy,  49,  50,  76 
+
+Ternary  form,  14,  24,  25,  92 
+Transformation.     See  Linear. 
+Transvectants,  77,  85 
+
+Unary  form,  14 
+
+Weight,  31,  32,  38 
+
+
+Return  on 
+or  before 
+
+IMT  01 199&I 
+
+
+W2fll,D5 
+
+
+3  soo.oo,,Tf  ill 
+
+O'cKson,  uoraJ^y^  U0209  7348 
+
+
+Algebraic  invanants' 
+
+
+Mat 
+
+201 
+
+D5 
+
+
+lons^ 
+
+
+liiiii^^ 
+
+
+lllli  ■! 
+
+

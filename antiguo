@@ -1,9 +1,7 @@
 import multiprocessing
 import logging
-import struct
-import time
 import json
-import sys
+import struct
 from pathlib import Path
 from gen_dic import indices  # Importar diccionario
         
@@ -18,9 +16,9 @@ def dividir_carpetas(ruta, num_procesos):
 
     return partes
 
-def procesar_carpeta(parte,cola,indices):
+def procesar_carpeta(parte,lock,indices):
     # Buffer para escritura en batch (reduce accesos a disco)
-    buffer = {}
+    buffers = {}
     for carpeta in parte:
 
         ruta_json = carpeta / "metadata.json"
@@ -53,83 +51,51 @@ def procesar_carpeta(parte,cola,indices):
             if len(palabra) > 3 and len(palabra) < 15:
 
                 # Agregar a buffer de escritura
-                if palabra not in buffer:
-                    buffer[palabra] = []
+                if palabra not in buffers:
+                    buffers[palabra] = []
                     
                 # Guardar la posicion del index
-                buffer[palabra].append(struct.pack("I", indices[titulo]))
+                buffers[palabra].append(struct.pack("I", indices[titulo]))
 
-
-        if len(buffer) > 100000:
-            cola.put(buffer)
-            #print("Pasado desde el 5000:"+ str(len(buffer)))
-            buffer = {}
-
-    cola.put(buffer)
-    cola.put(None)
-    #print("Pasado desde el final:"+ str(len(buffer)))
-
-    
-
-def escribir_bin(cola,num_procesos):
-    buffers = {}
-    contador = 0
-    while contador < num_procesos or not cola.empty():
-        try:
-            buffer = cola.get(timeout=10)
-
-        except:
-            continue
-        if buffer == None:
-            contador += 1
-        else:
-            for clave, valor in buffer.items():
-                if clave in buffers:
-                    buffers[clave].extend(valor)
-                else:
-                    buffers[clave] = valor
+        if len(buffers) > 1000000:
+            for palabra, data in buffers.items():
         
-            if len(buffers) > 1000000:
-                for palabra, data in buffers.items():
-        
-                    palabra_ruta = Path(f"/home/ubuntu/python_code/work/x/{palabra}")
+                palabra_ruta = Path(f"/home/ubuntu/python_code/y/{palabra}")
                 
+                with lock:
                     with palabra_ruta.open("ab") as f:
                         # Escribir todo el buffer de una vez
                         f.writelines(data)
-                buffers.clear()
-    #print(len(buffers))
-    #print(cola.qsize())
-    for palabra, data in buffers.items():
             
-        palabra_ruta = Path(f"/home/ubuntu/python_code/work/x/{palabra}")
-                    
-        with palabra_ruta.open("ab") as f:
-            # Escribir todo el buffer de una vez
-            f.writelines(data)
+            buffers.clear()
+
+    for palabra, data in buffers.items():
+        
+        palabra_ruta = Path(f"/home/ubuntu/python_code/y/{palabra}")
+                
+        with lock:
+            with palabra_ruta.open("ab") as f:
+                # Escribir todo el buffer de una vez
+                f.writelines(data)
 
 
 
 if __name__ == "__main__":
-    cola = multiprocessing.Queue()
+    lock = multiprocessing.Lock()
 
-    ruta = Path("/home/ubuntu/python_code/work/pruebas")   
+    ruta = Path("/home/ubuntu/internet_archive")   
         
     # Crear y lanzar los procesos
-    num_procesos = 11
+    num_procesos = 2 
     partes_carpetas = dividir_carpetas(ruta,num_procesos)   
 
     procesos = []
     for parte in partes_carpetas:
-        p = multiprocessing.Process(target=procesar_carpeta, args=(parte, cola, indices))
+        p = multiprocessing.Process(target=procesar_carpeta, args=(parte, lock, indices))
         procesos.append(p)
         p.start()
-
-    p2 = multiprocessing.Process(target=escribir_bin, args=(cola,num_procesos))
-    p2.start()
 
     # Esperar a que todos los procesos terminen
     for p in procesos:
         p.join()
         
-    p2.join()

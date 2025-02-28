@@ -1,0 +1,5656 @@
+SP 
+
+
+ill 
+
+
+■I  
+
+1' 
+
+
+LIBRARY  OF 
+WELLESLEY  COLLEGE 
+
+
+PRESENTED  BY 
+
+
+BULLETINS 
+
+OF  THE 
+
+State  Geological  and  Natural  History 
+Survey  of  Connecticut. 
+
+
+1.  First  Biennial  Report  of  the  Commissioners  of  the 
+State  Geological  and  Natural  History  Survey,  1903- 1904. 
+
+2.  A  Preliminary  Report  on  the  Protozoa  of  the  Fresh 
+Waters  of  Connecticut;  by  Herbert  William  Conn. 
+
+3.  A  Preliminary  Report  on  the  Hymeniales  of  Connecti- 
+cut ;  by  Edward  Albert  White. 
+
+4.  The  Clays  and  Clay  Industries  of  Connecticut;  by 
+Gerald  Francis  Loughlin. 
+
+5.  The  Ustilagineae,  or  Smuts,  of  Connecticut ;  by  George 
+Perkins  Clinton. 
+
+6.  Manual  of  the  Geology  of  Connecticut;  by  William 
+North  Rice  and  Herbert  Ernest  Gregory. 
+
+7.  Preliminary  Geological  Map  of  Connecticut;  by  Her- 
+bert Ernest  Gregory  and  Henry  Hollister  Robinson. 
+
+8.  Bibliography  of  Connecticut  Geology;  by  Herbert 
+Ernest  Gregory. 
+
+9.  Second  Biennial  Report  of  the  Commissioners  of  the 
+State  Geological  and  Natural  History  Survey,  1905-1906. 
+
+10.  A  Preliminary  Report  on  the  Algae  of  the  Fresh  Waters 
+of  Connecticut  by  Herbert  William  Conn  and  Lucia  Wash- 
+burn (Hazen)  Webster. 
+
+11.  The  Bryophytes  of  Connecticut;  by  Alexander  William 
+Evans  and  George  Elwood  Nichols. 
+
+Bulletins  1  and  9  are  merely  administrative  reports,  con- 
+taining no  scientific  matter.  The  other  bulletins  may  be  classi- 
+fied as  follows : 
+
+Geology:  Bulletins  4,  6,  7,  8. 
+
+Botany:  Bulletins  3,  5,  10,  II. 
+
+Zoology :  Bulletin  2. 
+
+These  bulletins  are  sold  and  otherwise  distributed  by  the 
+State  Librarian.  The  prices  "are  as  follows:  No.  1,  $0.05  ;  No. 
+2,  .35;  No.  3,  .40;  No.  4,  .30;  No.  5,  .15;  No.  6,  .50;  No. 
+7,  .60* ;  No.  8,  .20;  No.  9,  .05 ;  No.  10,  .35 ;  No.  11,  .30. 
+
+Bulletins  1-5  have  been  collected  and  bound  as  Volume  I. 
+The  price  of  this  volume  is  $1.50.    Other  volumes  will  follow. 
+
+It  is  intended  to  follow  a  liberal  policy  in  gratuitously  dis- 
+tributing these  publications  to  public  libraries,  colleges,  and 
+scientific  institutions,  and  to  scientific  men,  teachers,  and  others 
+who  require  particular  bulletins  for  their  work,  especially  to 
+those  who  are  citizens  of  Connecticut. 
+
+Applications  or  inquiries  should  be  addressed  to 
+
+George  S.  Godard, 
+
+State  Librarian, 
+
+Hartford,  Conn. 
+
+
+0  If  map  is  mounted  as  a  wall  map,  and  sent  by  express,  $1.60. 
+
+
+JSbiaie  of  CSLoroiecticul 
+
+PUBLIC  DOCUMENT  No.  47 
+
+
+State  Geological  and  Natural 
+History  Survey 
+
+COMMISSIONERS 
+
+ROLLIN  S.  WOODRUFF,  Governor  of  Connecticut  {Chairman) 
+
+Arthur  Twining  Hadley,  President  of  Yale  University 
+
+Bradford  Paul  Raymond,  President  of  Wesleyan  University 
+
+Flavel  Sweeten  Luther,  President  of  Trinity  College  (Secretary) 
+
+RUFUS  WHITTAKER  Stimson,  President  of  Connecticut  Agricultural  College 
+
+SUPERINTENDENT 
+William  North  Rice 
+
+
+Bulletin  No.  10 
+
+
+Hartford 
+
+Printed  for  the  State  Geological  and  Natural  History  Survey 
+1908 
+
+
+A  PRELIMINARY  REPORT 
+
+
+THE  ALGJE  OF  THE  FRESH  WATERS 
+OF  CONNECTICUT 
+
+
+By 
+
+HERBERT  WILLIAM  CONN,  Ph.D., 
+
+Professor  of  Biology  in  Wesleyan  University 
+AND 
+
+LUCIA  WASHBURN  (HAZEN)  WEBSTER,  M.S. 
+
+
+« 
+
+
+Hartford 
+
+Printed  for  the  State  Geological  and  Natural  History  Survey 
+1908 
+
+
+A  Preliminary  Report  on  the  Algae  of  the  Fresh 
+Waters  of  Connecticut. 
+
+
+INTRODUCTION. 
+
+The  present  report  is  designed  to  accompany  the  previous 
+report  upon  the  Fresh-water  Protozoa,  Bulletin  No.  2  of  this 
+Survey.  Like  that  report,  it  is  not  claimed  to  be  complete, 
+nor  by  any  means  to  contain  all  of  our  Algae.  But,  the  work 
+having  covered  considerable  parts  of  four  years,  it  is  thought 
+that  it  will  be  found  to  contain  most  of  the  common  Algae  in 
+this  state,  and  will  therefore  be  useful  as  a  guide  to  students  of 
+the  microscopy  of  our  waters.  To  wait  until  all  omissions 
+could  be  filled  would  clearly  postpone  unduly  the  publication 
+of  any  report.  For  these  reasons  this  preliminary  report  is 
+issued  at  the  present  time. 
+
+Work  upon  the  Algae  is  scattered  somewhat  widely  in  books 
+and  in  journals.  We  have  found  most  valuable,  The  British 
+Fresh-water  Algce,  by  West.  Wolle's  Fresh-water  Algce  of 
+the  United  States,  and  his  similar  work  on  the  Desmids,  have 
+also  been  found  extremely  useful.  The  magnificent  work  of 
+Engler  and  Prantl  has  been  found  of  great  value,  as  has  also 
+Die  Mikroskopische  PHanzenwelt  des  Siisswassers  by  Kirchner, 
+and  the  Analytical  Keys  of  Genera  and  Species  of  the  Fresh- 
+zvater  Algce  by  Stokes.  The  most  useful  publication  upon  a 
+single  group  has  been  that  of  Hazen  —  The  Ulotrichacece  and 
+Chcetophoraceee,  in  the  Memoirs  of  the  Torrey  Botanical  Club, 
+XXII,  1902. 
+
+The  key  that  we  have  adopted  in  this  Bulletin  is  based  upon 
+that  given  by  West.  We  have  used  this  because  in  our  experi- 
+ence it  has  been  found  to  be  the  most  practical  and  useful. 
+We  have,  however,  modified  it  in  several  respects  to  make  it 
+correspond  to  the  key  used  in  the  Bulletin  on  the  Protozoa. 
+As  so  modified,  we  think  it  will  be  found  very  easy  of  use  for 
+microscopists  who  are  beginning  the  study  of  the  Algae. 
+
+
+6  CONNECTICUT   GEOL.    AND   NAT.    HIST.   SURVEY.  [Bull. 
+
+
+We  have  adopted  the  plan  used  in  the  Bulletin  on  the  Pro- 
+tozoa of  indicating  by  a  *  in  the  analytical  keys  the  genera  that 
+have  been  found  in  our  waters.  In  a  number  of  cases  the 
+genera  thus  indicated  have  not  yet  been  found  by  ourselves, 
+although  known  to  occur  in  Connecticut.  We  have  given  de- 
+scriptions of  all  the  genera  likely  to  be  found  in  this  vicinity, 
+whether  already  known  to  occur  in  Connecticut  or  not. 
+
+So  far  as  possible  we  have  determined  the  species  of  the 
+forms  studied  and  figured.  While  there  is  considerable  varia- 
+tion among  the  individuals  of  the  same  species  of  Algae,  it  is 
+less  than  among  the  Protozoa,  and  it  is  less  difficult  to  deter- 
+mine species.  In  most  cases  there  has  been  little  difficulty 
+in  affixing  specific  as  well  as  generic  names  to  the  Algae  found. 
+In  some  genera  the  determination  of  species  is  nearly  im- 
+possible without  the  whole  life  history  of  the  specimen  under 
+consideration.  In  the  genus  Spirogyra,  for  instance,  the 
+species  are  determined  with  certainty  only  when  one  has  the 
+zygospores  for  study.  The  ordinary  student  of  Algae  is  seldom 
+so  fortunate  as  to  have  the  zygospores,  and  must  in  these 
+cases  make  his  determination  from  other  characters.  We  have, 
+therefore,  in  these  cases  determined  the  species  as  well  as 
+possible  from  the  general  structure  of  the  plant,  thinking  this 
+to  be  more  practical  than  to  rely  upon  the  more  rarely  seen 
+zygospores. 
+
+The  figures  have  all  been  drawn  from  nature,  and  all  from 
+specimens  found  by  ourselves  in  our  waters.  A  majority  of 
+them  have  come  from  the  immediate  vicinity  of  Middletown. 
+Collections  have  been  made  from  other  parts  of  the  state,  but 
+these  other  localities  have  not  yet  yielded  many  forms  not 
+represented  in  this  immediate  vicinity.  The  Algae  have  not 
+been  to  a  very  large  extent  obtained  from  city  reservoirs,  since 
+these  localities  are  not  very  profuse  in  this  kind  of  life.  Road- 
+side pools,  ditches  by  railroads,  swamps,  stagnant  pools,  etc., 
+have  been  more  prolific  sources  of  Algae. 
+
+The  late  Isaac  Holden  made  during  his  life  large  collec- 
+tions of  Algae  in  the  state.  The  largest  number  of  the  types 
+that  he  collected  were  marine,  but  he  also  made  quite  exten- 
+sive collections  of  the  fresh-water  forms.  A  list  of  the  species 
+identified  by  him  in  this  state  has  been  recently  published  by 
+
+
+No.  io.] 
+
+
+FRESH-WATER  ALG^E. 
+
+
+7 
+
+
+F.  S.  Collins  (Phycological  Notes  of  Isaac  H olden,  in  Rhodora, 
+vol.  7,  p.  222,  1905).  Since  he  identified  quite  a  number  of 
+species  that  we  have  not  found,  we  have,  for  the  purpose  of 
+making  this  report  as  complete  as  possible,  included  in  this 
+list  all  the  species  reported  by  him  which  we  have  not  ourselves 
+identified.  These  have  been  appended  to  our  own  list,  and 
+are  distinguished  by  being  inclosed  in  square  brackets  [  ]. 
+We  have  not  given  any  figures  of  his  species,  however,  all  of 
+the  species  figured  having  been  personally  found  by  ourselves. 
+In  a  few  cases  we  have  noted  the  collection  of  certain  species 
+in  this  state  by  Hazen  and  by  Setchell.  No  other  extensive 
+collections  of  Algae  are  known  to  us  as  having  been  made  in 
+the  state. 
+
+The  figures  of  plates  I  to  XXXI  were  drawn  by  Mrs. 
+Webster,  except  figures  5,  8,  8a,  10,  28,  31,  45,  47,  49,  54,  54a, 
+55,  57,  59,  65,  72,  72a,  73,  77,  77a,  102,  125,  and  147.  These 
+together  with  the  figures  of  Plates  XXXII  to  XLIV 
+were  drawn  by  Prof.  Conn.  Acknowledgment  is  also  made  to 
+H.  J.  Conn  from  whose  work  and  sketches  many  of  the  figures 
+of  Plates  XXXII  to  XLIV  have  been  drawn. 
+
+
+THE  ALG/E. 
+
+
+The  Algje  are  flowerless  chlorophyll-bearing  water  plants. 
+Although  sometimes  called  seaweeds,  they  are  not  confined 
+to.  salt  water,  but  are  found  in  every  body  of  fresh  water,  on 
+damp  stones  and  soil,  and  on  the  trunks  of  trees.  They  are, 
+however,  all  true  water  plants,  for  the  few  that  live  out  of 
+water  can  flourish  only  in  the  presence  of  abundant  moisture. 
+
+The  Algae  show  the  widest  variety  in  form,  size,  and 
+structure.  They  may  be  unicellular  or  multicellular ;  they  may 
+be  solitary,  or  gathered  into  larger  or  smaller  families;  they 
+may  grow  in  all  directions  to  form  a  spherical  thallus,  or  into 
+plates  only  one  cell  thick,  or  into  branched  or  unbranched 
+filaments.  When  multicellular,  all  the  cells  may  be  alike,  or 
+there  may  be  a  differentiation  of  cells,  apical  and  root  cells, 
+vegetative  and  sexual  cells  being  found.  The  filamentous 
+thallus  may  present  the  appearance  of  a  highly  developed  plant, 
+as  in  the  Rhodophyceae  or  Characeae,  or  may  be  a  single 
+simple  thread,  as  in  the  Zygnemaceae. 
+
+The  coloring  matter  of  the  Algae,  either  diffused  throughout 
+the  cell  wall,  or  aggregated  in  special  bodies  called  chloroplasts, 
+is  predominantly  green ;  but  there  is  hardly  any  color  known 
+which  cannot  be  found  in  these  plants,  the  colors  running  from* 
+orange  and  red  to  purple  and  black.  Their  size  differs  as 
+greatly  as  their  color;  some  are  so  small  as  to  test  the  best 
+microscopes,  while  others  stretch  two  hundred  feet  from  their 
+marine  beds. 
+
+The  Algae  multiply  both  by  the  sexual  and  the  asexual 
+method.  The  asexual  method  is  universal,  the  sexual  is  more 
+uncommon.  They  reproduce  asexually  in  three  ways: — I, 
+By  simple  division  of  the  mother-cell.  In  the  multicellular 
+forms  a  small  fragment  or  a  branch  may  separate  from  the 
+mother  plant  to  form  a  new  one.  2,  By  means  of  spores, 
+which  are  formed  from  the  contents  of  the  vegetative  cells,  and 
+which  have  each  a  cell  wall,  and  may  or  may  not  be  motile.  3, 
+
+
+FRESH-WATER  ALGJE. 
+
+
+9 
+
+
+By  swarm  spores,  which  lack  cell  walls  and  are  always  motile, 
+usually  provided  with  cilia.  The  sexual  reproduction  is  of  two 
+kinds : —  I,  Conjugation,  or  the  union  of  two  similar  or  nearly 
+similar  cells  called  isogamous  gametes.  These  may  be  either 
+motile  cells,  as  in  Ulothrix,  or  cells  of  the  thallus,  as  in  the 
+Conjugate.  They  join  themselves  together,  and  their  con- 
+tents fuse  to  form  a  new  cell,  a  zygote,  which,  after  a  short 
+period  of  rest,  develops  into  a  new  plant.  2,  Sex  union  proper, 
+or  the  union  of  two  entirely  different  cells,  one  of  which,  the 
+male  or  sperm,  is  many  times  smaller  than  the  other,  the 
+female  or  egg — heterogamous  gametes.  This  occurs,  for  ex- 
+ample, in  Chara. 
+
+The  Algae  are  found  from  the  Arctic  zone  to  the  Equator, 
+and  no  genus  is  confined  to  a  single  latitude.  We  should 
+sadly  miss  these  plants  if  they  were  all  destroyed.  They  do 
+much  to  purify  the  atmosphere,  are  used  to  a  considerable  ex- 
+tent in  medicine,  provide  food  for  fishes  and  for  men,  fodder 
+for  cattle,  and  fertilization  for  the  ground. 
+
+The  Algae  are  divided  into  classes  as  follows : — 
+
+CLASS  I.  CYANOPHYCE.E  ( Schizophycese,  Myxophy- 
+ceae,  or  Blue-green  Algae).  Containing  a  blue  coloring  matter 
+(phycocyanin).  Mostly  in  fresh  water,  and  simple  in  structure. 
+
+CLASS  II.  BACILLARIEiE  (Diatomaceae).  Containing 
+a  brown  coloring  matter  (diatomin).  Universal  both  in  fresh 
+and  salt  water. 
+
+CLASS  III.  HETEROKONTJE  (Yellow-green  Algae). 
+Containing  a  large  amount  of  a  yellow  pigment  (xanthophyll) . 
+The  stored  product  of  assimilation  is  a  fatty  substance.  Found 
+in  fresh  water. 
+
+CLASS  IV.  CHLOROPHYCE^  (Green  Algae).  Con- 
+taining only  the  green  coloring  matter  known  as  chlorophyll. 
+The  product  of  assimilation  is  starch.  Very  largely  fresh- 
+water plants. 
+
+CLASS  V.  CHARACE^E.  Having  a  stem  with  nodes 
+and  internodes.    Sexual  reproduction. 
+
+CLASS  VI.  PH^EOPHYCE^E  (Brown  Algae).  Con- 
+taining a  brown  coloring  matter,  known  as  phycophaein. 
+Mostly  marine. 
+
+
+10  CONNECTICUT   GEOL.   AND    NAT.    HIST.   SURVEY.  [Bull. 
+
+CLASS  VII.  RHODOPHYCEyE  (Red  Algae).  Con- 
+taining a  reddish  coloring  matter  known  as  phycoerythrin. 
+Mostly  marine. 
+
+In  the  study  of  the  fresh-water  Algae  we  are  concerned 
+chiefly  with'  the  first  five  of  these  classes,  the  other  two  being 
+practically  confined  to  salt  water,  although  a  few  of  them,  as 
+noted  at  the  end  of  this  report,  are  inhabitants  of  fresh  water. 
+
+CLASS  I.  CYANOPHYCE^. 
+( Myxophyceae,  Schizophyceae,  or  Blue-green  Algae). 
+
+The  class  Cyanophyceae  is  unquestionably  the  lowest  class 
+of  the  Algae,  many  of  the  species  resembling  the  Bacteria. 
+Their  most  conspicuous  characteristic  is  the  manner  in  which 
+the  greater  number  of  the  genera  grow  in  gelatinous  masses 
+or  strata.  They  are  largely  filamentous,  though  some  are 
+unicellular.  Some  of  them  grow  wherever  there  is  moisture, 
+as  on  wet  rocks,  stones,  and  trunks  of  trees.  Some  of  the 
+filamentous  genera  form  thick,  felt-like  coverings  upon  moist 
+earth  and  stones.  Many  of  the  Cyanophyceae  are  provided 
+with  heterocysts,  which  are  cells  of  lighter  color  and  often  of 
+greater  size  than  the  other  cells  of  the  filament.  The  hetero- 
+cysts are  almost  always  solitary  on  the  filaments,  and  their 
+use  is  not  known. 
+
+The  unicellular  and  simple  colonial  genera  multiply  princi- 
+pally by  repeated  cell-division,  which  may  occur  in  every  direc- 
+tion or  in  certain  directions  only.  Asexual  reproduction  of 
+the  large  forms  takes  place  in  a  variety  of  ways.  In  some 
+families  certain  vegetative  cells  enlarge  and  form  spores ;  in 
+others  the  contents  of  the  cells  divide  into  a  number  of  small 
+spores.  The  Hormogoneae  reproduce  by  hormogones.  These 
+are  short  filaments  arising  from  the  mother  plant,  which  break 
+away  and  form  new  plants.    Sexual  reproduction  is  unknown. 
+
+Some  of  the  Cyanophyceae  unite  with  Fungi  to  form 
+Lichens,  in  which  case  they  lose  much  of  their  distinctive 
+character. 
+
+A  few  of  the  Cyanophyceae,  of  the  family  Oscillatoriaceae, 
+are  distinguished  for  their  power  of  spontaneous  movement, 
+which  is  generally  slow,  oscillating  or  gliding.    Many  of  this 
+
+
+No.  10.] 
+
+
+FRESH-WATER  ALG/E. 
+
+
+II 
+
+
+family  have  a  disagreeable  odor,  giving  rise  to  unpleasant 
+odors  and  tastes  in  drinking-water. 
+There  are  two  orders,  as  follows : — 
+
+Order  I.  COCCOGONE/E.  Plants  unicellular  or  colonial, 
+not  truly  filamentous  ;  commonly  embedded  in  a  gelatinous  ma- 
+trix, more  rarely  free-floating. 
+
+Order  II.  HORMOGONE^E.  Plants  filamentous  ;  filaments 
+single  or  branched,  generally  consisting  of  one  or  more  rows 
+of  cells  within  a  sheath,  attached  to  a  substratum,  or  free- 
+floating. 
+
+ORDER  I.  coccogone;e. 
+
+The  Coccogoneae,  the  lowest  form  of  the  Algae,  are 
+unicellular  or  colonial.  The  colonies  vary  much  in  size  and 
+shape,  and  the  cells,  which  are  of  various  forms,  are  disposed 
+in  a  variety  of  ways  in  the  usually  hyaline  and  structureless 
+envelope.  Multiplication  is  usually  by  simple  cell  division. 
+Rounded  asexual  spores  have  been  found  in  some  species, 
+formed  inside  the  wall  of  the  mother-cell. 
+
+FAMILY  I.  CHROOCOCCACE^. 
+
+This  family  is  composed  of  unicellular  forms  of  Algae  which 
+divide  and  form  daughter-cells ;  often  many  generations  are 
+involved  in  one  mucilaginous  envelope.  The  envelope  varies 
+from  firm  and  lamellose  to  hyaline  and  diffluent.  The  cells 
+often  contain  red,  orange,  or  violet  pigments.  The  members 
+of  this  family  have  been  thought  to  be  stages  of  filamentous 
+Algae,  and  Wolle  so  regarded  them ;  but  more  recent  algologists 
+give  them  a  distinct  place  of  their  own. 
+
+Key  to  Genera. 
+
+1.  Cell  division  in  only  one  direction   2 
+
+Cell  division  in  two  directions  at  right  angles,  form- 
+ing plate-shaped  or  irregular  masses  .  .Merismopedia* 
+
+Cell  division  alternate  in  the  three  directions  of  space  4 
+
+2.  Cells  with  thin  membrane,  without  a  gelatinous  or 
+
+mucous  envelope,  single  or  hanging  together  in 
+thick  rows  Synechococcus 
+
+
+12  CONNECTICUT   GEOL.   AND   NAT.   HIST.   SURVEY.  [Bull. 
+
+
+Cells  with  thick,  swollen  membranes,  which  merge 
+into  one  another  and  lie  in  a  gelatinous  or  mucous 
+bed    3 
+
+3.  The  thick  membrane  remains  present  through  several 
+
+generations,  so  that  the  cells  are  enclosed  in  several 
+
+membranes ;  cells  elongated  Gloeothece 
+
+Cell  membranes  fused  into  a  structureless  jelly  in 
+which  the  cells  are  arranged  without  order;  cells 
+slightly  longer  than  broad  Aphanothece 
+
+4.  Cells  at  the  periphery  of  spherical  colonies   5 
+
+Cells  densely  aggregated  in  spherical,  elongated,  or 
+
+clathrate  colonies   Microcystis* 
+
+Colonies  without  definite  form   6 
+
+5.  Cells  spherical,  closely  and  regularly  arranged  around 
+
+a  hollow  sphere   Ccelosphcerium* 
+
+Cells  peripheric,  sparsely  scattered  Gomphosphceria 
+
+6.  Cells  enclosed  in  a  thick  membrane  Glceocapsa* 
+
+Cells  not  enclosed   7 
+
+7.  Cells  with  thick,  gelatinous,  fusing  membranes .... 
+
+Aphanocapsa* 
+Cells  single  or  in  small  groups,  with  membranes 
+which  do  not  fuse  Chrodcocais* 
+
+Description  of  Genera. 
+
+Merismopedia  Meyen. —  Cells  spherical,  or,  at  time  of 
+division,  oblong.  Their  regular  method  of  division  produces 
+groups  of  4,  8,  16,  32,  64,  or  128  cells,  associated  in  a  single 
+stratum,  making  a  flat,  freely  floating,  square  thallus. 
+
+M.  glauca  (Ehrb.)  Nag.,  Fig.  3. 
+
+M.  convoluta  Breb.,  Fig.  4. 
+
+Synechococcus  Nag. —  Cells  cylindrical  or  oblong,  found 
+singly  or  in  series  of  two  or  more ;  cell  wall  thin. 
+
+Gloeothece  Nag. —  Cells  oblong  or  cylindrical,  with 
+rounded  ends.  The  cells  divide  into  two  nearly  spherical 
+daughter-cells.  The  colorless  gelatinous  tegument  may  con- 
+tain one  or  often  more  cells,  and  this  tegument  may,  in  turn, 
+be  included  in  a  larger  tegument  with  a  family. 
+
+
+No.  10.] 
+
+
+FRESH-WATER  ALG^E. 
+
+
+13 
+
+
+Aphanothece  Nag. —  Very  like  Gloeothece,  with  cells 
+longer  than  broad;  but  the  teguments  are  confluent,  forming 
+a  firm  gelatinous  body  which  encloses  the  cells. 
+
+Microcystis     Kiitz.   (Polycystis    Kiitz. ;  Clathrocystis 
+
+Henfrey). —  Numerous  small  cells  gathered  into  globular,  ob- 
+long or  irregular  families,  each  with  a  thin  tegument,  usually 
+single  but  sometimes  associated  with  other  families,  and  all  en- 
+closed in  a  common  tegument.  The  cells  divide  alternately  in 
+three  directions. 
+
+M.  ceruginosa  (Kiitz.)  (?),  Figs.  9,  90.  Sometimes  very 
+abundant  in  reservoirs  and  giving  an  unpleasant  taste  to  the 
+water.    Frequently  thus  associated  with  Anabcena. 
+
+Coelosphaerium  Nag. —  Thallus  hollow,  spherical,  with 
+numerous  small  spherical  cells  in  families,  or  scattered  at  the 
+periphery,  embedded  in  a  gelatinous  stratum.  Multiplication 
+takes  place  by  means  of  enlarged  cells  which  escape  and  form 
+daughter-cells,  or  by  constriction  and  division  of  the  mother- 
+cells. 
+
+C.  Kuetzingianum    Nag.,  Fig.  7.  . 
+
+Gomphosphaeria  Kiitz. —  A  globose,  free,  floating  thallus, 
+composed  of  wedge-shaped  cells,  in  pairs,  associated  in  radi- 
+ating families  at  the  periphery  of  a  solid  gelatinous  sphere,  and 
+furnished  with  a  tegument.  The  cells  divide  alternately  in 
+three  directions.  * 
+
+Gloeocapsa  Kiitz. —  Cells  blue-green,  steel-blue,  reddish, 
+yellowish,  etc.,  spherical  or  oblong,  with  a  wide,  bladder-shaped 
+integument.  The  cells  divide  into  two  daughter-cells,  each 
+furnished  with  a  tegument  and  both  surrounded  by  the  tegu- 
+ment of  the  mother-cell.  The  cell  membrane  is  very  thick, 
+often  lamellated,  and  the  strata  frequently  separate;  either 
+colorless  or  colored. 
+
+G.arenaria  (Rab.)  (?),  Figs.  8,  8a.  The  specific  distinc- 
+tions in  thisfgenus  are  very  uncertain. 
+
+[G.  violacea  (Chorda)  Rab.] 
+
+Aphanocapsa  Nag. —  Cells  spherical,  with  a  thick,  soft 
+tegument;  cell  division  as  in  Gloeocapsa,  but  individual  coats 
+not  evident  around  the  cell. 
+
+
+14  CONNECTICUT   GEOL.    AND   NAT.    HIST.   SURVEY.  [Bull. 
+
+
+A.  Grevillei  (Hass.)  Rab.,  Fig.  10.  Masses  of  this  jelly- 
+like plant  frequently  reach  2mm.  in  diameter. 
+
+Chroococcus  Nag. —  Blue-green  cells,  spherical,  or  an- 
+gular from  mutual  pressure,  gathered  into  small  families  with- 
+out a  distinct  tegument.  The  cells,  which  are  less  numerous  and 
+more  simple  than  in  Glococapsa,  divide  alternately  in  three 
+directions. 
+
+C.  cohccr ens  (Breb.)Nag.,  Fig.  210. 
+
+FAMILY  II.  CHAM^SIPHONIACE^E. 
+
+Not  represented  in  the  United  States. 
+
+ORDER  II.  HORMOGONES. 
+
+This  order  contains  all  the  filamentous  Myxophyceae. 
+The  filaments  usually  consist  of  a  single  row  of  naked  or 
+sheathed  cells,  but  in  some  genera  there  are  two  or  more  rows 
+in  a  single  sheath.  Heterocysts  are  abundant  in  some  of  the 
+genera.  The  filaments  are  often  branched  or  provided  with  a 
+false  branch  system  due  to  the  growth  of  a  number  of  filaments 
+in  close  apposition  at  the  base.  Asexual  reproduction  is. by 
+hormogones  or,  more  rarely,  by  spores.  The  filaments  or 
+trichomes  are  usually  cylindrical  with  blunt  or  narrowed  ex- 
+tremities, but  some  genera  show  a  gradual  attenuation,  either 
+from  the  base  to  the  apex,  or  from  the  centre  toward  each  end. 
+
+This  order  includes  two  sub-orders. 
+
+Sub-order  i.  TRICHOPHOREyE.  Trichomes  conspicu- 
+ously attenuated  towards  one  or  both  extremities,  which  are 
+generally  hairy. 
+
+Sub-order  11.  PSILONEMATEyE.  Trichomes  cylindrical, 
+though  sometimes  narrowed  at  the  extremities. 
+
+SUB-ORDER  I.  TRICHOPHOREyE. 
+
+A  small  gr.oup  with  the  filaments  always  attenuated,  either 
+toward  one  end  or  from  the  middle  to  both  extremities,  and 
+always  sheathed.  Some  genera  are  provided  with  *heterocysts. 
+There  is  an  asexual  reproduction  by  means  of  hormogones,  *but 
+in  Glceotrichia  the  basal  cells  next  the  heterocysts  develop 
+spores.  The  threads  frequently  show  hair-like  projections 
+from  their  sides. 
+
+
+No.  10.] 
+
+
+FRESH-WATER  ALG.E. 
+
+
+15 
+
+
+FAMILY  I.  R1VULARIACEJE. 
+
+Abundant  in  mountainous  regions,  found  principally  on 
+dripping  rocks,  in  streams  and  waterfalls,  or  on  the  shores  of 
+rocky  lakes.  Our  collections  not  having  included  such  locali- 
+ties, this  family  is  not  represented  in  our  figures.  The  fila- 
+ments are  all  attenuated  from  a  long  base  to  a  hair-like  end. 
+One  or  two  heterocysts  are  usually  located  at  the  base.  The 
+sheath  is  yellow  or  yellowish-brown,  gelatinous,  tubular,  and 
+often  thoroughly  lamellated.  Asexual  reproduction  by  hormo- 
+gones,  and  in  Glocotrichia  and  Calothrix  asexual  spores  arise 
+near  the  basal  heterocysts. 
+
+Key  to  Genera. 
+
+1.  Without  heterocysts  Amphithrix* 
+
+With  heterocysts   2 
+
+2.  Filaments   without   gelatinous   integument,  simple, 
+
+growing  in  branched  or  unbranched  tufts,  or  some- 
+times singly  Calothrix* 
+
+Filaments  without  gelatinous  integument,  branched, 
+several  branches  in  a  common  sheath  Diehothrix* 
+
+Filaments  with  a  gelatinous  integument,  forming  a 
+gelatinous  or  mucous  covering   3 
+
+3.  Filaments  radially  disposed ;    thallus  spherical  or 
+
+hemispherical  in  shape   4 
+
+Filaments  not  radiating;  thallus  plain,  cushion- 
+shaped  Isactis 
+
+4.  Spores  present;    single-celled  or  with  heterocysts; 
+
+colonies  free,  floating   .Gloeotrichiar 
+
+Spores  lacking;  colonies  attached  Rivularia* 
+
+Description  of  Genera. 
+
+Amphithrix  Kutz. —  The  filaments  form  a  thin  expanded 
+stratum  of  a  purple  or  violet  color,  which  consists  of  two 
+layers.  The  inferior  layer  is  composed  of  densely  intricate 
+filaments,  or  of  minute  radiately  disposed  series  of  cells;  the 
+superior  layer  of  simple  erect  filaments  closely  packed  and  at- 
+tenuated. 
+
+[A.  janthina    (Mont.)  Born,  and  Flah.] 
+
+
+1 6  CONNECTICUT   GEOL.   AND   NAT.    HIST.   SURVEY.  [Bull. 
+
+Calothrix   Ag.  (Mastigonema    Schwabe;  Mastigothrix 
+
+Kiitz.,  in  part). —  Filaments  growing  in  tufts  or  soft  masses, 
+rather  rigid,  straight  and  spuriously  branched.  The  branches 
+are  younger  filaments  glued  at  their  bases  and  part  of  their 
+length  to  the  parent  stem;  the  apex  is  delicately  hair-like. 
+Heterocysts  are  normally  present  and  are  usually  at  the  base 
+of  the  branches. 
+
+[C.  Braunii  Born,  and  Flah. ;  C.  fusca  (Kiitz.)  Born,  and 
+Flah. ;  C.  parietina  (Nag.)  Thur.] 
+
+Dichothrix  Zanard.  Filaments  more  or  less  dichotom- 
+ously  branched;  several  trichomes  with  their  sheaths  enclosed 
+within  an  outer  common  sheath.  Heterocysts  basal,  or  inter- 
+calary, or  absent  in  one  species. 
+
+[D.  gypsophila  (Kiitz.)  Born,  and  Flah.;  D.  Hosfordii 
+(Wolle)  Born,  and  Flah.;  D.  Orisiniana  (Kiitz.)  Born,  and 
+Flah.] 
+
+Isactis  Thur.  The  filaments  are  erect  and  parallel,  at- 
+tached at  the  base.  They  are  glued  together  by  a  more  or  less 
+firm  mucilage,  and  are  often  encrusted  with  lime,  forming  flat 
+strata. 
+
+Gloeotrichia  J.  Ag.  The  filaments,  with  spores  in  the 
+lower  part,  are  radiate,  sometimes  spuriously  branched,  each 
+enclosed  in  a  distinct,  broad  sheath,  which  is  often  furrowed 
+at  the  base  and  transversely  folded.  All  the  filaments  are 
+enclosed  in  a  more  or  less  spherical  jelly. 
+
+G.  Pisutn    (Ag.)  Thur.,  Fig.  214. 
+
+Rivularia  (Roth.)  Ag.  (Zonotrichia  J.  Ag. ;  Limnactis 
+Kiitz. ;  Schizosiphon  Kiitz.,  in  part). 
+
+Filaments  radiating,  with  basal  heterocysts,  but  no  spores. 
+A  more  or  less  firm  mucilage  binds  the  filaments  into  a  hemi- 
+spherical or  bladder-like,  well-defined  thallus.  One  species  of 
+Rivularia  has  been  found  in  our  studies,  but  no  figure  of  it  is 
+given  in  this  report. 
+
+FAMILY  II.  CAMPTOTRICHACE^E. 
+
+Not  found  in  the  United  States. 
+
+
+No.  io.] 
+
+
+FRESH-WATER  ALG^. 
+
+
+17 
+
+
+SUB-ORDER  II.  PSILONEMATE^E. 
+
+This  sub-order  contains  the  greater  part  of  the  Hormo- 
+gonese.  The  filaments,  with  or  without  a  sheath,  are  cylindri- 
+cal, sometimes  showing  globular  swellings.  The  sheath  may 
+be  very  thin,  hyaline  and  gelatinous,  or  tough  and  lamellose. 
+The  apical  cell,  or  sometimes  that  and  the  sub-apical  cell,  are 
+occasionally  attenuated,  or  the  filaments  may  end  obtusely. 
+
+Key  to  Families. 
+
+1.  Filaments  showing  true  branching  stigonemace^e 
+
+Filaments    showing   false    branching;  heterocysts 
+
+present  scytonemace^: 
+
+Filaments  usually  simple,  without  branching;  where 
+they  show  false  branching  they  are  without  hetero- 
+cysts   2 
+
+2.  Filaments  nearly  straight;  heterocysts  absent  
+
+OSCILLATORIACE^ 
+
+Filaments  tortuous;   heterocysts  present  
+
+NOSTOCACE^E 
+
+FAMILY  I.  OSCILLATORIACE^. 
+
+The  distinguishing  feature  of  this  family,  which  is  the 
+largest  one  of  the  Psilonematese,  is  the  absence  of  heterocysts. 
+The  trichomes  are  a  single  and  regular  row  of  cells,  although 
+occasionally  false  branching  is  seen.  Sometimes  the  cells  are 
+so  closely  joined  that  the  whole  seems  a  perfectly  homogeneous 
+cylinder ;  but  at  other  times  there  are  constrictions  at  the  ends 
+of  the  cells.  Apical  cell  sometimes  attenuated.  The  filaments 
+are  nearly  always  in  sheaths  of  various  character,  which  some- 
+times enclose  more  than  one  filament.  Some  of  the  genera 
+show  gliding  or  rotary  motion.  They  occur  in  great  profusion, 
+submerged  in  ponds  and  ditches,  or  form  scums  upon  their 
+surface. 
+
+There  are  two  sub-families,  as  follows :  — 
+Sub-family  I.    lyngbye;e.    Only  one  trichome   in  a 
+sheath. 
+
+Sub-family  II.  vaginarie^e.  Several  trichomes  in  one 
+sheath  which  is  often  branched. 
+
+
+1 8  CONNECTICUT  GEOL.  AND  NAT.  HIST.  SURVEY.  [Bull. 
+
+
+SUB-FAMILY  I.  LYNGBYE^E. 
+
+In  this  sub-family  there  is  never  more  than  one  trichome 
+in  a  sheath,  and  the  sheath  may  be  thick  or  thin,  or  even 
+wanting.  In  some  genera  the  trichomes  are  twisted.  The 
+cells  may  be  of  varying  thickness  and  length,  but  usually  the 
+thicker  the  trichome  the  shorter  the  cell.  Oscillatoria,  Phor- 
+midium,  and  Spirulina  exhibit  a  rotary  or  gliding  motion. 
+
+
+Key  to  Genera. 
+
+1.  Trichomes  consisting  of  many  cells   2 
+
+Trichomes  consisting  of  one  cell,  spirally  twisted.  . .  . 
+
+Spirulina* 
+
+2.  Filaments  simple,  or  falsely  branched;  sheaths  firm;  ' 
+
+apices  of  filament  straight   3 
+
+Filaments  simple ;  sheaths  thin,  always  hyaline, 
+mucous,  and  more  or  less  readily  fusing  together; 
+apices  of  trichomes  straight;  oscillating  or  rotary 
+motion  evident   4 
+
+3.  Filaments  free,  or  forming  felt-like  masses;  pseudo- 
+
+branches  present,  often  in  pairs  Plectonema* 
+
+Filaments  forming  erect  tufts;  pseudo-branches  often- 
+present  and  solitary  Symploca 
+
+Filaments  free  and  unbranched ;  free-floating,  or 
+forming  a  matted  stratum  Lyngbya* 
+
+4.  Filaments  more  or  less  agglutinated  by  their  mucous 
+
+sheaths ;  cells  of  filaments  often  slightly  separated 
+
+by  a  thin  mucous  layer.  Phormidium* 
+
+Filaments  destitute  of  sheaths ;  free,  straight  or  with 
+
+curved  extremities  Oscillatoria* 
+
+Filaments  destitute  of  sheaths ;  twisted  into  a  regular 
+
+spi  ral   A  rthrospira* 
+
+
+Description  of  Genera. 
+
+Spirulina  Turp. —  Filaments  unicellular,  more  or  less 
+motile,  spirally  twisted,  usually  surrounded  by  a  colorless, 
+somewhat  liquid  mucilage. 
+
+S.  tenuissima   Kiitz.,  Fig.  291. 
+
+
+No.  io.] 
+
+
+FRESH-WATER  ALGvE. 
+
+
+19 
+
+
+Plectonema  Thur. —  Filaments  branched,  singly  or  in 
+pairs,  quite  irregular,  each  filament  enclosed  in  a  separate 
+sheath  ;  cell  contents  deep  blue-green. 
+
+[P.  Wollei  Farlow.] 
+
+Symploca  Kiitz. —  Filaments  simple  or  showing  mere  be- 
+ginnings of  branches;  in  a  more  or  less  distinct  sheath,  rising 
+from  a  prostrate  base ;  glued  together  into  anastomosing  or 
+erect,  wick-like  clusters. 
+
+Lyngbya  Ag.  (Leibleinia  Endlicher;  Leptothrix  Kiitz., 
+in  part;  Spirocoleus  Mobius,  in  part). — "  Single  filaments  en- 
+closed in  distinct  sheaths,  either  unbranched  or  with  a  sug- 
+gestion of  branching  where  the  filaments  break  out  of  the 
+sheaths.    Often  forming  a  membranous  stratum. 
+
+L.sp.  (?),Fig.  13. 
+
+[L.  ochracea    (Kiitz.)  Thur.] 
+
+Phormidium  Kiitz.  ( Hyphceothrix  Kiitz.,  in  part ;  Lep- 
+tothrix Kiitz.,  in  part). —  A  genus  between  Lyngbya  and 
+Oscillatoria.  Filaments  simple,  clothed  with  a  thin,  hyaline 
+sheath.  Sheaths  often  become  fused,  and  the  trichomes  are 
+sometimes  so  numerous  as  to  form  mats  on  damp  ground, 
+stones,  etc.  The  cells  are  sometimes  constricted  at  the  ends, 
+and  the  apical  cell  may  be  attenuated  or  even  thickened. 
+
+[P.  Corium  (Ag.)  Gomont ;  P.  favosum  (Bory)  Gomont ; 
+P.  Retzii  (Ag.)  Gomont;  P.  uncinatum   (Ag.)  Gomont.] 
+
+Oscillatoria  Vaucher  (Oscillaria  Bosc). —  Filaments 
+straight  or  slightly  curved ;  only  in  very  young  specimens  are 
+they  coiled;  simple,  without  a  sheath;  mostly  bright  blue- 
+green,  sometimes  changing  to  violet  or  steel-blue.  When  in 
+good  condition,  more  or  less  motile,  and  involved  in  a  thin 
+mucilage.  Found  in  all  sorts  of  wet  places,  sometimes  even  on 
+damp  ground  and  in  hot  springs. 
+
+O.  subtilissima   Kiitz.,  Fig.  1. 
+
+O.  czrugineo-ccerulea   Kiitz.,  Fig.  2. 
+
+O.  chalybea   Mertens,  Fig.  14. 
+
+O.  amphibia    Ag.,  Fig.  15. 
+
+O.  limosa  Ag.,  Fig.  5. 
+
+O.  per  car  sa   Kiitz.,  Fig.  6. 
+
+[O.  princeps  Yauch. ;  O.  splendida  Grev. ;  O.  tenuis 
+Ag.] 
+
+
+20  CONNECTICUT  GEOL.   AND  NAT.   HIST.  SURVEY.  [Bull. 
+
+
+Arthrospira  Stiz. —  Filaments  cylindrical,  commonly  de- 
+void of  a  sheath,  and  twisted  into  a  regular  spiral.  The  latter 
+character  is  the  only  distinction  from  Oscillatoria. 
+
+A.  Gomontiana  Setchell. —  We  have  not  found  this  species, 
+but  Setchell  has  mentioned  it  as  occurring  in  Bridgeport. 
+
+SUB-FAMILY  II.  VAGINARIE^ 
+
+Blue-green  Algae,  which  lack  heterocysts,  and  are  distin- 
+guished by  having  one  or  more  trichomes  in  the  same  sheath. 
+This  sheath  is  often  branched,  may  be  lamellose  and  colored, 
+or  mucous  and  uncolored. 
+
+Description  of  Genera. 
+
+Microcoleus  Desm.  ( Cthonoblastus  Kiitz.). —  Trichomes 
+like  Lyngbya,  except  that  two  or  more  are  often  enclosed  in 
+one  sheath,  which  is  at  first  closed  at  the  end,  and  later  breaks 
+open,  sometimes  dividing  into  shreds.  The  sheath  is  colorless, 
+not  lamellose,  large,  seldom  indistinct. 
+
+Schizothrix  Kiitz.  (Inactis  Kiitz. ;  Hyphaeothrix  Kiitz., 
+in  part). —  Sheaths  firm,  lamellose,  hyaline  or  colored,  and 
+containing  few  or  many  trichomes. 
+
+[S.  lardacea  (Cesati)  Gomont;  ^.  coriacea  (Kiitz.) 
+Gomont.] 
+
+FAMILY  II.  NOSTOCACE^E. 
+
+Cells  spherical  or  oval,  arranged  in  simple  chains,  or, 
+rarely,  with  spurious  branches.  The  chain  is  imbedded  in  a 
+more  or  less  copious  jelly.  Some  genera  are  provided  with 
+spores  and  heterocysts.  The  heterocysts  are  yellow,  straw- 
+colored,  or  nearly  colorless,  and  are  situated  at  the  end  of  the 
+chain,  or  between  two  vegetative  cells.  Their  function  is  un- 
+known. The  dark  green,  granular  spores  divide  after  a  period 
+of  rest,  and  then  germinate.    Many  are  terrestrial. 
+
+Key  to  Genera. 
+
+I.    Filaments   contorted,   within   a  definite  gelatinous 
+
+tegument   Nostoc* 
+
+Filaments  more  or  less  straight,  free  or  in  a  formless 
+slimy  mass,  not  inclosed  in  a  tegument   2 
+
+
+No.  10.] 
+
+
+FRESH- WATER  ALGJE. 
+
+
+21 
+
+
+2.  Heterocysts  terminal,  and  spores  contiguous  with 
+
+them  ;  spores  long  and  cylindrical . . .  Cylindrospermum* 
+Heterocysts  not  terminal   3 
+
+3.  Filaments  aggregated  without  order  Anabcena* 
+
+Filaments  aggregated  in  bundles  of  plate-like  masses 
+
+Aphanizomenon 
+
+Description  of  Genera. 
+
+Aphanizomenon  Morren. —  Trichomes  a  little  attenuated 
+towards  the  apex,  glued  together  parallelly  in  dense  fascicles. 
+Cells  nearly  cylindrical,  light  blue  or  nearly  colorless,  and 
+slightly  granular.  Thallus  somewhat  membranaceous,  free- 
+swimming,  blue-green,  or  light  pure  blue,  or  at  length  olive; 
+spores  solitary,  smooth,  cylindrical,  elongated,  round  at  the 
+ends,  pale  blue  or  olive. 
+
+Nostoc  Vauch. —  Filaments  necklace-shaped,  enclosed  in 
+a  more  or  less  distinct  gelatinous  envelope.  The  cells  are 
+spherical  or  elliptical,  and  more  or  less  closely  connected,  with 
+heterocysts  rarely  terminal.  The  filaments  are  clustered  to 
+form  thalli,  usually  surrounded  by  a  membrane,  which  is  some- 
+times colorless,  sometimes  dark  blue-green,  dark  brown,  light 
+yellow,  or,  most  often,  olivaceous. 
+
+N.  minutissimus  Kiitz.  (  ?),  Fig.  211. 
+
+N.  sp.  (?),  Fig.  18. 
+
+N.  rupestre  Kiitz.,  Figs.  16,  17. 
+
+N.  comminutnm  Kiitz.,  Fig.  19. 
+
+[TV.  commune  Vauch. ;  N.  microscopicum  Carm. ;  N.  par- 
+melioides  Kiitz. ;  N.  pruni forme  Ag.] 
+
+Cylindrospermum  Kiitz. —  Filaments  sheathless,  single  or 
+glued  together  in  an  indefinite  gelatinous  stratum ;  occasionally 
+a  number  enclosed  in  a  tegument.  Cells  spherical,  oblong, 
+elliptical,  or  compressed.  Heterocysts  single,  on  the  ends  of 
+the  filaments;  spores  next  the  heterocysts  very  long  and 
+cylindrical. 
+
+[C.  ma  jus  Kiitz.] 
+
+Anabasna  Bory  ( Sphaerozyga  Ag. ;  Trichormus  Allman  ; 
+Dolichospermum  Thwaites) . —  Filaments  similar  to  those  of 
+Nostoc,  only  nearly  straight;  rarely  provided  with  a  sheath; 
+
+
+22  CONNECTICUT  GEOL.  AND  NAT.  HIST.  SURVEY.  [Bull. 
+
+
+clustered  in  gelatinous  masses,  or  single.    Cells  spherical  or 
+nearly  so,  some  of  them  changing  into  brownish  elongated 
+spores,  which  are  solitary,  or  one  on  either  side  of  a  heterocyst, 
+or,  rarely,  in  a  short  series.    Heterocysts  not  terminal. 
+A.  gigantea  Wood,  Fig.  n. 
+
+A.  Flos-aqua   Kiitz,  or  circinalis  (Rab.)  Kirch.,  Fig.  12. 
+[A.  oscillarioides  Bory.] 
+
+Anabcena  is  very  common  in  reservoirs,  and  sometimes  in 
+combination  with  Microcystis  is  so  abundant  as  to  give  the 
+water  a  very  bad  taste  and  smell,  and  a  distinct  color.  It  is 
+one  of  the  most  troublesome  Algae  in  our  city  reservoirs. 
+
+FAMILY  III.  SCYTONEMACE^E. 
+
+This  family  is  known  by  its  method  of  branching.  Each 
+filament  is  enclosed  in  a  sheath  of  uniform  thickness,  and  at 
+intervals  penetrates  this  sheath  to  form  long,  flexuose  branches 
+which  are  provided  with  their  own  sheaths.  The  filaments  are 
+cylindrical,  but  thickened  toward  the  growing  end,  and  con- 
+tain heterocysts.  The  sheath  may  be  colorless,  or  yellow,  or 
+brown.  Reproduction  is  usually  by  hormogones,  though  in 
+some  species  spores  are  produced. 
+
+Key  to  Genera. 
+
+Branches  in  pairs,  rising  between  the  heterocysts 
+
+Scytonema* 
+
+Branches  single,  rising  in  the  region  of  the  heterocysts 
+
+Toiypotkrix* 
+
+Description  of  Genera. 
+
+Scytonema  Ag.  (Petalonema  Berkeley;  Schizosiphon 
+Kiitz.,  in  part ;  Symphyosiphon  Kiitz.,  in  part ;  Athrosiphon 
+
+Kiitz.). —  Each  filament  enclosed  in  a  sheath ;  branches  in  pairs 
+produced  by  a  fold  of  the  filament,  which  breaks  through  the 
+sheath  between  the  heterocysts.  The  heterocysts  are  scattered 
+irregularly  throughout  the  filament.  The  filaments  produce  in- 
+terwoven mats  of  larger  or  smaller  size.  The  sheath  is  lamel- 
+lose,  and  yellow  or  brown  in  color,  generally  of  an  even  thick- 
+ness, but  occasionally  the  margins  are  irregular. 
+
+[S.  crispum  (Ag.)  Bornet;  5\  Hofmanni  Ag. ;  5\  myoch- 
+
+
+No.  io.] 
+
+
+FRESH-WATER  ALGvE. 
+
+
+23 
+
+
+thous  (Dillw.)  Ag. ;  S.Hgiiratum  Ag. ;  S.  ocellatum  (Dillw.) 
+Thur.] 
+
+Tolypothrix  Kiitz.  (Hassallia  Berkeley).  —  Filaments 
+branched,  with  a  distinct  sheath.  The  branches  usually  ap- 
+pear where  heterocysts  occur,  the  trichome  breaking-  through 
+the  sheath  just  below  the  heterocyst  and  continuing  its  growth. 
+The  sheaths  are  thinner  than  in  Scytonema.  The  heterocysts 
+are  sometimes  two,  three,  or  four  in  a  row. 
+
+[7".  lanata  (Desv.)  Wartmann.] 
+
+FAMILY  IV.  STIGONEMACEiE. 
+
+The  cells  of  this  family  are  arranged  in  a  single  row  or  in 
+several  irregular  rows,  in  a  strong,  thick  sheath,  which  is 
+brown  and  very  uneven.  The  filaments  are  branched,  and 
+grow  by  repeated  division  of  the  cells  near  the  apex.  The 
+heterocysts  are  never  terminal,  and  they  are  placed  in  a  lateral 
+position  when  there  is  more  than  one  filament  in  a  sheath. 
+
+Key  to  Genera. 
+
+Normal  reproduction  by  means  of  hormogones,  de- 
+veloped on  the  extremities  of  the  branches . .  Stigonema* 
+Normal  reproduction  by  spores  Hapalosiphon 
+
+Description  of  Genera. 
+
+Stigonema  Ag.  (Sirosiphon  Kiitz.). —  Cells  of  the  fila- 
+ments in  one,  two,  or  many  rows,  owing  to  the  lateral  division ; 
+the  older  filaments  often  having  as  many  as  ten  series,  while 
+the  younger  have  only  one  or  two.  The  cells  are  surrounded 
+by  a  membrane  which  is  always  distinct,  but  especially  so  in 
+the  older  filaments.  The  sheath  is  large,  irregular,  and  usually 
+brown  or  golden  yellow.  The  generally  short,  thick  branches 
+are  irregularly  disposed.  Found  mostly  on  damp  or  wet  rocks, 
+but  sometimes  free-floating  in  lakes  or  ponds. 
+
+[S.  mamillosum  Ag. ;  S.minutum  (Ag.)  Hass. ;  S.  panni- 
+forme  (Ag.)  Born,  and  Flah.] 
+
+Hapalosiphon  Nag. —  Filaments  attached  or  floating ; 
+olive-green,  blue-green,  or,  when  older,  bright  or  dark  brown. 
+The  branches  rise  singly  at  right  angles  to  the  prostrate  stem, 
+
+
+24  CONNECTICUT  GEOL.  AND  NAT.  HIST.  SURVEY.  [Bull. 
+
+and  sometimes  bear  secondary  branches.  The  cells  are  granu- 
+late, and  grow  in  a  single  series,  rarely  in  two;  they  are 
+distinct  or,  sometimes,  continuous.  Heterocysts  are  frequent. 
+The  sheaths  of  the  branches,  usually  colorless,  are  always 
+thinner  than  those  of  the  primary  filaments.  Spores  are 
+formed  from  the  ordinary  vegetative  cells.  The  plants  grow 
+in  fresh  and  salt  waters. 
+
+CLASS  II.    BACILLARIEtE  (DIATOMACE^E). 
+
+We  have,  as  yet,  given  no  attention  to  the  Diatoms,  and 
+they  are,  therefore,  omitted  from  this  report. 
+
+CLASS  III.  HETEROKONTJE. 
+
+The  Algae  of  this  class  are  unicellular,  multicellular,  or 
+colonial,  appearing  as  rounded  single  cells,  filaments,  or  large 
+colonies.  The  cell  walls  are  usually  very  thick,  and  contain 
+many  chromatophores  of  a  yellow-green  color,  without  pyre- 
+noids  or  starch.  The  ordinary  asexual  reproduction  is  by 
+means  of  zoogonidia,  which  are  pear-shaped  bodies  furnished 
+with  one  long  and  one  short  cilium.  Non-motile  spores  are 
+also  sometimes  found  with  thick  walls. 
+
+Sexual  reproduction  takes  place  by  fusion  of  two  similar 
+motile  gametes  which  probably  resemble  the  zoogonidia  in 
+having  two  cilia.  Since  these  gametes  are  alike  they  are  said 
+to  be  isogamous.   This  class  contains  only  a  single  order. 
+
+ORDER  CONFERVALES. 
+
+The  various  forms  are  divided  into  two  families,  as 
+
+follows :  — 
+
+Family  i.    botrydiace^e.    Plant  body  large,  globose. 
+Family  ii.    tribonemace^e.    Plant  body  unicellular  or 
+filamentous. 
+
+FAMILY  I.  BOTRYDIACE-iE. 
+
+Each  plant  is  globose,  attached  by  rhizoids  to  the  damp 
+earth ;  the  chromatophores  are  numerous  and  the  reproduction 
+varied.  This  family  contains  only  one  genus,  which  we  have 
+not  yet  found  in  Connecticut. 
+
+
+No.  io.] 
+
+
+FRESH-WATER  ALG.E. 
+
+
+25 
+
+
+Botrydium  Wall. —  Small,  non-cellular,  green,  globose 
+plants,  with  colorless,  much  divided  roots,  descending  into  the 
+moist  earth,  upon  the  surface  of  which  this  Alga  lives.  The 
+zoogonidia  are  small,  ovoid,  and  provided  with  a  long  cilium. 
+If  the  plant  becomes  submerged,  the  whole  may  turn  into  a 
+zoogonidiangium,  and  the  zoogonidia  escape  through  an  open- 
+ing in  the  apex.  Non-motile  spores  are  often  produced  in 
+great  numbers  in  the  rhizoids.  If  the  plant  becomes  too  dry, 
+the  green  portion  migrates  into  the  rhizoids,  and  a  number  of 
+spores  are  produced. 
+
+FAMILY  II.  TRIBONEMACE^E. 
+
+Plants  unicellular  or  filamentous;  cells  spherical,  cylindri- 
+cal, or  elongated,  often  united  to  form  filaments,  and  spirally 
+coiled*  The  cell  wall  is  always  firm,  and  usually  thick. 
+Asexual  reproduction  by  zoogonidia.  Aplanospores  occur  in 
+Tribonema.  Sexual  reproduction  by  isogamous  (i.  e.,  similar) 
+gametes. 
+
+Key  to  Genera. 
+
+1.  Plants  unicellular   2 
+
+Plants  filamentous,  cell  wall  firm,  splitting  into  H- 
+
+shaped  pieces  Tribonema* 
+
+2.  Cells  globose,  aggregated  in  mucilaginous  colonies 
+
+Chlorobotrys 
+
+Cells  elongate,  usually  shortly  stipitate  and  often 
+spirally  coiled  Ophioeytium* 
+
+Description  of  Genera. 
+
+Tribonema  Derbes  and  Solier  (Conferva,  as  used  by 
+Lagerheim).  Filaments  composed  of  cylindrical  cells,  covered 
+with  a  thick  cell  wall  which  frequently  breaks  up  into  H-shaped 
+pieces.  The  cells  each  contain  one  or  two  nuclei  and  several 
+chromatophores.  Asexual  reproduction  by  zoogonidia  with 
+two  unequal  cilia,  and  by  non-motile  spores  which  escape  from 
+the  broken  filaments.  Sexual  reproduction  by  isogamous 
+gametes,  one  of  which  comes  to  rest  and  rounds  off  before 
+another  conjugates  with  it. 
+
+This  genus  covers  many  of  those  forms  previously  called 
+Conferva,  a  name  that  is  now  given  up.    Hazen  places  it  with 
+
+
+26  CONNECTICUT  GEOL.  AND  NAT.  HIST.  SURVEY.  [Bull. 
+
+the  Ulotrichaceae,  but  we  follow  West  in  placing  it  here  be- 
+cause of  its  yellowish-brown  color.  The  plants  are  abundant 
+in  all  waters. 
+
+T.  bombycinum  (Ag.)  Derbes  and  Sol.,  Fig.  48. 
+
+T.  minus  (Wille)  Haz.,  Fig.  21. 
+
+Chlorobotrys  .  Bohlin. —  Plants  are  formed  of  solitary 
+globose  cells,  or  of  2,  4,  8,  or  16  cells  associated  in  a  family. 
+Each  family  has  surrounding  it  an  ample  hyaline  mucous  tegu- 
+ment. The  cell  walls  are  thick  and  smooth.  Six  to  thirty 
+parietal  chromatophores  are  disposed  on  the  wall  of  each  cell. 
+Sometimes  a  red  pigment  spot  appears  in  each  cell. 
+
+Multiplication  by  cell  division,  at  first  in  two  directions, 
+afterwards  in  three. 
+
+Ophiocytium  Nag.  (inclus.  Sciadium  A.  Br.).  —  Cells 
+cylindrical,  variously  curved,  attenuated  at  one  end  into  a  thin, 
+short  stem;  sometimes  both  ends  rounded,  with  or  without  a 
+spine.  Propagation  by  non-motile  spores  or  zoogonidia,  which 
+are  formed  by  division  of  the  cell  contents.  The  cell  wall  has 
+a  lid  fitted  to  the  apex  of  a  long  tube.  In  the  attached  species 
+the  zoogonidia  come  to  rest  on  the  rim  of  the  empty  cell  and 
+develop  into  full-grown  cells.  A  repetition  of  this  process  gives 
+a  curious  branched  appearance. 
+
+O.  parvulum  (Perty)  A.  Br.,  Fig.  20.  The  two  different 
+sizes  are,  perhaps,  two  species.  None  of  our  specimens  showed 
+the  terminal  spine. 
+
+CLASS  IV.  CHLOROPHYCE^E. 
+
+This  class  contains  all  the  green  Algae  and  numbers  more 
+species  than  all  the  other  classes  of  Algae  together.  The  forms 
+are  very  diverse  in  size  and  structure,  and  include  unicellular, 
+filamentous,  and  colonial  plants,  some  furnished  with  rhizoids, 
+others  with  hairs,  and  some"  with  spines.  Cell  division  usually 
+takes  place  in  all  the  cells  of  a  thallus,  but  occasionally  there 
+is  a  growing  point.  Both  sexual  and  asexual  reproduction  are 
+found  in  most  of  the  families  of  the  Chlorophyceae.  This  class 
+flourishes  most  abundantly  in  fresh  water,  though  many  are 
+marine,  and  members  of  it  are  to  be  found  in  every  damp  or  wet 
+situation. 
+
+
+No.  10.] 
+
+
+FRESH-WATER  ALG^E. 
+
+
+27 
+
+
+The  class  may  conveniently  be  divided  into  orders,  as  in- 
+dicated by  the  following  key :  — 
+
+Key  to  Orders. 
+
+1.  Thallus  coenocytic  (t.  e.,  non-cellular  but  with  many 
+
+nuclei)   SIPHONALES 
+
+Thallus  filamentous  and  septate,  or  unicellular,  or 
+expanded    2 
+
+2.  Thallus  filamentous,  though  filaments  may  unite  in  a 
+
+plane.    In  the  Conjugatae  some  are  unicellular  and 
+
+not  filamentous   3 
+
+Thallus  expanded,  membranous  ULVALES 
+
+Thallus  neither  expanded  nor  filamentous  
+
+PROTOCOCCALES 
+
+3.  Cell  division  by  intercalation  of  new  cells  producing 
+
+transverse  striation   (EDOGONIALES 
+
+Cell  division  of  ordinary  type   4 
+
+4.  Filaments  attenuated  and  commonly  ending  in  a 
+
+bristle   CH^ETOPHORALES 
+
+Filaments  not  ending  in  a  bristle   5 
+
+5.  Chloroplasts  single,  substellate,  with  one  pyrenoid. 
+
+Filaments  may  fuse  in  a  plane  SCHIZOGONIALES 
+
+Chloroplasts  single,  reticulated  or  band-shaped,  with- 
+out pyrenoids  MICROSPORALES 
+
+Chloroplasts  numerous,  parietal,  each  with  a  pyre- 
+noid  CLADOPHORALES 
+
+Chloroplasts  single  or  several,  large  and  of  some 
+definite  shape,  with  pyrenoids.  The  entire  contents 
+of  two  cells  unite  to  form  a  single  zygote .  .  CONJUGATE 
+
+ORDER  I.  PROTOCOCCALES. 
+
+Single-celled  green  Algae,  without  terminal  growth  or 
+branches,  and  without  vegetative  generation  of  cells;  either 
+single  or  in  flocks  or  families.  Sometimes  the  cells  of  the 
+families  indefinitely  increase  in  number,  and  form  daughter- 
+families.  At  other  times  there  is  a  definite  number  associated 
+together  to  form  colonies  called  ccenobia.  Even  when  ap- 
+parently closely  united,  each  cell  has  the  power  of  reproduction, 
+and  therefore  the  plants  are  essentially  unicellular. 
+
+
+28  CONNECTICUT  GEOL.  AND  NAT.  HIST.  SURVEY.  [Bull. 
+
+
+The  order  is  a  very  large  one,  and  contains  an  immense 
+variety  of  forms  which  can  hardly  admit  of  a  general  descrip- 
+tion. The  order  is  divided  into  eight  families,  the  following 
+six  of  which  are  known  in  the  United  States : — 
+
+Key  to  Families. 
+
+1.  Unicellular,  or  of  a  definite  number  of  ciliated  motile 
+
+Cells   VOLVOCACEyE 
+
+Cells  not  ciliated  or  motile   2 
+
+2.  Cells  formed  in  flat  plates  or  in  a  network  
+
+HYDRODICTYACE^ 
+
+Cells  not  in  a  plate  or  a  network   •  3 
+
+3.  Unicellular  and  solitary;  cell  with  differentiation  of 
+
+base  and  apex  ch araciace^: 
+
+Cells  without  differentiation  of  base  and  apex   4 
+
+4.  Unicellular  and  globular,  or  consisting  of  short,  few- 
+
+celled  filaments  (not  truly  filamentous)  ;  firm  cell 
+walls ;  no  autospores  pleurococcace^e 
+
+Cells  free  or  colonial,  without  copious  gelatinous  en- 
+velope, forming  autospores   protococcace^: 
+
+Cells  spherical  and  indefinite  in  number,  embedded  in 
+a  copious  gelatinous  envelope  palmellace^e 
+
+FAMILY  I.  PALMELLACE^E. 
+
+Unicellular  Algae,  free-floating  or  attached,  single  or  in 
+families,  with  a  conspicuous  mucous  envelope,  which  is  with- 
+out definite  form,  and  is  either  structureless  or  differentiated 
+into  concentric  envelopes.  Cell  contents  at  first  homogeneous, 
+later  granular,  green  or  reddish.  Multiplication  by  cell  division 
+in  two  or  three  directions,  and  cells  often  grouped  in  twos  or 
+fours.  Asexual  reproduction  by  biciliated  zoogonidia,  several 
+of  which  arise  from  an  ordinary  cell.  Sexual  reproduction  has 
+been  observed  in  some  species. 
+
+This  family  is  divided  into  three  sub-families,  as  follows :  — 
+
+,  Key  to  Sub-families. 
+
+Cells  grouped  in  twos  or  fours  within  a  lamellose 
+
+mucous  investment  glceocystide^e 
+
+Cells  grouped  in  fours,  irregularly  disposed  in  a 
+
+mucus :  cells  with  a  non-motile  hair  tetraspore^ 
+
+
+No.  io.] 
+
+
+FRESH-WATER  ALG^. 
+
+
+29 
+
+
+Cells    irregularly   grouped    within    a  structureless 
+
+mUCUS   PALMELLELE 
+
+SUB-FAMILY  I.  GLCEOCYSTTDEtE. 
+
+Plants  formed  of  colonies  of  cells  in  a  common  mucila- 
+ginous envelope.  Ordinarily  concentric  coats  of  mucus  can 
+be  seen  around  single  cells  or  groups  of  cells.  Multiplication 
+by  division  of  the  mother-cell  into  four  parts. 
+
+Key  to  Genera. 
+
+Colonies  irregular  
+
+Colonies  cylindrical  and  branching 
+Colonies  subspherical   
+
+Description  of  Genera. 
+
+Glceocystis  Nag.  (Chlorococcus  Fries.,  in  part). — 
+Spherical  or  oblong  cells  associated  in  globose  families  of  an 
+indefinite  number  of  cells.  Teguments  gelatinous,  formed  in 
+layers.    Cells  spherical  or  ellipsoidal. 
+
+G.  vesiculosa   Nag.,  Fig.  28. 
+
+[G.  rupestris  (Lyng.)  Rab.] 
+
+Palmodictyon  Kutz. —  The  cells  and  surrounding  tegu- 
+ment are  in  the  shape  of  cylindrical  masses  which  branch  and 
+anastomose.  The  outer  covering  is  often  hard  and  of  a 
+reddish  brown  color.  Reproduction  by  means  of  resting  spores 
+with  brown  cell  walls. 
+
+Botrydina  Breb. —  A  genus  little  investigated.  The 
+colonies  are  subspherical,  made  of  cells  enveloped  in  a  thick, 
+gelatinous  integument,  which  may  be  as  large  in  diameter  as 
+five  hundred  microns. 
+
+SUB-FAMILY  II.  TETRASPORE^. 
+
+Cells  grouped  in  fours  or  very  irregularly  scattered  towards 
+the  outside  of  a  structureless  mass  of  jelly.  The  cells  of  this 
+family  are  frequently  provided  with  delicate  non-vibratile  hairs 
+called  p sen  do  cilia. 
+
+Description  of  Genera. 
+Tetraspora  Ag. —  Thallus  gelatinous,  thick,  at  first  baggy, 
+then  lengthening;  scattered  through  the  felly  are  numberless 
+
+
+. .  Gloeocystis* 
+\Palmodictyon 
+.  . .  .Botrydina 
+
+
+30  CONNECTICUT  GEOL.  AND  NAT.  HIST.  SURVEY.  [Bull. 
+
+green  cells,  dividing  in  one  or  more  directions,  grouped  in 
+twos  or  fours  without  order  near  the  periphery.  Isogamous 
+planogametes  —  i.  e.,  provided  with  cilia, —  biciliated  zoogoni- 
+dia,  and  resting  spores  with  thick  brown  cell  walls,  are  de- 
+veloped. 
+
+T.  lubrica  (Roth)  Ag.  var.  lacunosa  Chand.,  Fig.  212. 
+T.  gelatinosa  (Vauch.)  Desv.,  Fig.  77. 
+[T.  bullosa  (Roth)  Ag.] 
+
+Apiocystis  Nag. —  Thallus  small,  of  various  or  changing 
+color,  fastened  by  a  stem-like  base.  Cells  spherical,  sometimes 
+scattered,  sometimes  eight  in  a  circle;  contents  homogeneous 
+or  slightly  granular,  with  a  distinct  colorless  vacuole.  Propa- 
+gation by  globose  zoogonidia,  each  bearing  two  cilia,  and 
+isogamous  gametes. 
+
+SUB-FAMILY  III.  PALMELLE^. 
+
+A  large  number  of  globose  cells  are  aggregated  in  a  struc- 
+tureless mass  of  jelly,  which  is  of  indefinite  extent  except  in 
+Palmodactylon,  in  which  it  is  more  or  less  cylindrical  and 
+variously  branched.  The  outer  layers  of  the  firm,  thin  cell 
+walls  are  thrown  off  from  time  to  time  in  one  or  many  pieces. 
+
+Description  of  Genera. 
+
+Palmella  Lyng.  —  A  shapeless  mass  of  jelly,  holding  cells 
+which  are  spherical,  oval,  or  oblong,  green,  red,  or  brown. 
+Multiplication  by  repeated  division  of  the  cell  contents,  accom- 
+panied by  decided  gelatinization  of  the  wall  of  the  mother-cell. 
+Reproduction  by  micro- and  macro-zoogonidia  and  also  by 
+small  isogamous  planogametes. 
+
+P.  mucosa  Kutz.  (  ?) ,  Fig.  72.  Fig.  72a  is  the  gelatinous 
+colony,  natural  size. 
+
+Schizochlamys  A.  Br. —  Found  with  Tetraspora,  and  like 
+it,  except  that  in  this  genus  the  cell  wall  often  splits  into  four 
+parts.  The  cell  contents  afterward  divide  into  two  or  four 
+daughter-cells. 
+
+Palmodactylon  Nag. —  Small  round  cells,  dull  green,  en- 
+closed in  a  cylindrical  bladder-like  membrane.  Several  of 
+these  membranes  are  often  joined  together  at  one  end,  spread- 
+
+
+No.  10.] 
+
+
+FRESH-WATER  ALGvE. 
+
+
+31 
+
+
+ing  radially.  One,  two,  or  four  series  of  cells  in  each  mem- 
+brane. 
+
+FAMILY  II.  PROTOCOCCACELE. 
+
+The  vegetative  cells  are  green,  strictly  unicellular,  and  are 
+not  provided  with  cilia.  Propagation  either  sexual  or  asexual. 
+In  the  latter  case  the  cells  divide  into  many  parts,  the  whole 
+assuming  the  form  of  a  new  colony.  These  are  called  auto- 
+spores  and  autocolonies.  Division  of  vegetative  cells  lacking. 
+In  some  genera  the  cells  are  united  into  definite  regular  forms 
+called  ccenobia,  in  others  into  a  pseado coenobium,  which  differs 
+from  the  true  coenobium  in  that  the  cells  are  not  all  of  the  same 
+generation;  other  genera  have  the  cells  scattered  or  congre- 
+gated into  irregular  forms. 
+
+Key  to  Sub -families. 
+
+1.  Cells  elongated,  frequently  curved;    solitary  or  in 
+
+definite,  loosely  coherent  colonies  selenastre^e 
+
+Cells  angular,  with  a  definite  number  of  angles,  two, 
+
+four,  six,  eight,  or  more;  cells  solitary.  .  .tetraedreje 
+Cells  variable,  united  in  a  regular  flat  plate.  . crucigenie^: 
+Cells  globose  or  sub-globose   2 
+
+2.  Cells  strictly  globose,  united  in  a  spherical  colony 
+
+( coenobium  )   ccelastre^e 
+
+Cells  globose  or  sub-globose,  not  united  in  a  spherical 
+coenobium   3 
+
+3.  Cells  with  two  or  more  attenuated  bristles . . .  phytheliele 
+Cells  without  bristles   4 
+
+4.  Cells  generally  retained  within  enlarged  wall  of 
+
+mother-cell   oocystide^: 
+
+Cells  joined  in  colonies  by  persistent  walls  of  mother- 
+cells,  which  sometimes  become  transformed  into 
+connecting  threads  dictyosph^erie^e 
+
+sub-family  i.  dictyosph^erie^e. 
+
+Cells  globose,  ovoid,  or  ellipsoid,  and  associated  to  form 
+indefinite  colonies.  The  cells  are  held  in  position,  usually,  by 
+the  wall  of  the  mother-cell,  which  in  some  genera  breaks  up 
+into  connecting  threads.    Multiplication  by  simple  vegetative 
+
+
+32  CONNECTICUT  GEOL.  AND  NAT.  HIST.  SURVEY.  [Bull. 
+
+
+division,  or  by  the  formation  of  four  daughter-cells  in  a  mother- 
+cell,  which  at  length  ruptures  to  let  them  out. 
+
+Key  to  Genera. 
+
+1.  Cells  indefinitely  disposed   2 
+
+Cells  in  grape-like  clusters,  freely  exposed  in  a 
+
+thin  gelatinous  envelope  Botryococcus 
+
+2.  With     well-marked,     subdichotomous  connecting 
+
+threads;  chloroplast  parietal  Dictyosphcerium* 
+
+Cells  in  radiating  series ;  connecting  threads  scarcely 
+visible;  chloroplast  axile  Dictyocystis 
+
+Description  of  Genera. 
+
+Botryococcus  Kiitz. —  Sixteen  or  thirty-two  cells  clustered 
+like  a  bunch  of  grapes  in  an  irregularly  lobed  mucous  thallus. 
+Cells  oval,  spherical,  or  elliptical,  densely  packed '  in  families 
+within  a  thin  tegument.  Clusters  free-swimming,  green,  at 
+length  pallid  or  brown. 
+
+Dictyosphaerium  Nag. —  Cells  green,  kidney-shaped  or 
+egg-shaped,  gathered  into  a  hollow,  somewhat  spherical  family, 
+and  usually  surrounded  by  a  gelatinous  envelope;  free-swim- 
+ming. Cells  covered  by  thick  coats  which  are  confluent; 
+joined  by  a  fine  tegument.  Division  of  cells  at  first  in  all 
+directions,  later  only  radially.  Biciliated  zoogonidia  rarely 
+occur. 
+
+D.  Ehrenbergiannm   Nag.,  Fig.  22. 
+
+Dictyocystis  Lagerh.  —  Oblong  or  cylindrical  cells,  held  in 
+radiating  series  by  delicate  threads,  to  form  a  small,  free- 
+floating  colony,  the  series  often  branching. 
+
+SUB-FAMILY  II.  TETRAEDRE^. 
+
+Solitary  unicellular  plants,  flattened  and  angular  with  a 
+definite  number  of  angles.  The  angles  may  be  rounded, 
+notched,  or  furnished  with  spines.  Only  one  genus,  sometimes 
+divided  into  two,  according  to  the  depth  of  the  lobulation. 
+
+Tetraedron  Kiitz.  (Polyedrium  Nag.). —  Cells  green, 
+single,  free-swimming,  three-,  four-,  or  eight-angled ;  angles 
+rounded,   sometimes   notched,  mostly  armed  with  a  spine. 
+
+
+No.  io.] 
+
+
+FRESH-WATER  ALG^E. 
+
+
+33 
+
+
+Propagation  by  means  of  autospores,  which  are  formed,  usu- 
+ally to  the  number  of  four  or  eight,  in  the  mother-cell. 
+
+T.  minimum  (A.  Br.)  Hansg.,  Fig.  23. 
+
+T.  trigonum  var.  punctatum  (Kirch.),  Fig.  24. 
+
+T.  trigonum  var.  pentagonum  (Rab.),  Fig.  25. 
+
+SUB-FAMILY  III.  OOCYSTIDE^. 
+
+Cells  spherical  or  elliptical,  often  retained  within  the  swollen 
+wall  of  the  mother-cell.  There  may  be  one  or  several  parietal 
+chloroplasts.  The  cell  wall  of  all  but  Palmellococcus  is  firm. 
+Multiplication  by  means  of  autospores,  which  often  develop 
+and  grow  to  full  size  in  the  mother-cell. 
+
+Key  to  Genera. 
+
+1.  Cells  curved,  subcylindrical  or  sublunate.  .Nephrocytium* 
+
+Cells  ellipsoidal  Odcystis 
+
+Cells  spherical   2 
+
+2.  Cells  large,  solitary  and  free-floating.  .  .  .  Eremosphcera 
+Cells  minute,  forming  a  thin  stratum.  . .  .Palmellococcus* 
+
+Description  of  Genera. 
+
+Nephrocytium  Nag. —  Two,  four,  eight,  or  sixteen  oblong 
+or  kidney-shaped  cells,  associated  in  a  free-swimming  family, 
+surrounded  by  an  oval  or  kidney-shaped  covering.  Of  variable 
+size ;  cells  bright  green.  Frequent  in  ponds.  Multiplication  by 
+autospores,  which  are  often  spirally  disposed  around  the  inside 
+of  the  wall  of  the  mother-cell. 
+
+N.  Ncegelii  A.  Br.,  Figs.  26,  29. 
+
+N.  Agardhianum   Nag.,  Fig.  27. 
+
+Obcystis.  This  genus  differs  from  Nephrocytium  in 
+having  cells  ellipsoidal  and  showing  polar  nodules.  There  are 
+usually  several  parietal  chloroplasts  in  each  cell. 
+
+Eremosphaera  D.  By.  ( Chlorosphaera  Henfrey). —  Large, 
+spherical,  free-swimming  cells,  with  firm  walls,  showing  a 
+colorless  border.  Cell  contents  green,  granulose;  each  cell 
+containing  large  numbers  of  small  parietal  chloroplasts.  Mul- 
+tiplication into  two  or  four  parts,  which  escape  through  the 
+cell  wall.  Found  in  small  pools. 
+3 
+
+
+34  CONNECTICUT  GEOL.  AND  NAT.  HIST.  SURVEY.  [Bull. 
+
+Palmellococcus  Chodat   (Protococcus  Ag.,  in  part). — 
+
+Strictly  unicellular  Algae,  globose,  green,  sometimes  changing 
+to  red  upon  exposure.  Cells  formed  singly  or  in  clusters, 
+growing  in  water,  or  on  damp  soil,  flower-pots,  trunks  of  trees, 
+etc. ;  8,  1 6,  32,  or  64  spores  formed  within  a  mother-cell,  the 
+wall  of  which  ruptures  and  sets  them  free.  Very  rapid  multi- 
+plication by  cell  division. 
+
+P.  sp.  (?),  Fig.  30. 
+
+P.  Gigas  (Kiitz.),  Fig.  31. 
+
+SUB-FAMILY  IV.  SELENASTRE^. 
+
+Cells  elongated  and  attenuated,  sometimes  lunate ;  solitary, 
+or  joined  into  fragile  families.  A  single  chloroplast,  which 
+may  contain  one  or  many  pyrenoids,  is  found  in  each  cell. 
+The  cell  wall  is  delicate  but  firm.    Multiplication  by  autospores 
+
+
+or  autocolonies. 
+
+Key  to  Genera. 
+
+1.  Colonies  enveloped  in  mucus  Kirchneriella* 
+
+Colonies  almost  destitute  of  mucus   2 
+
+2.  Cells  attenuated  to  acute  apices   3 
+
+
+Cells  sublimate  or  ellipsoidal,  arranged  in  groups  of 
+four  in  a  plane ;  groups  forming  irregular  colonies 
+
+Dimorphococcus 
+3.    Cells  forming  definite  colonies  of  a  row  of  cells  in  one 
+
+
+plane  Scenodesmus* 
+
+Cells  solitary  or  loosely  grouped  in  irregular  bundles 
+
+Ankistro  desmus* 
+
+Cells  lunate,  arranged  back  to  back  Selenastrum* 
+
+Cells  dividing,  oblique;  daughter-cells  remaining  at- 
+tached loosely  by  their  apices  Dactylococcus 
+
+
+Description  of  Genera. 
+
+Kirchneriella. —  The  cells  are  bent  like  a  bow,  often  until 
+their  apices  almost  touch  each  other ;  loosely  aggregated  within 
+an  enveloping  mass  of  jelly.  The  cell  wall  is  thin,  the  chloro- 
+plast parietal;  multiplication  by  autospores,  four  or  eight  of 
+which  are  produced  in  a  mother-cell.  The  genus  differs  from 
+Selenastrum  in  the  presence  of  jelly. 
+
+K.  obesa  (West)  Schmidle,  Fig.  54. 
+
+
+No.  io.] 
+
+
+FRESH-WATER  ALG.E. 
+
+
+35 
+
+
+Selenastrum  Reinsch. —  Cells  lunate,  attenuated  on  both 
+ends  to  a  fine  point,  with  firm,  thin  walls;  arranged  back  to 
+back  to  form  four-  to  eight-celled  colonies.  Multiplication  by 
+autospores. 
+
+S.  acuminatum  Lagerh.,  Fig.  46. 
+
+6\  sp.  (?)  (perhaps  acuminatum),  Fig.  43. 
+
+Scenodesmus  Meyen. —  Cells  elliptical,  cylindrical,  oblong- 
+spherical,  often  drawn  out  into  longer  or  shorter  spines.  One, 
+sometimes  two,  rows  of  cells  are  commonly  joined  laterally 
+into  a  coenobium.  Propagation  by  repeated  division  of  the 
+cell  contents  into  brood-families,  which  are  set  free  by  rupture 
+of  the  mother-cell  wall. 
+
+5".  obtusus   Meyen,  Fig.  38. 
+
+5*.  caudatus    Corda,  Fig.  36. 
+
+S.  caudatus  var.  abundans    Kirch.,  Fig.  32. 
+
+5\  caudatus  var.  typicus    Kirch.,  Fig.  33. 
+
+5.  caudatus  var.  setosus    Kirch.,  Fig.  34. 
+
+5".  acutus   Meyen,  Fig.  37. 
+
+S.  dimorphus   Kutz.,  Figs.  42,  44. 
+
+S.  antennatus  Breb.  var.  rectus  Wolle,  Fig.  39. 
+
+S.sfi,  (?),Ffe.35. 
+
+Dimorphococcus  A.  Br. —  Cells  united  more  or  less  in 
+fours  on  short  branches ;  the  two  intermediate,  contiguous  cells 
+oblique,  obtuse-ovate;  the  two  lateral,  opposite  and  separate 
+from  each  other,  lunate;  families  free-swimming,  in  irregular 
+clusters. 
+
+Ankistrodesmus  Corda  (Rhaphidium  Kiitz. ;  Schroderia 
+
+Lemmermann). —  Finely  granulate,  cylindrical  cells,  usually 
+tapering  at  both  ends  and  variously  curved.  The  cells  occur 
+singly,  or  gathered  into  groups,  several  radially  joined,  two 
+crossing  each  other,  rarely  two  united  at  the  end;  covering 
+thin  and  smooth;  division  in  only  one  direction. 
+
+A.  falcatus  (Corda)  Ralfs,  Fig.  45. 
+
+A  falcatus  var.  acicularis  West,  Fig.  47. 
+
+A.  falcatus  var.  mirabilis  West,  Fig.  41. 
+
+A.  Braunii  (Nag.)  (?),  Fig.  40. 
+
+SUB-FAMILY  V.  CRUCIGEXIE^. 
+
+Cells  gathered  into  flat  ccenobia.  The  cells  are  generally 
+rounded  and  sometimes  furnished  with  spines.    The  groups  of 
+
+
+36  CONNECTICUT  GEOL.  AND  NAT.  HIST.  SURVEY.  [Bull. 
+
+
+four  are  held  together  by  a  tough  mucilage.  Multiplication  by 
+autocolonies.    The  only  American  genus  is  the  following : — 
+
+Crucigenia  Morren  (Staurogenia  Kiitz. ;  Lemmer- 
+mannia  Chodat;  Willea  Schmidle). —  4,  8,  16,  or  32  sub- 
+quadratic  cells,  gathered  into  a  flat  ccenobium  held  in  a  mucila- 
+ginous envelope.  As  many  as  128  cells  in  groups  of  four  have 
+been  discovered.  The  cell  walls  are  smooth,  and  each  cell  is 
+furnished  with  a  single  chloroplast.  Multiplication  by  auto- 
+colonies. 
+
+SUB-FAMILY  VI.  PHYTHELIEyE. 
+
+Unicellular  or  grouped  in  a  more  or  less  definite  ccenobium, 
+freely  floating.  Almost  devoid  of  a  mucous  envelope  and  fur- 
+nished with  bristles. 
+
+SUB-FAMILY  VII.  CCELASTRE^E. 
+
+The  cells  are  either  globose  or  polygonal,  provided  with 
+processes  by  which  they  are  united  into  a  hollow  sphere;  or 
+broadly  lunate,  and  united  at  the  centre  by  short  stalks. 
+Propagation  by  autocolonies  which  are  formed  in  each  cell  of 
+the  ccenobium. 
+
+Key  to  Genera. 
+
+Ccenobium  hollow   Ccelastrum* 
+
+Ccenobium  solid  Sorastrum* 
+
+Description  of  Genera. 
+
+Ccelastrum  Nag.  (Hariotina  Dang.).  —  Ccenobium  a 
+hollow  globe  formed  of  a  single  layer  of  green,  spherical  or 
+angular  cells;  later  the  ccenobium  appears  to  be  reticulately 
+pierced ;  in  older  growths  the  cells  have  become  polygonal 
+through  continued  pressure.  Daughter-ccenobia  are  developed 
+within  the  mother-cell,  and  escape  by  breaking  the  walls  of  the 
+latter.    Found  in  ponds. 
+
+C.  micro porum   Nag.,  Fig.  51. 
+
+Sorastrum  Kiitz.  (Selenosphaerium  Cohn). —  Differs 
+from. Ccelastrum  in  that  the  ccenobium  is  solid.  It  is  composed 
+of  4,  8,  16,  or  32  wedge-shaped  stalked  cells,  radially  disposed, 
+with  spines  (usually  two)  on  each  end.  Propagation  by  auto- 
+colonies. 
+
+
+No.   IO.]  FRESH-WATER  ALGJE.  37 
+
+5.  spinulosum  Nag.  (?). —  The  common  form  of  Soras- 
+trum  in  this  region  is  shown  in  Fig.  213.  It  shows  only  one 
+spine  at  each  corner.  A  less  common  form  which  may  be  a 
+different  species  is  shown  in  Fig.  55. 
+
+FAMILY  III.  HYDRODICTYACE^E. 
+
+These  plants  are  free-floating,  non-motile  ccenobia,  com- 
+posed of  cells  arranged  like  a  net  or  in  a  flat  plate.  Pediastrum 
+may  have  fifty  cells  and  Hydrodictyon  many  hundreds.  Multi- 
+plication by  autocolonies.  Reproduction  by  spores,  which  be- 
+come quiescent  within  the  mother  colony  and  then  unite  by 
+their  extremities  to  form  a  new  ccenobium.  A  fusion  of 
+isogamous  gametes  to  form  a  zygospore  also  sometimes  occurs. 
+The  two  sub-families  are  probably  not  closely  related. 
+
+Key  to  Sub-families. 
+
+Cells  in  a  flat  plate  pediastre^e 
+
+Cells  form  a  network  hydrodictye^e 
+
+SUB-FAMILY  I.  PEDIASTRE/E. 
+
+Microscopic  plants  composed  of  a  number  of  small  cells 
+united  into  a  flat  disk.  Zoogonidia  formed  in  the  mother-cell 
+are  liberated  into  an  external  vesicle,  and  there  form  new 
+ccenobia. 
+
+Description  of  Geniis. 
+Pediastrum  Meyen. —  The  plane,  discoid  or  stellate,  free- 
+swimming  ccenobium  is  formed  of  a  single,  rarely  a  double, 
+layer  of  green  cells,  perforated  or  continuous.  The  cells  are 
+polygonal,  with  four  or  more  sides ;  the  central  cells  are  entire, 
+while  the  marginal  cells  are  often  bilobed ;  the  lobes  are 
+wedge-shaped,  simple  or  bidentate,  sometimes  drawn  out  into 
+hair-like  ends.  The  genus  is  very  abundant  and  variable.  The 
+reproduction  is  as  follows : —  The  cell  contents  are  at  first 
+homogeneous,  later  becoming  granular.  The  granular  contents 
+divide  into  small  zoogonidia,  spherical  or  nearly  so,  which 
+break  away  from  the  mother-cell  into  an  external  vesicle. 
+After  they  have  been  motile  awhile,  they  come  to  rest,  and 
+then  divide  and  redivide ;  a  gelatinous  covering  forms  around 
+them,  the  cells  arrange  themselves  into  a  single  layer,  and 
+gradually  take  on  the  shape  of  the  mother  plant.  Autocolonies 
+
+
+38  CONNECTICUT  GEOL.  AND  NAT.  HIST.  SURVEY.  [Bull. 
+
+
+are  sometimes  found  in  a  single  cell.    Biciliated  gametes  are 
+also  found  which  conjugate. 
+P.  sp.  (?),  Fig.  65. 
+
+P.  pertusum  Kiitz.,  Figs.  66,  68,  70,  71. 
+
+P.  pertusum  var.  clathratum  A.  Br.,  Figs.  50,  52,  57. 
+
+P.  tetras  Ehrb.,  Fig.  69. 
+
+P.  Boryanum    (Turp.)  Menegh.  var.  granulatum  Kiitz., 
+
+Figs-  58,  59.  67. 
+
+P.  Ehrenbergii  A.  Br.,  Figs.  61,  62,  63,  64. 
+
+SUB-FAMILY  II.  HYDRODICTYEiE. 
+
+Plants  large,  composed  of  a  number  of  large  cells,  which 
+are  so  arranged  as  to  form  a  net.  Zoogonidia  swarm  and  be- 
+come quiescent  within  the  mother-cell,  and  there  unite  to  form 
+new  ccenobia. 
+
+Hydrodictyon  Roth. —  Ccenobium  large,  composed  of 
+oblong  cells  joined  at  the  ends,  forming  a  reticulated  stratum, 
+at  first  baggy,  then  net-like.  All  the  cells  are  fertile,  breaking 
+up  to  form  large  numbers  of  microgonidia  within  the  mother- 
+ccenobium.  After  a  period  of  activity  they  come  to  rest  and 
+form  a  new  ccenobium  by  joining  together  at  their  extremities. 
+Sometimes  they  become  perfectly  dry;  but,  when  moistened, 
+they  form  biciliated  macrogonidia  which  join  themselves  into 
+daughter-ccenobia  within  the  mother-cell.  Motile  gametes  are 
+also  found  which  become  free  and  conjugate  into  a  globose 
+zygote.    The  only  known  species  is  the  following : — 
+
+H.  reticulatum  (L.)  Lag.,  Figs.  215,  a,  b,  c. 
+
+FAMILY  IV.  PLEUROCOCCACE^E. 
+
+Plants  mostly  unicellular,  sometimes  composed  of  short, 
+creeping,  slightly  branched  filaments,  which  are  never  atten- 
+uated to  hairs.  The  cell  walls  are  generally  very  firm,  and  the 
+cells  aggregate  to  form  indefinite  colonies.  Multiplication  by 
+division  in  two  or  three  directions.  Asexual  reproduction 
+sometimes  "by  means  of  biciliated  zoogonidia.  Of  the  six 
+genera  of  this  family  we  have  found  only  one. 
+
+Pleurococcus  Menegh.  (Protococcus  Ag.,  in  part; 
+Cystococcus  Nag. ;  Chlorococcus  Fries,  in  part ;  Pseudo- 
+pleurococcus  Snow). —  The  cells  are  usually  globular,  some- 
+times angular  from  pressure.    Division  occurs  in  three  direc- 
+
+
+Xo.  io.] 
+
+
+FRESH-WATER  ALGiE. 
+
+
+39 
+
+
+tions,  so  at  times  a  cubical  colony  is  seen,  which  easily  divides 
+into  its  respective  cells.  The  plants  are  occasionally  creeping, 
+branched  filaments.  A  single  parietal  chloroplast  is  present, 
+with  or  without  a  pyrenoid.  Reproduction  by  aplanospores  — 
+i.  e.,  without  cilia, —  by  rejuvenescence  of  the  mother-cell  con- 
+tents, by  isogamous  gametes,  or  by  biciliated  zoogonidia. 
+
+P.  vulgaris  Menegh.,  Fig.  73,  is  a  very  common  form  in 
+the  state,  growing  in  damp  places,  upon  stones,  etc.  We  have 
+not  found  it  in  water. 
+
+FAMILY  V.  CHARACIACE^E. 
+
+Plants  unicellular,  usually  elongated  and  attenuated  at  both 
+ends,  the  lower  end  terminating  in  a  stalk,  generally  furnished 
+with  a  disk  by  which  it  is  attached  to  larger  Algae.  A  single 
+parietal  chloroplast  with  one  pyrenoid  is  present.  Reproduc- 
+tion by  numerous  zoogonidia  formed  by  division  of  the  cell 
+contents  at  first  transversely,  then  longitudinally.  These  por- 
+tions become  rounded  off,  become  biciliated,  and  escape  by 
+a  lateral,  or,  more  rarely,  a  terminal  pore.  Each  zoogonidium 
+becomes  a  new  plant  on  coming  to  rest. 
+
+Characium   A.  Br. —  Coextensive  with  the  family. 
+
+C.  Ncegelii   A.  Br.,  Fig.  53. 
+
+C.  ambiguum   Herm.,  Fig.  56. 
+
+FAMILY  VI.  VOLVOCACEiE. 
+
+Plants  unicellular,  or  consisting  of  coenobia  with  a  definite 
+number  of  cells,  always  ciliated  and  motile.  Multiplication  by 
+division  of  the  mother-cell  into  2,  4,  or  8  daughter-cells.  Re- 
+production both  by  the  union  of  isogamous  planogametes  and, 
+in  the  higher  genera,  by  heterogamous  gametes. 
+
+The  Volvocaceae  are  sometimes  found  in  immense  quantities, 
+and  frequently  give  an  oily  taste  and  odor  to  drinking  water. 
+They  are  closely  related  to  the  Flagellata,  and  some  of  them 
+are  frequently  classed  with  the  Protozoa. 
+
+Key  to  Sub-families. 
+Composed  of  colonies  of  many  cells;  cells  with  two 
+
+cilia   volvoce^e 
+
+Composed  of  single  cells  with  two,  or  rarely  four, 
+
+Cilia   CHLAMYDOMONADE^E 
+
+
+40 
+
+
+CONNECTICUT  GEOL.  AND  NAT.   HIST.  SURVEY.  [Bull. 
+
+
+SUB-FAMILY  I.  VOLVOCE^. 
+
+Motile  coenobia ;  cells  varying  in  number  from  4  to  20,000, 
+globose  or  ovoidal,  with  a  distinct  but  thin  cell  wall ;  cilia  two ; 
+chloroplast  one  of  very  variable  form,  usually  including  a  single 
+pyrenoid.  Cells  usually  imbedded  in  a  common  mucilaginous 
+investment ;  more  rarely  united  by  protoplasmic  processes. 
+All  the  cells  may  be  capable  of  reproducing  the  plant,  or  there 
+may  be  a  differentiation  into  vegetative  and  reproductive  cells. 
+Vegetative  reproduction  by  division  of  some  or  all  of  the  cells 
+to  form  daughter-ccenobia.  Isogamous  or  heterogamous  sexual 
+reproduction. 
+
+Key  to  Genera. 
+
+1.  Colonies  spherical  or  circular   2 
+
+Colonies  flat,  cells  4-16,  angles  rounded,  in  a  color- 
+less sheath  Gonium 
+
+2.  No  gelatinous  covering,  cells  many,  in  a  hollow  globe 
+
+Volvox* 
+
+No  gelatinous  covering,  cells  16,  arranged  in  four 
+
+rows   Spondylomorum* 
+
+With  a  gelatinous  covering   3 
+
+3.  Colony  ovate  or  spherical   4 
+
+Colony  of  eight  cells,  in  an  equatorial  zone  in  a 
+
+spherical  or  ellipsoidal  investment  Stephanosphcera 
+
+4.  Cells  16-32,  globose,  not  crowded,  but  scattered  at 
+
+regular  intervals  on  a  colorless  sphere  Eudorina* 
+
+Cells  8,  16,  32,  or  64,  globose,  crowded,  often  angular 
+from  pressure  Pandorina* 
+
+
+Description  of  Genera. 
+Gonium  Muller  (inclus.  Tetragonium  West). —  Four  to 
+sixteen  cells  so  placed  in  a  flat  stratum  as  to  form  a  quadrangle 
+with  rounded  angles.  A  colorless  tegument  covers  all.  Cells 
+globular  except  when  angular  from  pressure.  The  cilia  all 
+arise  from  one  surface  of  the  colony.  When  old,  the  cells 
+become  granular  and  are  connected  by  produced  angles.  Re- 
+production by  repeated  division  of  the  cytoplasm  into  zoogo- 
+nidia.  Multiplication  by  daughter-ccenobia  formed  in  each  cell 
+of  the  mother-ccenobium. 
+
+
+No.   10.]  FRESH- WATER  ALGJE. 
+
+
+41 
+
+
+Volvox  Ehrb. —  Coenobium  spherical,  hollow,  the  surface 
+composed  of  green  cells  estimated  as  high  as  22,000,  arranged 
+regularly  on  the  wall,  and  each  provided  with  two  cilia,  which 
+reach  through  the  gelatinous  covering  and  keep  the  coenobium 
+in  constant  motion.  Each  green  cell  is  attached  to  the  six  sur- 
+rounding ones  by  fine  threads  which  are  difficult  to  see  even 
+under  high  power  and  with  favorable  light.  Odgonia  and 
+antheridia  are  developed  from  vegetative  cells,  and  a  brown, 
+smooth  or  star-shaped  cell  is  often  found  which  is  supposed  to 
+be  a  fertilized  oospore  in  a  resting  stage.  Asexual  reproduc- 
+tion takes  place  by  the  division  of  the  larger  vegetative  cells, 
+which  form  new  families.  These  after  sufficient  growth 
+separate  from  the  mother-cell  and  begin  life  independently. 
+
+V.  aureus    Ehrb.,  Fig.  75. 
+
+V.  globator  (L.)  Ehrb.,  Fig.  76.  Fig.  74  is  a  fertilized 
+oospore.  These  are  frequently  found  within  the  ccenobia,  and 
+also  occur  free  in  the  water.  Ehrenberg  named  it  V.  stellata, 
+but  of  course  this  was  an  error. 
+
+Spondylomorum  Ehrb.  (Uvella  Ehrb.;  Phacolomonas 
+Stein.). —  Coenobium  of  sixteen  cells  in  four  alternating  rows, 
+each  cell  with  four  cilia. 
+
+6".  quatcrnarium   Ehrb.,  Fig.  288. 
+
+Stephanosphaera  Cohn. —  Eight  green  cells,  each  having 
+two  vibrating  cilia,  are  arranged  at  regular  intervals  in  an 
+equatorial  circle,  enclosed  in  a  colorless  sphere.  Propagation 
+by  macrogonidia,  formed  by  eight-fold  division  of  the  green 
+cells,  each  bearing  two  cilia  and  a  lateral  red  spot,  and  gathered 
+into  families  of  eight ;  or  by  microgonidia,  each  provided  with 
+four  cilia,  formed  by  repeated  division,  and  at  first  revolving 
+within  the  common  sphere,  afterwards  escaping  singly.  In 
+hollow  rocks  and  pools  after  rain. 
+
+Eudorina  Ehrb.  (Eudorinella  Lemmermann). —  Coeno- 
+bium somewhat  oval  or  spherical,  composed  of  16  or  32  globular 
+green  cells,  each  with  two  cilia,  arranged  around  the  color- 
+less sphere  at  nearly  regular  intervals.  Usually  four  of  the 
+32  cells  develop  antheridia  and  the  rest  oogonia  for  the  sexual 
+reproduction.  Asexual  reproduction  by  the  division  of  the 
+cells  into  16  or  32  parts  to  form  daughter-ccenobia. 
+
+E.  elegans   Ehrb.,  Fig.  285. 
+
+
+42  CONNECTICUT   GEOL.   AND   NAT.    HIST.   SURVEY.  [Bull. 
+
+Pandorina  Bory. —  Coenobium  spherical,  covered  by  a 
+colorless  jelly.  Cells  8,  16,  or  32,  green,  spherical,  each  covered 
+with  a  thin  membrane  and  furnished  with  two  widely  divergent 
+cilia,  often  so  crowded  as  to  be  angular.  Propagation  sexual, 
+by  the  conjugation  of  isogamous  gametes.  Cells  of  a  coenobium 
+divide  into  eight  daughter-cells ;  these  become  two-ciliated 
+gametes,  and  are  scattered  and  conjugate  with  similar  cells 
+from  other  coenobia;  they  flow  together  and  produce  a 
+zygospore,  which,  after  a  season  of  rest,  develops  one  to  three 
+biciliate  macrospores,  and  these  in  their  turn  develop  new 
+coenobia.  Asexual  multiplication  by  formation  of  a  daughter- 
+coenobium  from  each  of  the  cells  of  the  mother-ccenobium. 
+P.  morum  (Mull.)  Bory,  Figs.  286,  287. 
+
+SUB-FAMILY  II.  CHLAMYDOMONADEiE. 
+
+The  plants  are  unicellular,  spherical  or  ovoid,  with  thin 
+walls,  and  two  or  rarely  four  cilia.  The  chloroplast  is  in  the 
+posterior  end  of  the  cell  and  usually  contains  one  pyrenoid. 
+Reproduction  by  division  of  the  resting  cell  into  2,  4,  or  8 
+daughter-cells.  Non-motile  spores  sometimes  occur.  Sexual 
+reproduction  by  conjugation  of  ciliated  gametes,  either  isoga- 
+mous or  heterogamous,  which  are  similar  to  the  vegetative 
+cells,  though  smaller.  They  arise  by  division  of  the  contents 
+of  the  mother-cell,  sometimes  as  manv  as  64  resulting  from  one 
+cell. 
+
+Key  to  Genera. 
+
+Contents  of  cell  close  to  cell  wall  Chlamydomonas* 
+
+Contents  of  cell  connected  with  cell  wall  by  threads 
+
+Sphcerella 
+
+Description  of  Genera. 
+
+Chlamydomonas  Ehrb. —  Vegetative  cells  ovate,  green, 
+enclosed  in  a  narrow,  colorless  tegument,  frontal  extreme  some- 
+times produced  to  a  beak  with  two  cilia,  other  end  with  large 
+chloroplast,  and  with  or  without  a  red  lateral  spot.  Gametes 
+formed  by  continued  division  of  cell  contents  of  vegetative 
+cells,  numerous,  oblong,  or  ovate,  pale  green  or  yellow,  after- 
+wards brownish.    Zygospores  globular,  red  or  brownish. 
+
+Chlamydomonas  is  abundant  in  the  reservoirs  of  the  state. 
+
+C.  pulvisculus    Ehrb.,  Fig.  289. 
+
+
+No.   IO.]  FRESH-WATER  ALG^E.  43 
+
+According-  to  West  the  forms  with  four  cilia  should  be 
+named  Carteria,  Fig.  290.  Both  the  two-  and  the  four-ciliate 
+forms  are  common  in  our  waters. 
+
+Sphaerella  Sommerf eldt  ( Chlamydococcus  A.  Br. ; 
+Haematococcus  Ag.). —  Like  Chlamydomonas,  except  that 
+the  cell  walls  are  outstanding  and  joined  to  the  cell  contents  by 
+fine  threads.  There  is  always  more  or  less  red  coloring  matter 
+present. 
+
+[S.  lacustris  (Girod.)  Witter.] 
+
+ORDER  II.  ULVALES. 
+
+Thallus  expanded  and  parenchymatous;  attached  when 
+young  by  rhizoids.  Each  cell  is  furnished  with  a  single  nucleus 
+and  a  parietal  chloroplast,  often  quite  large,  containing  one 
+pyrenoid. 
+
+FAMILY  I.  ULVACE^E. 
+
+Most  of  the  genera  of  this  family  are  inhabitants  of  salt 
+or  brackish  water.  The  thallus  consists  of  an  expanse  of  cells 
+arranged  compactly  with  their  longer  axes  at  right  angles  to 
+the  plane  of  the  thallus;  either  flat  or,  more  rarely,  tubular. 
+The  cells  are  uninucleate,  with  a  single  parietal,  often  ragged, 
+chloroplast,  containing  one  pyrenoid. 
+
+Asexual  reproduction  by  zoogonidia  with  4  cilia,  and  by 
+gemmae.  Sexual  reproduction  by  isogamous  gametes.  The 
+contents  of  a  vegetative  cell  divide  into  8  (sometimes  4  or  16) 
+gametes,  smaller  than  the  zoogonidia,  which  are  pear-shaped, 
+with  a  pigment  spot  and  two  long  cilia.  As  a  result  of  conjuga- 
+tion a  rounded  cell  with  two  pigment  spots  and  4  cilia  is 
+formed,  which  becomes  a  zygospore  on  losing  its  cilia. 
+
+Enteromorpha  Lk. —  Thallus  tubular,  membranaceous; 
+at  first  fixed,  then  floating;  sometimes  branched.  It  is  either 
+green  or  pale  olive-colored.  Reproduction  as  in  the  family. 
+Found  in  salt  or  fresh  water. 
+
+ORDER  III.  SCHIZOGONIALES. 
+
+The  thallus,  often  attached  by  rhizoids,  is  filamentous, 
+sometimes  several  filaments  being  joined  laterally  to  form  a  flat 
+
+
+44  CONNECTICUT   GEOL.   AND   NAT.    HIST.    SURVEY.  [Bull. 
+
+
+plate.  Each  cell  contains  one  nucleus  and  a  central  stellate 
+chloroplast  with  one  pyrenoid.  The  cells,  especially  of  young 
+plants,  often  divide  in  two  or  three  directions. 
+
+FAMILY  I.  PRASIOLACE.E. 
+
+Coextensive  with  the  order. 
+
+Prasiola  Ag.  (inclus.  Schizogonium  Kiitz.,  and  Hor- 
+midium  Kiitz.,  in  part). —  Found  on  moist  earth,  trunks  of 
+trees,  rocks,  stones,  etc. ;  some  species  require  very  little 
+moisture.  The  cells  of  the  filamentous  thallus  are  broader  than 
+long,  and  those  of  the  'flat  plates  quadrate  or  polygonal.  The 
+cell  walls  are  strong  and  colorless.  Reproduction  by  gemmae, 
+by  resting  spores  liberated  at  the  margin  of  the  thallus,  and  by 
+tetraspores. 
+
+ORDER  IV.  CILETOPHORALES. 
+
+Thallus  filamentous,  simple  or  usually  branched.  Branches 
+generally  attenuated  and  bearing  long  hairs.  The  uninucleate 
+cells  possess  each,  except  in  Trentepohliacece,  a  single  parietal 
+chloroplast  with  one  or  more  pyrenoids.  Asexual  reproduction 
+by  resting  spores  or  zoogonidia  with  two  cilia.  Sexual  repro- 
+duction by  isogamous  planogametes  with  two  cilia,  or  by 
+heterogamous  gametes. 
+
+
+Key  to  Families. 
+
+1.  Plant  entirely  filamentous,  simple   2 
+
+Plant  of  branched  filaments  forming  a  flat  cushion- 
+like expansion  enveloped  in  mucilage  
+
+COLEOCHiETACE/E 
+
+2.  Filaments  branched   3 
+
+Filaments  not  branched   5 
+
+3.  Gametes  arise  from  special  cells  only  
+
+
+TRENTEPOHLIACECE 
+
+Gametes  arise  from  any  cell  of  the  filament   4 
+
+4.    Small  creeping  filaments  upon  water  plants;  cells 
+
+globose  or  cylindrical  herposteirace^e 
+
+Like  the  above,  but  with  flask-shaped  cells  
+
+CH^TOSPH^RIDIACE^ 
+
+Plant  not  creeping  ch^tophorace^e 
+
+
+No.  io.] 
+
+
+FRESH-WATER  ALG.E. 
+
+
+45 
+
+
+5.    Cells  with  thick  lamellose  coats,  in  a  series  inside  a 
+
+lamellose  sheath  cylindrocapsacfje 
+
+Cells  without  lamellose  coat  ulotrichace^e 
+
+FAMILY  I.  TRENTEPOHLIACE^E. 
+
+Thallus  filamentous  and  branched,  filaments  erect  or  creep- 
+ing, growing  on  the  ground  or  on  tree  trunks.  The  cell  walls 
+are  firm  and  lamellose.  The  cells  are  uninucleate,  and  possess 
+one  or  many  parietal  chloroplasts  with  or  without  pyrenoids. 
+The  color  of  the  plants  is  usually  brown  or  reddish.  Zoogo- 
+nidia  are  developed  only  in  cells  especially  set  apart,  either  on 
+the  ends  of  the  branches  or  intercalated.  These  motile  spores 
+sometimes  conjugate.  Spores  are  sometimes  produced  which 
+rest  for  a  period  before  germinating,  called  resting  spores  or 
+hypnospores. 
+
+Key  to  Genera. 
+
+Terrestrial  or  arboreal;   chloroplasts  several  
+
+Trentepohlia^ 
+Aquatic;  cells  that  produce  zoogonidia  are  terminal 
+
+Gongrosira 
+
+Aquatic;  cells  that  produce  zoogonidia  not  terminal 
+
+Leptosira 
+
+Description  of  Genera. 
+Trentepohlia  Mart.  (Chroolepus  Ag.). —  Filaments 
+irregularly  branched,  often  so  dense  that  the  branches  and 
+stem  cannot  be  easily  distinguished;  primary  branches  and 
+stem  of  same  thickness.  Cell  contents  reddish  brown,  golden- 
+yellow,  or  olive-colored.  About  32  red-brown  or  golden-yellow 
+zoospores  in  a  cell  which  is  set  apart  especially  for  the  purpose, 
+usually  on  the  end,  sometimes  on  the  side  of  the  filament. 
+[T.  aurea  (L.)  Mart.;  T.  Iolithus  (L.)  Wittr.] 
+Gongrosira  Kiitz.  (inclus.  Pilinia  Kiitz.,  in  part). —  The 
+plant  is  attached  by  a  mass  of  cells,  formed  by  a  confluence 
+of  creeping  branches.  From  this  mass,  which  may  be  of  one 
+or  many  layers  of  cells,  numerous  erect  branched  filaments 
+arise.  The  whole  is  frequently  encrusted  with  lime.  The  cell 
+walls  are  thick  and  lamellose,  and  the  chloroplast  is  parietal 
+with  one  or  many  pyrenoids.    Zoogonidia  are  found  in  flask- 
+
+
+46  CONNECTICUT   GEOL.   AND   NAT.    HIST.   SURVEY.  [Bull. 
+
+shaped,  terminal  zoogonidiangia.  The  spores  are  ordinary 
+cells  from  the  recumbent  branches  which  become  detached. 
+
+Leptosira  Borzi. —  Very  much  like  Gongrosira.  The 
+thallus  is  in  the  form  of  a  minute  bright  green  cushion.  The 
+cells  are  light  yellow-green,  the  terminal  cells  being  elliptical 
+or  irregular.  The  zoogonidiangia  are  intercalated  and  not 
+terminal.  The  zoogonidia  either  germinate  directly,  or  con- 
+jugate in  pairs  and  form  resting  spores.  The  ends  without 
+cilia  fuse  first  in  conjugation. 
+
+FAMILY  II.  CH^ETOPHORACE^. 
+
+The  thallus  is  branched,  and  the  branches  are  attenuated 
+sometimes  into  long  hyaline  hairs;  it  is  usually  differentiated 
+into  creeping  and  erect  portions.  The  creeping  portion  is  at- 
+tached by  rhizoids,  is  branched,  and  is  more  or  less  torulose. 
+The  cells  of  the  creeping  portion  are  more  or  less  swollen,  and 
+the  branching  is  irregular.  Each  cell,  except  those  of  the 
+terminal  hairs,  is  provided  with  a  parietal  irregular  chloroplast, 
+containing  a  single  pyrenoid. 
+
+Zoogonidia,  from  I  to  16,  may  be  produced  in  each  cell  of 
+the  thallus  except  those  of  the  rhizoids  and  the  terminal  hairs. 
+They  possess  a  red  pigment  spot  and  2  or  4  cilia,  and  vary 
+much  in  size.  Spores  of  a  red-brown  color  are  produced  in  all 
+the  genera  of  the  Chaetophoraceae.  The  gametes  possess  only 
+two  cilia,  conjugate  in  pairs,  and  produce  zygospores  which 
+rest  for  a  short  period  before  germinating. 
+
+Key  to  Genera. 
+
+1.  Plants  less  than  1  mm.  high,  without  setae  
+
+Micro  tharnnion* 
+
+Plants  larger,  branches  attenuated,  and  with  setae. . .  2 
+
+2.  Filaments  fine,  showing  little  difference  in  character 
+
+of  stem  and  branch,  not  in  tufts  in  gelatinous 
+
+masses   Myxonema* 
+
+Filaments  fine,  in  tufts  in  a  dense  gelatinous  substance 
+
+Chcetophora* 
+
+Filaments  and  main  branches  large,  bearing  tufts  of 
+small  branchlets  Draparnaldia* 
+
+
+No.  io.] 
+
+
+FRESH-WATER  ALGM. 
+
+
+47 
+
+
+Description  of  Genera. 
+
+Microthamnion  Nag. —  Filaments  articulate,  variously 
+branched,  straight;  end  cell  at  first  linear,  then  obtuse,  and 
+finally  swollen  into  a  sporangium.  The  plants  are  at  first  fixed, 
+but  later  free-floating.  The  branches  arise  just  below  a  trans- 
+verse cell  wall.  The  chloroplast  is  parietal,  long  and  entire,  and 
+lacks  a  pyrenoid. 
+
+This  genus  is  frequently  placed  with  the  Trentepohliacece ; 
+but  Hazen  states  that  the  zoogonidia  may  be  produced  in  any 
+cell  of  the  filament,  and  hence  it  has  its  relationship  near 
+Myxonema.  Two  species  are  found  in  Connecticut,  according 
+to  Hazen. 
+
+[M.  Kuetzingianum    Nag. ;  M.  strictissimum  Rab.] 
+
+Myxonema  Fries  (Stigeoclonium  Kiitz.). —  Filamentous, 
+simple,  branched,  articulate ;  the  branches  not  in  tufts,  in  ap- 
+pearance much  like  the  main  stem,  with  the  end  cells  often 
+drawn  out  into  long,  colorless  bristles.  The  chloroplasts  are 
+scattered  or  arranged  as  in  Draparnaldia.  One  to  many  zoogo- 
+nidia, each  with  two  or  four  vibrating  cilia,  formed  from  the 
+contents  of  one  cell.  Gametes  with  4  cilia.  Zygospores  smooth 
+or  stellate. 
+
+M.  attenuatum    Haz.,  Fig.  220. 
+
+M.  tenue  (Ag.)  Rab.,  Figs.  79,  82. 
+
+M.  nanutn  (Dillw.)  Haz.,  Fig.  284. 
+
+M.  lubricum  var.  varians    Haz.,  Fig.  81. 
+
+M.  sp.  (?),  Fig.  78. 
+
+[M.  Hagelliferum  (Kiitz.)  Rab.] 
+
+Chaetophora  Schrank. —  Plants  enveloped  in  a  hard,  gela- 
+tinous covering  of  a  globose,  plane  or  lobed  form.  Thallus 
+filamentous,  articulated  and  branched.  Stems  radiately  dis- 
+posed, dividing  into  short  branchlets,  sometimes  ending  in  a 
+bristle.  The  zoogonidia  have  two  or  four  cilia,  and  resting 
+spores  are  generally  developed  from  terminal  cells  and  are 
+brown. 
+
+C.  incrassata   (Huds.)   Haz.,  Fig.  221. 
+C.  pisiformis  (Roth)  Ag.,  Fig.  222. 
+[C.  attenuate  Haz.] 
+
+Draparnaldia  Ag. —  Filaments  articulate,  much  branched. 
+The  stem  is  thick  and  composed  of  sterile  cells,  colorless 
+
+
+48  CONNECTICUT   GEOL.   AND   NAT.    HIST.   SURVEY.  [Bull. 
+
+except  for  the  chloroplast,  which  is  in  the  shape  of  a  trans- 
+verse band.  The  filaments  are  furnished  more  or  less  densely 
+with  alternate  or  opposite,  tufted  branches.  These  are  com- 
+posed of  smaller,  green,  fertile  cells,  the  end  cell  often  a  color- 
+less spine.  From  one  to  four  zoogonidia,  with  four  cilia  apiece, 
+arise  from  each  cell  of  the  lateral  branches.  Usually  all  the 
+cells  of  one  tuft  form  zoogonidia  at  the  same  time,  and  the 
+whole  process  occupies  but  a  few  minutes.  A  gelatinous 
+sheath,  soft  and  slippery,  covers  the  whole.  Found  in  clear 
+streams,  attached  to  stones  or  water-plants. 
+
+D.  phimosa   (Vauch.)   Ag.,  Figs.  83,  84. 
+
+D.  glomerata  (Vauch.)  Ag.,  Fig.  217. 
+
+[D.  acuta  (Ag.)  Kiitz.] 
+
+FAMILY  III.  CYLINDROCAPSACE^E. 
+
+Filamentous  green  Algae,  without  branches  or  roots,  living 
+either  in  water  or  air.  The  filaments  are  covered  with  a  thick, 
+lamellose  sheath,  and  the  cells  are  lamellose  and  are  in  a 
+single  series. 
+
+In  an  ordinary  vegetative  cell  the  contents  mass  together  to 
+form  one  oosphere.  The  antherozoids,  which  change  from 
+green  to  red  or  orange,  are  each  provided  with  two  short 
+cilia.  After  the  oosphere  is  fertilized,  it  also  changes  to  red  or 
+orange,  and  lies  resting  for  some  time  before  it  germinates. 
+
+Cylindrocapsa  Reinsch. —  With  the  characters  of  the 
+family.   They  are  at  first  attached,  then  floating. 
+
+FAMILY  IV.  ULOTRICHACE^E. 
+
+Filaments  simple,  composed  of  cylindrical  or  of  rounded 
+cells.  The  cell  wall  is  always  colorless,  though  of  varying 
+thickness.  Each  cell  contains  a  single  parietal  chloroplast 
+with  irregular  margins  and  one  pyrenoid.  Asexual  reproduc- 
+tion takes  place  in  various  ways.  Both  motile  and  non-motile 
+spores  are  produced;  of  the  former  some  are  large  (macro- 
+zoogonidia)  and  some  small  (microzoogonidia) .  The  plants 
+also  multiply  by  dismemberment  of  the  filament  into  single 
+cells  or  series  of  cells.  Sexual  reproduction  by  isogamous 
+gametes. 
+
+
+No.  10.] 
+
+
+FRESH-WATER  ALCE. 
+
+
+49 
+
+
+Key  to  Genera. 
+Filaments  attached;  chromatophore  a  homogeneous 
+
+zonate  band,  with  one  to  several  pyrenoids.  .  .  Ulothrix* 
+Filaments  not  attached;   chromatophore  a  parietal 
+
+disk  or  plate,  with  one  pyrenoid  Stichococcus* 
+
+Filaments  generally  not  attached;  chromatophore 
+granular,  covering  more  or  less  completely  the 
+whole  cell  wall,  containing  starch  but  no  pyrenoids 
+
+Microspore 
+
+Description  of  Genera. 
+
+Ulothrix  Kiitz.  (Hormiscia,  as  used  by  Rabenhorst, 
+Hansgirg,  and  De  Toni). —  Filaments  simple;  each  cell  except 
+the  basal  cell  capable  of  reproduction.  The  chloroplast  is 
+parietal  with  one  or  many  pyrenoids.  Asexual  reproduction  by 
+zoospores.  Sexual  reproduction  by  conjugation  of  gametes, 
+of  which  eight  or  more  may  be  formed  in  a  cell. 
+
+U.  sonata  (Web.  and  Mohr)  Kiitz.,  Fig.  94. 
+
+U.  tenerrima  Kiitz.,  Fig.  93. 
+
+Figures  86  to  91  are  specimens  of  Ulothrix  of  which  we 
+have  not  determined  the  species. 
+
+[U.  implexa  Kiitz.;  U.  Hacca  (Dillw.)  Thur.] 
+
+Stichococcus  Nag.  (Hormococcus  Chodat). —  Very  like 
+Ulothrix,  but  unlike  it  in  being  almost  wholly  aerial,  and  in 
+the  fact  that  the  filaments  easily  and  commonly  dissociate  into 
+cylindrical  cells  or  small  groups.  The  dissociation  frequently 
+occurs  first  on  the  one  side  and  then  on  the  other,  giving  a 
+zig-zag  appearance.  Each  cell  has  a  parietal  chloroplast, 
+usually  occupying  a  part  of  the  cell  wall  and  containing  a 
+small  pyrenoid.  Propagation  by  cell  division,  breaking  up  of 
+the  filaments,  by  non-motile  spores,  and  by  biciliated  zoogonidia. 
+
+S.  Haccidus  (Kiitz.)  Gay,  found  but  not  figured. 
+
+[S.  rivularis  (Kiitz.)  Haz.] 
+
+Microspora  Thur. —  Filaments  composed  of  cylindrical 
+or  slightly  swollen  cells.  The  firm,  sometimes  lamellose  cell 
+walls  occasionally  break  up  into  H-shaped  pieces,  each  piece 
+composed  of  a  transverse  wall  and  portions  of  the  lateral  walls 
+of  the  two  adjoining  cells.  The  cells  are  uninucleate,  and  a 
+more  or  less  reticulated  chloroplast  occupies  the  cell  wall. 
+4 
+
+
+50  CONNECTICUT  GEOL.  AND  NAT.  HIST.  SURVEY.  [Bull. 
+
+
+Resting  spores  with  thick  walls  are  produced,  usually  one 
+in  each  cell,  and  also  two-  to  four-ciliate  zoogonidia. 
+
+M.  Wittrockii  (Wille)  Lag.,  Fig.  216. 
+
+M.  Stagnorum  (Kutz.)  Lag.,  Fig.  92. 
+
+[M.  abbrevia\a  (Rab.)  Lag.;  M.  amoena  (Kutz.)  Rab.; 
+M.  crassior    (Hansg.)  Haz.] 
+
+FAMILY  V.  HERPOSTEIRACE^E. 
+
+The  thallus  is  a  creeping  filament,  sometimes  branched, 
+and  growing  on  larger  Algae  or  other  water  plants ;  most  of  the 
+cells  have  a  bristle  on  the  back,  which  is  bulbous  at  the  base  and 
+separated  from  the  cell  by  a  septum. 
+
+In  the  sexual  reproduction,  cells  in  the  centre  of  the  thallus, 
+devoid  of  bristles,  form  the  oogonia.  One  oosphere  is  formed 
+in  each  oogonium,  and  is  ejected  through  an  opening  in  the 
+wall.  The  oosphere  is  large  and  slowly  motile,  provided  with 
+four  cilia.  Smaller  cells  on  the  end  of  the  thallus,  frequently 
+colorless,  form  the  antheridia.  One  or  two  swiftly  moving 
+antherozoids,  pear-shaped,  each  with  four  cilia  and  two  pul- 
+Bating  vacuoles,  are  produced  in  each  antheridium,  and  they 
+unite,  outside  the  oogonium,  with  the  oosphere. 
+
+Herposteiron  Nag.  (Aphanochaete  A.  Br.,  Berth., 
+fiuber).  -Coextensive  with  the  family. 
+
+H.  Confcrvicola    Nag.,  Fig.  806. 
+
+|//.  vermiculoidcs  Wolle.] 
+
+FAMILY  VI.  CH,ETOSPH.£RIDIACE.«. 
+
+Thallus  creeping,  composed  of  flask-shaped  cells  more  or 
+less  loosely  joined,  and  each  bearing  a  very  long  and  slender 
+seta,  sheathed  at  the  base.  Cell  division  horizontal,  the  lower 
+daughter  cell  migrating  to  the  side. 
+
+Asexual  reproduction  by  zoospores,  formed  to  the  number 
+of  four  or  more  (?)  in  a  cell. 
+
+Cha?tosphatridium  Klebahn. —  Coextensive  with  the 
+family. 
+
+FAMILY  VII.  COLBOCHJETACE.5L 
+
+Small,  bright  green  water-plants.  The  thallus  forms  small 
+green  cushions  or  discs.   The  cells  in  the  common  species  often 
+
+
+No.  10.] 
+
+
+FRESH -WATER  ALGJE. 
+
+
+51 
+
+
+form  a  flat,  more  or  less  circular  plane,  or  are  arranged  as  fila- 
+ments radiating  from  one  point.  The  cells  are  oblong,  more 
+or  less  dilated  at  the  anterior  end,  and  some  of  them  bear  a 
+colorless  bristle  fixed  in  a  long  and  narrow  sheath. 
+
+The  oogonium  is  round,  on  a  slender  neck  —  the  continua- 
+tion of  the  end  cell  of  the  plant*  Antheridia  found  either  on  a 
+neighboring  cell  or  on  a  separate  thallus.  The  oospore  rests 
+for  the  winter,  and  develops  in  the  following  spring.  Asexual 
+reproduction  by  zoogonidia,  which  are  larger  than  the  anthero- 
+zoids  and  may  be  developed  in  any  cell. 
+
+Coleochaete   Breb. —  Coextensive  with  the  family. 
+
+C.  irregularis   Pringsh.  (?),  Fig.  80a. 
+
+C.  scutata   Breb.,  Fig.  243. 
+
+ORDER  V.  CEDOGONIALES. 
+
+Thallus  of  simple  or  branched  filaments,  fixed.  The  cells 
+are  uninucleate,  and  with  a  parietal,  more  or  less  anastomosing 
+chloroplast  containing  one  or  more  pyrenoids.  In  the  vegeta- 
+tive division  new  pieces  of  the  cell  wall  are  intercalated. 
+The  zoogonidia  are  possessed  of  a  circle  of  numerous  cilia 
+around  the  anterior  end.   Antheridia  and  oogonia  are  present. 
+
+FAMILY  I.  CEDOGONIACELA2. 
+
+Filaments  branched  or  unbranched,  attached  in  early  stages. 
+Cell  multiplication  by  transverse  division,  shown  by  transverse 
+stria\  usually  at  the  end  of  the  mother-cell. 
+
+The  oogonia  are  developed  in  a  series  of  vegetative  cells, 
+and  are  at  first  green,  then  orange,  and  finally  dark  red  or 
+almost  black.  There  are  two  kinds  of  male  plants,  dwarf  and 
+elongated ;  the  dwarf  males  are  attached  to  female  plants,  and 
+the  elongated  males  are  composed  of  a  short  series  of  cells 
+forming  an  independent  thread. 
+
+Asexual  reproduction  by  zoogonidia.  The  entire  contents 
+of  a  cell  gather  in  one  mass,  the  cell  wall  splits  near  one  end, 
+and  the  mass,  with  a  small  colorless  protuberance  on  one  end 
+surrounded  by  numerous  cilia,  escapes  and  swims  awav  to 
+form  a  new  plant. 
+
+Key  to  Genera. 
+Cells  long,  without  a  laterally  placed  bristle. (Edogonium% 
+Cells  short,  with  a  laterally  placed  bristle.  .  .  .Bulbochtrte* 
+
+
+52  CONNECTICUT  GEOL.  AND  NAT.  HIST.  SURVEY.  [Bull. 
+
+
+Description  of  Genera. 
+
+CEdogonium  Lk. —  Filaments  simple,  articulate ;  the  end 
+cell  sometimes  setiform,  sometimes  with  an  acute  conical  cap; 
+cells  enlarged  at  the  upper  extremities.  The  oogonia  and 
+antheridia  are  either  on  the  same  or  on  different  filaments. 
+Dwarf  males,  shaped  like  inverted  flasks,  are  parasitically  sit- 
+uated near  the  oogonium.  The  elongated  males  are  inde- 
+pendent and  shorter  than  the  female  plant.  When  a  cell  has 
+reached  maturity,  it  splits  below  the  top  by  a  circular  line,  the 
+top  is  raised  by  growth,  and  a  new  cell  formed.  This  may 
+split  again,  and  a  new  growth  push  the  top  up  and  leave  an- 
+other ring ;  this  may  be  repeated  five  or  six  more  times,  leaving 
+a  new  ring  each  time. 
+
+O.  sp.  (?),  Fig.  96. 
+
+O.  cardiacum  (Hass.)  Wittr.  (?),  Fig.  228.  Male  and 
+female  specimens. 
+
+[0.  crenulato-costatum  Wittr.] 
+
+Bulbochaete  Ag. —  Filaments  much  branched ;  almost  all 
+the  cells  thickened  upwards,  and  bearing  on  that  end  long, 
+thin,  transparent  bristles,  bulbose  at  the  base.  Reproduction 
+as  in  CEdogonium.  The  plants  are  more  often  mixed  than  in 
+CEdogonium,  and  are  enveloped  in  a  quantity  of  mucus. 
+'  B.  sp.  (?),  Figs.  97,  98. 
+
+[B.  intermedia  DeBary.] 
+
+ORDER  VI.  CLADOPHORALES. 
+
+Three  families,  very  like  the  Siphonales,  comprise  this 
+order.  The  thallus  is  simple  or  branched,  incompletely  divided 
+into  cells.  Each  portion  contains  many  nuclei  and  parietal 
+chloroplasts,  with  single  pyrenoids.  Asexual  reproduction  by 
+resting  spores,  cysts,  or  zoogonidia  with  two  or  four  cilia. 
+Sexual  reproduction  by  heterogamous  or  isogamous  gametes. 
+
+The  order  is  divided  into  families,  as  follows :  — 
+
+Key  to  Families. 
+1.    Filaments  unbranched,  compound  or  elongated  cceno- 
+
+cytes   sph^eropleace^: 
+
+Filaments  branched   2 
+
+
+No.  10.] 
+
+
+FRESH-WATER  ALG.E. 
+
+
+53 
+
+
+2.    Producing  barrel-shaped  and  fusiform  resting  spores 
+
+PITHOPHORACEvE 
+
+Without  the  barrel-shaped  resting  spores  
+
+CLADOPHORACE^E 
+
+FAMILY  I.  SPH^ROPLEACE^E. 
+
+The  thallus  is  unbranched,  composed  of  cells  from  one  to 
+ninety  times  as  long  as  wide,  each  with  several  nuclei,  and 
+parietal  chloroplasts  in  the  form  of  rings.  Any  segment  of  the 
+filament  may  form  an  oogonium  or  a  bright  red  antheridium. 
+These  sometimes  alternate  in  a  filament.  Many  antherozoids 
+are  formed  on  the  breaking  up  of  the  antheridium,  and  they 
+penetrate  the  oogonium  through  the  transverse  walls.  Bright 
+red  oospores  with  thick  walls  are  produced,  which  hibernate  in 
+the  oogonium,  and  on  germination  from  two  to  eight  zoospores 
+are  set  free,  which  produce  young  plants,  simple,  fusiform,  at- 
+tenuated to  a  fine  point  on  each  end. 
+
+Sphaeroplea  Ag. —  Coextensive  with  the  family.  Its  fila- 
+ments are  36-62  microns  in  diameter. 
+
+FAMILY  II.  PITHOPHORACEjE. 
+
+Thallus  much  branched,  segments  six  to  twelve  or  more 
+times  longer  than  broad.  Usually  many  nuclei  in  a  segment, 
+chloroplast  parietal ;  growth  apical ;  attached  below  by  a 
+rhizoid.  Asexual,  green  resting  spores  with  thick  walls  are 
+produced  here  and  there;  when  intercalated,  cask-shaped; 
+when  terminal,  ovoid  or  fusiform.  They  develop  on  germina- 
+tion at  both  ends. 
+
+Pithophora  Wittr. —  Coextensive  with  the  family.  It  is 
+almost  exclusively  tropical. 
+
+FAMILY  III.  CLADOPHORACE.E. 
+
+Thallus  large,  filamentous,  incompletely  septate,  branched 
+in  Cladophora.  Each  segment  contains  several  nuclei  and  one 
+reticulated  parietal  chloroplast  or  several  smaller  ones,  each 
+with  a  pyrenoid.  In  Cladophora  and  Chcetomorpha  asexual  re- 
+production is  by  zoogonidia,  formed  in  great  numbers  in  the 
+mother-cell.  Rhizoclonium  produces  thick-walled  cysts.  Clado- 
+phora has  also  an  isogamous  sexual  reproduction. 
+
+
+54  CONNECTICUT  GEOL.  AND  NAT.  HIST.  SURVEY.  [Bull. 
+
+
+The  Cladophoracece  secrete  very  little  or  no  mucus,  and 
+are,  therefore,  a  resting  place  for  epiphytes. 
+
+Key  to  Genera. 
+
+1.  Filaments  unb ranched;   cells  often  slightly  swollen 
+
+Chcetomorpha 
+
+Filaments  commonly  branched;  cells  not  swollen. . .  2 
+
+2.  With  branched  rhizoids  Rhizoclonium* 
+
+Without  rhizoids   Cladophora* 
+
+Description  of  Genera. 
+
+Chaetomorpha  Kutz. —  Wide,  simple  filaments  of  thick- 
+walled,  swollen  segments ;  fixed  at  the  base,  the  basal  segments 
+being  shorter  than  the  rest.  The  cell  wall  is  firm  and  lamellose. 
+Mostly  marine  or  in  brackish  water. 
+
+Rhizoclonium  Kutz. —  Filaments  slightly  branched,  with 
+branched  rhizoids  at  the  base;  articulate,  somewhat  contorted, 
+having  here  and  there  short  branches  composed  of  from  one 
+to  three  cells. 
+
+[R.  lacustre  forma  Americanum  Wille ;  R.  hieroglyphicum 
+var.  macromeres  Nordst] 
+
+Cladophora  Kutz. —  Filaments  much  branched,  the  last 
+branches  much  thinner  than  the  main  stem ;  cell  walls  thick, 
+cells  longer  than  broad.  Propagation  by  zoogonidia,  which 
+develop  in  large  numbers  within  the  cells. 
+
+C.  glomerata  (L.)    Kutz.,  Fig.  274. 
+
+[C.  callicoma  Kutz.] 
+
+ORDER  VII.  SIPHONALES. 
+
+Plant  composed  of  an  elongated  ccenocytic  filament  {cceno- 
+cyte),  which  is  much  branched.  The  order  inhabits  salt  water 
+almost  exclusively.  The  only  family  living  in  fresh  water  is 
+the  Vaucheriacece. 
+
+FAMILY  I.  VAUCHERIACECE. 
+
+Thallus  elongated,  somewhat  branched,  ccenocytic,  usually 
+attached.  The  protoplasm  contains  many  minute  nuclei.  The 
+oval  chloroplasts  are  small  and  numerous.  The  cell  wall  is 
+thin  and  easily  broken ;  after  which  the  injured  part  is  cut  off 
+by  a  septum,  and  the  uninjured  parts  develop  into  new  plants. 
+
+
+No.  10.] 
+
+
+FRESH-WATER  ALG.E. 
+
+
+55 
+
+
+Vaucheria  D.  C. —  Many  filaments  growing  from  one 
+root,  green,  rather  stout.  A  single  filament  usually  more  or 
+less  branched,  with  chlorophyll  quite  evenly  distributed  on  the 
+inside  of  the  cell  wall,  forms  one  plant.  Sexual  reproduction 
+by  oospheres  and  spermatozoids ;  asexual  reproduction  by 
+zoospores.  One  zoospore,  provided  with  many  cilia,  is  formed 
+in  a  swelling  at  the  tip  of  the  thallus,  cut  off  from  the  rest  of 
+the  cell  by  a  wall.  The  oogonia  and  antheridia,  either  sessile 
+or  on  short  pedicles,  grow  in  various  numbers  on  the  same 
+tube  and  usually  close  together. 
+
+V .  sessilis  (Vauch.)  D.  C,  Figs.  200,  201.  Sexual  organs 
+of  this  species  are  shown  in  Fig.  206. 
+
+[V.  aversa    Hass. ;    V.  geminata    (Vauch.)  D.  C] 
+
+ORDER  VIII.  CONJUGATE* 
+
+The  Conjugates  are  green  or  brownish  Algae,  sometimes 
+single-celled,  but  usually  composed  of  many  cells  closely  joined. 
+They  are  named  from  the  peculiar  mode  of  propagation.  Two 
+cells  unite  their  entire  contents  to  form  a  zygospore;  rarely 
+two  zygospores  result  from  such  a  union.  Resting  spores  or 
+cysts  are  produced  in  the  Zygnemacea  without  copulation. 
+Non-motile  spores  are  sometimes  formed.  All  the  Conjugates 
+are  very  slimy  to  the  touch. 
+
+Key  to  Families. 
+
+Unicellular;  cells  commonly  constructed  of  two 
+symmetrical  halves ;  of  very  many  forms,  though 
+rarely  cylindrical ;  single,  or,  very  rarely,  bound 
+together  in  a  loose  thread ;  two  to  eight  germs  de- 
+velop from  a  single  zygospore  desmidiace^e 
+
+Thallus  a  thread  of  many  similar  cells ;  each  zygo- 
+spore produces  only  one  germ  plant  zygnemace^ 
+
+*  Our  work  upon  the  remaining  orders  of  Chlorophyceae  is  as  yet  quite  in- 
+complete. These  Algae  are  abundant  in  our  waters.  In  the  filamentous  forms  it 
+is  difficult  or  impossible  to  identify  the  species  from  the  vegetative  stages;  and, 
+since  in  ordinary  waters  it  is  usual  to  find  these  stages  only,  specific  determination 
+is  frequently  impossible.  The  family  of  Desmidiaceee  is  very  abundant;  and, 
+while  our  list  contains  a  large  number  of  them,  doubtless  a  longer  study  will  show 
+many  more  species.    The  common  species  are,  however,  fairly  well  represented. 
+
+
+56  CONNECTICUT  GEOL.  AND  NAT.  HIST.  SURVEY.  [Bull. 
+
+
+FAMILY  I.  DESMIDIACE^E. 
+
+Cells  of  various  forms,  but  symmetrical,  single,  or,  in  a  few 
+genera,  loosely  united  into  threads.  Often  a  constriction  in 
+the  middle  of  the  cell  divides  it  into  halves,  called  semi-cells; 
+the  cell  contents  nearly  always  divided.  The  cell  wall  is  often 
+provided  with  granules,  spines,  or  other  protuberances,  which 
+are  usually  arranged  in  a  definite  pattern.  These  projections 
+serve  as  a  protection  from  aquatic  animals,  and  as  an 
+anchor  in  times  of  flood.  Conjugation  of  two  cells  results  in 
+zygospores.  Asexual  multiplication  by  transverse  division  or 
+separation  of  semi-cells.  The  Destnidiacece  are  surrounded  by 
+a  mucus  exuded  through  pores  in  the  cell  wall,  and  often  may 
+be  found  embedded  in  a  mass  of  jelly. 
+
+They  are  not  free-swimming,  but  are  able  under  certain 
+conditions  of  light  and  gravitation  to  glide  along  a  hard  sur- 
+face. 
+
+Desmids  are  extremely  abundant  the  world  over;  there  are 
+several  thousand  known  species,  living  in  all  degrees  of  tem- 
+perature, and  found  most  abundantly  in  soft  water. 
+
+The  following  key,  modified  from  West,  includes  all  the 
+known  genera  of  Desmids,  four  of  which  (Ichthyocercus, 
+Triploceras,  Phymatodocis,  and  Streptonema)  are  exclusively 
+tropical,  and  one  (Ancylonema)  is  exclusively  arctic.  We 
+have  identified  certainly  as  yet  only  a  part  of  the  Connecticut 
+species,  but  have  indicated  by  an  asterisk  the  genera,  and  have 
+figured  the  species  thus  far  observed. 
+
+Key  to  Sub-families. 
+
+Cell  wall  not  evidently  divided  into  two  parts,  and 
+without  pores  saccoderm^e 
+
+Cell  wall  showing  two  segments,  and  with  a  differ- 
+entiated outer  porous  layer  placoderm^e 
+
+SUB-FAMILY  I.  SACCODERM.E. 
+
+Cell  wall  unsegmented  and  without  pores.  Point  of  division 
+of  cells  indefinite,  and  unknown  previous  to  the  actual  division. 
+The  young  half  of  the  cell  is  developed  obliquely,  and  its  walls 
+are  absolutely  continuous  with  the  walls  of  the  older  half. 
+
+
+No.  10.] 
+
+
+FRESH- WATER  ALGvE. 
+
+
+57 
+
+
+Key  to  Tribes  and  Genera. 
+
+Tribe  I.  gonatozyge^e.  Cells  elongate,  cylindrical,  and 
+unconstricted,  forming  loose  filaments.  Cell  wall  with  a  differ- 
+entiated outer  layer,  of  which  the  small  roughnesses  and  spines 
+form  a  part. 
+
+Chloroplasts  axile  Gonatozygon 
+
+Chloroplasts  parietal  and  spirally  twisted ....  Genicularia 
+Tribe  II.    spirot\eniEuE:.    Cells  solitary,  relatively  short, 
+and  mostly  unconstricted.   Cell  wall  a  simple  sac,  without  a  dif- 
+ferentiated outer  layer.    The  cell  becomes  adult  by  periodical 
+
+
+growth. 
+
+1.  One  chloroplast  in  each  cell   2 
+
+Two  chloroplasts  in  each  cell   4 
+
+2.  Chloroplast  spirally  twisted,  axile  or  parietal.  .Spirotcenia 
+Chloroplast  plane,  axile   3 
+
+3.  Cells  solitary  Mesot&niam* 
+
+Cells  forming  short  filaments.  Ancylonema 
+
+4.  Chloroplasts  star-shaped,  radiating  from  a  central 
+
+pyrenoid   Cylindrocystis 
+
+
+Chloroplasts  ridged  with  longitudinal  serrated  ridges 
+
+,  Netrium* 
+
+Description  of  Genera. 
+
+Gonatozygon  D.  By. —  Cells  long  and  straight,  not  con- 
+stricted, forming  filaments  which  break  up  at  maturity.  The 
+cell  wall  is  smooth  or  covered  with  minute  granules.  The 
+two  chloroplasts  are  axile,  thin  and  waving  or  twisted;  they 
+contain  four  to  sixteen  equidistant  pyrenoids.  The  zygospores, 
+which  quickly  separate  from  the  empty  cells,  are  smooth. 
+
+Spirotaenia  B'reb. —  Cells  straight,  fusiform,  ends  rounded, 
+not  constricted  in  the  middle;  cells  single  or  several,  covered 
+by  a  gelatinous  envelope.  Chloroplasts  spiral  bands  on  the 
+inside  of  the  cell  wall. 
+
+Mesotaenium  Nag. —  Cylindrical  cells,  straight  or  slightly 
+curved,  without  median  constriction.  The  ends  are  broadly 
+rounded.  The  chloroplast  is  a  flat  plate,  extending  from  one 
+end  of  the  cell  to  the  other ;  occasionally  there  are  twot  chloro- 
+plasts. 
+
+M.  micrococcum    (Kutz.)  Roy  and  Biss.,  Fig.  219. 
+
+
+58  CONNECTICUT  GEOL.  AND  NAT.  HIST.  SURVEY.  [Bull. 
+
+Netrium  Nag. —  Cylindrical,  straight,  or  fusiform  cells, 
+without  constriction.  Chloroplasts  two  (or  four)  in  each  cell, 
+each  with  longitudinal  serrate  ridges. 
+
+N.  interruptum    (Breb.)  Lutkem,  Fig.  281. 
+
+N.  Digitus    (Ehrb.)  Itz.  and  Roth.,  Fig.  282. 
+
+SUB-FAMILY  II.  PLACODERMvE. 
+
+Cell  wall  mostly  constricted,  with  a  differentiated  outer 
+layer.  Cell  division  follows  a  fixed  type,  with  interpolation  of 
+the  younger  halves  between  the  old  ones.  The  younger  por- 
+tions of  the  cell  wall  are  joined  to  the  older  portions  by  an 
+oblique  surface. 
+
+Key  to  Genera. 
+
+1.  After  division  the  cells  remain  free  and  solitary. ...  2 
+After  division  the  cells  remain  attached  to  form 
+
+colonies    14 
+
+2.  Cells  more  or  less  constricted  at  the  middle   5 
+
+Cells  not  constricted   3 
+
+3.  Cells  of  moderate  length,  straight,  cylindrical. .  .Penium* 
+Cells  elongate,  generally  curved  and  attenuated   4 
+
+4.  Cells  almost  cylindrical,  scarcely  attenuated;  chloro- 
+
+plast  single,  without  apical  moving  granules ....  Roya* 
+Cells  strongly  attenuated  towards  each  extremity; 
+two  chloroplasts  in  each  cell,  with  apical  moving 
+granules   Closterium* 
+
+5.  Cells  elongated  and  cylindrical,  constriction  slight.  .  6 
+Cells  relatively  short;  deeply  constricted   10 
+
+6.  Apices  of  cells  truncate  or  rounded,  entire   7 
+
+Apices  of  cells  cleft,  incision  open  or  narrow   8 
+
+7.  Base  of  semi-cells  plicate  Docidium* 
+
+Base  of  semi-cells  plane  Plewotcenium* 
+
+8.  Cell  wall  adorned  with  rings  of  furcate  processes. . 
+
+Triploceras 
+
+Cell  wall  plane   9 
+
+9.  Apical   incision   widely   open,   each   apical  angle 
+
+furnished  with  a  spine  Ichthyocercus 
+
+Apical  incision  narrow  Xetmemorus 
+
+10.    Cells  compressed  (at  right  angles  to  the  plane  of  the 
+
+
+No.   IO.]  FRESH- WATER  ALGjE.  59 
+
+front  view),  in  the  vertical  view  fusiform  or  el- 
+liptical   ii 
+
+Cells  in  vertical  view  radiating,  triangular,  quadran- 
+gular, or  radiate;  rarely  fusiform  Staurastrum* 
+
+It.    Cells  mostly  oblong  or  elliptical;  moderately  lobed; 
+
+margins  wavy,  the  depressions  rounded ....  Euastrum* 
+
+Cells  very  much  compressed,  mostly  orbicular  or 
+broadly  elliptical,  deeply  lobed  or  incised .  Mkrasterias* 
+
+Cells  with  a  more  or  less  entire  margin,  often 
+furnished  with  warts  or  spines   12 
+
+12.  Cell  wall  with  regularly  arranged  spines  of  consider- 
+
+able length   13 
+
+Cells  without  spines  Cosmarium* 
+
+13.  Spines  several,  commonly  in  pairs;  a  central  pro- 
+
+tuberance always  present  Xanthidiutn* 
+
+Spines  4  or  8,  occasionally  16,  no  central  protuberance 
+
+Arthrodesrnus* 
+
+14.  Colonies  spheroidal;  cells  not  in  contact,  but  joined 
+
+by  gelatinous  bands   15 
+
+Colonies  thread-like ;  cells  attached  by  their  apices  to 
+form  long  filaments   16 
+
+15.  Gelatinous  bands  narrow ;  few  cells  forming  a  micro- 
+
+scopic colony  Cosmocladium 
+
+Gelatinous  bands  very  broad,  many  cells  forming  a 
+macroscopic  colony  0  ocardiwm 
+
+16.  The  line  of  division  of  the  cell,  where  the  new  and 
+
+old  parts  of  the  cell  wall  are  obliquely  fitted  to- 
+gether, develops  a  girdle  during  division   21 
+
+The  line  of  division  does  not  develop  a  girdle  during 
+division   17 
+
+17.  Cells  attached  by  special  apical  processes   18 
+
+Apices  of  cells  plane  and  flat   19 
+
+18.  Apical  processes  very  short  Spharozosnta* 
+
+Apical  processes  long  and  overlapping  the  apices  of 
+
+the  adjoining  cells   Onychonema* 
+
+19.  Cells  deeply  constricted   20 
+
+Cells  slightly  constricted  Hyalotheca* 
+
+20.  Cells  in  vertical  view  elliptical  Spondylosium* 
+
+Cells  in  vertical  view  quadrangular  with  produced 
+
+angles   Phymatodocis 
+
+
+6b  CONNECTICUT  GEOL.  AND  NAT.  HIST.  SURVEY.  [Bull. 
+
+
+21.  Cells  joined  by  special  apical  processes  Streptonema 
+
+Cells  joined  by  their  flat  apices  or  by  flattened  apical 
+
+projections    22 
+
+22.  Cells  short,  in  vertical  view  fusiform,  triangular,  or 
+
+quadrangular    (rarely    circular    with  produced 
+
+angles)   Desmidium* 
+
+Cells  elongate,  cylindrical  .  .Gymnozyga 
+
+Description  of  Genera. 
+
+Penium  Breb. —  Cells  straight,  cylindrical  or  fusiform, 
+without  median  constriction,  ends  rounded ;  free  or  collected 
+in  a  gelatinous  membrane.  Cell  wall  smooth,  or  minutely 
+granular,  colorless  or  sometimes  red,  often  finely  striate. 
+Chloroplast  axile ;  when  seen  in  cross  section  star-shaped,  with 
+arms  often  forking.  Multiplication  by  division,  and  by  zygo- 
+spores formed  by  conjugation. 
+
+P.  closterioides    Ralfs,  Fig.  172. 
+
+P.  polymorphum    Perty,  Fig.  173. 
+
+P.  margaritaceum    (Ehrb.)  Breb.,  Fig.  175. 
+
+P.  Navicula    Breb.,  Fig.  218. 
+
+Roya   West. —  Cells  curved  but  not  attenuated.    Cell  wall 
+without  pores,  chloroplast  single,  without  dancing  granules. 
+R.  obtusa   (Breb.)  West,  Fig.  145. 
+
+Closterium  Nitzsch. —  Cells  simple,  elongated,  crescent- 
+shaped  or  lunately  curved,  entire.  The  centres  are  not  con- 
+stricted, but  often  bear  a  few  transverse  striae.  The  cell  walls 
+are  smooth  or  finely  striate,  colorless  or  brown ;  at  each  end  of 
+the  cell  is  a  vesicle,  colorless  or  straw-colored,  containing 
+numerous  granules.  The  chloroplasts  are  arranged  in  longi- 
+tudinal rows  broken  in  the  middle  by  a  transverse,  colorless 
+band. 
+
+C.  acuminatum   Kiitz.,  Fig.  147. 
+
+C.  lanceolaium  Kiitz.,  Fig.  148. 
+
+C.  Cucumis  Ehrb.  (  ?) ,  Fig.  149. 
+
+C.  acerosum    (Schrank)  Ehrb.  (?),  Figs.  150,  151. 
+
+C.  Lunula  Ehrb.,  Fig.  152. 
+
+C.  turgidum    Ehrb.,  Fig.  153. 
+
+C.  strigosum   Ehrb.,  Fig.  154. 
+
+C.  costatum   Corda,  Fig.  155. 
+
+C.  Delpontei  Klebs,  Fig.  156. 
+
+
+No.  10.] 
+
+
+FRESH-WATER  ALG^E. 
+
+
+6l 
+
+
+C.  prelongum    (Breb.)  Delp.,  Fig.  157. 
+
+C.  lineatum    Ehrb.,  Figs.  157a,  158. 
+
+C.  decorum   Breb.,  Fig.  159. 
+
+C.  areolatum   Wood,  Fig.  161. 
+
+C.  Diance   Ehrb.,  Fig.  162. 
+
+C.  Jenneri    Ralfs,  Fig.  160. 
+
+C.  parvulum    Nag.,  Figs.  163,  164. 
+
+C.  moniliferum    (Bory)  Ehrb.,  Fig.  165. 
+
+C.  Leibleinii   Kutz.,  Fig.  166. 
+
+C.  Leibleinii  var.  cnrtiim   West,  Fig.  167. 
+
+C.  ro stratum   Ehrb.,  Fig.  168. 
+
+C.  rostratum  var.  breviro stratum    West,  Fig.  169. 
+C.  subcostatum    Nord.,  Fig.  170. 
+
+C.  Brebissonii    Delp.,  Fig.  171. 
+
+Docidium  Breb. —  Cells  straight,  cylindrical  or  fusiform; 
+ends  rounded,  truncate  or  smooth,  constricted  in  the  middle ; 
+each  semi-cell  furnished  with  a  basal  inflation.  The  base  is 
+plicate  with  a  granule  under  each  plication.  Chlorophyll  axile 
+and  an  axile  row  of  pyrenoids.  The  ends  have  a  vacuole  con- 
+taining dancing  granules. 
+
+D.  Baculum    (Breb.),  Figs.  103,  223. 
+
+D.  verticillatum    (Bailey)  Ralfs,  found  but  not  figured. 
+
+Pleurotaenium  Nag. —  In  shape  much  like  Docidium, 
+without  plications  at  the  base  of  the  semi-cells.  The  ends  are 
+truncate  and  usually  furnished  with  a  ring  of  tooth-like  pro- 
+jections. The  parietal  chloroplasts  are  longitudinal  and  are 
+provided  with  several  pyrenoids.  The  centre  of  the  cells  usually 
+contains  large  vacuoles,  and  in  the  apical  ones  moving  granules 
+are  often  seen. 
+
+P.  crenulatum    (Ehrb.)  Rab.,  Fig.  224. 
+
+P.  Archerii  Delp.,  Fig.  225. 
+
+P.  Trabecula   (Ehrb.)  Nag.,  Fig.  226. 
+
+P.  nodosum    (Bail.)  Lund.,  Fig.  283. 
+
+P.  sp.  (?),  Fig.  101. 
+
+Tetmemorus  Ralfs. —  Cells  like  Penium,  except  that  the 
+ends  are  slightly  cut  and  the  middle  is  constricted.  One 
+central  chloroplast  with  a  single  row  of  pyrenoids  is  present. 
+Cell  wall  mostly  punctate  or  granulose. 
+
+
+62  CONNECTICUT  GEOL.  AND  NAT.  HIST.  SURVEY.  [Bull. 
+
+Staurastrum  Meyen. —  The  second  largest  genus  of 
+Desmids.  Cells  in  front  view  oblong,  cylindrical,  elliptical,  or 
+orbicular,  with  margins  notched  or  smooth,  always  constricted 
+in  the  middle,  ends  rounded,  entire.  End  view  with  three  to 
+six  obtuse,  acute,  or  horn-like  angles.  Chlorophyll  more  or  less 
+central,  zygospores  commonly  furnished  with  spines  (see 
+Fig.  261). 
+
+orbicular e    (Ehrb.)  Ralfs,  Figs.  123,  124. 
+
+dejectum    (Breb.)  var.  convergens   Wolle,  Fig.  122. 
+
+S.  dejectum  var.  mucronatum    Ralfs,  Fig.  125. 
+
+S.  megacanthum   Lund.,  Figs.  126,  127. 
+
+>S\  hirsutum    (Ehrb.)  Breb.,  Figs.  133,  263,  263a. 
+
+S.  brevispinum   Breb.,  Fig.  128. 
+
+S,  leptocladum    Nord.,  Figs.  264,  264a. 
+
+5.  erasum   Breb.,  Figs.  130,  131. 
+
+S.  arctiscon   Ehrb.,  Figs.  268,  268a. 
+
+5*.  odonatum  Wolle,  Fig.  132. 
+
+S.  coronulatum  Wolle,  Figs.  267,  267a. 
+
+5\  Ravenelii  Wood,  Figs.  134,  135. 
+
+S.  dejectum  Breb.,  Figs.  233,  236. 
+
+S.  furcigerum   Breb.,  Fig.  136. 
+
+5.  crenulatum    (Delp.)  Nag.,  Fig.  231. 
+
+5.  margaritaceum   Ehrb.,  Fig.  235. 
+
+5\  iotanum    Wolle,  Fig.  143. 
+
+S.  eustephanum    Ralfs,  Fig.  144. 
+
+S.  pygmcEum   Breb.,  Fig.  261.  Conjugating. 
+
+S.-muricatum   Breb.,  Fig.  129. 
+
+Four  species,  names  unknown,  Figs.  137-142. 
+
+S.  gracile    Ralfs,  found  but  not  figured. 
+
+Euastrum  Ehrb. —  Cells  elliptical  or  oblong,  deeply  con- 
+stricted ;  semi-cells  usually  cut  at  the  ends  and  wavy  or  lobed 
+at  the  sides,  the  number  of  lobes  being  uneven;  usually 
+furnished  with  circular  inflated  protuberances. 
+
+E.  integrum  Wolle,  Fig.  105. 
+
+E.  verrucosum    (Ehrb.)  Ralfs,  Fig.  104. 
+
+E.  oblongatum    (Grev.)  Ralfs,  Fig.  229. 
+
+E.  ampullaceum   Ralfs,  Fig.  230. 
+
+E.  elegans   Kiitz.,  Fig.  232. 
+
+E.  Nordstedtianum   Wolle,  Fig.  234. 
+
+
+No.  10.] 
+
+
+FRESH- WATER  ALGJE. 
+
+
+63 
+
+
+E.  sp.  (?),  Fig.  227. 
+
+E.  ansatum    (Ehrb.)  Ralfs,  found  but  not  figured. 
+
+Micrasterias  Ag.  (Holocystis  Hass. ;  Tetrachastrum 
+Dixon) . —  Cells  simple,  flattened,  in  the  form  of  a  double-con- 
+vex lens,  deeply  constricted  in  the  middle.  Front  view- 
+orbicular  or  broadly  elliptical;  end  view  spindle-shaped,  with 
+acute  ends.  Each  semi-cell  three-  to  five-lobed ;  lateral  lobes 
+entire,  or  irregularly  cut  into  large,  deep  lobes;  the  end  lobes 
+entire,  or  more  slightly  cut,  sometimes  with  angles  pro- 
+nounced, and  two-cleft.  Zygospores  seldom  found,  large, 
+globular,  with  stout  spines  which  are  at  first  simple  and  later 
+branched. 
+
+M.  radiosa    (Ag.)  Ralfs  var.  punctata    West,  Fig.  106. 
+
+M.  apiculata  Menegh.,  Fig.  108. 
+
+M.  rotata    (Grev.)  Ralfs,  Fig.  238. 
+
+M.  furcata    (Ag.)  Ralfs,  Fig.  239. 
+
+M.  Americana   (Ehrb.)  Kutz.,  Fig.  240. 
+
+M.  muricata   Bailey,  Fig.  241. 
+
+M.  truncata    (Corda)  Ralfs,  Fig.  242. 
+
+M.  Crux-Melitensis    (Ehrb.)  Hass.,  Fig.  107. 
+
+Arthrodesmus  Ehrb. —  Cells  simple,  deeply  constricted  in 
+the  middle;  each  half-cell  is  wider  than  long,  and  furnished 
+with  several  spines.  This  genus  is  distinct  from  Xanthidium 
+by  the  absence  of  the  protruding  area  in  the  centre  of  the  semi- 
+cells.  There  are  usually  fewer  spines,  and  the  zygospores  are 
+either  smooth  or  spinous. 
+
+A.  octocornis  Ehrb.,  Fig.  260. 
+
+A.  convergens    (Ehrb.)  Ralfs,  Fig.  259. 
+
+Cosmarium  Corda  ( Dysphinctium  Nag.;  Calocylin- 
+drus  (Nag.)  Kirch.;  Cosmaridium  Gay;  Pleurotaeniopsis 
+(Lund.)  Lagerh.). —  The  largest  genus  of  Desmids.  The 
+single  cells  circular,  elliptical,  or  oblong,  usually  one  and  one- 
+half  diameters  in  length,  always  more  or  less  constricted  in 
+the  middle.  Ends  usually  entire,  rounded  or  truncate.  The 
+margins  are  smooth,  dentate,  or  crenate,  the  cell  wall  smooth, 
+punctate,  warty,  or  even  covered  with  spines.  End  view 
+oblong  or  oval,  with  sometimes  a  swelling  in  the  middle  of 
+the  longer  sides.  Zygospores  usually  spherical,  sometimes 
+cubical  or  angular,  smooth  or  furnished  with  spines. 
+
+
+64  CONNECTICUT  GEOL.  AND  NAT.  HIST.  SURVEY.  [Bull. 
+
+
+C.  Botrytis  Menegh.,  Figs.  115,  116. 
+
+C.  Broomei  Thwaites,  Figs.  99,  258. 
+
+C.  suborbiculare    Wood,  Fig.  113. 
+
+C.  granatum   Breb.,  Fig.  109. 
+
+C.  crenatum    Ralfs,  Fig.  no. 
+
+C.  contractum    Kirch. ,  Fig.  117. 
+
+C.  tumidum   Lund.,  Figs.  100,  100a. 
+
+C.  ornatum    Ralfs,  Fig.  102. 
+
+C.  ovale    Ralfs,  Fig.  245. 
+
+C.  undulatum   Corda,  Fig.  244. 
+
+C.  pyramidatum   Breb.,  Fig.  246. 
+
+C.  Meneghinii   Breb.,  Fig.  247. 
+
+C.  octhodes   Nord.,  Fig.  248. 
+
+C.  perforatum   Lund.,  Fig.  249. 
+
+C.  Ndgelianum    Breb.,  Fig.  250. 
+
+C.  intermedium   Delp.,  Fig.  251. 
+
+C.  Portianum  Arch.,  Fig.  252. 
+
+C.  orbiculatum    Ralfs,  Fig.  253. 
+
+C.  tetrophthalmum    (Kiitz.)  Breb.,  Fig.  254. 
+
+C.  galeritum   Nord.,  Fig.  255. 
+
+C.  Cucurbita   Breb.,  Fig.  256. 
+
+C.  pseudobroomei   Wolle,  Fig.  257. 
+
+Xanthidium  Ehrb. — ■  Cells  single,  or  two  joined  end  to 
+end;  deeply  constricted;  semi-cells  wider  than  long,  entire, 
+furnished  with  spines,  and  with  a  round,  truncate,  or  toothed 
+arm  projecting  from  the  centre.  The  spines  are  either  simple 
+or  with  two  or  three  forks  at  the  end.  In  the  centre  of  each 
+semi-cell  is  a  roughened  protruding  area  of  variable  size. 
+Zygospores  spherical  and  spinous. 
+
+X.  fasciculatum  (Ehrb.)  Ralfs  var.  subalpinum  Wolle, 
+Figs.  121,  266. 
+
+X.  antilopoeum    (Breb.)  Kiitz.,  Fig.  262. 
+
+X.  cristatum    (Breb.)  Ralfs,  Fig.  265. 
+
+X.  aseptum    Nord.,  found  but  not  figured. 
+
+Sphaerozosma  Corda. —  Filaments  of  cells  closely  united 
+by  a  narrow  isthmus  or  by  a  granular  process.  Cells  deeply 
+constricted,  thus  forming  bilobed  cells. 
+
+5\  Miforme    Rab.,  Figs.  118,  119. 
+
+
+No.   IO.]  FRESH- WATER  ALG^.  65 
+
+S.  spinosum    Delp.,  Figs.  120,  277. 
+5.  pulcrum   Bailey,  Fig.  271. 
+
+Onchonema  Wall. —  Like  Sphcerozosma  except  that  the 
+granular  processes  are  long. 
+
+0.  serratum    (Bailey)  Wall.,  Fig.  272. 
+
+Hyalotheca  Ehrb. —  Cells  short,  cylindrical,  usually 
+blunted,  constricted  in  the  centre ;  joined  in  long  filaments  en- 
+closed in  an  ample  mucilaginous  sheath.  The  end  view  of  the 
+cell  is  round  and  shows  the  chloroplast  to  be  eight-  to  ten-rayed. 
+
+H.  disSiliens    (Sm.)  Breb.,  Fig.  273. 
+
+Spondylosium  Breb.  (Leuronema  Wallich). —  Like 
+Sphcerozosma  except  that  instead  of  being  united  by  lateral 
+processes,  the  cells  are  joined  in  filaments  merely  by  the  close 
+apposition  of  the  cells. 
+
+5\  papillatum   West,  found  but  not  figured. 
+
+Desmidium  Ag.  (Didymoprium  '  Kiitz. ;  Aptogonum 
+Ralfs). —  Cells  incised  or  entire,  with  two  chloroplasts  barely 
+touching  in  the  middle ;  triangular  or  quadrangular  in  end 
+view;  united  into  fragile,  elongated  filaments,  regularly 
+twisted,  and  enclosed  in  a  mucous  envelope. 
+
+D.  cylindricum    Grev.,  Fig.  276. 
+
+D.  Swart  zii   Ag.,  Fig.  275. 
+
+Gymnozyga  Ehrb.  (Bambusina  Kiitz.). — >  Cells  barrel- 
+shaped  with  one  or  more  narrow  bands  around  the  middle ; 
+closely  united  into  articulate  filaments.  Chlorophyll  bodies  as 
+in  Hyalotheca.    Zygospores  smooth,  ellipsoidal. 
+
+FAMILY  II.  ZYGNEMACE.E. 
+
+Unbranched  filaments  composed  of  single  cells  or  of  a 
+simple  series  of  cells.  Chloroplasts  in  the  shape  of  spiral 
+bands,  axile  plates,  or  twin  stellate  bodies. 
+
+Key  to  Sub-families. 
+
+Conjugation  producing  a  zygospore  which,  after  a 
+period  of  rest,  develops  directly  into  a  new  gameto- 
+phyte   zygneme^e 
+
+
+5 
+
+
+66  CONNECTICUT  GEOL.  AND  NAT.  HIST.  SURVEY.  [Bull. 
+
+Conjugation  producing  a  zygospore  which  immedi- 
+ately develops  a  sporocarp  of  several  cells,  one  of 
+which  is  the  spore.  The  gametophyte  is  developed 
+from  this  spore  after  a  period  of  rest.  . .  .mesocarpe^e 
+
+SUB-FAMILY  I.  ZYGNEME^. 
+
+Filaments  unbranched.  A  lining  of  protoplasm  is  in  each 
+cell,  and  the  nucleus  is  held  in  the  centre  by  quite  prominent 
+bands  of  protoplasm.  The  chloroplasts  containing  numerous 
+prominent  pyrenoids  are  twin  stellate  bodies  in  Zygnema  and 
+spiral  bands  in  Spirogyra. 
+
+Vegetative  multiplication  by  breaking  of  filaments  into 
+separate  cells  or  groups  of  cells.  Asexual  reproduction 
+by  spores.  Sexual  reproduction  by  conjugation  between 
+cells  of  different  filaments  which  lie  close  together.  Each 
+cell  puts  out  a  tube  on  the  side  nearest  the  other  fila- 
+ment, and  these  meet  with  similar  tubes  from  the  cells 
+of  the  other  filament.  The  ends  of  the  tubes  join,  and  an 
+open  "  conjugating  tube "  is  formed.  The  contents  of  the 
+cells  separate  from  the  cell  walls,  and  the  mass  from  one  cell 
+flows  into  the  other,  there  to  unite  with  the  mass  in  that  cell 
+and  form  a  zygospore.  The  zygospores  are  usually  all  found 
+in  one  of  the  two  filaments.  Occasionally  lateral  conjugation 
+between  two  cells  of  the  same  filament  is  observed. 
+
+Key  to  Genera. 
+
+Cells  containing  two  star-shaped  chlorophyll  bodies 
+
+near  the  nucleus  Zygnema* 
+
+Cells  with  spirally  twisted  bands  of  chlorophyll .  . . 
+
+Spirogyra* 
+
+Cells  with  nearly  straight  bands  of  chlorophyll .  Choaspis* 
+
+Description  of  Genera. 
+
+Zygnema  Ag.  (Zygogonium  Kiitz.). —  Cells  with  two 
+star-shaped  chlorophyll  bodies  near  the  nucleus,  each  chloro- 
+plast  bearing  a  starch  grain. 
+
+Z.  leiospermum    D.  By.,  Fig.  176. 
+
+Z.  stellium  Ag.,  Figs.  177,  178. 
+
+Z.  stellium    var.  genuinum    Kirch.,  Fig.  179. 
+
+
+No.  10.] 
+
+
+FRESH-WATER  ALG^E. 
+
+
+67 
+
+
+Z.  pectinatum    (Vauch.)  Ag.,  Fig.  279.    In  conjugation. 
+
+Z.  cruciatum    (Vauch.)  Ag.,  Fig.  180. 
+
+Spirogyra  Link. —  Cells  with  from  one  to  many  bands  of 
+chlorophyll  in  the  cell  wall,  winding  to  the  right.  The  zygo- 
+spores are  always  inside  the  walls  of  one  of  the  conjugating 
+cells. 
+
+The  length  and  width  of  the  cells,  the  form  of  the 
+dividing  wall  (which  may  be  plane  or  replicate,  i.  e.,  with  an 
+annular  ingrowth  of  cellulose),  the  number  of  spirals,  and  the 
+number  of  turns  each  spiral  makes  in  a  cell,  are  all  points  for 
+consideration;  but  the  zygospores  form  the  only  decisive 
+factor  in  the  determination  of  species.  In  the  determination 
+of  the  species  given  below,  we  have  chiefly  relied  on  the 
+vegetative  thread. 
+
+Found  in  low-lying  ponds  and  ditches. 
+
+5*.  varians   (Hass.)  Kiitz.,  Figs.  181,  182. 
+
+5.  Weberi   Kiitz.,  Figs.  183,  184. 
+
+vS.  maxima    (Hass.)  Witt.,  Fig.  185. 
+
+S.  jugalis    (Dillw.)  Kiitz.,  Figs.  186,  187. 
+
+.S.  inilata    (Vauch.)  Rab.,  Fig.  269. 
+
+5".  calospora    Cleve,  Fig.  195. 
+
+S.  dubia   Kiitz.,  Fig.  188. 
+
+S.  quinina    (Ag.)  Kiitz.,  Figs.  189,  190. 
+
+5\  Grevilleana    (Hass.)  Kiitz.,  Fig.  191. 
+
+5\  majuscula   Kiitz.,  Fig.  192. 
+
+S\  adnata   Kiitz.,  Fig.  193. 
+
+5\  Spreeiana   Rab.,  Fig.  194. 
+
+5.  decimina    (Mull.)  Kiitz.,  Fig.  196. 
+
+5.  communis    (Hass.)  Kiitz.,  Fig.  197. 
+
+S\  Huviatilis   Hilse,  Figs.  198,  199. 
+
+S".  mirabilis   Hass.,  Fig.  202. 
+
+S.  bellis    (Hass.)  Cleve,  Figs.  203,  204,  270. 
+.  5".  Havescens    (Hass.)  Cleve,  Fig.  205. 
+
+vS.  crassa   Kiitz.,  Fig.  60. 
+[S.  nitida    (Dillw.)  Link.] 
+
+Choaspis  S.  F.  Gray  (Sirogonium  Kiitz.). —  Fila- 
+mentous. The  only  genus  of  Conjugate  without  a  mucous 
+coat.  Sterile  cells  much  like  Spirogyra;  conjugating  cells 
+arise  by  unequal  division  of  the  cells  of  the  filaments,  and, 
+
+
+68  CONNECTICUT  GEOL.  AND  NAT.   HIST.  SURVEY.  [Bull. 
+
+bending  knee-like  towards  each  other,  grow  together;  zygo- 
+spores elliptical. 
+
+SUB-FAMILY  II.  MESOCARPE^E. 
+
+The  plants  of  this  sub-family  are  often  narrower  than  those 
+of  Zygnemese,  with  thin  cell  walls.  The  chloroplast  is  a  thin 
+axile  plate,  and  all  those  of  a  filament  usually  lie  in  one 
+plane.  The  chloroplasts  change  their  position  according  to 
+the  degree  of  light,  turning  the  edge  to  bright  light  and  the 
+face  to  dim  light.   Reproduction  as  in  Zygnemeae. 
+
+Key  to  Genera. 
+
+Plants  reproducing  by  Conjugation  Mougeotia* 
+
+Reproduction  by  non-sexual  methods  only .  .  Gonatonema 
+
+Description  of  Genera. 
+
+Mougeotia  A.  Br.  (Staurospermum  Kutz. ;  Mesocarpus 
+Hass. ;  Craterospermum  Braun  ;  Plagiospermum  Cleve) . — 
+Cells  long,  cylindrical,  with  axile  chloroplasts.  Conjugation 
+scalariform ;  zygospores  spherical  or  quadrate  and  more  or 
+less  flattened  with  rounded  angles. 
+
+M.  sp.  (?),  Fig.  85.  The  method  of  conjugating  is  shown 
+in  Fig.  280. 
+
+[M.  robusta  (De  Bary)  Wittr. ;  M.  genuiiex.a  (Dillw.) 
+Ag.] 
+
+Gonatonema  Wittr. —  Cells  similar  to  Mougeotia,  but  re- 
+production only  by  means  of  non-sexual  spores.  Spores  pro- 
+duced without  conjugation,  formed  by  division  of  the  mother- 
+cells,  which  are  afterwards  often  burst  and  bent  angularly 
+and  alternately  at  the  point  of  fructification. 
+
+CLASS  V.  CHARACE^. 
+
+Algae  with  a  peculiar  odor;  often  encrusted  with  lime. 
+Thallus  a  stem  with  nodes  and  internodes.  The  plants  grow 
+from  a  few  inches  to  over  a  foot  in  height  by  means  of  an 
+apical  cell.  Whorls  of  leaves,  on  which  may  be  Jx>rne  antheridia 
+and  oogonia,  grow  at  the  nodes. 
+
+Zoospores  are  wanting.  The  organs  of  reproduction  are 
+conspicuous  in  color  and  form.    The  antheridia  are  spherical, 
+
+
+No.  10.] 
+
+
+FRESH-WATER  ALG^. 
+
+
+69 
+
+
+red  when  mature,  the  wall  consisting  of  eight  shields  or  plates. 
+The  spermatozoids  are  spirally  coiled.  The  oogonium  is  situ- 
+ated on  a  nodal  cell  from  which  five  other  cells  grow  and  coil 
+around  the  oogonium,  covering  it  closely.  They  divide  once 
+or  twice  at  the  top,  so  that  a  crown  of  five  or  ten  small  cells 
+is  formed. 
+
+Description  of  Genera. 
+
+Chara  Vaill. —  The  crown  consists  of  five  cells.  The 
+stems  are  covered  with  a  cortex. 
+C.  sp.    (?),  Figs.  207-209. 
+
+Nitella  Ag. —  The  crown  consists  of  ten  cells ;  cortex 
+lacking. 
+
+CLASS  VI.    PH^OPHYCE^  (FUCOIDEyE). 
+
+The  Algse  of  this  class  are  almost  exclusively  salt-water 
+forms,  known  as  the  Brown  Seaweeds,  and  include  the  most 
+highly  developed  of  the  Seaweeds.  The  vegetative  cells  are 
+uninucleate,  and  the  chromatophores  are  distinctly  brown. 
+
+Asexual  reproduction  by  means  of  motile  cells  or  zoogonidia. 
+Sexual  reproduction  by  isogamous  or  heterogamous  gametes. 
+Copulation  always  takes  place  outside  the  plant,  and  the  re- 
+sulting spore  germinates  directly.  The  motile  cells  always 
+possess  two  laterally  placed  cilia,  one  directly  forward  and  the 
+other  backward. 
+
+While  the  class  is  made  up  mostly  of  marine  plants,  there  is 
+one  order  that  is  found  in  fresh  water. 
+
+ORDER  I.  SYNGENETIOE. 
+
+Exclusively  fresh-water  forms.  Plants  unicellular,  solitary 
+or  colonial,  or  multicellular ;  free-swiming  or  motionless.  The 
+cells  are  either  naked  or  surrounded  by  a  mucilaginous  en- 
+velope. The  cells  are  uninucleate,  possess  one  or  more  pul- 
+sating vacuoles,  one  or  two  yellow  or  pale  brown  chromato- 
+phores, and  occasionally  pyrenoids. 
+
+The  order  as  thus  defined  includes  about  seven  families. 
+But  at  least  four  of  the  seven  are  frequently  classed  with  the 
+Flagellate  Protozoa,  and  are  described  in  the  report  upon  the 
+Protozoa  of  our  waters.    These  include  the  following  genera : 
+
+
+70  CONNECTICUT  GEOL.  AND  NAT.  HIST.  SURVEY.  [Bull. 
+
+Cryptomonas,  Synura,  Uroglena,  Dinobryon.  (See  Bull.  No.  2 
+of  this  Survey.) 
+
+The  only  other  family  known  to  us  to  occur  in  our  fresh 
+water  is  the  following :  — 
+
+FAMILY  I.  HYDRURACE^E. 
+
+The  plant  consists  of  an  attached  colony,  from  two  to  twelve 
+inches  long.  The  cells  have  each  one  chromatophore,  lack  a 
+cell  wall,  and  are  embedded  in  a  large  mass  of  jelly.  Cells 
+brown  at  one  end,  colorless  at  the  other ;  arranged  in  irregular, 
+longitudinal  families ;  at  first  globose,  then  elliptical.  Division 
+at  first  in  one,  later  in  two  directions. 
+
+Asexual  reproduction  by  uniciliated  tetrahedral  zoogonidia. 
+Two  or  four  of  them  are  produced  from  each  cell  of  the 
+branches,  and  germinate  at  once.  Resting  spores  have  been 
+observed. 
+
+Hydrurus    Ag. —  Coextensive  with  the  family. 
+
+CLASS  VII.    RHODOPHYCE^  (FLORIDEiE). 
+
+Plants  generally  rosy  red  or  purple,  dark  reddish-brown,  or 
+blackish.  Most  closely  related  to  salt-water  Algae.  Crust- 
+aceous,  filamentous,  variously  branched. 
+
+Asexual  propagation  by  means  of  motionless  spores.  In  the 
+sexual  reproduction,  which  is  wanting  in  some  of  the  genera, 
+the  female  cell,  called  the  carpogonkim,  is  fertilized  by  a  mass 
+of  protoplasm,  called  spermatium,  derived  from  a  male  cell. 
+The  result  of  fertilization  is  called  a  cystocarp,  and  the  method 
+of  its  formation  determines  the  different  groups  of  Rhodo- 
+phycese. 
+
+Sometimes  the  cystocarp  is  developed  directly,  and  some- 
+times the  fertilized  carpogonium  puts  out  growths,  known  as 
+ooblast  ema-Hlaments ,  which  conjugate  with  auxiliary  cells,  the 
+result  being  the  cystocarp.  The  carpospores  are  always  de- 
+veloped on  a  tuft  of  filaments  which  spring  from  the  fertilized 
+cells  and  are  called  gonimoblasts. 
+
+Of  the  four  orders  of  this  class,  two  are  found  in  fresh 
+water.   They  are  distinguished  as  follows : 
+
+
+No.  10.] 
+
+
+FRESH-WATER  ALG^. 
+
+
+71 
+
+
+Key  to  Orders. 
+
+Carpogonium  developing  directly  NEMALIONALES 
+
+Carpogonium  developing  a  filament  of  which  two 
+cells  conjugate  with  each  other  CRYPTON  EMI  ALES 
+
+ORDER  I.  CRYPTONEMIALES. 
+
+A  long  branched  filament  is  sent  out  from  the  fertilized 
+carpogonium.  Each  terminal  cell  of  the  filament  unites  with 
+an  auxiliary  cell,  and  from  the  latter  the  gonimoblasts  arise. 
+
+FAMILY  L  SQUAMARIACE^E. 
+
+A  small  group,  mostly  marine,  but  with  a  few  fresh-water 
+species.  The  thallus  consists  of  dense,  upright  cell-filaments, 
+which  form  minute,  flat,  gelatinous  or  membranous  expanses. 
+Cavities  in  the  upper  surface  of  the  thallus  hold  the  sexual 
+organs,  and,  after  the  fertilization  of  the  carpogonia,  are 
+filled  with  cystocarps. 
+
+Hildenbrandtia  Nardo. —  Thallus  crustaceous,  firmly  ad- 
+hering, formed  of  subcubical,  blood-red,  dark  red,  rose,  or 
+brown  cells,  placed  in  close  vertical  series.  Sexual  organs  in 
+Cavities  in  the  upper  surface. 
+
+ORDER  II.  NEMALIONALES. 
+
+The  gonimoblasts  are  developed  in  tufts,  directly  from  the 
+fertilized  carpogonium. 
+
+Key  to  Families. 
+Thallus  with  a  basal  attached  portion,  from  which 
+arise  tufts  of  simple  or  branched  filaments  
+
+LEMANEACEjE 
+
+Thallus  filamentous,  simple  or  branched,  with  sec- 
+ondary axes  often  in  whorls. . . helminthocladiace^: 
+
+FAMILY  I.  LEMANEACE.E. 
+
+Exclusively  fresh-water  Algae,  growing  in  very  rapid 
+water.  The  thallus  consists  of  a  basal  attached  portion  from 
+which  arise  dense  tufts  of  erect  branched  filaments.  From 
+these  grow  the  fructiferous  branches  which  are  the  most  con- 
+spicuous part  of  the  plant.   After  the  growth  of  this  part,  the 
+
+
+72  CONNECTICUT  GEOL.  AND  NAT.  HIST.  SURVEY.  [Bull. 
+
+vegetative  portion  of  the  thallus  generally  dies  away,  and 
+these  branches  become  fixed  by  rhizoids  of  their  own.  The 
+fructiferous  branches  are  long,  filamentous,  cartilaginous,  and 
+swing  freely  in  the  water;  they  are  olive-green  or  greenish 
+black.  Each  thread  is  built  up  of  an  axile  row  of  tubular 
+cells  surrounded  by  rows  of  smaller  cells;  at  short,  more  or 
+less  regular,  distances  along  the  entire  length  are  distinct 
+swellings  or  nodes. 
+
+Only  sexual  multiplication  is  known.  The  antheridia  are 
+short  and  cylindrical,  growing  on  whorled  eminences  or  on  the 
+widest  part  of  the  nodes.  The  carpogonium  possesses  a  long, 
+simple  or  branched  process  for  the  reception  of  the  male 
+gamete,  called  a  trichogyne.  After  fertilization  the  car- 
+pogonium puts  out  an  ooblastema-filament,  at  the  extremity 
+of  which  a- bunch  of  jointed  moniliform  filaments  arises,  each 
+of  the  swollen  cells  of  which  becomes  at  maturity  a  carpo- 
+spore.  The  carpospores  are  produced  on  the  inside  of  the 
+thallus,  filling  up  the  space  between  the  axile  cells  and  the 
+cortical  cells.  The  carpospores  in  turn  produce  the  vegetative 
+thallus. 
+
+Lemanea    Bory. —  Large,  simple  or  somewhat  branched, 
+bristle-like  threads  of  dark  or  brownish  color;  hollow  except 
+for  the  axile  series  of  cells  which  is  held  in  place  by  transverse 
+threads  at  regular  intervals. 
+1     [L.  fucina  var.  rigida    (Sirdt.)  Atk.] 
+
+Tuomeya  Harvey. —  Thallus  much  branched,  upright, 
+five  cm.  high,  rosette-like. 
+
+[T.  Uuviatilis  Harvey.] 
+
+FAMILY  II.  HELMINTHOCLADIACE^E. 
+
+The  plants  consist  of  a  filamentous  thallus,  simple  or 
+branched,  with  the  secondary  axes  often  arranged  in  whorls. 
+The  main  filament  may  consist  of  a  single  row  of  cells  or  of  an 
+axile  row  surrounded  by  cortical  rows  of  smaller  cells. 
+
+The  terminal  cells  of  the  gonimoblasts,  which  are  short 
+tufts  of  filaments,  generally  form  the  carpospores.  When  the 
+carpospore  has  become  detached,  the  supporting  cell  grows 
+through  the  old  cell  wall  and  produces  a  new  spore-forming 
+cell.   The  cystocarp  has  no  definite  wall. 
+
+
+No.  10.] 
+
+
+FRESH -WATER.  ALG^E. 
+
+
+73 
+
+
+Key  to  Genera. 
+i.    With  clustered  tufts  of  branches.  ..  .Batrachospermum* 
+
+
+Batrachospermum  Roth. —  A  wholly  fresh-water  genus. 
+The  plants  are  dioecious,  of  a  violet  or  bluish  green  color.  Thal- 
+lus  is  from  sixteen  to  twenty  cm.  in  length,  moniliform,  gela- 
+tinous, slippery,  consisting  of  an  axile  series  of  cells  growing  by 
+means  of  a  hemispherical  apical  cell,  and  an  accessory  parallel 
+series,  covered  with  clustered  tufts  of  branches  which  are  more 
+or  less  scattered.  The  carpogonium  grows  in  a  cell  at  the 
+extremity  of  a  short  branch  which  stands  out  directly  from  the 
+main  branch;  it  possesses  a  short,  straight  trichogyne,  and 
+after  fertilization  develops 'a  dense  mass  of  exposed  carpo- 
+spores. 
+
+B.  vagum    (Roth)  Ag.,  Fig.  278. 
+
+[B.  anatinum  Sirdt. ;  B.  Boryanum  Sirdt. ;  B.  Corbula 
+Sirdt. ;  B.  ectocarpum  Sirdt. ;  B.  monili forme  var.  typicum, 
+and  var.  chlorosum  Sirdt. ;  B.  pyramidale  Sirdt. ;  B.  virga- 
+tum  Sirdt.] 
+
+Chantransia  Fries. —  Dioecious,  red,  steel-blue,  or  purp- 
+lish violet,  growing  in  fresh  and  salt  water.  Filaments  articu- 
+late, branched ;  branches  simple  or  compound ;  mucilage 
+lacking. 
+
+The  carpogonium  develops,  after  fertilization,  numerous 
+gonimoblasts  in  small  clusters,  upwards  and  on  one  side. 
+Asexual  multiplication  by  tetras pores  developed  on  ends  of 
+
+
+Thorea  Bory. —  This  genus  possesses  but  one  species,  T. 
+ramosissima  Bory.  The  thallus  is  round,  filamentous,  much 
+branched,  the  thickness  of  a  horse  hair,  of  a  purple-brown  or 
+dark  brown  color,  very  mucous,  and  reaching  the  length  of 
+thirty  to  sixty  cm.  The  branches  are  short  and  compact, 
+slightly  attenuated,  and  the  cells  are  from  two  to  five  times 
+longer  than  their  diameter.  The  cells  possess  starch-like 
+granules,  and  the  spores  are  naked  and  non-motile. 
+
+
+Without  clustered  tufts 
+
+
+  2 
+
+Chantransia 
+....  Thorea 
+
+
+2.    Thallus  three  to  seven  mm.  in  length . 
+Thallus  thirty  to  sixty  cm.  in  length. 
+
+Description  of  Genera. 
+
+
+cells. 
+
+
+FRESH-WATER  ALG.E. 
+
+
+INDEX. 
+
+
+Amphithrix,  15. 
+Ancylonema,  57. 
+Ankistrodesmus,  34,  35. 
+Aphanocapsa,  12,  13. 
+Aphanochaete,  50. 
+Aphanothece,  13. 
+Apiocystis,  30. 
+Aplanospores,  39. 
+Aptogonum,  65. 
+Arthrodesmus,  59,  63. 
+Arthrosiphon,  22. 
+Arthrospira,  18,  20. 
+Autocolonies,  31. 
+Autospores,  31. 
+
+Bacillariae,  9,  24. 
+Bambusina,  65. 
+Batrachospermum,  73. 
+Botrydiaceae,  24. 
+Botrydina,  29. 
+Botrydium,  25. 
+Botryococcus,  32. 
+Bulbochaete,  51,  52. 
+
+Calocylindrus,  63. 
+Calothrix,  15,  16. 
+Camptotrichacese,  16. 
+Chaetomorpha,  54. 
+Chaetophora,  46. 
+Chaetophoraceae,  44,  45. 
+Chaetophorales,  27,  44. 
+Chaetosphaeridiaceae,  44,  45. 
+Chaetosphaeridium,  50. 
+Chamaesiphoniaceae,  14. 
+Chantransia,  73. 
+Chara,  9,  69. 
+Characeae,  9,  68. 
+Characiaceae,  28,  39. 
+Characium,  39. 
+Chlamydococcus,  43. 
+Chlamydomonadeae,  42. 
+
+
+Chlamydomonas,  42. 
+Chlorobotrys,  25,  26. 
+Chlorococcus,  29,  38. 
+Chlorophyceae,  9,  26. 
+Chlorosphaera,  33. 
+Choaspis,  66,  67. 
+Chroococcaceae,  11. 
+Chroococcus,  12,  14. 
+Chroolepus,  45. 
+Cladophora,  54. 
+Cladophoraceae,  53. 
+Clathrocystis,  13. 
+Closterium,  58,  60. 
+Coccogoneae,  11. 
+Coelastreae,  31,  36. 
+Ccelastrum,  36. 
+Coelosphaerium,  12,  13. 
+Coenobia,  27,  31. 
+Coleochacta,  51. 
+Coleochaetaceae,  44,  50. 
+Conferva,  25. 
+Conjugatae,  9,  27,  55. 
+Cosmaridium,  63. 
+Cosmarium,  59,  63. 
+Cosmocladium,  59. 
+Craterospermum,  68. 
+Crucigenia,  36. 
+Crucigenieae,  31,  35. 
+Cryptonemiales,  71. 
+Cthonoblastus,  20. 
+Cyanophyceae,  9,  10. 
+Cylindrocapsa,  45,  48. 
+Cylindrocapsaceae,  45, 
+Cylindrocystis,  57. 
+Cylindrospermum,  21. 
+Cystococcus,  38. 
+
+Dactylococcus,  34. 
+Desmidiaceae,  55,  56. 
+DesmidiGm,  60,  65. 
+Diatomaceae,  9,  24. 
+
+
+j6  CONNECTICUT  GEOL. 
+
+Diatomin,  9. 
+Dicothrix,  15,  16. 
+Dictyocystis,  32. 
+Dictyosphaerieae,  31. 
+Dictyosphaerium,  31,  32. 
+Didymopriurn,  65. 
+Dimorphococcus,  34. 
+Docidium,  58,  61. 
+Dolichospermum,  21. 
+Draparnaldia,  46,  47. 
+Dysphinctium,  63. 
+
+Enteromorpha,  43. 
+Eremosphaera,  33. 
+Euastrum,  59,  62. 
+Eudorina,  40,  41. 
+Eudorinella,  41. 
+Gametes,  9. 
+Genicularia,  57. 
+Glceocapsa,  12,  13,  14. 
+Gloeocystideae,^28,  29. 
+Gloeocystis,  29. 
+Glceothece,  12,  13. 
+Glceotrichia,  14,  15,  16. 
+Gomphosphaeria,  12,  13. 
+Gonatonema,  68. 
+Gonatozygon,  57. 
+Gongrosira,  45. 
+Gonium,  40. 
+Gymnozyga,  60,  65. 
+
+Haematococcus,  43. 
+Hapalosiphon,  23. 
+Hariotina,  36. 
+Hassallia,  23. 
+
+Helminthocladiaceae,  71,  72. 
+Herposteiracese,  44,  50. 
+Herposteiron,  50. 
+Heterocysts,  10. 
+Heterokontae,  9,  24. 
+Hildenbrandtia,  71. 
+Hormidium,  44. 
+Hormiscia,  49. 
+Hormococcus,  49. 
+Hormogoneae,  10,  11,  14. 
+Hormogones,  10. 
+Hyalotheca,  59,  65. 
+
+
+AND  NAT.  HIST.  SURVEY.  [Bull. 
+
+Hydrodictyaceae,  28,  37. 
+Hydrodictyon,  37,  38. 
+Hydrurus,  70. 
+Hyphceothrix,  19,  20. 
+
+Ichthyocercus,  58. 
+Inactis,  20. 
+Isactis,  15,  16. 
+
+Kirchneriella,  34. 
+
+Leibleinia,  19. 
+Lemanea,  72. 
+Lemaneaceae,  71. 
+Lemmerraannia,  36. 
+Leptosira,  45,  46. 
+Leptothrix,  19. 
+Leuronema,  65. 
+Limnactis,  16. 
+Lyngbya,  18,  19,  20. 
+Lyngbyeae,  17,  18. 
+
+Mastigonema,  16. 
+Mastigothrix,  16. 
+Merismopedia,  11,  12. 
+Mesocarpeae,  68. 
+Mesocarpus,  68. 
+Mesotasnium,  57. 
+Micrasterias,  59,  63. 
+Microcoleus,  20. 
+Microcystis,  12,  13,  22. 
+Microspora,  49. 
+Microsporales,  27. 
+Microthamnion,  46,  47. 
+Mougeotia,  68. 
+Myxonema,  46,  47. 
+Myxophyceae,  9,  10. 
+
+Nemalionales,  71. 
+Nephrocytium,  33. 
+Netrium,  57,  58. 
+Nostoc,  21. 
+Nostocaceae,  17,  20. 
+
+CEdogoniales,  27,  51. 
+(Edogonium,  51,  52. 
+Onchonema,  59,  65. 
+Oocardium,  59. 
+Oocystideae,  31,  33- 
+
+
+No..  10.] 
+
+
+FRESH-WATER  ALG^. 
+
+
+Oocystis,  33. 
+Ophiocytium,  25,  26. 
+Oscillaria,  19. 
+Oscillatoria,  18,  19,  20. 
+Oscillatoriaceae,  10,  17. 
+
+Palmella,  30. 
+Palmellaceae,  28. 
+Palmelleae,  29,  30. 
+Palmellococcus,  33,  34. 
+Palmodactylon,  30. 
+Palmodictyon,  29. 
+Pandorina,  40,  42. 
+Pediastreae,  37. 
+Pediastrum,  37. 
+Penium,  58,  60. 
+Petalonema,  22. 
+Phaeophyceae,  9. 
+Phormidium,  18,  19. 
+Phycocyanin,  9. 
+Phycoerythrin,  10. 
+Phycophaein,  9. 
+Phymatodocis,  59. 
+Phythelieae,  31,  36. 
+Pilinia,  45. 
+Pithophora,  53. 
+Placodermae,  56,  58. 
+Plagiospermum,  68. 
+Planogametes,  30. 
+Plectonema,  18,  19. 
+Pleurococcaceae,  28,  38. 
+Pleurococcus,  38. 
+Pleurotaeniopsis,  63. 
+Pleurotsenium,  58,  61. 
+Polycystis,  13. 
+Polyedrium,  32. 
+Prasiola,  44. 
+Protococcaceae,  28,  31. 
+Protococcales,  27. 
+Protococcus,  34,  38. 
+Pseudocilia,  29. 
+Pseudocoenobia,  31. 
+Pseudopleurococcus,  38. 
+Psilonemateae,  14,  17. 
+
+Raphidium,  35. 
+Rhizoclonium,  54. 
+
+
+Rhodophyceae,  10. 
+Rivularia,  15,  16. 
+Rivulariaceae,'  15. 
+Roya,  58,  60. 
+
+Saccodermae,  56. 
+Scenodesmus,  34,  35. 
+Schizochlamys,  30. 
+Schizogoniales,  27,  43. 
+Schizogonium,  44. 
+Schizophyceae,  9. 
+Schizosiphon,  22. 
+Schizothrix,  20. 
+Schoderia,  35. 
+Sciadium,  26. 
+Scytonema,  22,  23. 
+Scytonemaceae,  17,  22. 
+Selenastreae,  31,  34. 
+Selenastrum,  34,  35. 
+Selenosphaerium,  36. 
+Sex  union,  9. 
+Siphonales,  27,  54. 
+Sirogonium,  67. 
+Sirosiphon,  23. 
+Sorastrum,  36. 
+Sphaerella,  42. 
+Sphaeroplea,  53. 
+Sphaerozosma,  59,  64. 
+Sphaerozyga,  21. 
+Spirocoleus,  19. 
+Spirogyra,  66,  67. 
+Spirotaenia,  57. 
+Spirulina,  18. 
+Spondylomorum,  40,  41 
+Spondylosium,  59,  65. 
+Spores,  8. 
+Squamariaceae,  71. 
+Staurastrum,  59,  62. 
+Staurogenia,  36. 
+Staurospermum,  68. 
+Stephanosphaera,  40,  41 
+Stichococcus,  49. 
+Stigeoclonium,  47. 
+Stigonema,  23. 
+Stigonemaceae,  17,  23. 
+Streptonema,  60. 
+Swarm  spores,  9. 
+
+
+yS  CONNECTICUT 
+
+Symphysiphon,  22. 
+Symploca,  18,  19. 
+Synechococcus,  11,  12. 
+
+jTetmemorus,  58,  61. 
+Tetrachastrum,  63. 
+Tetraedreae,  31,  32. 
+Tetraedron,  32. 
+Tetragonium,  40. 
+Tetraspora,  29. 
+Tetrasporese,  28,  29. 
+Thorea,  73. 
+Tolvpothrix,  22,  23. 
+Trentepohlia,  45. 
+Trentepohliacese,  44,  45. 
+Tribonema,  25. 
+Tribonemaceae,  24,  25. 
+Trichormus,  21. 
+Trichophoreae,  14. 
+Triploceras,  58. 
+Tuomeya,  72. 
+
+Ulothrix,  49. 
+
+
+r.  AND  NAT.  HIST.  SURVEY - 
+
+Ulotrichaceae,  48,  49. 
+Ulvaceae,  43. 
+Ulvales,  27. 
+
+Vaucheria,  55. 
+Vaucheriaceae,  54. 
+Vaginarieae,  17,  20. 
+Volvocaceae,  28,  '39. 
+Volvoceae,  39,  40. 
+Volvox,  40,  41. 
+
+Willea,  36. 
+
+Xanthidium,  59,  64. 
+Xanthophyll,  9. 
+
+Zonotrichia,  16. 
+Zygnema,  66. 
+Zygnemaceae,  65. 
+Zygnemeae,  66. 
+Zygogonium,  66. 
+Zygote,  9. 
+
+
+Plate  I;  Figures  i  to  6;  All  Magnified  1,000  Diameters. 
+
+Fig.  i.  Oscillatoria  siibtilissima    Kutz.    .  .  page  19 
+
+Fig.  2.  cerugineo-ccerulea    Kutz.  . 
+
+Fig.  3.  Mcrismopedia  glauca    Nag.        .  .  12 
+
+Fig.  4.                        convolnta    Breb.    .  "  " 
+
+Fig.  5.  Oscillatoria  limosa    Ag.      .       .  .  19 
+
+Fig.  6.                     percursa    Kiitz.        .  ■■  « 
+
+
+PLATE 
+
+
+G6  0Q 
+
+mm 
+aouu 
+
+3D  GO 
+<&QG 
+
+Q9  «© 
+
+
+00GO 
+
+
+**** 
+
+
+QQQQ  gojjj 
+
+
+Plate  II;  Figures  7  to  io;  All  (except  Fig.  8a)  Magni- 
+fied 1000  Diameters. 
+
+Fig.    7.    Ccelosphcerium  Kuetzingicmurn     Nag.       page  13 
+
+Fig.    8.    Glococapsa  arenaria  (  ?) 
+
+Fig.    8a.  A  mass  of  the  plant, 
+
+natural  size  
+
+Fig.    9.    Microcystis  ccruginosa    Kiitz.  (?).     In  a 
+
+mucilaginous  mass  .... 
+Fig.    9a.  Microcystis  aeruginosa    Kiitz.  Without 
+
+the  mucilaginous  mass 
+Fig.  10.    Aphanocapsa  Grevillei   (Hass.)    Rab.  14 
+
+
+Plate  III;  Figures  ii  to  15;  All  Magnified  iooo 
+Diameters. 
+
+Fig-.  11.  Anabccna  gigantea  Wood  .  .  page 
+Fig.  12.  Flos-aqucu    Kiitz.    or  circinalis 
+
+(Rab.)  Kirch  
+
+Fig.  13.    Lyngbya  sp.   ( ?) 
+
+Fig.  14.    Oscillatoria  chalybea  Mertens 
+
+Fig.  15.  "         amphibia  Ag. 
+
+
+PLATE  III. 
+
+
+Plate  IV;  Figures  16  to  19;  Fig.  18  Magnified  500  Diam- 
+eters ;  THE  OTHERS  IOOO  DIAMETERS. 
+
+Fig.  16.    Nostoc  rupestre    Kutz.      .       .       .       page  21 
+
+Fig.  17.     "  "...     «  i 
+
+Fig.  18.        "     sp.  (  ?)  
+
+Fig.  19.         "      comminutum  Kutz. 
+
+
+Plate  V;  Figures  20  to  29;  Figs.  26  and  29  Magnified  500 
+Diameters  ;  all  others  iooo  Diameters. 
+
+Fig.  20.  Ophiocytium  parvulum  (Perty)  A.Br,  page  26 
+Fig.  21.  Tribonema  minus  (Wille)  Haz.  .  26 
+Fig.  22.  Dictyosphcerium  Ehrenbergianum  Nag.  32 
+Fig.  23.  Tetraedron  minimum  (A.  Br.)  Hansg.  "  33 
+Fig.  24.  trigonum    var.  punctatum 
+
+(Kirch.)   " 
+
+Fig.  25.    Tetraedron  trigonum    var.  pentagonum 
+
+(Rab.)  
+
+Fig.  26.    Nephrocytium  Naegelii    A.  Br.  . 
+Fig.  27.  Agardhianum  Nag. 
+
+Fig.  28.  Glocoeystis  vesiculosa  Nag.  .  .  29 
+Fig.  29.    Nephrocytium  Ndgelii    A.  Br.   .       .  33 
+
+
+PLATE  V. 
+
+
+Plate  VI ;  Figures  30  to  49 ;  All  Magnified  iooo 
+Diameters. 
+
+
+Fig.  30 
+
+Fig-  3i 
+Fig.  32 
+
+Fig-  33 
+
+Fig.  34 
+
+Fig.  35 
+Fig.  36 
+Fig.  37 
+Fig-  38 
+Fig.  39 
+
+Fig.  40 
+Fig.  41 
+
+Fig.  42 
+Fig.  43 
+Fig.  44 
+
+Fig.  45 
+Fig.  46 
+Fig.  47 
+
+Fig.  48 
+
+Fig.  49 
+
+
+Pahncllococcus  sp.    ( ?)  .       .       page  34 
+
+Gigas  (Kiitz.). 
+Sccnodcsmus  caudatus    var.  abundans 
+
+Kirch  
+
+Sccnodcsmus   caudatus     var.  ty picas 
+
+Kirch.  _ 
+Sccuodcsmus   caudatus    var.  sctosus 
+Kirch.  ...... 
+
+Scenodesmus  sp.    (  ?) 
+
+caudatus  Corda 
+acutus  Meyen 
+obtusus    Meyen  . 
+"  antcnnatus    Breb.  var. 
+
+rectus    Wolle  .... 
+
+Ankistrodesmus  Braunii  (  Xag.)  (?) 
+"  falcatus     var.  mira- 
+
+bilis  West  
+
+Sccnodcsmus  dimorphus    Kiitz.  . 
+Selenastrum  sp.    (  ?)  . 
+Sccnodcsmus  dimorphus  Kiitz. 
+Ankistrodesmus  falcatus    (Corda)  Ralfs. 
+Selenastrum  acuminatum  Lagerh. 
+Ankistrodesmus  falcatus     var.  acicu- 
+laris    West      .       .       .       .  . 
+Tribonema  bombycinum   (Ag.)  Derbes 
+
+and  Sol.   .       .  . 
+Scenodesmus  sp.   ( ?) 
+
+
+PLATE  VI. 
+
+
+Plate  VII ;  Figures  50  to  56 ;  All  except  Fig.  54a  Magni- 
+fied 1000  Diameters. 
+
+
+Fig.  50. 
+
+Pediastrum  pertusum    var.  clathratum 
+
+A.  Br  
+
+page  38 
+
+Fig.  51. 
+
+Coclastrum  micro  porn  111    Nag.  . 
+
+"  36 
+
+Fig.  52. 
+
+Pediastrum  pertusum   var.  clathratum 
+
+A.  Br  
+
+"  38 
+
+Fig.  53- 
+
+Characium  Naegelii    A.  Br. 
+
+u  39 
+
+Fig.  54- 
+
+Kirchneriella  obesa    (West)  Schmidle. 
+
+Fig.  54a  represents  a  single  cell 
+
+u  34 
+
+Fig.  55- 
+
+Sorastrum  spinulosum  Nag. 
+
+"  37 
+
+Fig.  56. 
+
+Characium  ambiguum    Herm.  . 
+
+39 
+
+Plate  VIII;  Figures  57  to  60;  All  Magnified  500  Diam- 
+eters. 
+
+Fig.  57.    Pediastrum   pertusum     var.  clathra- 
+
+tum     A.  Br  page  38 
+
+Figs.  58,  59.    Pediastrum  Boryanum  (Turp.) 
+
+Meneg.    var.  granulatum    Kiitz.  . 
+
+Fig.  60.    Spirogyra  crassa    Kiitz.     .       .       .  67 
+
+
+PLATE  VIII. 
+
+
+Plate  IX ;  Figures  6i  to  71  ;  Fig.  68  Magnified  500  Diam- 
+eters; ALL  OTHERS  IOOO  DIAMETERS. 
+
+Figs.  61-63.  Pediastrum  Ehrenbergii  A.  Br.  .  page  38 
+Fig.  64.  var. 
+
+truncatum    Braun    .  ... 
+Fig.  65.    Pediastrum  sp.   ( ?)  . 
+Fig.  66.  pertusum  Kiitz. 
+
+Fig.  67.  Boryanum  (Turp.)  Meneg. 
+
+var.  granulatum  Kiitz. 
+Fig.  68.    Pediastrum  pertusum    Kiitz.      .  . 
+Fig.  69.  tetras    Ehrb.  . 
+
+Figs.  70,  71.    "         pertusum  Kiitz. 
+
+
+PLATE  IX. 
+
+
+Plate  X;  Figures  72  to  77. 
+
+
+Fig.  72.    Palmclla  mucosa    Kiitz.     (?)  (250 
+diameters)  ..... 
+
+Fig.  72a.    A  colony  of  the  same,  natural  size  . 
+
+Fig.  73.    Pleurd coccus  vulgaris  Menegh.  (500 
+diameters)       .  . 
+
+Fig.  74.    Volvo. v.     A    young   colony.  (500 
+diameters)       .  . 
+
+Fig.  75.    Volvox  aureus    Ehrb.     (200  diameters) 
+
+Fig.  76.         "     globator    Ehrb.     (125  diam- 
+eters)   
+
+Fig.  77.    Tctraspora  gelatiuosa   (Vauch.)  Desv. 
+
+(250  diameters)  .... 
+
+Fig.  77a.  A  colony  of  the  same,  natural  size 
+
+
+page  30 
+
+a 
+
+39 
+4i 
+
+
+30 
+
+
+Plate  XI ;  Figures  78,  79 ;  Magnified  250  Diameters. 
+
+Fig.  78.    Myxonema  sp.    ( ?)  .       .       .       page  47 
+
+Fig.  79.  "         tenue    (Ag.)    Rab.  . 
+
+
+PLATE  XI. 
+
+
+Plate  XII;  Figures  80  to  82. 
+
+Fig.  Soa.Coleochcete  irregularis    Pringsh.  (?) 
+
+(250  diameters)      .  .       .       page  51 
+
+b.  Herposteiron    Confervicola    Nag.     .  50 
+
+c.  Diatom        .       .       .       .  . 
+
+Fig.  81.    Myxonema  lubricum  var.  varians  Haz. 
+
+(500  diameters)  .  .  .  .  47 
+Fig.  82.    Myxonema  tome    (Ag.)    Rab.  (250 
+
+diameters)  "  " 
+
+
+PLATE  XII. 
+
+
+Plate  XIII;  Figures  83,  84;  Magnified  100  Diameters. 
+
+Figs.  83,  84.    Drapamaldia  plumosa  (Vauch.) 
+
+Ag  page  48 
+
+
+Plate  XIV;  Figures  85  to  89. 
+
+Fig.  85.    Mougeotia  sp.  (?)    (500  diameters)    .       page  68 
+Figs.  86  to  89.    Ulothrix  sp.   (?)     (1000  diam- 
+eters,   except   86a,    which    is  500 
+diameters)  "49 
+
+
+PLATE  XIV. 
+
+
+Plate  XV;  Figures  90  to  95;  Magnified  iooo  Diameters, 
+except  Fig.  91. 
+
+Fig.  90.  Ulothrix.    Young  stage     .       .       .       page  49 
+
+Fig.  91.  "      (low  power) 
+
+Fig.  92.  Microspora  Stagnorum    (Kutz.)    Lag.  50 
+
+Fig.  93.  Ulothrix  tenerrima    Kutz.         .       .  49 
+
+Fig.  94.  sonata     (Web.  and  Mohr) 
+
+Kiitz   " 
+
+Fig-  95-  Ulothrix  sp.    ( ?) 
+
+
+PLATE  XV. 
+
+
+Plate  XVI;  Figures  96  to  98;  Magnified  iooo  Diameters. 
+
+Fig.  96.    (Edogonium  sp.   ( ?)   .       .       .       .       page  52 
+
+Fig.  97.    Bnlbochccte  sp.    ( ?)  . 
+
+Fig.  98.  "     Young  stage 
+
+
+Plate  XYII ;  Figures  99  to  105;  Magnified  iooo 
+Diameters. 
+
+
+Fig.  99.  Cosmarium  Broomei    Thwaites       .       page  64 
+
+Fig.  100.  tumidum    Lund.  . 
+
+Fig.  1 00a.  "              "            "     (?)  . 
+
+Fig.  101.  Pleuroi&nium  sp.   ( ?) 
+
+Fig.  102.  Cosmarium  ornatum    Ralfs      .       .  61 
+
+Fig.  103.  Pleurotccnium  Baculum  Breb. 
+
+Fig.  104.  Euastrum  verrucosum    (Ehrb.)    Ralfs  62 
+
+Fig.  105.  integrum  Wolle 
+
+
+PLATE  XVII. 
+
+
+Plate  XVIII;   Figures  106  to  108;   Fig.  107  Magni 
+1000  Diameters  ;  others  500  Diameters. 
+
+Fig-.  106.    Micrasterias  radio sa    (Ag.)  Ralfs 
+
+var.  punctata    West     .       .       .  page 
+
+Fig.  107.    Micrasterias  Crux-Mclitensis  (Ehrb.) 
+
+Hass.  ...... 
+
+Fig.  108.    Micrasterias  apiculata  Menegh. 
+
+
+PLATE  XVIII. 
+
+
+Plate  XIX;  Figures  109  to  121;  Magnified  iooo 
+Diameters. 
+
+
+Fig.  109.  Cosmarium  granatum    Breb.  . 
+Fig.  no.  crenatum  Ralfs 
+
+Figs,  in,  112.    Cosmarium  sp.   ( ?)  . 
+
+Fig.  113.  Cosmarium  suborbiculare  Wood 
+Fig.  114.  sp.    (?)  .. 
+
+Figs.  115,  116.    Cosmarium  Botrytis  Menegh. 
+
+Fig.  117.  Cosmarium  contraction  Kirch. 
+
+Figs.  118,  119.    Sphccrozosma  aiiformc    Rab.  . 
+
+Fig.  120.  Sphccrososma  spinulosum    Delp.  ( ?) 
+
+Fig.  121.  Xanthidiuni  fasciculatum    var.  sub- 
+al  pi  nu  m    Wolle  . 
+
+
+page  64 
+
+
+65 
+64 
+
+
+PLATE  XIX. 
+
+
+Plate  XX;  Figures  122  to  133;  Magnified  iooo  Diameters. 
+
+Fig.  122.    Staurastrum  defectum    var.  conver- 
+gent   Wolle    .......       page  62 
+
+Figs.  123,  124.    Staurastrum  orbiculare  (Ehrb.) 
+
+Ralfs  " 
+
+Fig.  125.    Staurastrum  defectum    var.  mucro- 
+natum  Ralfs 
+
+Figs.  126,  127.    Staurastrum  mcgacanthum  Lund. 
+
+Fig.  128.    Staurastrum  brevispinum  Breb. 
+
+Fig.  129.  muricatum  Breb. 
+
+Fig.  130.  erasum  Breb. 
+
+Fig.  131.  "  "  "  Show- 
+
+ing multiplication  by  division 
+
+Fig.  132.    Staurastrum  odouatum    Wolle  . 
+
+Fig-  133.  hirsutum    (Ehrb.)    Breb.  " 
+
+
+Plate  XXI;  Figures  134  to  144;  Magnified  iooo 
+Diameters. 
+
+
+Figs.  134,  135.    Staurastrum  Ravenelii   Wood  (?)  page  62 
+
+Fig.  136.    Staurastrum  furcigerum  Breb. 
+
+Figs.  137-142.    Staurastrum    species  undetermined  " 
+
+Fig.  143.    Staurastrum  iotanum  Wolle 
+
+Fig.  144.  eustephanum  Ralfs 
+
+
+PLATE  XXI. 
+
+
+Plate  XXII  ;  Figures  145  to  151;  Figures  147,  149,  151 
+Magnified  500  Diameters  ;  Others  iooo  Diameters. 
+
+Figs.  145,  146.    Roya  obtusa    (Breb.)    West   .       page  60 
+Fig.  147.    Closterium  acuminatum    Kiitz.  . 
+Fig.  148.  lanccolatum  Kiitz. 
+
+Fig.  149.  Cucumis    Ehrb.  (?) 
+
+Fig.  150.  acerosum  (Schrank) 
+
+Ehrb.    (?).    With  fungous  growth 
+Fig.  151.    Closterium    acerosum  (Schrank) 
+
+Ehrb.   (?).     About  to  divide  . 
+
+
+Plate  XXIII;  Figures  152  to  159;  Figs.  152,  157,  158 
+Magnified  500  Diameters  ;   others  iooo  Diameters. 
+
+Fig.  152.    Closterium  Lunula    Ehrb.        .       .       page  60 
+
+
+Fig-  153-  turgidum  Ehrb. 
+
+Fig.  154.  strigosum    Ehrb.  . 
+
+Fig-  155-  costatum  Corda 
+
+Fig.  156.  "         Dclpontei    Klebs    .  "  Y' 
+
+Fig.  157.  prelongum    (Breb.)    Delp.  61 
+
+Fig.  157a.  lineatum  Ehrb. 
+
+Fig.  158.  "  "  "      A  mul- 
+
+
+tiplication by  division 
+Fig.  159.    Closterium  decor  inn  Breb. 
+
+
+Plate  XXIV;  Figures  160  to  165;  Magnified  iooo  Diam- 
+eters, Except  Fig.  161. 
+
+Fig.  160.  Closterium  Jenneri  Ralfs.  .  .  page  61 
+Fig.  161.  areolatum    Wood  (500 
+
+diameters)  
+
+Fig.  162.    Closterium  Diancc    Ehrb.  . 
+
+Figs.  163,  164.    Closterium  parvulum  Xag. 
+
+Fig.    165.    Closterium  mouiliferum    (Bory)    Ehrb.  " 
+
+
+PLATE  XXIV. 
+
+
+Plate  XXV;  Figures  166  to  171  ;  Figs.  168,  169  Magnified 
+500  Diameters;  all  others  iooo  Diameters. 
+
+Fig.  166.  Clostcrium  Leibleinii  Kutz.  .  .  page  61 
+Fig.  167.  var.  curium   West  " 
+
+Fig.  168.  ro  stratum  Ehrb. 
+
+Fig.  169.  var. 
+
+brcviro stratum    West  . 
+Fig.  170.    Clostcrium  subcostatam    Nord.  With 
+
+only  6  costae  
+
+Fig.  171.    Clostcrium  Brcbissonii   Delp.  . 
+
+
+Plate  XXVI;  Figures  172  to  175;  Magnified  iooo 
+Diameters. 
+
+Fig.  172.  Penium  closterioides  Ralfs  .  .  page  60 
+Fig.  173.  polymorphum    Perty  . 
+
+Fig.  174.  "  sp."  (?)  .  ...  -  ■ 
+Fig.  175.  mar  gar  it  ace  um  Breb. 
+
+
+PLATE  XXVI. 
+
+
+Plate  XXVII;  Figures  176  to  180;  Magnified  500 
+Diameters. 
+
+Fig.  176.    Zygnema  leiospermum    D.  By.        .       page  66 
+Figs.  177,  178.    Zygnema  stellium    Ag.    .  . 
+Fig-  179-    Zygnema   stellium     var.  genuinum 
+
+Kirch  
+
+Fig.  180.    Zygnema  cruciatum    (Vauch.)  Ag. 
+
+
+PLATE  XXVII. 
+
+
+Plate  XXVIII;  Figures  181  to  187;  Figs.  182,  186  Mag- 
+nified 250  Diameters;  all  others  500  Diameters. 
+
+Fig.  181.  Spirogyra  varians  (Hass.)  Kiitz.  .  page  67 
+Fig.  182. 
+
+Conjugating  ..... 
+Figs.  183,  184.    Spirogyra  Weberi    Kiitz.  . 
+Fig.  185.    Spirogyra  maxima    (Hass.)  Witt. 
+Fig.  186.  "  "      jugalis    (Dillw.)    Kiitz.  . 
+
+Fig.  187. 
+
+Conjugating  .... 
+
+
+PLATE  XXVIII. 
+
+
+Plate  XXIX;  Figures  188  to  196;  Magnified  250 
+Diameters. 
+
+
+Fig.  188 
+Figs.  1 8c 
+Fig.  191 
+Fig.  192 
+Fig.  193 
+Fig.  194 
+
+Fig-  195 
+Fig.  196 
+
+
+Spirogyra  diibia  Kiitz. 
+190.    Spirogyra  quinina  (Ag.)  Kiitz. 
+Spirogyra  Grevilleana   (Hass.)  Kiitz. 
+majuscula  Kiitz. 
+adnata    Kiitz.  . 
+Spreeiana  Rab. 
+calospora  Cleve 
+decimina    (Mull.)  Kiitz. 
+
+
+page  67 
+
+
+Plate  XXX;  Figures  197  to  206;  Figures  197,  205  Mag- 
+nified 500  Diameters  ;  all  others  250  Diameters. 
+
+Fig.  197.    Spirogyra  communis  (Hass.)   Kiitz.       page  67 
+
+Fig.  198.  "        nuviatilis    Hilse  . 
+
+Fig.  199.  "  "  "      Kept  in 
+
+dishes,  the  cells  elongating  without 
+dividing,  and  dancing  dots  of  oil 
+appearing  in  the  ends 
+
+Fig.  200.    Vaucheria  sessilis  (?)    (Vauch.)  D.  C.  55 
+
+Fig.  201.  "  "  " 
+
+Fig.  202.  Spirogyra  mirabilis  Hass.  .  .  67 
+Fig.  203.  bell  is    (Hass.)    Cleve.  In 
+
+state  of  decomposition  .       .       .  67 
+Fig.  204.    Spirogyra  bellis    (Hass.)  Cleve 
+Fig.  205.  flavescens    (Hass.)  Cleve 
+
+Fig.  206.    Vaucheria.    Showing  sexual  organs  .  55 
+
+
+PLATE  XXX. 
+
+
+Plate  XXXI;  Figures  207  to  209. 
+
+
+Fig.  207.    Char  a  sp.    (?)     Shield  of  antheri- 
+
+dium  (125  diameters)    .       .       .       page  69 
+
+Fig.  208.  Char  a  sp.  (?)  A  portion  of  the 
+plant,  natural  size  . 
+
+Fig.  209.    Chara    sp.     (?).    a,    antheridium ; 
+
+b,  oogonium  (50  diameters)  . 
+
+
+\ 
+
+
+PLATE  XXXI. 
+
+
+Plate  XXXII;  Figures  210  to  216. 
+
+Fig.  210.    Chrodcoccus  cohccrens  (Breb.)    Nag.      page  14 
+Fig.  210a.                                   (1000  diam- 
+eters)   
+
+Fig.  211.  Nostoc  minutissimus  Kiitz.  .  .  21 
+Fig.  21 1  a.  Single 
+
+thread  (1000  diameters) 
+Fig.  212.    Tetraspora    lubrica     (Roth.)  var. 
+
+lacunosa    Chand.  .       .       .       .  30 
+Fig.  212a.  Tetraspora    lubrica     var.  lacunosa 
+
+Chand.    (1000  diameters) 
+Fig.  213.    Sorastrum  spinulositni    Nag.  (1000 
+
+diameters)   37 
+
+Fig.  214.  Glocotrichia  pisuni  (Ag.)  Thur.  .  16 
+Fig.  215.    Hydrodictyon  reticulatum   (L.)   Lag.  38 
+
+a.  Natural  size 
+
+b.  Young  colony,  slightly  magnified 
+
+c.  Full  grown  colony,  highly  magnified 
+Fig.  216.    Micro spora  WittrockU  (Wille)  Lag. 
+
+
+PLATE  XXXII. 
+
+
+Plate  XXXIII;  Figures  217  to  220. 
+
+Fig.  217.    Dra  partial  diet  glomerata    Ag.  (250 
+
+diameters)      .....       page  48 
+
+Fig.  218.    Penium    Nairicula      Breb.  (1000 
+
+diameters)      .       .       .       .       .         "  .  60 
+
+Fig.  219.    Mesotcenium   micrococcus  (Kiitz.) 
+
+Roy  and  Biss.     (1000  diameters)  "  ,  57 
+
+Fig.  220.    Myxonema  attenuatum    Haz.   .       .  47 
+
+
+PLATE  XXXIII. 
+
+
+Plate  XXXIV7;  Figures  221,  222. 
+
+
+Fig.  221.    Chcetophora  incrassata  (Huds.)  Haz. 
+
+Upper  figure,  natural  size ;  lower 
+
+figure,  highly  magnified  .       .       .       page  47 
+
+Fig.  222.    Chcetophora  pisiformis    (Roth.)  Ag. 
+
+a,  colony,  natural  size,    b,  a  single 
+
+filament  .....         "  * 
+
+
+Plate  XXXV ;  Figures  223  to  228 ;  Magnified  500  Diam- 
+eters, except  Fig.  228. 
+
+Fig.  223.  Docidium  Baculum  Breb.  .  .  page  61 
+Fig.  224.    Pleurotcenium   crenulatum  (Ehrb.) 
+
+Rab.       ......  " 
+
+Fig.  225.    Pleurotcenium  Archerii  (Delp.) 
+
+Fig.  226.  Tvabccula    (Ehrb.)    Nag.  " 
+
+Fig.  227.    Enastvum  sp.   ( ?)  .       .       .  63 
+
+Fig.  228.    (Edogonium   cardiacum  (Hass.) 
+
+Wittr.  (?)  "  52 
+
+
+PLATE  XXXV. 
+
+
+Plate  XXXYI ;  Figures  229  to  237;  "Magnified  iooo 
+Diameters. 
+
+Fig.  229.  Euastrum  oblongatum  (Grev.)  Ralfs  page  62 
+Fig.  230.  ampullaceum    Ralfs  . 
+
+Fig.  231.    Staurastrum    crenulatum  (Delp.) 
+
+Nag.    End  view 
+Fig.  231a.  Staurastrum    crenulatum  (Delp.) 
+
+Side  view 
+
+Fig.  232.    Euastrum  elegans.   Kutz.  ... 
+Fig.  233.    Staurastrum  dejectum    Breb.  . 
+Fig.  2^a,  "     End  view  " 
+
+Fig.  234.  Euastrum  N ordstedtianum  Wolle  . 
+Fig.  235.  Staurastrum  margaritaccum  Ehrb.  . 
+Fig.  235a.  "  " 
+
+Side  view  ..... 
+Fig.  236.    Staurastrum  dejectum    Breb.  . 
+Fig.  236a.  "  "  "      Side  view  u 
+
+Fig.  237.  gracile  Ralfs 
+
+Fig.  237a.  Side  view  " 
+
+
+Plate  XXXVII;  Figures  238  to  244;  Magnified  500 
+Diameters,  except  Figs.  243,  244. 
+
+Fig.  238.  Micrastcrias  rotata    (Grev.)    Ralfs       page  63 
+
+Fig.  239.  furcata    (Ag.)    Ralfs  . 
+
+Fig.  240.  Americana    (Ehrb.)  Kiitz. 
+
+Fig.  241.  muricata  Bail. 
+
+Fig.  242.  truncata    (Corda)  Ralfs 
+
+Fig.  243.  Coleochccta  scut  at  a  Breb. 
+
+Fig.  244.  Cosmarium  undulatum    Corda  (500 
+
+diameters)      .       .       .       .       .  64 
+
+
+PLATE  XXXVII. 
+
+
+Plate  XXXVIII ;  Figures  245  to  253 ;  Magnified  iooo 
+Diameters. 
+
+
+Fig.  245.    Cosmarium  ovale    Ralfs  .       .       .       page  64 
+
+Fig.  246.  pyramidatum  Breb. 
+
+Fig.  247.  Meneghinii  Breb. 
+
+Fig.  248.  octhodes  Nord. 
+
+Fig.  249.  perforatum  Lund. 
+
+Fig.  250.  Nagelianum  Breb. 
+
+Fig.  251.  intermedium  Delp. 
+
+Fig.  252.  Portianum  Arch. 
+
+Fig.  253.  orbiculatum  Ralfs 
+
+
+PLATE  XXXVIII. 
+
+
+Plate  XXXIX;  Figures  254  to  260;  Magnified  iooo 
+Diameters. 
+
+Fig.  254.    Cosmarium  tetrophthalmum  (  Kiitz.) 
+
+Breb.      .       .       .       .       .       .       page  64 
+
+Fig.  255.    Cosmarium  galeritunt    Nord.  . 
+
+Fig.  256.  "         Cucurbita    Breb.    .  "  " 
+
+Fig.  257.  pscudobroomci    Wolle  . 
+
+Fig.  257a. 
+
+End  view  . 
+Fig.  258.    Cosmarium  Broomci  Thwaites.  End 
+
+<<  << 
+
+view  ...... 
+
+Fig.  259.    Arthrodcsmus  convergens  (Ehrb.) 
+
+Ralfs  "63 
+
+Fig.  260.    Arthrodcsmus  octocornis  Ehrb. 
+
+
+PLATE  XXXIX. 
+
+
+Plate  XL;  Figures  261  to  266;  Magnified  iooo  Diameters. 
+
+Fig.  261.    Staurastrum  pygmceum    Breb.  Con- 
+jugating        .       .       .       .  page  62 
+Fig.  262.    Xanthidium  antilopceum    (Breb.)  Kiitz. 
+Fig.  263.    Staurastrum  hirsutum    (Ehrb.)  Breb. 
+Fig.  263a. 
+
+Side  view  ..... 
+Fig.  264.    Staurastrum  leptocardium  Nord. 
+Fig.  264a. 
+
+End  view       .  . 
+Fig.  265.    Xanthidium  cristatum    (Breb.)   Ralfs  64 
+Fig.  266.  fasciculatum    (Ehrb.)  Ralfs 
+
+var.  subalpmum    Wolle        .       .  " 
+
+
+PLATE  XL. 
+
+
+Plate  XLI ;  Figures  267  to  270;  Magnified  500  Diameters. 
+
+Fig.  267.  Staurastrum  coronulatum  Wolle  .  page  62 
+Fig.  267a, 
+
+End  view  " 
+
+Fig.  268.    Staurastrum  arctiscon    Ehrb.  . 
+Fig.  268a.  "  "  u  End 
+
+view  ...... 
+
+Fig.  269.  Spirogyra  inflate  (Yanch.)  Rab.  .  67 
+Fig.  270.  bell  is    (Hass.)  Clev. 
+
+
+PLATE  XLI. 
+
+
+270 
+
+
+Plate  XLII ;  Figures  271  to  277;  Magnified  500 
+Dta  m  eters. 
+
+Fig.  271.  Sphccrozosma  pulcrum  Bailey  .  .  page 
+Fig-.  272.  serratum    (Bailey)  Wall. 
+
+a,  Side  view  ;  b,  end  view  ;  c,  view 
+from  above 
+
+Fig.  273.  Hyalothcca  dissiliens  (Sm.)  Breb. 
+Fig.  274.  Cladophora  glomerata  (L.)  Kiitz. 
+Fig.  275.    Desmidium  Swartzii    Ag.     a,  Side 
+
+view ;    b,  end  view ;   c,  side  view 
+
+less  magnified 
+Fig.  276.    Desmidium  cylindricum    Grev.  Side 
+
+view  ...... 
+
+Fig.  276a.  Desmidium  cylindricum    Grev.  End 
+
+view  ...... 
+
+Fig.  277.    S phcerozosma  spinosum    (Delp.)    Wolle  " 
+
+
+PLATE  XLII. 
+
+
+\ 
+
+
+Plate  XLIII ;  Figures  278  to  280. 
+
+Fig.  278.    Bairachospermum  vagum  Ag.          .  page  73 
+
+Fig.  279.    Zygnema  pcctinatum  (Vauch.)  Ag.  "  67 
+
+Fig.  280.    Mougeotia  sp.  (?).  Conjugating        .  "  68 
+
+
+PLATE  XLIII. 
+
+
+Plate  XLW ;  Figures  281  to  291;  Magnified  iooo 
+Diameters. 
+
+
+Fig. 
+
+281. 
+
+Netrium  interruptum    (Breb.)  Liit- 
+
+kem  ...... 
+
+page 
+
+58 
+
+Fig. 
+
+282. 
+
+Netrium  Digitus    (Ehrb.)    Itz.  and 
+
+Roth  
+
+(( 
+
+Fig. 
+
+283. 
+
+Pleurotcenium  nodosum    (Bail.)  Lund. 
+
+(( 
+
+6l 
+
+Fig. 
+
+284. 
+
+Myxonema  nanum    (Dillw.)  Haz. 
+
+a 
+
+47 
+
+Fig. 
+
+285. 
+
+Eudoriiia  clcgans    Ehrb.  . 
+
+a 
+
+4i 
+
+Fig. 
+
+286. 
+
+Pandorina  morum    (Mull.)    Bory  . 
+
+42 
+
+Fig. 
+
+287. 
+
+Full-grown  colony 
+
+a 
+
+Fig.  288. 
+
+Spondylomorum  quaternariiim  Ehrb. 
+
+a 
+
+4i 
+
+Fig. 
+
+289. 
+
+Chlamydomonas  pulvisculus  (Mull.) 
+
+Ehrb  
+
+a 
+
+42 
+
+Fig. 
+
+290. 
+
+Carteria  (Chlamydomonas)  multffilis 
+
+(Fresen.)  (?) 
+
+43 
+
+Fig. 
+
+291. 
+
+Spiridina  temtissima  Kiitz. 
+
+18 
+
+PLATE  XLIV. 
+
+
+Date  Due 
+
+
+Library  Bureau  Cat.  no.  1137 
+
+AUG.  1 939 
+
+
+WELLESLEY  COLLEGE  LIBRARY 
+
+
+3  5002  03281  7111 
+
+
+Science  OH  105  .  Cd  A2  lO 
+Conn,    H.    W.    b.  1859. 
+
+
+The  algae  of   "the  fresh 
+waters  of  Connecticut. 
+
+

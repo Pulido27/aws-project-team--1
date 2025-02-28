@@ -1,0 +1,76 @@
+import time
+import subprocess
+import shutil
+from pathlib import Path
+
+# Número de repeticiones
+NUM_PRUEBAS = 10
+
+# Rutas de los scripts
+script_1 = "/home/ubuntu/python_code/work/gen_index"
+script_2 = "/home/ubuntu/python_code/work/gen_index2"
+
+# Carpetas a limpiar
+carpeta_x = "/home/ubuntu/python_code/work/x"
+carpeta_y = "/home/ubuntu/python_code/work/y"
+
+def ejecutar_script(script_path):
+    """Ejecuta un script y mide su tiempo de ejecución."""
+    inicio = time.perf_counter()
+    subprocess.run(["python3", script_path])
+    fin = time.perf_counter()
+    return (fin - inicio) * 1000  # Retorna el tiempo en milisegundos
+
+def limpiar_carpeta(carpeta):
+    """Elimina todos los archivos y carpetas dentro de una carpeta dada."""
+    ruta = Path(carpeta)
+    if ruta.exists() and ruta.is_dir():
+        for archivo in ruta.iterdir():
+            if archivo.is_file():
+                archivo.unlink()
+            elif archivo.is_dir():
+                shutil.rmtree(archivo)
+
+# Almacenar tiempos
+tiempos_1 = []
+tiempos_2 = []
+
+for i in range(NUM_PRUEBAS):
+    print(f"\n Prueba {i+1}/{NUM_PRUEBAS}")
+
+    # Alternar el orden de ejecución
+    if i % 2 == 0:
+        primero, segundo = script_1, script_2
+    else:
+        primero, segundo = script_2, script_1
+
+    # Ejecutar primer script
+    limpiar_carpeta(carpeta_x)
+    limpiar_carpeta(carpeta_y)
+    tiempo_primero = ejecutar_script(primero)
+    print(f"{primero} ejecutado en {tiempo_primero:.4f} ms")
+
+    # Ejecutar segundo script
+    limpiar_carpeta(carpeta_x)
+    limpiar_carpeta(carpeta_y)
+    tiempo_segundo = ejecutar_script(segundo)
+    print(f"{segundo} ejecutado en {tiempo_segundo:.4f} ms")
+
+    # Guardar tiempos
+    if primero == script_1:
+        tiempos_1.append(tiempo_primero)
+        tiempos_2.append(tiempo_segundo)
+    else:
+        tiempos_1.append(tiempo_segundo)
+        tiempos_2.append(tiempo_primero)
+
+# Calcular promedios
+promedio_1 = sum(tiempos_1) / NUM_PRUEBAS
+promedio_2 = sum(tiempos_2) / NUM_PRUEBAS
+
+limpiar_carpeta(carpeta_x)
+limpiar_carpeta(carpeta_y)
+
+print("\n **Resultados finales:**")
+print(f"Tiempo promedio de {script_1}: {promedio_1:.4f} ms")
+print(f"Tiempo promedio de {script_2}: {promedio_2:.4f} ms")

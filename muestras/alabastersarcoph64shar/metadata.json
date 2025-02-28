@@ -1,0 +1,62 @@
+{
+  "title": "The alabaster sarcophagus of Oimeneptah I., King of Egypt : now in Sir John Soane's Museum, Lincoln's Inn Fields",
+  "creator": [
+    "Sharpe, Samuel, 1799-1881",
+    "Bonomi, Joseph",
+    "Soane Gallery"
+  ],
+  "subject": [
+    "Seti I, King of Egypt",
+    "Tombs",
+    "Sarcophagi",
+    "Alabaster sculpture",
+    "Inscriptions, Egyptian"
+  ],
+  "description": "Title on spine: Sarcophagus of Oimenepthah",
+  "publisher": "London : Longman, Green, Longman, Roberts, and Green",
+  "date": "1864",
+  "language": "eng",
+  "possible-copyright-status": "NOT_IN_COPYRIGHT",
+  "sponsor": "Wellesley College Library",
+  "contributor": "Wellesley College Library",
+  "scanningcenter": "boston",
+  "mediatype": "texts",
+  "call_number": "b12282996",
+  "updatedate": "2008-12-22 18:45:51",
+  "updater": "tricia-gray@archive.org",
+  "identifier": "alabastersarcoph64shar",
+  "uploader": "tricia-gray@archive.org",
+  "addeddate": "2008-12-22 18:45:54",
+  "publicdate": "2008-12-22 18:45:57",
+  "ppi": "300",
+  "camera": "Canon 5D",
+  "operator": "scanner-kelly-powers@archive.org",
+  "scanner": "scribe8.boston.archive.org",
+  "scandate": "20090112125904",
+  "imagecount": "100",
+  "foldoutcount": "19",
+  "identifier-access": "http://www.archive.org/details/alabastersarcoph64shar",
+  "identifier-ark": "ark:/13960/t0vq37869",
+  "scanfactors": "14",
+  "repub_state": "4",
+  "curation": "[curator]andy-seronick@archive.org[/curator][date]20090113222745[/date][state]approved[/state][comment]199[/comment]",
+  "sponsordate": "20090131",
+  "collection": [
+    "Wellesley_College_Library",
+    "blc",
+    "americana"
+  ],
+  "backup_location": "ia903602_22",
+  "openlibrary_edition": "OL23270420M",
+  "openlibrary_work": "OL7449210W",
+  "external-identifier": "urn:oclc:record:1038749515",
+  "filesxml": [
+    "Wed Dec 23 2:57:14 UTC 2020",
+    "Thu Dec 31 20:28:16 UTC 2020"
+  ],
+  "associated-names": "Bonomi, Joseph; Soane Gallery",
+  "ocr_module_version": "0.0.21",
+  "ocr_converted": "abbyy-to-hocr 1.1.37",
+  "page_number_confidence": "51",
+  "page_number_module_version": "1.0.3"
+}
