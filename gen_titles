@@ -3,8 +3,11 @@ import json
 from pathlib import Path
 
 # Convierte la ruta en un objeto Path
-ruta = Path("/home/ubuntu/python_code/muestras")
+ruta = Path("/home/ubuntu/internet_archive")
 titulo = ""
+
+# Usamos el carácter ASCII 31 (Unit Separator) como separador
+separador = chr(31)
 
 with open("Titulos","w",encoding="utf-8") as archivo:
 
@@ -30,7 +33,7 @@ with open("Titulos","w",encoding="utf-8") as archivo:
                 else:
                     autor = ["NULL"]
                 #Se escribe el titulo en el txt y salta la linea
-                archivo.write(titulo + "_" + "_".join(autor) + "\n")
+                archivo.write(titulo + separador + separador.join(autor) + "\n")
 
 
 
