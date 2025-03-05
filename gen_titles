@@ -3,7 +3,7 @@ import json
 from pathlib import Path
 
 # Convierte la ruta en un objeto Path
-ruta = Path("/home/ubuntu/python_code/pruebas")
+ruta = Path("/home/ubuntu/python_code/muestras")
 titulo = ""
 
 with open("Titulos","w",encoding="utf-8") as archivo:

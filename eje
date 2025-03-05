@@ -1,0 +1,149 @@
+import multiprocessing
+import logging
+import struct
+import json
+import time
+import re
+from pathlib import Path
+from gen_dic import indices  # Importar diccionario
+        
+def dividir_carpetas(ruta, num_procesos):
+    carpetas = [carpeta for carpeta in ruta.iterdir() if carpeta.is_dir()]
+    tamaño_bloque = len(carpetas) // num_procesos
+    partes = [carpetas[i:i + tamaño_bloque] for i in range(0, len(carpetas), tamaño_bloque)]
+
+    if len(partes) > num_procesos:
+        partes[-2].extend(partes[-1])
+        partes.pop()
+
+    return partes
+
+def procesar_carpeta(parte,cola,indices):
+    start_time = time.time()  # Iniciar el tiempo para el procesamiento de las carpetas
+    # Buffer para escritura en batch (reduce accesos a disco)
+    buffer = {}
+    for carpeta in parte:
+
+        ruta_json = carpeta / "metadata.json"
+        contenidoJson = ruta_json.read_text(encoding='utf-8')
+        objPy = json.loads(contenidoJson)
+            
+        ruta_txt = carpeta / f"{carpeta.name}_djvu.txt"
+        contenidoTxt = ruta_txt.read_text(encoding='utf-8')   
+        
+        # Estructura SET donde se guardaran las palabras para no realizar procesos extras con las palabras que se repiten
+        palabrasLib = set()
+        # Variable donde se ira creando cada palabra
+        palabra = []
+        # Variable para guardar el titulo
+        titulo = objPy["title"]
+
+        words = re.findall(r'\b[a-zA-Z]+\b', contenidoTxt)
+        for word in words:
+            palabrasLib.add(word.lower())
+
+        pattern = r'[aeiouy]'
+        pattern2 = r'[bcdfghjklmnpqrstvwxz]'
+        for palabra in palabrasLib:
+            if len(palabra) > 3 and len(palabra) < 15:
+                if re.search(pattern, palabra) and re.search(pattern2, palabra):
+                    # Agregar a buffer de escritura
+                    if palabra not in buffer:
+                        buffer[palabra] = []
+                            
+                    # Guardar la posicion del index
+                    buffer[palabra].append(struct.pack("I", indices[titulo]))
+
+
+        if len(buffer) > 100000:
+            cola.put(buffer)
+            buffer = {}
+
+    end_time = time.time()  # Fin del tiempo de procesamiento de las carpetas
+    print(f"Tiempo de procesamiento de carpetas: {end_time- start_time} segundos")
+    cola.put(buffer)
+    cola.put(None)
+    end_time2 = time.time()
+    print(f"Tiempo de mandado a la cola: {end_time2 - end_time} segundos")
+
+    
+
+def escribir_bin(cola,num_procesos):
+    final_time = 0
+    write_time = 0
+    buffers = {}
+    contador = 0
+    while contador < num_procesos or not cola.empty():
+        try:
+            buffer = cola.get(timeout=10)
+
+        except:
+            continue
+        if buffer == None:
+            contador += 1
+        else:
+            start_time = time.time()  # tiempo de dic
+            for clave, valor in buffer.items():
+                if clave in buffers:
+                    buffers[clave].extend(valor)
+                else:
+                    buffers[clave] = valor
+            end_time = time.time()
+            final_time = final_time + (end_time - start_time)
+            
+            if len(buffers) > 1000000:
+                
+                for palabra, data in buffers.items():
+        
+                    palabra_ruta = Path(f"/home/ubuntu/python_code/work/y/{palabra}") 
+                
+                    with palabra_ruta.open("ab") as f:
+                        # Escribir todo el buffer de una vez
+                        content = b''.join(data)
+                        f.write(content)
+                buffers.clear()
+
+    print(f"Tiempo de procesamiento de diccionarios: {final_time} segundos")
+    
+    start_time = time.time()  # Fin del tiempo de procesamiento de diccionarios
+    for palabra, data in buffers.items():
+            
+        palabra_ruta = Path(f"/home/ubuntu/python_code/work/y/{palabra}") 
+                    
+        with palabra_ruta.open("ab") as f:
+            # Escribir todo el buffer de una vez
+            content = b''.join(data)
+            f.write(content)
+
+    end_time = time.time()  # Fin del tiempo de escritura
+    write_time = write_time + (end_time - start_time)
+    print(f"Tiempo de procesamiento de escritura: {write_time} segundos")
+
+
+if __name__ == "__main__":
+    cola = multiprocessing.Queue()
+
+    ruta = Path("/home/ubuntu/python_code/work/muestras")
+        
+    # Crear y lanzar los procesos
+    num_procesos = 11
+    partes_carpetas = dividir_carpetas(ruta,num_procesos)   
+
+    procesos = []
+    for parte in partes_carpetas:
+        p = multiprocessing.Process(target=procesar_carpeta, args=(parte, cola, indices))
+        procesos.append(p)
+        p.start()
+
+    p2 = multiprocessing.Process(target=escribir_bin, args=(cola,num_procesos))
+    p2.start()
+
+    # Esperar a que todos los procesos terminen
+    for p in procesos:
+        p.join()
+        
+    p2.join()
+    
+    #factorizar en funciones
+    
+    

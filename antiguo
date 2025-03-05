@@ -1,10 +1,10 @@
 import multiprocessing
-import logging
 import json
 import struct
+import time
 from pathlib import Path
 from gen_dic import indices  # Importar diccionario
-        
+
 def dividir_carpetas(ruta, num_procesos):
     carpetas = [carpeta for carpeta in ruta.iterdir() if carpeta.is_dir()]
     tamaño_bloque = len(carpetas) // num_procesos
@@ -16,78 +16,61 @@ def dividir_carpetas(ruta, num_procesos):
 
     return partes
 
-def procesar_carpeta(parte,lock,indices):
-    # Buffer para escritura en batch (reduce accesos a disco)
+def procesar_carpeta(parte, lock, indices):
+    start_time = time.time()  # Iniciar el tiempo para el procesamiento de las carpetas
     buffers = {}
     for carpeta in parte:
-
         ruta_json = carpeta / "metadata.json"
         contenidoJson = ruta_json.read_text(encoding='utf-8')
         objPy = json.loads(contenidoJson)
-            
+
         ruta_txt = carpeta / f"{carpeta.name}_djvu.txt"
         contenidoTxt = ruta_txt.read_text(encoding='utf-8')   
-        
-        # Estructura SET donde se guardaran las palabras para no realizar procesos extras con las palabras que se repiten
+
         palabrasLib = set()
-        # Variable donde se ira creando cada palabra
         palabra = []
-        # Variable para guardar el titulo
         titulo = objPy["title"]
 
         for letra in contenidoTxt:
-                
-            # Reviso que sea una palabra por que contiene caracteres del alfabeto ingles
             if letra.isalpha():
                 palabra.append(letra)
-            # Cuando lo que haya no sea una letra significa que la palabra habra acabado (Se agreggo la condicion de palabra != "" para asegurar que exista una palabra al ser agregado)
             elif palabra:
                 palabra_str = "".join(palabra).lower() 
                 palabrasLib.add(palabra_str)
                 palabra.clear()
-            
+        
         for palabra in palabrasLib:
-            # Verificar si la plabra es valida
             if len(palabra) > 3 and len(palabra) < 15:
-
-                # Agregar a buffer de escritura
                 if palabra not in buffers:
                     buffers[palabra] = []
-                    
-                # Guardar la posicion del index
                 buffers[palabra].append(struct.pack("I", indices[titulo]))
 
         if len(buffers) > 1000000:
             for palabra, data in buffers.items():
-        
-                palabra_ruta = Path(f"/home/ubuntu/python_code/y/{palabra}")
-                
+                palabra_ruta = Path(f"/home/ubuntu/python_code/work/y/{palabra}")
                 with lock:
                     with palabra_ruta.open("ab") as f:
-                        # Escribir todo el buffer de una vez
                         f.writelines(data)
-            
             buffers.clear()
-
+    end_time = time.time()  # Fin del tiempo de procesamiento de las carpetas
+    print(f"Tiempo de procesamiento de carpetas: {end_time- start_time} segundos")
+    
+    start_time = time.time()
+    
     for palabra, data in buffers.items():
-        
-        palabra_ruta = Path(f"/home/ubuntu/python_code/y/{palabra}")
-                
+        palabra_ruta = Path(f"/home/ubuntu/python_code/work/y/{palabra}")
         with lock:
             with palabra_ruta.open("ab") as f:
-                # Escribir todo el buffer de una vez
                 f.writelines(data)
+    end_time = time.time()  # Fin del tiempo de escritura
+    print(f"Tiempo de escritura: {end_time- start_time} segundos")
 
-
-
-if __name__ == "__main__":
+    
+def main():
     lock = multiprocessing.Lock()
-
-    ruta = Path("/home/ubuntu/internet_archive")   
-        
-    # Crear y lanzar los procesos
-    num_procesos = 2 
-    partes_carpetas = dividir_carpetas(ruta,num_procesos)   
+    ruta = Path("/home/ubuntu/python_code/work/muestras")   
+    num_procesos = 10 
+    partes_carpetas = dividir_carpetas(ruta, num_procesos)   
 
     procesos = []
     for parte in partes_carpetas:
@@ -95,7 +78,9 @@ if __name__ == "__main__":
         procesos.append(p)
         p.start()
 
-    # Esperar a que todos los procesos terminen
     for p in procesos:
         p.join()
-        
+
+
+if __name__ == "__main__":
+    main()

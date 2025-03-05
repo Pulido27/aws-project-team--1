@@ -18,23 +18,6 @@ def dividir_carpetas(ruta, num_procesos):
 
     return partes
 
-def dividir_diccionario(diccionario, cola, num_particiones):
-    # Convertimos las claves a una lista
-    claves = list(diccionario.keys())
-    longitud = len(claves)
-    
-    # Calculamos el tamaño de cada partición
-    tamaño_particion = longitud // num_particiones
-    resto = longitud % num_particiones
-
-    inicio = 0
-
-    for i in range(num_particiones):
-        fin = inicio + tamaño_particion + (1 if i < resto else 0)
-        particion = {clave: diccionario[clave] for clave in claves[inicio:fin]}
-        cola.put(particion)
-        inicio = fin
-
 def procesar_carpetas(parte,cola1,indices):
     # Buffer para escritura en batch (reduce accesos a disco)
     buffer = {}
@@ -47,7 +30,7 @@ def procesar_carpetas(parte,cola1,indices):
         ruta_txt = carpeta / f"{carpeta.name}_djvu.txt"
         contenidoTxt = ruta_txt.read_text(encoding='utf-8')   
         
-        # Estructura SET donde se guardaran las palabras para no realizar procesos_carp extras con las palabras que se repiten
+        # Estructura SET donde se guardaran las palabras para no realizar procesos extras con las palabras que se repiten
         palabrasLib = set()
         # Variable donde se ira creando cada palabra
         palabra = []
@@ -68,20 +51,19 @@ def procesar_carpetas(parte,cola1,indices):
                 # Guardar la posicion del index
                 buffer[palabra].append(struct.pack("I", indices[titulo]))
 
-        if len(buffer) > 100000:
+
+        if len(buffer) > 500000:
             cola1.put(buffer)
             buffer = {}
 
-    if buffer:
-        cola1.put(buffer)  # Enviar el buffer final si queda algo
-    cola1.put(None)       # Notificar fin del proceso
-
+    cola1.put(buffer)
+    cola1.put(None)
     
 
-def fusionar_dic(cola1,cola2,num_procesos_carpeta,num_procesos_escribir):
+def escribir_bin(cola1,num_procesos):
     buffers = {}
     contador = 0
-    while contador < num_procesos_carpeta or not cola1.empty():
+    while contador < num_procesos or not cola1.empty():
         try:
             buffer = cola1.get(timeout=10)
 
@@ -97,67 +79,47 @@ def fusionar_dic(cola1,cola2,num_procesos_carpeta,num_procesos_escribir):
                     buffers[clave] = valor
         
             if len(buffers) > 1000000:
-                dividir_diccionario(buffers,cola2,num_procesos_escribir)
-                buffers = {}
-    
-    dividir_diccionario(buffers,cola2,num_procesos_escribir)
-    
-    for _ in range(num_procesos_escribir):     
-        cola2.put(None)
-    
-def escribir_bin(cola2):
-    flag = True
-    while flag :
-        try:
-            buffer = cola2.get(timeout=10)
-
-        except:
-            continue
-        if buffer == None:
-            flag = None
-        else:
-            for palabra, data in buffer.items():
-            
-                palabra_ruta = Path(f"/home/ubuntu/python_code/work/x/{palabra}") 
-                        
-                with palabra_ruta.open("ab") as f:
-                    # Escribir todo el buffer de una vez
-                    bin_info = b''.join(data)
-                    f.write(bin_info)
+                for palabra, data in buffers.items():
         
+                    palabra_ruta = Path(f"/home/ubuntu/python_code/work/y/{palabra}") 
+                
+                    with palabra_ruta.open("ab") as f:
+                        # Escribir todo el buffer de una vez
+                        bin_info = b''.join(data)
+                        f.write(bin_info)
+                buffers.clear()
+   
+    for palabra, data in buffers.items():
+            
+        palabra_ruta = Path(f"/home/ubuntu/python_code/work/y/{palabra}") 
+                    
+        with palabra_ruta.open("ab") as f:
+            # Escribir todo el buffer de una vez
+            bin_info = b''.join(data)
+            f.write(bin_info)
 
 if __name__ == "__main__":
     cola1 = multiprocessing.Queue()
     cola2 = multiprocessing.Queue()
+    
 
     ruta = Path("/home/ubuntu/python_code/work/muestras") 
         
-    # Crear y lanzar los procesos_carp
-    num_procesos_carpeta = 5
-    partes_carpetas = dividir_carpetas(ruta,num_procesos_carpeta)
-    num_procesos_escribir = 5   
+    # Crear y lanzar los procesos
+    num_procesos = 11
+    partes_carpetas = dividir_carpetas(ruta,num_procesos)   
 
-    procesos_carp = []
+    procesos = []
     for parte in partes_carpetas:
         p = multiprocessing.Process(target=procesar_carpetas, args=(parte, cola1, indices))
-        procesos_carp.append(p)
+        procesos.append(p)
         p.start()
 
-    p2 = multiprocessing.Process(target=fusionar_dic, args=(cola1,cola2,num_procesos_carpeta,num_procesos_escribir))
+    p2 = multiprocessing.Process(target=escribir_bin, args=(cola1,num_procesos))
     p2.start()
 
-    procesos_escribir = []
-    for p in range(num_procesos_escribir):
-        p = multiprocessing.Process(target=escribir_bin, args=(cola2,))
-        procesos_escribir.append(p)
-        p.start()
-    
-    # Esperar a que todos los procesos_carp terminen
-    for p in procesos_carp:
-        p.join()
-        
-    # Esperar a que todos los procesos_carp terminen
-    for p in procesos_escribir:
+    # Esperar a que todos los procesos terminen
+    for p in procesos:
         p.join()
         
     p2.join()
