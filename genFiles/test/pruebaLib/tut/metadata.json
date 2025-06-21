@@ -1,0 +1,68 @@
+{
+    "language": "eng",
+    "scanningcenter": "miami",
+    "sponsor": "Miami Digital Library Consortium",
+    "contributor": "University of Miami Libraries",
+    "date": "1918",
+    "subject": [
+      "Dyslexic Poet, Urban Chaos, Abstract Literature",
+      "Nameless City, Erratic Sun"
+    ],
+    "title": "Erratic Sun: A Chaotic Portrait of a Nameless City",
+    "creator": [
+      "Dyslexic Poet",
+      "Urban Chronicler"
+    ],
+    "lccn": "33005566",
+    "collection": [
+      "Miami_Digital_Library",
+      "experimental_poetry",
+      "urban_expressions"
+    ],
+    "shiptracking": "ST003456",
+    "publisher": "Miami : Abstract Press",
+    "description": [
+      "A poetic manuscript featuring unorthodox orthographic styles.",
+      "Intentional distortions and experimental typography.",
+      "Reflects the chaotic beauty of urban decay and abstract expression."
+    ],
+    "call_number": "ABS-1918",
+    "mediatype": "texts",
+    "repub_state": "2",
+    "page-progression": "lr",
+    "publicdate": "2018-09-10 08:30:00",
+    "updatedate": "2018-09-10 09:45:00",
+    "updater": "archive.team@miamilibrary.org",
+    "identifier": "erraticsun1918chaos",
+    "uploader": "archive.team@miamilibrary.org",
+    "addeddate": "2018-09-10 09:50:00",
+    "scanner": "scribe3.miami.archive.org",
+    "repub_seconds": "310",
+    "ppi": "400",
+    "camera": "Sony Alpha A7",
+    "operator": "tech.miami@miamilibrary.org",
+    "scandate": "20180910083000",
+    "republisher": "republisher.sara@miamilibrary.org",
+    "imagecount": "205",
+    "foldoutcount": "0",
+    "identifier-access": "http://archive.org/details/erraticsun1918chaos",
+    "identifier-ark": "ark:/13960/def45678c",
+    "bookplateleaf": "0002",
+    "scanfee": "105",
+    "sponsordate": "20180915",
+    "backup_location": "miami_archive_1918",
+    "external-identifier": "urn:oclc:record:1122334455",
+    "oclc-id": [
+      "3344556",
+      "665544332"
+    ],
+    "references": "Urban Chronicler, p. 50-52",
+    "associated-names": "Urban Chronicler",
+    "republisher_operator": "republisher.sara@miamilibrary.org",
+    "republisher_date": "20180910094500",
+    "ocr_module_version": "0.0.28",
+    "ocr_converted": "abbyy-to-hocr 1.1.50",
+    "page_number_confidence": "0",
+    "page_number_module_version": "1.0.2"
+  }
+  

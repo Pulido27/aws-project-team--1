@@ -1,0 +1,68 @@
+{
+    "language": "eng",
+    "scanningcenter": "chicago",
+    "sponsor": "Chicago Public Library Digital Collections",
+    "contributor": "University of Chicago Library",
+    "date": "1912",
+    "subject": [
+      "Chronicler, Unknown, 1850-?",
+      "Kingdom Legends, Chaotic Literature"
+    ],
+    "title": "Disordered Chronicles: A Nameless Prince's Journey in a Chaotic Kingdom",
+    "creator": [
+      "Anonymous Scribe",
+      "Erratic Narrator"
+    ],
+    "lccn": "11004567",
+    "collection": [
+      "Chicago_Public_Library",
+      "erratic_texts",
+      "digital_archives"
+    ],
+    "shiptracking": "ST001234",
+    "publisher": "Chicago : Errata Press",
+    "description": [
+      "Manuscript featuring intentional orthographic errors and disjointed narrative.",
+      "Includes typographical anomalies and unique punctuation usage.",
+      "Documentary representation of a mythical kingdom rendered in chaotic style."
+    ],
+    "call_number": "ERR-CHIC-1912",
+    "mediatype": "texts",
+    "repub_state": "4",
+    "page-progression": "lr",
+    "publicdate": "2014-05-21 14:20:00",
+    "updatedate": "2014-05-21 15:30:00",
+    "updater": "digital.team@chicagolibrary.org",
+    "identifier": "disorderedchron1912anon",
+    "uploader": "digital.team@chicagolibrary.org",
+    "addeddate": "2014-05-21 15:35:00",
+    "scanner": "scribe1.chicago.archive.org",
+    "repub_seconds": "300",
+    "ppi": "350",
+    "camera": "Canon EOS Rebel T6",
+    "operator": "tech.support@chicagolibrary.org",
+    "scandate": "20140521142000",
+    "republisher": "editor.alex@chicagolibrary.org",
+    "imagecount": "180",
+    "foldoutcount": "0",
+    "identifier-access": "http://archive.org/details/disorderedchron1912anon",
+    "identifier-ark": "ark:/13960/xyz12345a",
+    "bookplateleaf": "0001",
+    "scanfee": "85",
+    "sponsordate": "20140525",
+    "backup_location": "chicago_archive_1912",
+    "external-identifier": "urn:oclc:record:1234567890",
+    "oclc-id": [
+      "1234567",
+      "7654321"
+    ],
+    "references": "Anonymous Scribe, p. 10-12",
+    "associated-names": "Anonymous Scribe",
+    "republisher_operator": "editor.alex@chicagolibrary.org",
+    "republisher_date": "20140521153000",
+    "ocr_module_version": "0.0.25",
+    "ocr_converted": "abbyy-to-hocr 1.2.0",
+    "page_number_confidence": "1",
+    "page_number_module_version": "1.0.4"
+  }
+  

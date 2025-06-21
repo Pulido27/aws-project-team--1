@@ -1,0 +1,68 @@
+{
+    "language": "eng",
+    "scanningcenter": "losangeles",
+    "sponsor": "Los Angeles Public Library Digital Archives",
+    "contributor": "UCLA Library",
+    "date": "1920",
+    "subject": [
+      "Surreal Narrative, Distorted Reality",
+      "Urban Legends, Chaotic Literature"
+    ],
+    "title": "Labyrinth of Distorted Dreams: A Chaotic Narrative of Urban Illusions",
+    "creator": [
+      "Eccentric Author",
+      "Mystery Scribe"
+    ],
+    "lccn": "22003344",
+    "collection": [
+      "LAPublicLibrary",
+      "experimental_texts",
+      "urban_legends"
+    ],
+    "shiptracking": "ST002345",
+    "publisher": "Los Angeles : Paradox Press",
+    "description": [
+      "An experimental manuscript showcasing surreal narrative techniques.",
+      "Features intentional orthographic errors and abstract punctuation.",
+      "Explores themes of urban chaos and fragmented memory."
+    ],
+    "call_number": "PARADOX-1920",
+    "mediatype": "texts",
+    "repub_state": "3",
+    "page-progression": "lr",
+    "publicdate": "2016-07-15 12:45:30",
+    "updatedate": "2016-07-15 13:50:00",
+    "updater": "digital.archives@lapl.org",
+    "identifier": "labyrinth1920distort",
+    "uploader": "digital.archives@lapl.org",
+    "addeddate": "2016-07-15 13:55:00",
+    "scanner": "scribe2.la.archive.org",
+    "repub_seconds": "290",
+    "ppi": "375",
+    "camera": "Canon EOS 80D",
+    "operator": "tech.support@lapl.org",
+    "scandate": "20160715124530",
+    "republisher": "republisher.jane@lapl.org",
+    "imagecount": "195",
+    "foldoutcount": "0",
+    "identifier-access": "http://archive.org/details/labyrinth1920distort",
+    "identifier-ark": "ark:/13960/abc67890b",
+    "bookplateleaf": "0003",
+    "scanfee": "95",
+    "sponsordate": "20160720",
+    "backup_location": "la_archive_1920",
+    "external-identifier": "urn:oclc:record:0987654321",
+    "oclc-id": [
+      "2233445",
+      "554433221"
+    ],
+    "references": "Mystery Scribe, p. 35-37",
+    "associated-names": "Mystery Scribe",
+    "republisher_operator": "republisher.jane@lapl.org",
+    "republisher_date": "20160715135000",
+    "ocr_module_version": "0.0.30",
+    "ocr_converted": "abbyy-to-hocr 1.3.1",
+    "page_number_confidence": "1",
+    "page_number_module_version": "1.0.7"
+  }
+  
