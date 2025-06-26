@@ -1,5 +1,5 @@
 import pytest
-from bookSearcher.test.recurPar2 import bookSearch
+from bookSearcher.test.recurPar_Prueba import bookSearch
 
 def test_OR():
     expected = ["Disordered Chronicles: A Nameless Prince's Journey in a Chaotic Kingdom", 'Labyrinth of Distorted Dreams: A Chaotic Narrative of Urban Illusions']

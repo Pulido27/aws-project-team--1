@@ -1,7 +1,7 @@
 from pyparsing import Word, alphas, infixNotation, opAssoc, CaselessKeyword
+from pathlib import Path
 import logging
 import struct
-from pathlib import Path
 
 #Funcion para extraer la informacion de los archivos de palabras .bin
 def extraer_indices_binarios(palabra, carpeta_lib):
@@ -51,7 +51,7 @@ def bookSearch(string):
     #aplicar funcion recursiva para procesar la lista
     bin_pos = evaluate_ast(tree)
      
-    with open("Titulos", "r") as fin:
+    with open(Path(__file__).parent / "Titulos", "r") as fin:
         for bloque in bin_pos:
             # desempaquetar offset (little-endian unsigned int)
             offset = struct.unpack('<I', bloque)[0]
@@ -90,4 +90,4 @@ def evaluate_ast(node):
         
         
 #aplicacion
-bookSearch("blue AND brown")
+#bookSearch("blue AND brown")

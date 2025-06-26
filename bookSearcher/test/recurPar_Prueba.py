@@ -86,4 +86,3 @@ def evaluate_ast(node):
     else:
         return list(L | R)
         
-print(bookSearch("todo"))
