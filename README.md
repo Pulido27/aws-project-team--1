@@ -42,3 +42,24 @@ Pruebas unitarias desarrolladas con pytest para verificar la lógica del motor d
 
 main.py:
 El archivo main.py permite ejecutar búsquedas directamente desde la consola.
+
+----------------------------------------------------
+
+Peticiones Web con FastAPI:
+
+El sistema realiza consultas a través de peticiones HTTP usando FastAPI.
+
+Archivos:
+app.py: define el endpoint /search que recibe consultas en formato JSON y devuelve los resultados.
+
+cliente.py: script que actúa como cliente interactivo para enviar consultas al servidor FastAPI.
+
+- Activa el entorno virtual:
+source venv/bin/activate
+
+- Ejecutar el servidor:
+Desde la raíz del proyecto, para iniciar el servidor en localhost usa:
+uvicorn app:app --host 127.0.0.1 --port 8000
+
+Y luego, en otra terminal correr el cliente:
+python cliente.py

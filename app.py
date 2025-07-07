@@ -1,9 +1,9 @@
-# app.py
 from fastapi import FastAPI, HTTPException
 from pydantic import BaseModel
 from bookSearcher import bookSearch
 
- 
+class Query(BaseModel):
+    query: str
 
 app = FastAPI()
 
@@ -18,4 +18,3 @@ async def search(q: Query):
         "count": len(resultados),
         "books": resultados
     }
-
