@@ -1,7 +1,7 @@
 import requests
 
 def buscar_libros():
-    url = "http://localhost:8000/search"
+    url = "http://localhost:5000/search"
 
     texto = input("¿Qué deseas buscar?: ").strip()
 

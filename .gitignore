@@ -3,4 +3,5 @@ x
 y
 Titulos
 _pycache_
-_pytest_cache
+.pytest_cache
+.venv
