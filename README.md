@@ -1,65 +1,134 @@
-📚 Buscador de Palabras en Libros
-Aplicación para buscar una palabra o conjunto de palabras y descubrir en qué libros aparecen. Ideal para investigadores, lectores curiosos o cualquier persona que necesite rastrear términos específicos en una colección de textos.
+# 📚 BookSearcher
 
-📁 Estructura del Proyecto
-El proyecto está dividido en dos módulos principales:
+&#x20;
 
-genfiles/: Generación de archivos binarios optimizados para la búsqueda.
+Una aplicación para buscar palabras o frases en una colección de libros, mostrando en qué títulos aparecen y en qué posición. Ideal para investigadores, lectores curiosos y cualquier persona que necesite rastrear términos específicos en textos.
 
-bookSearcher/: Lógica del motor de búsqueda.
+---
 
-⚙️ genfiles – Generador de Índices
-Este módulo se encarga de preparar los datos para permitir búsquedas rápidas y eficientes.
+## 📑 Tabla de contenidos
 
-Pasos para generar los archivos:
-gen_titles.py
-Genera el archivo Titulos.txt con los títulos de los libros.
+- [Características](#características)
+- [Estructura del proyecto](#estructura-del-proyecto)
+- [Instalación](#instalación)
+- [Uso](#uso)
+  - [Generación de índices (](#generación-de-índices-genfiles)[`genfiles`](#generación-de-índices-genfiles)[)](#generación-de-índices-genfiles)
+  - [Búsqueda local (](#búsqueda-local-booksearcher)[`bookSearcher`](#búsqueda-local-booksearcher)[)](#búsqueda-local-booksearcher)
+  - [Peticiones web (FastAPI)](#peticiones-web-fastapi)
+- [Pruebas](#pruebas)
 
-gen_index.py
-Usa Titulos.txt para generar archivos .bin en la carpeta files_bin/, que contienen los índices de palabras.
+---
 
-gen_posBin.py
-Crea el archivo pos.bin, que almacena las posiciones de inicio de cada línea en Titulos.txt para una recuperación rápida.
+## ✨ Características
 
-Nota:
-El script gen_dic.py es una dependencia interna de gen_index.py y no necesita ejecutarse manualmente. Su función es mapear los títulos con sus posiciones en el archivo.
+- Búsqueda exacta y por conjunto de palabras
+- Índices binarios precomputados para alta velocidad
+- Soporte de búsqueda tanto en consola como vía API HTTP
+- Estructura modular que separa generación de índices y motor de búsqueda
 
-🔍 bookSearcher – Motor de Búsqueda
-Este módulo permite realizar búsquedas sobre los archivos generados.
+---
 
-Uso principal
-recurPar.py
-Ejecuta este script para buscar palabras y obtener una lista de los libros donde aparecen.
+## 🗂️ Estructura del proyecto
 
-Pruebas
-La carpeta test/ contiene pruebas para validar el sistema:
+```
+booksearcher/
+├── genfiles/            # Scripts para generar índices binarios
+│   ├── gen_titles.py    # Genera Titulos.txt con los títulos de los libros
+    ├── gen_dic.py       # Dependencia interna de gen_index.py
+│   ├── gen_index.py     # Crea archivos .bin con índices de palabras
+│   ├── gen_posBin.py    # Genera pos.bin con offsets de línea en Titulos.txt
+│   └── test/            # Pruebas unitarias (pytest)
+│
+├── bookSearcher/        # Lógica del motor de búsqueda
+│   ├─── recurPar.py     # Búsqueda recursiva en índices
+│   └─── test/           # Pruebas unitarias (pytest)
+│
+├── cliente.py           # Cliente HTTP para FastAPI
+├── app.py               # Servidor FastAPI (endpoint `/search`)
+├── requirements.txt     # Dependencias del proyecto
+└── README.md
+```
 
-recurPar_Prueba.py
-Versión de prueba de recurPar.py con rutas simplificadas para testeo.
+---
 
-test_libros.py
-Pruebas unitarias desarrolladas con pytest para verificar la lógica del motor de búsqueda.
+## ⚙️ Instalación
 
-main.py:
-El archivo main.py permite ejecutar búsquedas directamente desde la consola.
+1. Clona el repositorio
+   ```bash
+   git clone https://github.com/Pulido27/aws-project-team--1
+   cd booksearcher
+   ```
+2. Crea y activa un entorno virtual
+   ```bash
+   python -m venv venv
+   source venv/bin/activate    # Windows: .\venv\Scripts\activate
+   ```
+3. Instala las dependencias
+   ```bash
+   pip install -r requirements.txt
+   ```
 
-----------------------------------------------------
+---
 
-Peticiones Web con FastAPI:
+## 🚀 Uso
 
-El sistema realiza consultas a través de peticiones HTTP usando FastAPI.
+### Generación de índices (`genfiles`)
 
-Archivos:
-app.py: define el endpoint /search que recibe consultas en formato JSON y devuelve los resultados.
+1. Genera el listado de títulos
+   ```bash
+   python genfiles/gen_titles.py
+   ```
+2. Crea los índices binarios
+   ```bash
+   python genfiles/gen_index.py
+   ```
+3. Calcula posiciones de línea
+   ```bash
+   python genfiles/gen_posBin.py
+   ```
 
-cliente.py: script que actúa como cliente interactivo para enviar consultas al servidor FastAPI.
+> **Nota:** `gen_dic.py` es utilizado internamente por `gen_index.py`.
 
-- Activa el entorno virtual:
-source venv/bin/activate
+---
 
-- Ejecutar el servidor:
-Desde la raíz del proyecto, para iniciar el servidor en localhost usa:
-uvicorn app:app --host 127.0.0.1 --port 8000
+### Búsqueda local (`bookSearcher`)
 
-Y luego, en otra terminal correr el cliente:
-python cliente.py
+Ejecuta la búsqueda desde consola:
+
+```bash
+python bookSearcher/main.py --query "término de búsqueda"
+```
+
+O con el script principal:
+
+```bash
+python bookSearcher/recurPar.py --query "término"
+```
+
+---
+
+### Peticiones web (FastAPI)
+
+1. Activa el entorno virtual (si no está activo).
+2. Inicia el servidor:
+   ```bash
+   uvicorn app:app --host 127.0.0.1 --port 8000
+   ```
+3. En otra terminal, ejecuta el cliente interactivo:
+   ```bash
+   python bookSearcher/cliente.py
+   ```
+
+---
+
+## ✅ Pruebas
+
+Con Pytest:
+
+```bash
+pytest --maxfail=1 --disable-warnings -q
+```
+
+- **bookSearcher\_test**: pruebas para el script de búsqueda con rutas de test.
+- **genFiles\_test**: pruebas unitarias de la lógica del motor.
+
